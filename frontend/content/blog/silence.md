@@ -141,7 +141,7 @@ I used to go straight to the computer - still in my underwear - to continue some
 
 I also post a lot less online. On one hand, the internet got much angrier during the pandemic, and on the other hand, I mellowed out. I don't get the same rush from engaging with internet drama. It was never worth it.
 
-> A strange game. The only winning move is not to play.
+> "A strange game. The only winning move is not to play."
 
 ## Result
 
