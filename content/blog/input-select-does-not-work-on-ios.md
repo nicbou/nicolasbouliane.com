@@ -8,7 +8,6 @@ The recommended method to give a text field focus and select its contents is the
 
 ```
 document.getElementById('myInput').select();
-
 ```
 
 However, this does not work in iOS. The correct way to do it is to use `setSelectionRange` on an already focused input.
@@ -17,7 +16,6 @@ However, this does not work in iOS. The correct way to do it is to use `setSelec
 var input = document.getElementById('myInput');
 input.focus();
 input.setSelectionRange(0,99999);
-
 ```
 
 `setSelectionRange` will not work on iOS if the element doesn't have focus. Also be advised that anything revolving around giving text inputs focus [is highly unreliable](http://stackoverflow.com/questions/6287478/mobile-safari-autofocus-text-field) on mobile Safari.

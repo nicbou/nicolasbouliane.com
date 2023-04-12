@@ -8,7 +8,6 @@ If you need easy_install on your Ubuntu or Linux Mint machine, use the following
 
 ```
 sudo apt-get install python-setuptools python-dev build-essential
-
 ```
 
 I strongly suggest that you use `pip` instead, but I'm leaving this here for those it might help.

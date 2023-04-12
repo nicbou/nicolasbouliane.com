@@ -10,7 +10,6 @@ Sometimes, you will need only the date part from a `Date` object. In order to tr
 //Create the date object
 myDate = new Date(); //Current date and time
 myDate.setHours(0,0,0,0); //Current date at midnight
-
 ```
 
 If you deal with time a lot, you might want to use [moment.js](https://momentjs.com/).

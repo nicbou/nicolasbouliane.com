@@ -10,7 +10,6 @@ All you need to do is to set the following CSS attribute on the `body` element:
 
 ```
 -webkit-text-size-adjust: none;
-
 ```
 
 This will prevent webkit browsers (Safari included) from messing with your font sizes.

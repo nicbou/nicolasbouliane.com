@@ -12,7 +12,6 @@ First, find the commit you need. In this case, we leaked our database password i
 
 ```
 git rebase --interactive bbc643cd^
-
 ```
 
 In the editor that will open, find your commit (`bbc643cd` in this example) and replace 'pick' with 'edit' on that line. Save the file. You can now make changes to that commit, and add them with `git add` as usual.
@@ -21,21 +20,18 @@ Once you've taken care of your mistakes, amend your changes to the commit we're 
 
 ```
 git commit --amend
-
 ```
 
 then use the following command to return to the previous head commit:
 
 ```
 git rebase --continue
-
 ```
 
 If you try to push your changes, your remote server will probably protest since you are rewriting history. In our case, we DO want to rewrite history. We don't want any traces of our mistakes left in any commit. Therefore, we force the push:
 
 ```
 git push -f
-
 ```
 
 This is absolutely not something you want to do often, especially not if you're not alone to use that repository. However, mistakes happen, and it's better to anger a few people now than to deal with a security breach later.

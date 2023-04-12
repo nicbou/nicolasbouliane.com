@@ -62,7 +62,6 @@ class Husky < Dog # A husky is a dog. Also: single inheritance
  print 'a dog' # it doesn't add a line break at the end
  end
 end
-
 ```
 
 You can then use your class like this:
@@ -71,7 +70,6 @@ You can then use your class like this:
 steve = Husky.new('Steve') # Steve the Husky
 steve.say_name() # Parenthesis are optional
 Husky.bark
-
 ```
 
 **Operators**
@@ -87,7 +85,6 @@ list = ['one', 'two', 3, 'four']
 list[0] # 'one'
 list.length # 4
 list[-1] # 'four'
-
 ```
 
 Associative arrays (we call them hashes) work a bit like in PHP:
@@ -99,7 +96,6 @@ billy = {
  'age' => 12,
 }
 billy['age'] # 12
-
 ```
 
 You can iterate over them in a syntax you might be familiar with:
@@ -112,7 +108,6 @@ end
 for key, value in my_hash
  ...
 end
-
 ```
 
 **If, while and others**

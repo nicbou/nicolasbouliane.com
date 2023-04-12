@@ -22,14 +22,12 @@ ERROR: could not load /Users/xxxxxxx/.../filename.py
 
 Process finished with exit code 0
 Empty test suite.
-
 ```
 
 The solution to this error is simple: delete all `*.pyc` files in your project. You can do this with a simple command:
 
 ```
 find . -name \*.pyc -delete
-
 ```
 
 Your Python code should now run properly.

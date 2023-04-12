@@ -8,7 +8,6 @@ If you are trying to connect to an SQL Server database with the dblib drivers fo
 
 ```
 new PDO('dblib:host='.$host.';dbname='.$database, $this->user, $this->password);
-
 ```
 
 You can also specify the encoding with `charset=UTF-8` or `charset=ISO-8859-1` if necessary.

@@ -10,7 +10,6 @@ In your `head` tag, insert the following meta tag:
 
 ```
 <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
-
 ```
 
 This tag is recognized by all major browsers, including Chrome on Android and Safari on iOS.

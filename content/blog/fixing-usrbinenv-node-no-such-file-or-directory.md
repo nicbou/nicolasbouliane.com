@@ -8,7 +8,6 @@ After a fresh install of npm and bower, you may run into the following error whi
 
 ```
 /usr/bin/env: node: No such file or directory
-
 ```
 
 The fix on Ubuntu is very simple:

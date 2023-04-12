@@ -22,7 +22,6 @@ with open(filename, 'r') as csvfile:
  csv_reader = csv.reader(csvfile, delimiter=',', quotechar='"')
  for row in csv_reader:
  war_grave = dict(zip(ordered_column_names, row))
-
 ```
 
 The resulting data only had one minor problem: the servicenumberexport column values were quoted with single quotes which needed to be removed.
@@ -35,7 +34,6 @@ with open(filename, 'r') as csvfile:
 
  if len(war_grave['servicenumberexport']) and war_grave['servicenumberexport'][0] == "'":
  war_grave['servicenumberexport'] = war_grave['servicenumberexport'][1:-1]
-
 ```
 
 ## Refining the data
@@ -53,14 +51,12 @@ with open(filename, 'r') as csvfile:
  war_grave[field] = datetime(int(raw_date[6:10]), int(raw_date[3:5]), int(raw_date[0:2]))
  else:
  war_grave[field] = None
-
 ```
 
 Likewise, the age column was always numeric or empty, so I converted it to a `SMALLINT` field:
 
 ```
 war_grave['age'] = int(war_grave['age']) if len(war_grave['age']) else None
-
 ```
 
 ## Caveats

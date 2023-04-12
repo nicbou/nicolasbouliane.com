@@ -10,14 +10,12 @@ We already know that you can create an empty file by using `touch`:
 
 ```
 touch myfile.ext
-
 ```
 
 You can also create files with a preset size with the `mkfile` command:
 
 ```
 mkfile -n 2g my2gbfile.ext
-
 ```
 
 That's it! You now have a 2 gigabyte file called my2gbfile.ext in your directory.

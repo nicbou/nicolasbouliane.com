@@ -10,7 +10,6 @@ Chrome conveniently ignores this non-standard property, so you need to use an in
 
 ```
 html * {max-height:1000000px;}
-
 ```
 
 Your fonts should then appear as they should even on Android devices, and the zoom will work properly.

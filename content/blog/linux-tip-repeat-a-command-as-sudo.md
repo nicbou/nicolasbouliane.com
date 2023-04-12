@@ -8,7 +8,6 @@ When you run a command in the terminal, and realize it requires superuser permis
 
 ```
 sudo !!
-
 ```
 
 Here is an example scenario:
@@ -17,7 +16,6 @@ Here is an example scenario:
 apt-get install myapplication
 (permission denied)
 sudo !!
-
 ```
 
 The best part is that you can use this to prefix your command with *anything*. In the example below, I forgot to put `cd` in front of my file path.

@@ -18,7 +18,6 @@ The following packages have unmet dependencies:
  linux-image-generic : Depends: linux-image-4.4.0-112-generic but it is not going to be installed
  Recommends: thermald but it is not going to be installed
 E: Unmet dependencies. Try 'apt-get -f install' with no packages (or specify a solution).
-
 ```
 
 So you type `apt-get -f install`, and that fails too, this time with an error like this one:
@@ -31,7 +30,6 @@ No apport report written because the error message indicates a disk full error
  dpkg-deb: error: subprocess paste was killed by signal (Broken pipe)
 ...
 E: Sub-process /usr/bin/dpkg returned an error code (1)
-
 ```
 
 You do a bit of research and find something about running out of inodes, so you type `df -i`, but you are using under 10% of the inodes on all devices. Another post suggests running `apt-get autoremove`, but that gives you the same error message as before:
@@ -44,7 +42,6 @@ The following packages have unmet dependencies:
  linux-image-generic : Depends: linux-image-4.4.0-112-generic but it is not installed
  Recommends: thermald but it is not installed
 E: Unmet dependencies. Try using -f.
-
 ```
 
 So what's the f\*\*\*ing deal?!
@@ -57,7 +54,6 @@ You might have found [this solution](http://www.mogilowski.net/lang/en-us/2014/0
 
 ```
 Unmet dependencies. Try 'apt-get -f install' with no packages
-
 ```
 
 Well, you were almost there! All you need is to use `dpkg` instead of `apt-get purge`.
@@ -66,7 +62,6 @@ Before you try that, run this command to see which packages will be removed. Thi
 
 ```
 dpkg -l 'linux-*' | sed '/^ii/!d;/'"$(uname -r | sed "s/\(.*\)-\([^0-9]\+\)/\1/")"'/d;s/^[^ ]* [^ ]* \([^ ]*\).*/\1/;/[0-9]/!d'
-
 ```
 
 Make sure that your current kernel version is not in that list. You can see your kernel version by running `uname -a`.
@@ -75,7 +70,6 @@ Once you are sure that you want to delete these kernel files, run this command t
 
 ```
 dpkg -l 'linux-*' | sed '/^ii/!d;/'"$(uname -r | sed "s/\(.*\)-\([^0-9]\+\)/\1/")"'/d;s/^[^ ]* [^ ]* \([^ ]*\).*/\1/;/[0-9]/!d' | xargs dpkg --remove
-
 ```
 
 After that, you can run `apt-get -f install` without problems, then do whatever you wanted to do in the first place. See, Linux isn't that complicated!
@@ -97,7 +91,6 @@ Errors were encountered while processing:
  linux-image-extra-4.4.0-83-generic
  linux-image-extra-4.4.0-87-generic
  linux-image-extra-4.4.0-89-generic
-
 ```
 
 ...don't panic! *Some* of the kernels will likely removed, so you can run `apt-get -f autoremove` to clear up some space, and then you can run the long command above again.

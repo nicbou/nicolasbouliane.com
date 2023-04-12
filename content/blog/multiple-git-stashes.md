@@ -15,7 +15,6 @@ stash@{2}: WIP on master: 142e661 Removed middle state for the search results pa
 stash@{3}: WIP on master: 0e65041 Added spinner to search
 stash@{4}: WIP on master: 723eef5 Put the search query in the search service
 ...
-
 ```
 
 To restore a particular stash, use `git stash apply stash@{0}` and replace `0` with the index of the stash you wish to restore.

@@ -11,7 +11,6 @@ To work around this, you can chain transforms. For instance, the following state
 ```
 transform: translate(0, calc(100% - 10px)); //Does not work in IE
 transform: translate(0, 100%) translate(0, -10px); //Works in IE
-
 ```
 
 It's that simple!

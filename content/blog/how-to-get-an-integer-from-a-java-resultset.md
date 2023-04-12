@@ -13,7 +13,6 @@ Integer myInt = resultSet.getInt("nullable_column"); //Returns 0 even if the val
 if (resultSet.wasNull()) {
  myInt = null;
 }
-
 ```
 
 This way, your `resultSet.getInt(...)` will correctly set null values instead of returning 0.

@@ -13,7 +13,6 @@ var editor = $('.CodeMirror')[0].CodeMirror;
 //You can then use it as you wish
 editor.setValue('lorem ipsum yada yada');
 editor.replaceSelection('this is a test');
-
 ```
 
 In fact, the CodeMirror wrapper element (which has the CodeMirror class) has a CodeMirror attribute which you can use to access the editor's options and methods.

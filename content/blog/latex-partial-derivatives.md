@@ -8,7 +8,6 @@ Partial derivatives is something I always forget how to write when using [Markdo
 
 ```
 \frac{\partial v}{\partial t}
-
 ```
 
 You can omit `\frac` if you don't want a vertical fraction.

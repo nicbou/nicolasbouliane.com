@@ -11,7 +11,6 @@ python manage.py shell
 from south.models import MigrationHistory
 m = MigrationHistory.objects.get(migration="<migration_name>")
 m.delete()
-
 ```
 
 That's it! You can now safely perform your migration again.

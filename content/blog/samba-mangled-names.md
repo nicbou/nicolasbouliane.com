@@ -11,14 +11,12 @@ Open your `smb.conf` file (usually at `/etc/samba/smb.conf`) and add the followi
 ```
 mangle case = no
 mangled names = no
-
 ```
 
 Once this is done, enter the following command in your terminal:
 
 ```
 sudo service samba2 restart
-
 ```
 
 Names are mangled to make them compatible with older operating systems, but this absolutely shouldn't be a problem that you will face at home.

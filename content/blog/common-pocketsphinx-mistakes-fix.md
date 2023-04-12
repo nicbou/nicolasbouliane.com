@@ -14,7 +14,6 @@ On a fresh pocketsphinx install, you might have hit that error while running `po
 
 ```
 ERROR: "acmod.c", line 85: Acoustic model definition is not specified neither with -mdef option nor with -hmm
-
 ```
 
 There is usually a default acoustic model that is specified, as hinted by a contributor [here](https://sourceforge.net/p/cmusphinx/discussion/help/thread/980263ec/). If your computer can't find it, it's probably because you are missing a package.

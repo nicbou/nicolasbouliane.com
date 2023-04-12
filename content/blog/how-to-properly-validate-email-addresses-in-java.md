@@ -15,7 +15,6 @@ public static boolean isValidEmailAddress(String email) {
  }
  return true;
 }
-
 ```
 
 This regex will also match email adresses. However, it's not bulletproof. Emails such as `n@n.n` or `____@--...` would still pass validation.

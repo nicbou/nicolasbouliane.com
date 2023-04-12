@@ -10,7 +10,6 @@ This regex will match email adresses. However, it's not bulletproof. Emails such
 
 ```
 /^([a-z0-9_\.\+-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
-
 ```
 
 If you are using PHP, you can also use `filter_var()` and save yourself some headaches. As illustrated [here](http://codepad.org/Lz5m2S2N), it correctly validates most addresses.

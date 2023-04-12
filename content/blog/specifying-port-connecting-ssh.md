@@ -10,7 +10,6 @@ To specify a custom port when connecting, use the `-p` flag as in the example be
 
 ```
 ssh user@server.com -p 2222
-
 ```
 
 In this example, the client would attempt to connect using port 2222.

@@ -9,7 +9,6 @@ For some reason, downloading packages using `apt-get install` was unusually slow
 ```
 sudo sed -i "s/mirrors.digitalocean/archive\.ubuntu/g" /etc/apt/sources.list
 sudo apt-get update
-
 ```
 
 Downloads are now as fast as they should be.

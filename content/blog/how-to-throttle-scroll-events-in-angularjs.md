@@ -38,7 +38,6 @@ angular.module('hereApp.directive').directive('onScroll', function($timeout) {
  }
  };
 });
-
 ```
 
 The scrollable element should look like this:

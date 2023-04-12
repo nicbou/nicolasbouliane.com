@@ -8,7 +8,6 @@ The `ping` command will usually try pinging a device forever, returning the resp
 
 ```
 ping -c 1 [your ip or hostname] > /dev/null
-
 ```
 
 This command will either return 1 on failure or 0 on success.
@@ -17,7 +16,6 @@ In the example below, we use the `&&` operator to perform an action if and only 
 
 ```
 ping -c 1 homeserver >/dev/null && echo 'Successfully pinged device!'
-
 ```
 
 This can be a great way to monitor the presence of a device on the network for a dead man's switch for example.

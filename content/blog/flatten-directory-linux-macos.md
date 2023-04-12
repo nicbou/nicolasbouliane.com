@@ -8,14 +8,12 @@ If you want to flatten a directory with lots of deeply nested files (for example
 
 ```
 find target/ -mindepth 2 -type f -exec mv -i '{}' target/ ';'
-
 ```
 
 All the files in `target`'s subdirectories will be moved directly under `target`. If multiple files have the same name (`target/hello.txt`, `target/backup/hello.txt`, `target/hello/english/hello.txt`), you will be asked to overwrite them:
 
 ```
 overwrite ./hello.txt? (y/n [n])
-
 ```
 
 The default option is "no", so you can just hold the `Enter` key to say no to all overwrites.

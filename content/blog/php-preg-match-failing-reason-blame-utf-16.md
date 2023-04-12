@@ -13,7 +13,6 @@ All you need to do is to convert your string to UTF-8 before running your regex 
 ```
 $string = mb_convert_encoding($raw_string, 'UTF-8', 'UTF-16');
 $string = preg_replace('/\t+/', "\t", $string); //Replaces multiple tabs with a single tab
-
 ```
 
 It's that simple! The hardest part is to figure out why your seemingly valid string doesn't work properly before you can Google your problem.
