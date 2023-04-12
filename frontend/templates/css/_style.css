@@ -67,7 +67,25 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{di
     --border-radius: 5px;
 }
 
-html, body{scroll-behavior:smooth;font-family: var(--font-family-text);font-size: var(--font-size-m);line-height: var(--line-height);margin:0;padding:0;color: var(--color-text);}
+@media (prefers-color-scheme: dark) {
+    :root{
+        --color-background: #151514;
+        --color-text: #b6b5af;
+        --color-text-light: #6f6e6d;
+        --color-text-strong: #f6f5f1;
+
+        --color-border-light: #252524;
+
+        --color-link:#6c7bac;
+
+        --color-text-inverted: var(--color-background);
+        --color-background-inverted: var(--color-text);
+    }
+
+    pre{background: var(--color-background)!important;color:var(--color-text)!important;border:var(--border-light)}
+}
+
+html, body{scroll-behavior:smooth;font-family: var(--font-family-text);font-size: var(--font-size-m);line-height: var(--line-height);margin:0;padding:0;color: var(--color-text);background:var(--color-background)}
 
 header, main{width: min(calc(72ch + 2 * var(--page-borders)), 100%);padding: 0 var(--page-borders);box-sizing: border-box;margin:0 auto}
 
@@ -106,7 +124,7 @@ em, i{font-style:italic;}
 a{position:relative;color:var(--color-link);border-bottom:2px solid transparent;text-decoration:none;transition:border 0.2s, top 0.2s;top:0}
     a:hover{border-color:var(--color-link);top:-1px}
 pre {padding: 1em;overflow: auto;box-shadow:var(--box-shadow);border-radius: var(--border-radius);font-family: monospace;font-size: 0.7rem;line-height: var(--line-height-compact);background: var(--color-background-inverted);color: var(--color-text-inverted)}
-code{font-family:monospace;font-size:0.7rem}
+:not(pre) > code{font-family:monospace;font-size:0.7rem;box-decoration-break:clone;background:var(--color-border-light);border-radius:var(--border-radius);padding:0.1em 0.25em}
 blockquote{border-top:var(--border-light);border-bottom:var(--border-light);padding:var(--spacing-text-m) var(--spacing-text-l);color:var(--color-text-strong);font-size:1.2rem;line-height:1.4em;}
     blockquote p{margin:var(--spacing-text-s) 0}
 sup, sub{font-size:var(--font-size-s);vertical-align:baseline;position:relative;line-height:0;white-space:nowrap;top:-0.6em}
