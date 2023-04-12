@@ -6,15 +6,19 @@ date_created: 2022-08-07
 
 Technology's default mode is to constantly call for my attention. Attention is engagement, engagement is profit. Thus a big chunk of the economy devotes itself to grabbing my attention by increasingly coercive means. It took considerable effort to get technology to just *shut the fuck up*.
 
+![Clothespin holding lips shut](/images/illustrations/clothespin-holding-mouth-shut.png)
+
 This is what this post is about; making technology quieter, and building a healthier relationship with it.
 
 ## What's wrong?
 
 I want to use technology on my own terms, for my own ends. I want [calm technology](https://calmtech.com/) that respects the boundaries I set for it. This includes respecting my time, my attention, my privacy and above all my consent. I should be the user, it should be the tool, not the other way around.
 
-> A person's primary task should not be computing, but being human.
+I don't want to get sidetracked by addictive technology when I mean to sit down and do work. I want the computer to go back in its box when I'm done with it - like any other tool - so that I can do other things.
 
-I no longer want to get sidetracked by deliberately addictive technology, not when I meant to sit down and do work. I want the computer to go back in its box when I'm done with it - like any other tool - so that I can do other things.
+> "A person's primary task should not be computing, but being human."
+
+> — Amber Case, [Calm technology](https://calmtech.com/)
 
 ## Silencing technology, bit by bit
 
