@@ -8,7 +8,7 @@ Let's say you have two web apps: **ApplesApp** and **OrangesApp**. They are serv
 
 Both apps have a similarly simple docker-compose.yml:``
 
-```
+```yaml
 # /projects/apples-app/docker-compose.yml
 # /projects/oranges-app/docker-compose.yml
 
@@ -38,7 +38,7 @@ services:
 
 You could bring both web apps under the same docker-compose.yml file, and use a reverse proxy to route the requests to the right containers:
 
-```
+```yaml
 # /projects/apples-and-oranges/docker-compose.yml
 
 version: "3.5"
@@ -93,7 +93,7 @@ We'll call it **FruitPicker**. It will live in its own separate directory. We'll
 
 The **FruitPicker** docker-compose.yml file looks like this:
 
-```
+```yaml
 # /projects/fruitpicker/docker-compose.yml
 
 version: "3.5"
@@ -120,7 +120,7 @@ We will put those files in the FruitPicker codebase, not in ApplesApp or Oranges
 
 I called that file "**docker-compose.apples.yml**".
 
-```
+```yaml
 # /projects/fruitpicker/docker-compose.applesapp.yml
 # /projects/fruitpicker/docker-compose.orangesapp.yml
 
@@ -199,17 +199,17 @@ server {
 
 We must start FruitPicker first. That will create the "fruit-network" network.
 
-```
+```bash
 docker-compose -f /projects/fruitpicker/docker-compose.yml up --build -d
 ```
 
 Next, we start our projects one by one, but tell docker-compose to use the extended docker-compose.yml files.
 
-```
+```bash
 docker-compose -f /projects/apples-app/docker-compose.yml -f /projects/fruitpicker/docker-compose.apples.yml up --build -d
 ```
 
-```
+```bash
 docker-compose -f /projects/oranges-app/docker-compose.yml -f /projects/fruitpicker/docker-compose.apples.yml up --build -d
 ```
 
@@ -239,7 +239,7 @@ You can't un-open ports by extending the docker-compose file. This means you'll 
 
 Here's an example:
 
-```
+```yaml
 # /projects/apples-app/docker-compose.yml
 # /projects/oranges-app/docker-compose.yml
 
@@ -264,7 +264,7 @@ services:
 
 Then create an override file to open the ports. By default, Compose reads two files, a docker-compose.yml and an optional docker-compose.override.yml file. This means the ports will be open by default, but not when you run it as part of FruitPicker.
 
-```
+```yaml
 # /projects/apples-app/docker-compose.override.yml
 # /projects/oranges-app/docker-compose.override.yml
 

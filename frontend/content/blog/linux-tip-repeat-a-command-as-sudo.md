@@ -6,13 +6,13 @@ date_created: 2013-09-28
 
 When you run a command in the terminal, and realize it requires superuser permissions, use the following command to re-run the command as superuser:
 
-```
+```bash
 sudo !!
 ```
 
 Here is an example scenario:
 
-```
+```bash
 apt-get install myapplication
 (permission denied)
 sudo !!
@@ -20,7 +20,7 @@ sudo !!
 
 The best part is that you can use this to prefix your command with *anything*. In the example below, I forgot to put `cd` in front of my file path.
 
-```
+```bash
 nicolas@nicolas-Revo ~ $ Backup
 No command 'Backup' found, did you mean:
  Command 'rackup' from package 'ruby-rack' (universe)

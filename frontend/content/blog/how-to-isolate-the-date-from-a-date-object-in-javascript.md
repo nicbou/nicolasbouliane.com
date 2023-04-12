@@ -6,7 +6,7 @@ date_created: 2013-04-07
 
 Sometimes, you will need only the date part from a `Date` object. In order to truncate the time from the date, here is what to do:
 
-```
+```javascript
 //Create the date object
 myDate = new Date(); //Current date and time
 myDate.setHours(0,0,0,0); //Current date at midnight

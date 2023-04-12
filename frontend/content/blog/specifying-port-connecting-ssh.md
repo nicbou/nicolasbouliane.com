@@ -8,7 +8,7 @@ Some servers run their SSH server on a different port than 22 for a variety of r
 
 To specify a custom port when connecting, use the `-p` flag as in the example below:
 
-```
+```bash
 ssh user@server.com -p 2222
 ```
 

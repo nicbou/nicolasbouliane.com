@@ -10,25 +10,25 @@ When you extend get_queryset() on any view that implements SingleObjectMixin or 
 
 This is the mixin we will be using:
 
-```
+```python
 class OwnObjectsMixin():
- """
- Only returns objects that belongs to the current user. Assumes the object
- has a 'user' foreignkey to a User.
- """
- def get_queryset(self):
- user = self.request.user
- return super(OwnObjectsMixin, self).get_queryset().filter(user=user)
+    """
+    Only returns objects that belongs to the current user. Assumes the object
+    has a 'user' foreignkey to a User.
+    """
+    def get_queryset(self):
+        user = self.request.user
+        return super(OwnObjectsMixin, self).get_queryset().filter(user=user)
 ```
 
 Let's say you have a Bookmark model that has a foreign key called `user` that points to the standard User model. UserList view would look like this:
 
-```
+```python
 class UserList(OwnObjectsMixin, ListView):
- model = User
+    model = User
 
 class UserDetails(OwnObjectsMixin, DetailView):
- model = User
+    model = User
 ```
 
 You can use that mixin with CreateView, DeleteView and UpdateView too, making your views simple and maintainable.

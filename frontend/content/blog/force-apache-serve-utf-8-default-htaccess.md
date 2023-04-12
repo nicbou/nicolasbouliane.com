@@ -1,6 +1,6 @@
 ---
 title: How to force Apache to serve UTF-8 by default in .htaccess
-description: 
+description: A small Apache config tweak.
 date_created: 2014-02-14
 ---
 

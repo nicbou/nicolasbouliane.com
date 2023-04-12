@@ -6,7 +6,7 @@ date_created: 2013-12-18
 
 If you need easy_install on your Ubuntu or Linux Mint machine, use the following command to install it:
 
-```
+```bash
 sudo apt-get install python-setuptools python-dev build-essential
 ```
 

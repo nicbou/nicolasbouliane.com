@@ -14,7 +14,7 @@ restore-db.sh
 save-composer-dependencies.sh
 ```
 
-Those scripts are all pretty simple. They're under 10 lines long and take no arguments. Some just call a single command, so why bother creating them?
+Those scripts are all pretty simple. They're under 10 lines long and take no arguments. Some just call a single command, so why bother creating them? Because they are [digital mise en place](/blog/mise-en-place)
 
 ## One task, one way
 

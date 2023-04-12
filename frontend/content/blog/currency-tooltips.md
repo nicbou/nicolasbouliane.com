@@ -62,7 +62,7 @@ Currency conversion tooltips were easier to build because they behave the same w
 
 When rendering the content, I wrap euro amounts in a `<span>` tag. `19€` becomes `<span class="currency">19</span>€`. This is done with the `replace` filter in twig.
 
-```
+```twig
 {% raw %}{{ body|replace('/(\\d+(,\\d{3})*(\\.\\d{2})?)€/', '<span class="currency">$1</span>€') }}{% endraw %}
 ```
 

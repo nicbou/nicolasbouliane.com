@@ -10,11 +10,11 @@ CSRF (or XSRF) is an exploit where a malicious application transmits unsolicited
 
 For example, a malicious website could exploit on your application by putting an image with `http://yourapp.com/transferCredits?amount=1500&to=hacker` as the source on the page. If an unsuspecting visitor loads the image and is also connected to yourapp.com, he would unknowingly transfer 1500 credits to the hacker.
 
-```
+```html
 <p>
- This image on maliciouswebsite.com would silently
- delete a connected user's account on importantsite.com
- <img src="http://importantsite.com/api/account/delete">
+    This image on maliciouswebsite.com would silently
+    delete a connected user's account on importantsite.com
+    <img src="http://importantsite.com/api/account/delete">
 </p>
 ```
 

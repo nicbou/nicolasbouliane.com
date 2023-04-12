@@ -8,7 +8,7 @@ Although CSS `calc` sizes [are supported in Internet Explorer 10 and above](http
 
 To work around this, you can chain transforms. For instance, the following statements are equivalent:
 
-```
+```css
 transform: translate(0, calc(100% - 10px)); //Does not work in IE
 transform: translate(0, 100%) translate(0, -10px); //Works in IE
 ```

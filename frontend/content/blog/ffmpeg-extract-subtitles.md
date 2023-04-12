@@ -10,7 +10,9 @@ My goal was to extract .srt and .vtt subtitles from a video file with embedded s
 
 You can directly refer to subtitle streams with ffmpeg's [`-map`](https://trac.ffmpeg.org/wiki/Map). For example, this is how you would find the English subtitles:
 
-`ffmpeg -i input.mkv -map "0:m:language:eng" -map "-0:v" -map "-0:a" output.srt`
+```bash
+ffmpeg -i input.mkv -map "0:m:language:eng" -map "-0:v" -map "-0:a" output.srt
+```
 
 This command uses `-map` to select all English language streams (`eng`), then filters out the audio and video streams, then writes the subtitles stream to a .srt file. You could also write it to a .vtt or .ass file if you want a different type of subtitles.
 
@@ -18,11 +20,13 @@ However, this fails if you have multiple tracks with the same language. ffmpeg w
 
 As far as I know, there is no way to select only the first subtitle track of each language. You must use [`ffprobe`](https://ffmpeg.org/ffprobe.html) to find which subtitles stream is where, then extract the streams you want one by one. Here's how you list the subtitle streams:
 
-`ffprobe -v error -of json input.mkv -of json -show_entries "stream=index:stream_tags=language" -select_streams s`
+```bash
+ffprobe -v error -of json input.mkv -of json -show_entries "stream=index:stream_tags=language" -select_streams s
+```
 
 This command inspects the streams in input.mkv, but only shows the subtitle streams. It returns the kust as JSON. This is useful if you must parse the output.
 
-```
+```json
 {
     "programs": [
 
@@ -58,25 +62,25 @@ This command inspects the streams in input.mkv, but only shows the subtitle stre
 
 Here, you can see that we have 4 subtitle streams: 2 in English and 2 in German. We can extract them one by one by using their index. I only extract the first track for each language:
 
-```
+```bash
 ffmpeg -i input.mkv -map "0:2" output.eng.srt
 ffmpeg -i input.mkv -map "0:4" output.ger.srt
 ```
 
 You can combine that into a single command[^0]:
 
-```
+```bash
 ffmpeg -i input.mkv -map "0:2" output.eng.srt -map "0:4" output.ger.srt
 ```
 
 In my case, I need both .srt and .vtt subtitles, so the command is a bit longer:
 
-```
+```bash
 ffmpeg -i input.mkv \
--map "0:2" output.eng.srt \
--map "0:2" output.eng.vtt \
--map "0:4" output.ger.srt \
--map "0:4" output.ger.vtt
+    -map "0:2" output.eng.srt \
+    -map "0:2" output.eng.vtt \
+    -map "0:4" output.ger.srt \
+    -map "0:4" output.ger.vtt
 ```
 
 ## Image-based subtitles
@@ -85,7 +89,7 @@ The method above won't always work, because some subtitles are image-based, and 
 
 I did not find a way to filter out image-based subtitles with ffprobe. I saw that image-based subtitle streams have width and height attributes, while text-based ones don't.
 
-```
+```json
 {
     "streams": [
         // This subtitle stream has width/height. It's image-based.

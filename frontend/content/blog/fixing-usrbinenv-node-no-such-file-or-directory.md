@@ -12,7 +12,7 @@ After a fresh install of npm and bower, you may run into the following error whi
 
 The fix on Ubuntu is very simple:
 
-```
+```bash
 sudo ln -s /usr/bin/nodejs /usr/bin/node
 ```
 

@@ -8,13 +8,13 @@ Most modern browsers support the orientation media attribute, which allows you t
 
 Here is how you use the orientation media selectors:
 
-```
+```css
 @media screen and (orientation:portrait) {
- /* Portrait styles */
+    /* Portrait styles */
 }
 
 @media screen and (orientation:landscape) {
- /* Landscape styles */
+    /* Landscape styles */
 }
 ```
 

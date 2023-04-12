@@ -10,7 +10,7 @@ In this tutorial, I will show you how to erase embarrassing things from your com
 
 First, find the commit you need. In this case, we leaked our database password in commit `bbc643cd`. Let's rebase to the commit right before we made our mistake (note the `^` at the end, it means *before*).
 
-```
+```bash
 git rebase --interactive bbc643cd^
 ```
 
@@ -18,19 +18,19 @@ In the editor that will open, find your commit (`bbc643cd` in this example) and 
 
 Once you've taken care of your mistakes, amend your changes to the commit we're editing
 
-```
+```bash
 git commit --amend
 ```
 
 then use the following command to return to the previous head commit:
 
-```
+```bash
 git rebase --continue
 ```
 
 If you try to push your changes, your remote server will probably protest since you are rewriting history. In our case, we DO want to rewrite history. We don't want any traces of our mistakes left in any commit. Therefore, we force the push:
 
-```
+```bash
 git push -f
 ```
 

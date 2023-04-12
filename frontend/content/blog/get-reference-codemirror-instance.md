@@ -6,7 +6,7 @@ date_created: 2013-11-12
 
 If you want to access a CodeMirror instance, perhaps because it was created programmatically, or by a module you don't control, you can access it like this:
 
-```
+```javascript
 //Get a reference to the CodeMirror editor
 var editor = $('.CodeMirror')[0].CodeMirror;
 

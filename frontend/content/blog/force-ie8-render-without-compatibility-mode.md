@@ -1,6 +1,6 @@
 ---
 title: How to force IE8 to render without compatibility mode
-description: 
+description: If you still use IE8, something is deeply wrong. Godspeed, you poor soul.
 date_created: 2014-02-13
 ---
 
@@ -8,7 +8,7 @@ Some companies force Internet Explorer 8 to render all pages using the Internet 
 
 Place this **before all other tags** in your `<head>`:
 
-```
+```html
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 ```
 

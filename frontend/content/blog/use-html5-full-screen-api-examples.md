@@ -14,23 +14,23 @@ Before we get started, there are a few things you need to know:
 
 With that in mind, this is how you implement a "toggle full screen" button. Place it in a click event and it will toggle full screen.
 
-```
+```javascript
 if (!document.fullscreenElement && !document.mozFullScreenElement && !document.webkitFullscreenElement) {
- if (document.documentElement.requestFullscreen) {
- document.documentElement.requestFullscreen();
- } else if (document.documentElement.mozRequestFullScreen) {
- document.documentElement.mozRequestFullScreen();
- } else if (document.documentElement.webkitRequestFullscreen) {
- document.documentElement.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
- }
+    if (document.documentElement.requestFullscreen) {
+        document.documentElement.requestFullscreen();
+    } else if (document.documentElement.mozRequestFullScreen) {
+        document.documentElement.mozRequestFullScreen();
+    } else if (document.documentElement.webkitRequestFullscreen) {
+        document.documentElement.webkitRequestFullscreen(Element.ALLOW_KEYBOARD_INPUT);
+    }
 } else {
- if (document.cancelFullScreen) {
- document.cancelFullScreen();
- } else if (document.mozCancelFullScreen) {
- document.mozCancelFullScreen();
- } else if (document.webkitCancelFullScreen) {
- document.webkitCancelFullScreen();
- }
+    if (document.cancelFullScreen) {
+        document.cancelFullScreen();
+    } else if (document.mozCancelFullScreen) {
+        document.mozCancelFullScreen();
+    } else if (document.webkitCancelFullScreen) {
+        document.webkitCancelFullScreen();
+    }
 }
 ```
 

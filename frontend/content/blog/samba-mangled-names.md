@@ -15,7 +15,7 @@ mangled names = no
 
 Once this is done, enter the following command in your terminal:
 
-```
+```bash
 sudo service samba2 restart
 ```
 

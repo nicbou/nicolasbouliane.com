@@ -12,7 +12,7 @@ The [requests](https://requests.readthedocs.io/en/master/) library is much easie
 
 To make an HTTP request download a page with urllib, you must call [urllib.request.urlopen()](https://docs.python.org/3/library/urllib.request.html#urllib.request.urlopen).
 
-```
+```python
 import urllib.request
 
 response = urllib.request.urlopen('https://nicolasbouliane.com')
@@ -32,15 +32,15 @@ A few notes:
 
 To make an HTTP request download a page with urllib, you must call [urllib.request.urlopen()](https://docs.python.org/3/library/urllib.request.html#urllib.request.urlopen).
 
-```
+```python
 from urllib.error import HTTPError
 import urllib.request
 
 try:
- response = urllib.request.urlopen('https://nicolasbouliane.com')
- response_status = response.status # 200, 301, etc
+    response = urllib.request.urlopen('https://nicolasbouliane.com')
+    response_status = response.status  # 200, 301, etc
 except HTTPError as error:
- response_status = error.code # 404, 500, etc
+    response_status = error.code  # 404, 500, etc
 ```
 
 A few notes:
@@ -52,7 +52,7 @@ A few notes:
 
 urllib.request.urlopen() returns a [http.client.HTTPResponse](https://docs.python.org/3/library/http.client.html#httpresponse-objects) object. You get headers by calling [response.getheaders()](https://docs.python.org/3/library/http.client.html#http.client.HTTPResponse.getheaders) or [getheader(header_name)](https://docs.python.org/3/library/http.client.html#http.client.HTTPResponse.getheader).
 
-```
+```python
 import urllib.request
 
 response = urllib.request.urlopen('https://nicolasbouliane.com')
@@ -62,12 +62,12 @@ content_type = response.getheader('Content-Type')
 print(headers)
 # [('Content-Type', 'text/html; charset=utf-8'), ('Transfer-Encoding', 'chunked'), ...]
 
-print(content_type) 
+print(content_type)
 # "text/html; charset=utf-8"
 ```
 
 A few notes:
 
-- getheader() is not case-sensitive. getheader('Date') and getheader('date') will return the same value.
-- getheaders() returns a list of two-tuples, not a dict.
+- `getheader()` is not case-sensitive. `getheader('Date')` and getheader('date') will return the same value.
+- `getheaders()` returns a list of two-tuples, not a dict.
 

@@ -6,7 +6,7 @@ date_created: 2018-08-30
 
 If you want to flatten a directory with lots of deeply nested files (for example `./2012/06/09/images/previews/200x200/image1.jpg` becomes `./image1.jpg`), you can run this simple command:
 
-```
+```bash
 find target/ -mindepth 2 -type f -exec mv -i '{}' target/ ';'
 ```
 

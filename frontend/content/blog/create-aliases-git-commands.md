@@ -6,7 +6,7 @@ date_created: 2013-11-26
 
 You can set aliases for common git commands using the following command:
 
-```
+```bash
 git config --global alias.poule pull
 ```
 
@@ -14,7 +14,7 @@ In this instance, we create an alias for `git pull` so `git poule` does a pull. 
 
 Here is a more useful alias. It shows a short, colorful git log including the history graph. Call it with the `git lg` command.
 
-```
+```bash
 git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"
 ```
 

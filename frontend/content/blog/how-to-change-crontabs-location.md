@@ -8,7 +8,7 @@ For a reason or another, you might one to change your crontab's location. For in
 
 The line below will change the crontab location for user *nicolas*
 
-```
+```bash
 crontab -u nicolas /my/crontab/path
 ```
 

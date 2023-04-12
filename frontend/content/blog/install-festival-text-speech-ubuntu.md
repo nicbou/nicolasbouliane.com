@@ -25,7 +25,7 @@ WARNING
 
 This is because the `festival` package does not include something as trivial as a default voice. This means you need to install the default voice Festival looks for separately, as it is found in the `festvox-kallpc16k package`:
 
-```
+```bash
 sudo apt-get install festival festvox-kallpc16k
 ```
 

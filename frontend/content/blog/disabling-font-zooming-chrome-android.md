@@ -8,7 +8,7 @@ If you are here, you have probably tried disabling font zooming by using `-webki
 
 Chrome conveniently ignores this non-standard property, so you need to use an inconvenient hack to disable what is called **font boosting** by adding the following line to your CSS file:
 
-```
+```css
 html * {max-height:1000000px;}
 ```
 

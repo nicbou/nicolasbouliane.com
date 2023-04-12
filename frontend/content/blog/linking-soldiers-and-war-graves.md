@@ -56,7 +56,7 @@ However, matching by last name alone is a very bad idea, not to mention that the
 
 In addition to these inconsistencies, I discovered that several people with the same first name, last name and regimental number in the Canadian Expeditionary Force data set.
 
-```
+```html
 <span class="hljs-operator"><span class="hljs-keyword">SELECT</span> regiment_nr1, surname, given_name, <span class="hljs-keyword">count</span>(*)
 <span class="hljs-keyword">FROM</span> cef_enlistees
 <span class="hljs-keyword">WHERE</span> regiment_nr1 <span class="hljs-keyword">IS</span> <span class="hljs-keyword">NOT</span> <span class="hljs-literal">NULL</span>

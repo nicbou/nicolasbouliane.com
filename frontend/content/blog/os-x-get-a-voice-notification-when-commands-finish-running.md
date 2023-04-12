@@ -10,7 +10,7 @@ On OS X, there is a nifty `say` command that makes your Mac say anything you wan
 
 In the example below, your Mac will say "Unit tests completed" when they are done running:
 
-```
+```bash
 python manage.py test; say "Unit tests completed"
 ```
 

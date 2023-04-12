@@ -8,13 +8,13 @@ If you want to add a month to the current date in SQL Server, use the `DATEADD` 
 
 In this example, we add 1 month to the current date by combining it with `GETDATE()`:
 
-```
+```sql
 DATEADD(mm,1,GETDATE())
 ```
 
 In this second example, we add two months to a date from another column called `other_column`:
 
-```
+```sql
 DATEADD(mm,2,other_column)
 ```
 

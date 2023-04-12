@@ -10,7 +10,7 @@ While this feature might ensure that unoptimized pages are readable when printed
 
 To ensure that background images, background colors and text colors remain the same while printing, use the following CSS rule:
 
-```
+```css
 -webkit-print-color-adjust: exact
 ```
 

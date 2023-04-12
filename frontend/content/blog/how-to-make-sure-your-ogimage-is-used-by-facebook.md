@@ -8,7 +8,9 @@ You can define custom meta tags on your website to decide it will appear when sh
 
 Unfortunately, it does not work reliably, and even their [Open Graph debugger](https://developers.facebook.com/tools/debug/) won't help you. For instance, I got the following message:
 
-> og:image should be larger: Provided og:image is not big enough. Please use an image that's at least 200x200 and preferably 1500x1500. (Maximum image size is 5MB.) Image 'url from image, size: 300x443px 97kb' will be used instead.
+```
+og:image should be larger: Provided og:image is not big enough. Please use an image that's at least 200x200 and preferably 1500x1500. (Maximum image size is 5MB.) Image 'url from image, size: 300x443px 97kb' will be used instead.
+```
 
 My image fit all the criteria and even showed in the og:image preview, yet Facebook refused to use it. **It turns out that EXIF data was the culprit.** Stripping the image of EXIF data and reuploading it solved the problem. This odd solution is supported by members of various communities.
 
