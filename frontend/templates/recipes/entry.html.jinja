@@ -1,0 +1,21 @@
+{% extends "_layout.html" %}
+{% set metatitle = entry.title %}
+{% set metadescription = entry.description %}
+{% set canonicalUrl = entry.url %}
+
+{% block postHead %}
+    <link rel="index" href="{{ siteUrl }}/recipes">
+{% endblock %}
+
+{% block content %}
+    <article class="recipe">
+        <h1>
+            {{ entry.title }}
+            <small>Updated in <time datetime="{{ entry.date_updated.strftime('%F') }}">{{ entry.date_updated.strftime('%B %Y') }}</time></small>
+        </h1>
+        {% if entry.featured_image|default %}
+            {% image entry.featured_image %}
+        {% endif %}
+        {{ entry.body|render|safe }}
+    </article>
+{% endblock %}
