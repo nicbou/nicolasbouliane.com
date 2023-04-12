@@ -62,9 +62,11 @@ Currency conversion tooltips were easier to build because they behave the same w
 
 When rendering the content, I wrap euro amounts in a `<span>` tag. `19€` becomes `<span class="currency">19</span>€`. This is done with the `replace` filter in twig.
 
+{% raw %}
 ```twig
-{% raw %}{{ body|replace('/(\\d+(,\\d{3})*(\\.\\d{2})?)€/', '<span class="currency">$1</span>€') }}{% endraw %}
+{{ body|replace('/(\\d+(,\\d{3})*(\\.\\d{2})?)€/', '<span class="currency">$1</span>€') }}
 ```
+{% endraw %}
 
 When the page loads, I fetch the exchange rates, format them nicely with [Intl.NumberFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat), and set the element's `data-currencies` attribute.
 
