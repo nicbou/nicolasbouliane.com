@@ -1,0 +1,17 @@
+{% extends "_layout.html" %}
+{% set metatitle = "Blog" %}
+{% set metadescription = "Posts by Nicolas Bouliane" %}
+{% set canonicalUrl = "/blog" %}
+
+{% block content %}
+    <h1>Blog</h1>
+    <ul class="entry-list">
+        {% for entry in get_entries('blog', sort_by='date_created', reverse=True) %}
+            <li>
+                <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%-b %Y') }}</time>
+                <h2><a rel="bookmark" href="{{ entry.url }}">{{ entry.title }}</a></h2>
+                <p>{{ entry.description }}</p>
+            </li>
+        {% endfor %}
+    </ul>
+{% endblock %}
