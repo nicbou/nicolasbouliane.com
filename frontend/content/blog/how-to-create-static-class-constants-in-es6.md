@@ -21,7 +21,6 @@ class CurrentLocation {
  return this.status === CurrentLocationItem.GEOLOCATION_ACQUIRED
  }
 }
-
 ```
 
 In the example below, you can use CurrentLocation.GEOLOCATION_ERROR anywhere, but myGeolocationItem.GEOLOCATION_ERROR will not exist, as static members are not visible to class instances. Moreover, children of the CurrentLocation class will not inherit these attributes.

@@ -8,7 +8,6 @@ If you are looking to find a git commit by its message, use the following comman
 
 ```
 git log -S"facebook"
-
 ```
 
 This will return all commits with "facebook" in the message.

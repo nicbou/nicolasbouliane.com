@@ -13,7 +13,6 @@ export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
 export PS1="[\033[36m]\u[\033[m][\033[32m]:[\033[33;1m]\W[\033[m]\$ "
 alias ls='ls -GFh'
-
 ```
 
 The first line enables colours, the second sets the colors for `ls` and the last one sets the terminal's color scheme. Finally, the last line enables color by default on the `ls` command.

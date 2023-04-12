@@ -47,7 +47,6 @@ angular.module('hereApp.directive').directive('noPullToReload', function() {
  }
  };
 });
-
 ```
 
 It's safe to stop watching as soon as the user scrolls down, as the pull to refresh has no chance of being triggered.
@@ -86,7 +85,6 @@ var initialY = null,
  };
 element.on("touchstart", bindScrollEvent);
 element.on("touchend", unbindScrollEvent);
-
 ```
 
 Naturally, the same can also be achieved with pure JS.

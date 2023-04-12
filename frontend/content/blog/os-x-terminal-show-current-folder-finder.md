@@ -10,14 +10,12 @@ You can also use this command to open the current directory in Finder:
 
 ```
 open .
-
 ```
 
 This also works with any directory you pass as an argument:
 
 ```
 open /Library
-
 ```
 
 This is a great way to save time on operations that are easier to perform with a graphical interface, and to access hidden folders easily. Another way to do this is to use *Go > Go to folder* (Cmd+Shift+G) in Finder.

@@ -8,7 +8,7 @@ All About Berlin uses caching heavily. Serving cached pages is much faster than 
 
 I want to cache pages for as long as possible to lighten server load, but I want the changes I make to go live instantly. Simple enough, right?
 
-> There are only two hard things in Computer Science: cache invalidation and naming things.
+> "There are only two hard things in Computer Science: cache invalidation and naming things."
 
 > — Phil Karlton
 

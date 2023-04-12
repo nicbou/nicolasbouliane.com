@@ -20,7 +20,6 @@ As suggested by another user of the dataset, I reduced the file to half its size
 
 ```
 iconv -f utf-16 -t utf-8 records.xml > tmp/utf8-records.xml
-
 ```
 
 Using Python's XML library, I was able to effortlessly parse through the file and extract records, but the memory usage quickly spiraled out of control.
@@ -41,7 +40,6 @@ This was in part caused by the asinine structure of the document. All the nodes 
  <PersonID>2</PersonID>
  <DocumentNumber>000000002</DocumentNumber>
  <!-- And so on... -->
-
 ```
 
 This made it impossible to clear the parsed XML nodes from memory. Instead of tweaking the XML parser and waste a day on a potentially fruitless pursuit, I opted to split the giant file into a few dozen more manageable files. This also opened the door to parallelization, but it was not really a concern given the small size of the dataset.
@@ -84,7 +82,6 @@ for file in *; do
  echo "</CEF_Data>" >> /tmp/tmpfile.$;
  mv /tmp/tmpfile.$ "$file"
 done
-
 ```
 
 The result was a dozen files with 50 000 neatly arranged record that were ready to be parsed.
@@ -189,7 +186,6 @@ for event, elem in etree.iterparse(filename, events=('end',)):
  save_person(person)
 
 cursor.execute('COMMIT')
-
 ```
 
 To move all the records to the database, I added the following lines to the bash script that fetches, cleans and splits the original data:
@@ -198,7 +194,6 @@ To move all the records to the database, I added the following lines to the bash
 for file in *; do
  python ../../parser-members.py "$file"
 done
-
 ```
 
 ## Invalid data

@@ -17,7 +17,6 @@ class MyTestCase(TestCase)
  #Send a request to /api/sync/23/ with a raw POST string
  response = self.client.post('/api/sync/23/', data='myrawpoststring', content_type='application/octet-stream')
  ...
-
 ```
 
 The `.put()`, `.patch()` and `.delete()` equivalents already set the content_type to 'application/octet-stream' by default, so you will only need to specify a string.

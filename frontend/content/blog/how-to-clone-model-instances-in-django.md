@@ -10,7 +10,6 @@ Let's say you want to create an exact copy of your an object instance. All you n
 object_copy = MyObject.objects.get(pk=...)
 object_copy.pk = None
 object_copy.save()
-
 ```
 
 Tada! You now have a copy of your object with a new primary key.

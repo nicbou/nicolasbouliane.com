@@ -10,7 +10,6 @@ If you want the client to follow these redirects and return the last page, perfo
 
 ```
 response = c.get('/redirect_me/', follow=True)
-
 ```
 
 This will also add `response.redirect_chain` so you can see which URLs it followed before getting to the final page. Here is a sample redirect_chain:

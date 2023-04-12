@@ -11,7 +11,6 @@ When you create a JavaScript `Date` object, it will set the date in your time zo
 function dateToUTC(date) {
  return new Date(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate(), date.getUTCHours(), date.getUTCMinutes(), date.getUTCSeconds());
 }
-
 ```
 
 This will convert a date such as `January 6, 17:24 EST` to `January 6, 17:24 GMT`.

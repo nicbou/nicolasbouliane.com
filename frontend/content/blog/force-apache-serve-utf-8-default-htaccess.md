@@ -8,7 +8,6 @@ If you want to serve all text files as unicode by default, add the following lin
 
 ```
 AddDefaultCharset utf-8
-
 ```
 
 You can also set the encoding on individual file types using `AddCharset`:

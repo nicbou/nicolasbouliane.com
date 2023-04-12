@@ -15,7 +15,6 @@ class AjaxDeleteView(SingleObjectMixin, View):
  self.object = self.get_object()
  self.object.delete()
  return HttpResponse(status=204)
-
 ```
 
 This views performs CSRF validation just like the default DeleteView, except it won't show any confirmation screens and has no need for the success_url attribute.

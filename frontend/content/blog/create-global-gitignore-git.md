@@ -10,7 +10,6 @@ Git lets you specify a universal .gitignore file to ignore them once and for all
 
 ```
 git config --global core.excludesfile /path/to/global/.gitignore
-
 ```
 
 Pretty simple, isn't it?

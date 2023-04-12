@@ -19,7 +19,6 @@ class OwnObjectsMixin():
  def get_queryset(self):
  user = self.request.user
  return super(OwnObjectsMixin, self).get_queryset().filter(user=user)
-
 ```
 
 Let's say you have a Bookmark model that has a foreign key called `user` that points to the standard User model. UserList view would look like this:
@@ -30,7 +29,6 @@ class UserList(OwnObjectsMixin, ListView):
 
 class UserDetails(OwnObjectsMixin, DetailView):
  model = User
-
 ```
 
 You can use that mixin with CreateView, DeleteView and UpdateView too, making your views simple and maintainable.

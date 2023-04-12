@@ -16,7 +16,6 @@ $('img').hide().one("load",function(){
 }).each(function(){
  if(this.complete) $(this).trigger("load");
 });
-
 ```
 
 In this example, we apply the effect to *all* images, which might impact performance. Replace the selector at the beginning of the snippet to limit it to the images you want to fade in.

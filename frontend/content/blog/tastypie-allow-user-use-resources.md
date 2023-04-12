@@ -28,7 +28,6 @@ class NoteResource(ModelResource):
  Return the user's notes
  """
  return object_list.filter(user=request.user)
-
 ```
 
 This example is taken straight from the official documentation

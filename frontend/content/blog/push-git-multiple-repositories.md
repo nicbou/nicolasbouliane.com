@@ -8,7 +8,6 @@ If you want to push a git to several remote repositories at one, use this simple
 
 ```
 git remote set-url --add --push [repository] [url]
-
 ```
 
 For example, here's how I add Ignition's GitHub repo to origin:

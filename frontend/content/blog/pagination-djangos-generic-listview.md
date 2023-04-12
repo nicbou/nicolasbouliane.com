@@ -10,7 +10,6 @@ Did you know the Django ListView supports pagination out of the box? All you nee
 class ArticleList(ListView):
  model = Article
  paginate_by = 10
-
 ```
 
 The queryset available in object_list will be paginated, so you will only get 10 results. `page_obj` and `paginator` will be added to the context so you can have pagination buttons and know which page you are on.

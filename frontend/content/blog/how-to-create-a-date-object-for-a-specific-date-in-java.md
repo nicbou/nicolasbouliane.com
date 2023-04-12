@@ -11,7 +11,6 @@ Creating a new date in Java is quite simple. Use the [`Calendar`](http://docs.or
 Calendar cal = Calendar.getInstance();
 cal.set(2013, Calendar.JANUARY, 9); //Year, month and day of month
 Date date = cal.getTime();
-
 ```
 
 If you also need to set the time, you can use the `.set()` method with the following parameters:
@@ -21,7 +20,6 @@ If you also need to set the time, you can use the `.set()` method with the follo
 Calendar cal = Calendar.getInstance();
 cal.set(2013, Calendar.JANUARY, 9, 10, 11, 12); //Year, month, day of month, hours, minutes and seconds
 Date date = cal.getTime();
-
 ```
 
 Voilà! It's that simple! If you are still getting to grips with the Java programming languages, I recommend [Head First Java](http://amzn.to/2fUTYBV). It's a nicely paced introduction to Java.

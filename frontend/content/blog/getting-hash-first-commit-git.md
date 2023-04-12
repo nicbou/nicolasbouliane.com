@@ -8,14 +8,12 @@ If you want to know what your oldest git commit is, use the following command to
 
 ```
 git rev-list HEAD | tail -n 1
-
 ```
 
 You can then use `git show` to find the commit date, author and message:
 
 ```
 git show --quiet [your hash]
-
 ```
 
 To show the diff for that first commit, remove the `--quiet` flag.

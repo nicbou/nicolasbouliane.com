@@ -16,7 +16,6 @@ Here is how you use the orientation media selectors:
 @media screen and (orientation:landscape) {
  /* Landscape styles */
 }
-
 ```
 
 This selector is supported by all modern mobile browsers.
