@@ -1,22 +1,22 @@
 ---
 title: .find() vs. .children(): which one should you use?
-description: 
+description: Two jQuery functions can find children in the DOM. Which one is the right one to use?
 date_created: 2014-04-22
 ---
 
 jQuery offers two functions to find children in an element: `.find()` and `.children()`. `.find()` will look through all children of an element while `.children()` will only look at immediate children.
 
-```
+```html
 <ul>
- <li>
- <p></p>
- </li>
- <li>
- <p></p>
- </li>
- <li>
- <p></p>
- </li>
+    <li>
+        <p></p>
+    </li>
+    <li>
+        <p></p>
+    </li>
+    <li>
+        <p></p>
+    </li>
 </ul>
 ```
 

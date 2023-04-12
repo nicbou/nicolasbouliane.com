@@ -10,7 +10,7 @@ Unfortunately for me, the owner seems to have stopped working on the website, an
 
 Using [The Unarchiver](http://unarchiver.c3.cx/unarchiver), I extracted the .msi file and retrieved a series of files, one of which was 225.9MB large. When faced with a file without an extension, the best way to know its type is to use the `file` command:
 
-```
+```bash
 file --mime _239D621A339B68AD7601C4A6AEB9CEF8
 > _239D621A339B68AD7601C4A6AEB9CEF8: application/vnd.ms-cab-compressed; charset=binary
 ```
@@ -19,13 +19,12 @@ Googling the mimetype gave me the expected file extension (.cab). The Unarchiver
 
 Once again, a cursory look at the file sizes gave me a good idea of which was the database, but this time, `file` only gave me the `application/octet-stream `mimetype. However, there were several other useful files in there, including the application configuration file with the database connection strings:
 
-```
+```xml
 <connectionStrings>
- ...
- <add name="winCEF.My.MySettings.cefNames2012EConnectionString"
- connectionString="Data Source=|DataDirectory|\cefNames2012E.sdf;Password=...;Persist Security Info=True"
- providerName="Microsoft.SqlServerCe.Client.3.5" />
-</connectionStrings>
+    ...
+    <add name="winCEF.My.MySettings.cefNames2012EConnectionString"
+        connectionString="Data Source=|DataDirectory|\cefNames2012E.sdf;Password=...;Persist Security Info=True" providerName="Microsoft.SqlServerCe.Client.3.5" />
+    </connectionStrings>
 ```
 
 That's all I needed to find the database type (SQL Server CE) as well as the username and password to read it.

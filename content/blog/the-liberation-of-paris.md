@@ -9,7 +9,9 @@ On June 5, 1944, five minutes before midnight, a broadcast from Radio London beg
 
 ![](/images/french-resistance-radio-dday.jpg "Members of the French Résistance listen to the BBC's radio broadcast")
 
-> We knew that something would happen soon, because the train from Paris didn’t reach Caen – the lines had been sabotaged. That evening I heard two messages – ‘the dice are on the table’, meaning we should sabotage railway lines; and ‘it’s hot in Suez’, meaning we should attack telephone lines. - André Heinz, member of the French Résistance
+> "We knew that something would happen soon, because the train from Paris didn’t reach Caen – the lines had been sabotaged. That evening I heard two messages – ‘the dice are on the table’, meaning we should sabotage railway lines; and ‘it’s hot in Suez’, meaning we should attack telephone lines."
+
+> — André Heinz, member of the French Résistance
 
 This last message was their final cue. The Allied invasion of France would begin within 24 hours.
 
@@ -27,7 +29,7 @@ At dawn on June 6 1944, several thousand boats carrying millions of tons of men 
 
 After a devastating bombardment, the first waves of American, British, and Canadian soldiers stormed the beaches of northern France under vicious fire. Private First Class Earl Chellis from the 1st infantry division was among the first to land at Omaha beach:
 
-> Every time you fired your gun, machine guns would fire back at you. Men were still coming in. It was getting very crowded on the beach. Bodies of the dead and wounded kept washing up on the shore. They were coming in and out on the tide. The water turned red from all the blood.
+> "Every time you fired your gun, machine guns would fire back at you. Men were still coming in. It was getting very crowded on the beach. Bodies of the dead and wounded kept washing up on the shore. They were coming in and out on the tide. The water turned red from all the blood."
 
 ![](/images/into-the-jaws-of-death.jpg ""Into the jaws of death". American soldiers landing on "bloody Omaha", June 6 1944, 6:30AM.")
 
@@ -68,7 +70,9 @@ By the mid-August, the entire German position in Normandy was on the verge of co
 
 ![](/images/invasion-of-france-breakout.jpg "The Allies about to encircle two German armies in the Falaise pocket, 1-13 August 1944")
 
-> "This is an opportunity that comes to a commander not more than once in a century. We're about to destroy an entire hostile army and go all the way from here to the German border" - General Bradley, U.S. Army
+> "This is an opportunity that comes to a commander not more than once in a century. We're about to destroy an entire hostile army and go all the way from here to the German border"
+
+> — General Bradley, U.S. Army
 
 Nonetheless, many among their ranks - especially the Hitler Youth - fought fanatically, sometimes to annihilation. Even after capture, some of them refused care to "die for the Führer". The 12th SS Hitler Youth in particular sustained disproportionate casualties in Normandy. However, their sacrifice allowed some 25 000 Germans to break out escape encirclement.
 
@@ -106,7 +110,9 @@ Meanwhile, columns of retreating German tanks, halftracks, trucks and cars strea
 
 On the 19th, the Résistance learned that the Allies were only a few miles from Paris and the general strike escalated into an armed uprising. Parisians - men, women and children alike - took up arms and fired at the occupiers from apartment windows and makeshift barricades.
 
-> The people were like ants - tens of thousands of them. Some of the barricades were real masterpieces, built by craftsmen and strong enough to stop a tank. Others would have just collapsed, but the German did not know which was which. - Maurice Kriegel-Valrimont, French Résistance
+> "The people were like ants - tens of thousands of them. Some of the barricades were real masterpieces, built by craftsmen and strong enough to stop a tank. Others would have just collapsed, but the German did not know which was which."
+
+> — Maurice Kriegel-Valrimont, French Résistance
 
 ![](/images/paris-uprising-child.jpg "A young Parisian helps the Résistance erect a barricade, Paris, August 1944.")
 
@@ -114,7 +120,9 @@ On the 19th, the Résistance learned that the Allies were only a few miles from 
 
 After two days of fighting, the Germans occupied most of the strategic positions, while the Resistance held the rest of the city. Armed partisans zoomed up and down the boulevards in commandeered Citroëns, cheered by civilians perched at their windows. German soldiers who once freely roamed from café to café now ran from cover to cover.
 
-> In Paris we had one great advantage - which was a tradition of popular uprising. There was the revolution of course in 1879, but after that 1830, 1848, above all the Commune in 1870. There was a body of doctrine. We knew how to do it. - Maurice Kriegel-Valrimont, French Résistance
+> "In Paris we had one great advantage - which was a tradition of popular uprising. There was the revolution of course in 1879, but after that 1830, 1848, above all the Commune in 1870. There was a body of doctrine. We knew how to do it."
+
+> — Maurice Kriegel-Valrimont, French Résistance
 
 ![](/images/paris-uprising-2.jpg)
 
@@ -132,7 +140,9 @@ The Free French forces entered the suburbs of Paris on August 24. Parisians supp
 
 By the next morning, the Free French had reached the Notre Dame cathedral.
 
-> The vehicles just ahead of us rolled into the square and parked, and we parked the jeep with them. Kokoska switched off the motor. We looked up at the lovely towers of Notre Dame, and someone said, ‘Well, that's that. The fight is all over now.’ As he finished speaking, the air crackled into life with bullets, hissing and whining all over the square. The French light tanks began firing over our heads at some Germans across the Seine. Germans were also shooting from Notre Dame and from nearby houses. The shooting sputtered, then died down, and finally burst out with new fury before it ceased. The air was strangely quiet. I could see the sun glint on the white marks where the bullets had struck Norte Dame. - NBC correspondent John Mac Vane
+> "The vehicles just ahead of us rolled into the square and parked, and we parked the jeep with them. Kokoska switched off the motor. We looked up at the lovely towers of Notre Dame, and someone said, ‘Well, that's that. The fight is all over now.’ As he finished speaking, the air crackled into life with bullets, hissing and whining all over the square. The French light tanks began firing over our heads at some Germans across the Seine. Germans were also shooting from Notre Dame and from nearby houses. The shooting sputtered, then died down, and finally burst out with new fury before it ceased. The air was strangely quiet. I could see the sun glint on the white marks where the bullets had struck Norte Dame."
+
+> — NBC correspondent John Mac Vane
 
 ![](/images/2e-division-blindee-invalides.png)
 
@@ -176,7 +186,7 @@ The next day, millions of them gathered to welcome the triumphal *2e Division Bl
 
 From the City Hall, Général de Gaulle addressed the Parisians sentences that would make history:
 
-> Paris! Paris outraged! Paris broken! Paris martyred! But Paris liberated! Liberated by itself, liberated by its people with the help of the French armies, with the support and the help of all France, of the France that fights, of the only France, of the real France, of the eternal France!
+> "Paris! Paris outraged! Paris broken! Paris martyred! But Paris liberated! Liberated by itself, liberated by its people with the help of the French armies, with the support and the help of all France, of the France that fights, of the only France, of the real France, of the eternal France!"
 
 At long last, Paris was free! It was only a matter of time before the Germans would be kicked out of France entirely. Soon enough, the war would end.
 

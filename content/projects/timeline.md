@@ -31,7 +31,7 @@ It collects all your crap, and it puts it on a timeline.
 
 I thought it would be neat.
 
-> “Why the hell would we want to [launch an anvil 100 feet in the air]? I get that a lot from women y'know. Women say *why would you want to do that?* and I don't know other than it just need launchin' sumpin' that wadn't intended to be launched.”
+> "Why the hell would we want to [launch an anvil 100 feet in the air]? I get that a lot from women y'know. Women say *why would you want to do that?* and I don't know other than it just need launchin' sumpin' that wadn't intended to be launched."
 
 > — World champion anvil shooter Gay Wilkinson
 

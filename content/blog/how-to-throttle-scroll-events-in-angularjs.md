@@ -8,41 +8,41 @@ If you watch the scroll event, you will probably find yourself handling far more
 
 The following Angular directive will call a specified scroll event every 250 milliseconds.
 
-```
+```javascript
 angular.module('hereApp.directive').directive('onScroll', function($timeout) {
- 'use strict';
+    'use strict';
 
- return {
- scope: {
- onScroll: '&onScroll',
- },
- link: function(scope, element) {
- var scrollDelay = 250,
- scrollThrottleTimeout,
- throttled = false,
- scrollHandler = function() {
- if (!throttled) {
- scope.onScroll();
- throttled = true;
- scrollThrottleTimeout = $timeout(function(){
- throttled = false;
- }, scrollDelay);
- }
- };
+    return {
+        scope: {
+            onScroll: '&onScroll',
+        },
+        link: function(scope, element) {
+            var scrollDelay = 250,
+                scrollThrottleTimeout,
+                throttled = false,
+                scrollHandler = function() {
+                    if (!throttled) {
+                        scope.onScroll();
+                        throttled = true;
+                        scrollThrottleTimeout = $timeout(function() {
+                            throttled = false;
+                        }, scrollDelay);
+                    }
+                };
 
- element.on("scroll", scrollHandler);
+            element.on("scroll", scrollHandler);
 
- scope.$on('$destroy', function() {
- element.off('scroll', scrollHandler);
- });
- }
- };
+            scope.$on('$destroy', function() {
+                element.off('scroll', scrollHandler);
+            });
+        }
+    };
 });
 ```
 
 The scrollable element should look like this:
 
-```
+```html
 <div on-scroll="myScrollEvent()"></div>
 ```
 

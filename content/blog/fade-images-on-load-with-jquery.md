@@ -1,6 +1,6 @@
 ---
 title: How to fade images on load with jQuery
-description: 
+description: At least that's how we did it back in 2013.
 date_created: 2013-05-09
 ---
 
@@ -10,7 +10,7 @@ Although this has been covered by other blogs, most proposed solutions do not ta
 
 First, we bind the animation to the `load` of all images. Once this is done, we loop through the images using `each`, and manually trigger the `load` event for images that are already loaded because of caching.
 
-```
+```javascript
 $('img').hide().one("load",function(){
  $(this).fadeIn(500);
 }).each(function(){

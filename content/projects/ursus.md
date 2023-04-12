@@ -54,6 +54,7 @@ Craft's rich text editor had many quirks:
 - It randomly inserted empty `<a>`, `<strong>`, and `<sup>` tags.
 - It [deleted all links on a page](https://github.com/craftcms/redactor/issues/331#issuecomment-869557385) if I looked at it wrong. If I didn't notice in time, I'd have no way to revert it.
 - It inserted a lot of invisible characters like non-breaking spaces and byte order marks. Some of those characters spread into titles and file names, and were a royal pain to get rid of.
+- It collapsed indentation on code blocks. They fixed it, but the damage was done.
 
 Markdown is a lot more reliable. It renders as you expect it to, with no surprises.
 

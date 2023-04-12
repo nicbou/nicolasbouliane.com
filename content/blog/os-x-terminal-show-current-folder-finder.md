@@ -8,13 +8,13 @@ If you use the OS X terminal, you are probably familiar with the `open` command.
 
 You can also use this command to open the current directory in Finder:
 
-```
+```bash
 open .
 ```
 
 This also works with any directory you pass as an argument:
 
-```
+```bash
 open /Library
 ```
 

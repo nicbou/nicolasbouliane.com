@@ -46,7 +46,7 @@ Sometimes, a calculator gives better answers than a long text. With a calculator
 
 ## Simplicity
 
-> Get rid of half the words on each page, then get rid of half of what's left.  
+> "Get rid of half the words on each page, then get rid of half of what's left."  
 > — Steve Krug, Don't Make Me Think
 
 Get to the point! Give the shortest complete answer. Don't try to be funny, smart or interesting. Your goal is to solve your readers' problem, not to entertain them.

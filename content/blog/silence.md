@@ -41,7 +41,9 @@ I turned off all notifications. Only phone calls, instant messages and bank tran
 
 Most notifications are not urgent. I can acknowledge them an hour or two later. This is why they are silent.
 
-> Technology should require the smallest possible amount of attention. Communicate information without taking the user out of their environment or task. [...] A calm technology will move easily from the periphery of our attention, to the center, and back. The periphery is informing without overburdening.
+> "Technology should require the smallest possible amount of attention. Communicate information without taking the user out of their environment or task. [...] A calm technology will move easily from the periphery of our attention, to the center, and back. The periphery is informing without overburdening."
+
+> — Amber Case, [Calm technology](https://calmtech.com/)
 
 In other cases, I added notifications, so that I don't need to keep an eye on certain things. If my website goes down, or my backups stop working, I will know. I can sleep in peace knowing that everything is running smoothly.
 

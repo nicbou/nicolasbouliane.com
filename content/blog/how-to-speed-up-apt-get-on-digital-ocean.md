@@ -6,7 +6,7 @@ date_created: 2016-03-25
 
 For some reason, downloading packages using `apt-get install` was unusually slow on DigitalOcean this week, barely exceeding 4kbps. Since DigitalOcean droplets are configured to download packages from mirrors.digitalocean.com, all I had to do was to revert them to the default Ubuntu sources using these two commands:
 
-```
+```bash
 sudo sed -i "s/mirrors.digitalocean/archive\.ubuntu/g" /etc/apt/sources.list
 sudo apt-get update
 ```

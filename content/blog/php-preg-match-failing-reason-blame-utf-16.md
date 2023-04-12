@@ -10,7 +10,7 @@ It turns out that the document was encoded in **UTF-16**, which PHP's `preg_*` f
 
 All you need to do is to convert your string to UTF-8 before running your regex matcher on it:
 
-```
+```php
 $string = mb_convert_encoding($raw_string, 'UTF-8', 'UTF-16');
 $string = preg_replace('/\t+/', "\t", $string); //Replaces multiple tabs with a single tab
 ```

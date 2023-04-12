@@ -16,7 +16,7 @@ In my case, it was because I pulled a corrupted remote Gerrit repository, and tr
 
 Fortunately, the fix is really easy. All you have to do is run those four commands:
 
-```
+```bash
 cp .git/config .git/config.backup
 git remote remove origin
 mv .git/config.backup .git/config

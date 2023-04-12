@@ -8,9 +8,9 @@ If your gerrit workflow requires you to automatically tag people, or if you alwa
 
 To do so, edit `.git/config` to include the following lines and substitute the email with your colleague's email:
 
-```
+```ini
 [remote "origin"]
- ...
- receivepack = git receive-pack --reviewer "other.reviewer@company.com"
+    ...
+    receivepack = git receive-pack --reviewer "other.reviewer@company.com"
 ```
 

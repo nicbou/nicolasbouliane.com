@@ -18,7 +18,7 @@ Playing with large data sets is a nice change from web development, and perhaps 
 
 As suggested by another user of the dataset, I reduced the file to half its size by converting from UTF-16 to UTF-8. As a side effect, that made it compatible with `sed` and other Linux utilities.
 
-```
+```bash
 iconv -f utf-16 -t utf-8 records.xml > tmp/utf8-records.xml
 ```
 
@@ -26,7 +26,7 @@ Using Python's XML library, I was able to effortlessly parse through the file an
 
 This was in part caused by the asinine structure of the document. All the nodes were directly under the same root node, and different attributes for a given record were only held together by their order in the document.
 
-```
+```xml
 <CEF_Data>
  <PersonID>1</PersonID>
  <DocumentNumber>000000001</DocumentNumber>
@@ -46,7 +46,7 @@ This made it impossible to clear the parsed XML nodes from memory. Instead of tw
 
 This seemingly simple operation was met with unexpected problems with Apple's different implementation of `sed` and `split`. Regardless, here is the complete preparation script with comments added ([GitHub mirror](https://github.com/nicbou/canadians-at-war/blob/master/canadian-expeditionary-force-members/fetch-data.sh)):
 
-```
+```bash
 #!/bin/bash 
 set -x
 
@@ -77,10 +77,10 @@ split -a4 -l50000 utf8-records.xml split-records/records
 # Add the root node back
 cd split-records
 for file in *; do
- echo -n "<CEF_Data>" > /tmp/tmpfile.$
- cat "$file" >> /tmp/tmpfile.$
- echo "</CEF_Data>" >> /tmp/tmpfile.$;
- mv /tmp/tmpfile.$ "$file"
+    echo -n "<CEF_Data>" > /tmp/tmpfile.$
+    cat "$file" >> /tmp/tmpfile.$
+    echo "</CEF_Data>" >> /tmp/tmpfile.$;
+    mv /tmp/tmpfile.$ "$file"
 done
 ```
 
@@ -96,49 +96,48 @@ Since every record follows the exact same format, the use of a slow, bulky XML p
 
 Here is the script I wrote to create database entries. It takes the XML file path as its first argument. ([GitHub mirror](https://github.com/nicbou/canadians-at-war/blob/master/canadian-expeditionary-force-members/parse-data.py))
 
-```
+```python
 import xml.etree.ElementTree as etree
 import sys
 from datetime import datetime, timedelta
 import psycopg2
 
 def save_person(person):
- format = {
- 'id': person['id'],
- 'reference_en': person.get('reference_en'),
- 'reference_fr': person.get('reference_fr'),
- 'surname': person.get('surname'),
- 'given_name': person.get('given_name'),
- 'birth_date1': person['birthdates'][0] if len(person['birthdates']) > 0 else None,
- 'birth_date2': person['birthdates'][1] if len(person['birthdates']) > 1 else None,
- 'regiment_nr1': person['regimental_numbers'][0] if len(person['regimental_numbers']) > 0 else None,
- 'regiment_nr2': person['regimental_numbers'][1] if len(person['regimental_numbers']) > 1 else None,
- 'regiment_nr3': person['regimental_numbers'][2] if len(person['regimental_numbers']) > 2 else None,
- 'image1': person['images'][0] if len(person['images']) > 0 else None,
- 'image2': person['images'][1] if len(person['images']) > 1 else None,
- 'image3': person['images'][2] if len(person['images']) > 2 else None,
- 'document_number': person.get('document_number'),
- }
- cursor.execute(
- """
- INSERT INTO people (
- id, birth_date1, regiment_nr1, regiment_nr2, regiment_nr3, reference_en, reference_fr, document_number, given_name, surname, image1, image2, image3
- )
- VALUES (
- %(id)s, %(birth_date1)s, %(regiment_nr1)s, %(regiment_nr2)s, %(regiment_nr3)s, %(reference_en)s, %(reference_fr)s, %(document_number)s, %(given_name)s, %(surname)s, %(image1)s, %(image2)s, %(image3)s
- )
- """,
- format
- )
+    format = {
+        'id': person['id'],
+        'reference_en': person.get('reference_en'),
+        'reference_fr': person.get('reference_fr'),
+        'surname': person.get('surname'),
+        'given_name': person.get('given_name'),
+        'birth_date1': person['birthdates'][0] if len(person['birthdates']) > 0 else None,
+        'birth_date2': person['birthdates'][1] if len(person['birthdates']) > 1 else None,
+        'regiment_nr1': person['regimental_numbers'][0] if len(person['      regimental_numbers']) > 0 else None,
+        'regiment_nr2': person['regimental_numbers'][1] if len(person['      regimental_numbers']) > 1 else None,
+        'regiment_nr3': person['regimental_numbers'][2] if len(person['      regimental_numbers']) > 2 else None,
+        'image1': person['images'][0] if len(person['images']) > 0 else None,
+        'image2': person['images'][1] if len(person['images']) > 1 else None,
+        'image3': person['images'][2] if len(person['images']) > 2 else None,
+        'document_number': person.get('document_number'),
+        }
+    cursor.execute(
+        """
+        INSERT INTO people (
+        id, birth_date1, regiment_nr1, regiment_nr2, regiment_nr3,reference_en, reference_fr, document_number, given_name, surname,image1, image2, image3
+        )
+        VALUES (
+        %(id)s, %(birth_date1)s, %(regiment_nr1)s, %(regiment_nr2)s, %regiment_nr3)s, %(reference_en)s, %(reference_fr)s, %document_number)s, %(given_name)s, %(surname)s, %(image1)s, %image2)s, %(image3)s
+        )
+        """,
+        format
+    )
 
 def print_progress(start, records_parsed):
- if records_parsed % 250 == 0:
- elapsed = datetime.now() - start
- formatted_elapsed = str(elapsed).split('.')[0]
- output = "{0}, {1} records parsed".format(formatted_elapsed, records_parsed)
- print(output)
- sys.stdout.write("\033[F")
- pass
+    if records_parsed % 250 == 0:
+        elapsed = datetime.now() - start
+        formatted_elapsed = str(elapsed).split('.')[0]
+        output = "{0}, {1} records parsed".format(formatted_elapsed, records_parsed)
+        print(output)
+        sys.stdout.write("\033[F")
 
 # This file is a flat list of XML elements under a <CEF_Data> node. Fortunately, they're ordered.
 # PersonId is the first element for each record.
@@ -154,36 +153,36 @@ cursor = conn.cursor()
 cursor.execute('BEGIN')
 
 for event, elem in etree.iterparse(filename, events=('end',)):
- if elem.tag not in ignored_tags:
- if elem.tag == 'RegimentalNumber':
- person['regimental_numbers'].append(elem.text)
- elif elem.tag == 'BirthDate':
- person['birthdates'].append(elem.text)
- elif elem.tag == 'ReferenceEn':
- person['reference_en'] = elem.text
- elif elem.tag == 'ReferenceFr':
- person['reference_fr'] = elem.text
- elif elem.tag == 'DocumentNumber':
- person['document_number'] = elem.text
- elif elem.tag == 'Surname':
- person['surname'] = elem.text
- elif elem.tag == 'GivenName':
- person['given_name'] = elem.text
- elif elem.tag == 'Image':
- person['images'].append(elem.text)
- elif elem.tag == 'PersonID': # New person
- person = {
- 'birthdates': [],
- 'regimental_numbers': [],
- 'images': [],
- }
- person['id'] = elem.text
- else:
- print('unexpected tag: {0}'.format(elem))
- elif elem.tag == 'DigitizeList': # Last tag for each person. This means we're done with that person
- records_parsed += 1
- print_progress(start, records_parsed)
- save_person(person)
+    if elem.tag not in ignored_tags:
+        if elem.tag == 'RegimentalNumber':
+            person['regimental_numbers'].append(elem.text)
+        elif elem.tag == 'BirthDate':
+            person['birthdates'].append(elem.text)
+        elif elem.tag == 'ReferenceEn':
+            person['reference_en'] = elem.text
+        elif elem.tag == 'ReferenceFr':
+            person['reference_fr'] = elem.text
+        elif elem.tag == 'DocumentNumber':
+            person['document_number'] = elem.text
+        elif elem.tag == 'Surname':
+            person['surname'] = elem.text
+        elif elem.tag == 'GivenName':
+            person['given_name'] = elem.text
+        elif elem.tag == 'Image':
+            person['images'].append(elem.text)
+        elif elem.tag == 'PersonID':  # New person
+            person = {
+                'birthdates': [],
+                'regimental_numbers': [],
+                'images': [],
+            }
+            person['id'] = elem.text
+        else:
+            print('unexpected tag: {0}'.format(elem))
+    elif elem.tag == 'DigitizeList':  # Last tag for each person. This means we're done with that person
+        records_parsed += 1
+    print_progress(start, records_parsed)
+    save_person(person)
 
 cursor.execute('COMMIT')
 ```

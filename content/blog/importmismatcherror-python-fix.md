@@ -26,7 +26,7 @@ Empty test suite.
 
 The solution to this error is simple: delete all `*.pyc` files in your project. You can do this with a simple command:
 
-```
+```bash
 find . -name \*.pyc -delete
 ```
 

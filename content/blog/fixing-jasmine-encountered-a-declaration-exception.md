@@ -8,19 +8,19 @@ If you ever come upon a Jasmine unit test that ends with "encountered a declarat
 
 Here's the code that caused it:
 
-```
+```javascript
 describe('should be hidden when the scope is destroyed', () => {
- this.scope.$broadcast('$destroy');
- expect(this.scope.helpTooltip.hide).toHaveBeenCalledWith();
+    this.scope.$broadcast('$destroy');
+    expect(this.scope.helpTooltip.hide).toHaveBeenCalledWith();
 });
 ```
 
 Can you spot the problem? It's simple: I used `describe` instead of `it`. Let's fix this...
 
-```
+```javascript
 it('should be hidden when the scope is destroyed', () => {
- this.scope.$broadcast('$destroy');
- expect(this.scope.helpTooltip.hide).toHaveBeenCalledWith();
+    this.scope.$broadcast('$destroy');
+    expect(this.scope.helpTooltip.hide).toHaveBeenCalledWith();
 });
 ```
 

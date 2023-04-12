@@ -26,7 +26,7 @@ Make sure you're using the newer Nextcloud image, the one you upgraded to by acc
 
 **First**, we need to know what version we *used* to have.
 
-```
+```bash
 # My docker image is called "nextcloud-php"
 docker-compose nextcloud-php cat config/config.php | grep version
 ```
@@ -39,7 +39,7 @@ The upgrade to Nextcloud 20 failed, but `version.php` was updated anyway, so Nex
 
 To do this, you will need a text editor. The `nextcloud` image does not have vi, vim or nano.
 
-```
+```bash
 docker-compose nextcloud-php apt-get update \
     && apt-get install nano \
     && nano config/config.php
@@ -47,7 +47,7 @@ docker-compose nextcloud-php apt-get update \
 
 Change `config.php`. Put your old version wherever it fits, and save your changes (Ctrl + X, Y, Enter).
 
-```
+```php
 <?php
 $OC_Version = array(18,0,11,2); // <----- HERE!
 $OC_VersionString = '18.0.11.2'; // <----- HERE!
@@ -66,7 +66,7 @@ $OC_VersionCanBeUpgradedFrom = array (
 
 **Fourth**, you must upgrade *one* major version. For example, from 18 to 19. Just change the version of the docker image, for example from `nextcloud:18.0.11` to `nextcloud:19`. Run `docker-compose up --build -d` again. You might need to turn the maintenance mode off yourself:
 
-```
+```bash
 docker-compose nextcloud-php php occ maintenance:mode --off
 ```
 

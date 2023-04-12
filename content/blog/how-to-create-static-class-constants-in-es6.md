@@ -8,20 +8,20 @@ ES6 brings classes to JavaScript, but some things are not immediately obvious or
 
 Here is the simplest way I have found to create constants:
 
-```
+```javascript
 class CurrentLocation {
- static get GEOLOCATION_ERROR() { return 'GEOLOCATION_ERROR'; }
- static get GEOLOCATION_REFUSED() { return 'GEOLOCATION_REFUSED'; }
- static get GEOLOCATION_ACQUIRED() { return 'GEOLOCATION_ACQUIRED'; }
- static get GEOLOCATION_PENDING() { return 'GEOLOCATION_PENDING'; }
+    static get GEOLOCATION_ERROR() { return 'GEOLOCATION_ERROR'; }
+    static get GEOLOCATION_REFUSED() { return 'GEOLOCATION_REFUSED'; }
+    static get GEOLOCATION_ACQUIRED() { return 'GEOLOCATION_ACQUIRED'; }
+    static get GEOLOCATION_PENDING() { return 'GEOLOCATION_PENDING'; }
 
- ...
+    // ...
 
- function isValid(){
- return this.status === CurrentLocationItem.GEOLOCATION_ACQUIRED
- }
+    function isValid(){
+        return this.status === CurrentLocationItem.GEOLOCATION_ACQUIRED
+    }
 }
 ```
 
-In the example below, you can use CurrentLocation.GEOLOCATION_ERROR anywhere, but myGeolocationItem.GEOLOCATION_ERROR will not exist, as static members are not visible to class instances. Moreover, children of the CurrentLocation class will not inherit these attributes.
+In the example below, you can use `CurrentLocation.GEOLOCATION_ERROR` anywhere, but `myGeolocationItem.GEOLOCATION_ERROR` will not exist, as static members are not visible to class instances. Moreover, children of the `CurrentLocation` class will not inherit these attributes.
 

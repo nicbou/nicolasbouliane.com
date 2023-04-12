@@ -6,7 +6,7 @@ date_created: 2013-08-16
 
 If you are looking to find a git commit by its message, use the following command:
 
-```
+```bash
 git log -S"facebook"
 ```
 

@@ -14,7 +14,7 @@ Using `rm -r .git/hooks` was also impossible. If `.git/hooks` was already symlin
 
 This is how we solved the problem:
 
-```
+```bash
 #!/bin/bash
 set -e # Script exits with 1 on error
 
@@ -24,11 +24,11 @@ link_to="../build/git-hooks"
 # Safely delete the folder or symlink
 if [[ -L $git_hooks_dir ]];
 then
- # Folder already symlinked. Recreate symlink in case the directory changed.
- rm -f $git_hooks_dir
+    # Folder already symlinked. Recreate symlink in case the directory changed.
+    rm -f $git_hooks_dir
 else
- # Possibly an existing, non-empty folder. 
- rm -rf $git_hooks_dir
+    # Possibly an existing, non-empty folder. 
+    rm -rf $git_hooks_dir
 fi
 
 # Create the symlink

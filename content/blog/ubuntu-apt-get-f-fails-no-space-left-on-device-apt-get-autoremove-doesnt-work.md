@@ -60,7 +60,7 @@ Well, you were almost there! All you need is to use `dpkg` instead of `apt-get p
 
 Before you try that, run this command to see which packages will be removed. This command has no side effects and will not delete anything:
 
-```
+```bash
 dpkg -l 'linux-*' | sed '/^ii/!d;/'"$(uname -r | sed "s/\(.*\)-\([^0-9]\+\)/\1/")"'/d;s/^[^ ]* [^ ]* \([^ ]*\).*/\1/;/[0-9]/!d'
 ```
 
@@ -68,7 +68,7 @@ Make sure that your current kernel version is not in that list. You can see your
 
 Once you are sure that you want to delete these kernel files, run this command to run `dpkg --remove` on each of them:
 
-```
+```bash
 dpkg -l 'linux-*' | sed '/^ii/!d;/'"$(uname -r | sed "s/\(.*\)-\([^0-9]\+\)/\1/")"'/d;s/^[^ ]* [^ ]* \([^ ]*\).*/\1/;/[0-9]/!d' | xargs dpkg --remove
 ```
 
@@ -97,7 +97,7 @@ Errors were encountered while processing:
 
 ## tl;dr
 
-```
+```bash
 dpkg -l 'linux-*' | sed '/^ii/!d;/'"$(uname -r | sed "s/\(.*\)-\([^0-9]\+\)/\1/")"'/d;s/^[^ ]* [^ ]* \([^ ]*\).*/\1/;/[0-9]/!d' | xargs dpkg --remove
 apt-get -f install
 ```
