@@ -1,6 +1,11 @@
+from pathlib import Path
 from ursus.config import config
 import logging
 import os
+
+config.content_path = Path(__file__).parent / 'content'
+config.templates_path = Path(__file__).parent / 'templates'
+config.output_path = Path(__file__).parent.parent / 'output'
 
 config.siteUrl = os.environ.get('siteUrl', 'https://nicolasbouliane.com')
 config.html_url_extension = ''
