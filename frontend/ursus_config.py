@@ -9,6 +9,8 @@ config.output_path = Path(__file__).parent.parent / 'output'
 
 config.siteUrl = os.environ.get('siteUrl', 'https://nicolasbouliane.com')
 config.html_url_extension = ''
+config.minify_js = True
+config.minify_css = True
 
 config.context_processors += (
     'ursus.context_processors.git_date.GitDateProcessor',
