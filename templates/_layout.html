@@ -32,6 +32,7 @@
     </main>
 </body>
 <script type="text/javascript">
+{% js %}
   /* Open footnotes when clicking on a footnote link */
   document.querySelectorAll('.footnote-ref').forEach(link => {
     link.addEventListener('click', e => {
@@ -43,6 +44,8 @@
     li.addEventListener('click', e => {
       li.classList.toggle('checked');
     })
-  })
+  });
+{% endjs %}
+{% alljs %}
 </script>
 </html>
