@@ -1,3 +1,4 @@
+{% css %}
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;grid-column-start:0;}
 
@@ -83,6 +84,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{di
     }
 
     pre{background: var(--color-background)!important;color:var(--color-text)!important;border:var(--border-light)}
+    img{background:var(--color-background-inverted);color:var(--color-text-inverted)}
 }
 
 html, body{scroll-behavior:smooth;font-family: var(--font-family-text);font-size: var(--font-size-m);line-height: var(--line-height);margin:0;padding:0;color: var(--color-text);background:var(--color-background)}
@@ -143,7 +145,7 @@ article{background:url('data:image/svg+xml;utf8,{% include "/img/end.svg" %}') n
 article svg:last-child{display:block;width:100px;margin:var(--spacing-text-m) auto var(--spacing-text-xl)}
 
 figure, :not(figure) > picture, :not(figure, picture) > img {display:block;margin:var(--spacing-text-l) 0;width:min(calc(100% + 2 * var(--page-borders)), 100vw);margin-left:calc(var(--page-borders) * -1);}
-    img{max-width:100%;max-height:100vh;width:auto;height:auto;display:block;border-radius:var(--border-radius);margin:0 auto;box-shadow:var(--box-shadow);grid-row-start:1;grid-column-end:span 1000;}
+    img{max-width:100%;max-height:100vh;width:auto;height:auto;display:block;border-radius:var(--border-radius);margin:0 auto;box-shadow:var(--box-shadow);grid-row-start:1;grid-column-end:span 1000;color:var(--color-text-light)}
     img[src*="/illustrations/"]{box-shadow:none}
     figcaption{font-style:italic;color:var(--color-text-light);margin-top:var(--spacing-text-s);text-align:center;}
 
@@ -168,3 +170,4 @@ figure, :not(figure) > picture, :not(figure, picture) > img {display:block;margi
 @media (prefers-reduced-motion: reduce) {
   *,:before,:after {animation-delay: -1ms !important;animation-duration: 1ms !important;animation-iteration-count: 1 !important;background-attachment: initial !important;scroll-behavior: auto !important;transition-duration: 0s !important;transition-delay: 0s !important;}
 }
+{% endcss %}
