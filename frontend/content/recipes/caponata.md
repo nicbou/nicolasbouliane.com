@@ -20,7 +20,7 @@ date_created: 2020-09-13
 - 75 ml red wine vinegar
 - 200 ml sunflower oil, or vegetable oil
 - 3 tbsp olive oil
-- 2 tsp chili flakes
+- 2 tsp red pepper flakes
 - 1 tbsp sugar
 - Salt
 - Bread, to serve
@@ -31,7 +31,7 @@ date_created: 2020-09-13
 2. Meanwhile, heat **sunflower oil** in a pan. You need enough oil to fry the vegetables. It should be hot enough to instantly brown a breadcrumb.
 3. Fry the aubergine and zucchini in batches until golden. Let the oil get hot again between batches. Let the fried cubes dry on paper towels or table clothes.
 4. In a separate pot, brown the **onion** and **celery** in **olive oil** with a pinch of **salt**.
-5. When the onion and celery begin to colour, add **chili flakes**. Fry for another minute.
+5. When the onion and celery begin to colour, add **red pepper flakes**. Fry for another minute.
 6. Add **tomatoes** and fry for an extra 3 minutes.
 7. Stir in the **capers**, **olives**, **raisins**, **sugar**, **tomato purée**, **red wine vinegar** and **chocolate**.
 8. Bring to a boil, then add the fried aubergine and zucchini.
