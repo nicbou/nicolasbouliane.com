@@ -2,6 +2,9 @@
 title: The Berlin airlift
 description: The grand story of the Berlin airlift in pictures. It's one of my favourite stories, and I couldn't help but share it with you.
 date_created: 2015-10-21
+categories: golden
+    berlin
+    history
 ---
 
 Shortly after the end of the Second World War, the victorious Allies met in Potsdam to organise the administration of post-war Germany.

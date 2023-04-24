@@ -2,6 +2,9 @@
 title: A map for every journey
 description: It's damn nice to know where you are, and where you're going.
 date_created: 2022-10-30
+categories: golden
+    allaboutberlin
+    essay
 ---
 
 Remember the world before Google Maps?

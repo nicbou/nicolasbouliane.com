@@ -2,6 +2,8 @@
 title: Add some color to the OSX Terminal
 description: If you find the OS X Terminal's lack of color hard on the eyes, here's how to set the colors.
 date_created: 2013-11-26
+categories: reference
+    technology
 ---
 
 If you find the OS X Terminal's lack of color hard on the eyes, here's how to set the colours.

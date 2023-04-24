@@ -18,6 +18,8 @@ config.context_processors += (
 
 config.context_globals = {
     'siteUrl': 'https://nicolasbouliane.com',
+    'is_golden': lambda uri, entry: 'golden' in entry.get('categories', []),
+    'is_not_golden': lambda uri, entry: 'golden' not in entry.get('categories', []),
 }
 
 config.image_transforms = {

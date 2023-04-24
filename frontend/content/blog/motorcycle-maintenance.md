@@ -2,6 +2,8 @@
 title: A matter of maintenance
 description: Long-distance motorcycle travel is a matter of maintenance.
 date_created: 2022-10-10
+categories: golden
+    motorcycle
 ---
 
 Long-distance motorcycle travel is a matter of maintenance. He who neglects that maintenance accrues a debt that must sooner or later be repaid. The longer the neglect, the harsher the terms of the repayment.

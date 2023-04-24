@@ -2,6 +2,8 @@
 title: Berlin now and then
 description: Over the course of a few months, I have mapped and recreated several historical photographs of Berlin.
 date_created: 2016-07-25
+categories: golden
+    berlin
 ---
 
 Over the course of a few months, I have mapped and recreated several historical photographs of Berlin. From the Spartacist uprising to the fall of the wall, here is a first set of pictures that show Berlin as it was, and as it is.

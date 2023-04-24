@@ -2,6 +2,8 @@
 title: Trading time for money
 description: Paying someone else to do your work isn't such a great deal, and you should probably learn to do it yourself.
 date_created: 2020-12-24
+categories: golden
+    money
 ---
 
 According to conventional wisdom, if you earn 31€/hour, and a task costs less than that to outsource, then you should always pay someone else to do it. For example, if your cleaning person charges 15€/hour, you save 16€ for every hour you spend at work instead of cleaning your house.
