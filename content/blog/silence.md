@@ -2,6 +2,8 @@
 title: Making quieter technology
 description: I spent the last years making technology calm and pleasant to use. This is roughly how I did it.
 date_created: 2022-08-07
+categories: golden
+    technology
 ---
 
 Technology's default mode is to constantly call for my attention. Attention is engagement, engagement is profit. Thus a big chunk of the economy devotes itself to grabbing my attention by increasingly coercive means. It took considerable effort to get technology to just *shut the fuck up*.

@@ -32,9 +32,11 @@ One of the Airpods isn't making contact with the charging case. Try to clean the
 
 ## One of the Airpods won't connect
 
-This happened frequently with my Samsung S9. When I opened the case, only one Airpod would connect. It was usually the same one every time.
+This happened frequently with my Samsung S9 and my Pixel 5. When I opened the case, only one Airpod would connect. It was usually the same one every time.
 
-The solution was to put that one Airpod in the case, wait 5 seconds, and take it out again. That usually worked. If it didn't, I'd have to disconnect the Airpods and connect them again. I did not have to unpair them. This issue never happened on my Pixel 5.
+The solution was to put that one Airpod in the case, wait 5 seconds, and take it out again. That usually worked. If it didn't, I'd have to disconnect the Airpods and connect them again. I did not have to unpair them.
+
+This also happens if the Airpod and the case are discharged. The Airpod will appear to be independent from the other.
 
 ## There is a faint hiss when using the Airpods
 
