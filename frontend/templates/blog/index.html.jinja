@@ -7,7 +7,7 @@
     <h1>Blog</h1>
     <h2>Timeless posts</h2>
     <ul class="entry-list">
-        {% for entry in get_entries('blog', filter=is_golden, sort_by='date_created', reverse=True) %}
+        {% for entry in get_entries('blog', filter_by=is_golden, sort_by='date_created', reverse=True) %}
             <li>
                 <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
                 <h3><a rel="bookmark" href="{{ entry.url }}">{{ entry.title }}</a></h3>
@@ -17,7 +17,7 @@
     </ul>
     <h2>Everything else</h2>
     <ul class="entry-list">
-        {% for entry in get_entries('blog', filter=is_not_golden, sort_by='date_created', reverse=True) %}
+        {% for entry in get_entries('blog', filter_by=is_not_golden, sort_by='date_created', reverse=True) %}
             <li>
                 <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%-b %Y') }}</time>
                 <h3><a rel="bookmark" href="{{ entry.url }}">{{ entry.title }}</a></h3>
