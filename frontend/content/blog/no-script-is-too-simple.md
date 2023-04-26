@@ -16,7 +16,7 @@ restore-db.sh
 save-composer-dependencies.sh
 ```
 
-Those scripts are all pretty simple. They're under 10 lines long and take no arguments. Some just call a single command, so why bother creating them? Because they are [digital mise en place](/blog/mise-en-place)
+Those scripts are all pretty simple. They're under 10 lines long and take no arguments. Some just call a single command, so why bother creating them? Because they are [digital mise en place](/blog/mise-en-place).
 
 ## One task, one way
 
@@ -26,5 +26,4 @@ This script contains the only valid instructions for starting the project. **It'
 
 With all those people and machines working off the same scripts, it pays to improve them. You can add usability improvements that will benefit the whole team. You can check the python/node/docker versions, add error handling, remove noise from the output, add colours and headers to build steps, and even interactivity.
 
-**Script calls are also more explicit than commands**. A Jenkins job that calls ```lint-source.sh && start.sh && run-tests.sh && ...` is pretty self-explanatory. A script called `create-user.sh` is easier to remember than `docker-compose exec backend python3 manage.py createsuperuser`. This is especially nice when you frequently switch between projects, and constantly need to recall how each one works.
-
+**Script calls are also more explicit than commands**. A Jenkins job that calls `lint-source.sh && start.sh && run-tests.sh && ...` is pretty self-explanatory. A script called `create-user.sh` is easier to remember than `docker-compose exec backend python3 manage.py createsuperuser`. This is especially nice when you frequently switch between projects, and constantly need to recall how each one works.
