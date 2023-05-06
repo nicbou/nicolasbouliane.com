@@ -8,10 +8,10 @@ categories: golden
 
 If you learn something the hard way, it's your duty to share your findings with others. Information is cheap to create, but it's immensely valuable to those who follow in your steps.
 
-I owe a debt of gratitude to people who saved my bacon, when I was fifty tabs deep into a problem, teetering on the edge of sanity. I repay them by paying it forward.
+I owe a debt of gratitude to people who saved my bacon, when I was fifty tabs deep into a problem, teetering on the edge of sanity. I repay this debt by helping those who come after me.
 
-When I think "it should not have been this hard to find out", I make it easier for others. Over the years, I have documented everything from [ffmpeg incantations](/blog/ffmpeg-extract-subtitles) to [Uzbek petrol stations](https://www.openstreetmap.org/changeset/72463537). I made a career out of [documenting German bureaucracy](/projects/all-about-berlin).
+When I think "it should not have been this hard to find out", I make it easier to find out. Over the years, I have documented everything from [ffmpeg incantations](/blog/ffmpeg-extract-subtitles) to [Uzbek petrol stations](https://www.openstreetmap.org/changeset/72463537). I even made a career out of [documenting German bureaucracy](/projects/all-about-berlin).
 
-A journey is much easier when previous travellers marked the trail before you.
+A journey is much easier when previous travellers have marked the trail for you. I aim to mark as many trails as I can.
 
 ![Hiking map with hand-drawn annotations](/images/annotated-map.jpg)
