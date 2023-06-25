@@ -55,5 +55,6 @@ It's far from perfect, but that's the best I can do for now. I'm open to ideas.
 
 ## Related ideas
 
+- [The duty to document](/blog/duty-to-document)
 - [Guerilla public service](https://www.okwhatever.org/topics/selfie/guerrilla-public-service) and the [guerilla groundsman](https://twitter.com/guerrgroundsman)'s random acts of tidying.
 
