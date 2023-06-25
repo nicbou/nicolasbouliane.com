@@ -6,12 +6,16 @@ categories: golden
     technology
 ---
 
-If you learn something the hard way, it's your duty to share your findings with others. Information is cheap to create, but it's immensely valuable to those who follow in your steps.
-
-I owe a debt of gratitude to people who saved my bacon, when I was fifty tabs deep into a problem, teetering on the edge of sanity. I repay this debt by helping those who come after me.
-
-When I think "it should not have been this hard to find out", I make it easier to find out. Over the years, I have documented everything from [ffmpeg incantations](/blog/ffmpeg-extract-subtitles) to [Uzbek petrol stations](https://www.openstreetmap.org/changeset/72463537). I even made a career out of [documenting German bureaucracy](/projects/all-about-berlin).
-
-A journey is much easier when previous travellers have marked the trail for you. I aim to mark as many trails as I can.
+If you learn something the hard way, share your findings with others. You have blazed a new trail; now you must mark it for your fellow travellers. Sharing knowledge is an unreasonably effective way of helping others.
 
 ![Hiking map with hand-drawn annotations](/images/annotated-map.jpg)
+
+I owe a debt of gratitude to those whose knowledge helped me debug software, repair bicycles, choose camping gear, start a business, and deal with anything life throws at me.
+
+I repay that debt by marking my own trails. When I think "it should not have been this hard to find out", I make it easier to find out. Over the years, I have documented everything from [ffmpeg incantations](/blog/ffmpeg-extract-subtitles) to [Uzbek petrol stations](https://www.openstreetmap.org/changeset/72463537), and made a career out of [documenting German bureaucracy](/projects/all-about-berlin).
+
+I figure that if you have knowledge that could benefit thousands of people, and it costs you next to nothing to share that knowledge, it's your duty to do it.
+
+## Related ideas
+
+- [A map for everything](/blog/maps)
