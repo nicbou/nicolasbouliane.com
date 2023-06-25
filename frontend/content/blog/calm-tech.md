@@ -8,20 +8,20 @@ categories: golden
 
 Some time ago, I fell in love with Amber Case's concept of [calm tech](https://calmtech.com/): technology that requires the smallest possible amount of attention.
 
-Amber spoke of calm tech in the context of interaction design. Calm technology can inform without overburdening, communicate without interrupting, and create ambient awareness through all senses.
+Amber spoke of calm tech in the context of interaction design: calm technology can inform without overburdening, communicate without interrupting, and create ambient awareness through all senses.
 
-These are great principles, but on important aspect is missing: calm requires trust. Tech you can't trust is not calm; it's just silent.
+These are great principles, but an important aspect is missing: calm requires trust. Tech you can't trust is not calm; it's just silent.
 
 I suggest a different set of rules for calm tech:
 
 1. **Only act in the user's best interests**
-    1. Defaults should benefit the user, not third parties.
-    2. Recommendations should benefit the user, not third parties.
+    1. Make recommendations that benefit the user, not third parties.
 2. **Require as little attention as possible**
     1. A person's primary task should not be computing, but being human.
     2. Inform without overburdening.
 3. **Do not keep secrets from the user**
     1. Only share information in ways the user intended.
+    2. Only behave in ways the user intended. If unsure, ask for consent.
 4. **Keep the user in control**
     1. Advise, but do not demand. The user has the final say.
     2. Get active, informed consent, and respect the user's decision.
