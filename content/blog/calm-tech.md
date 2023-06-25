@@ -15,17 +15,17 @@ These are great principles, but on important aspect is missing: calm requires tr
 I suggest a different set of rules for calm tech:
 
 1. **Only act in the user's best interests**
-    a. Defaults should benefit the user, not third parties.
-    b. Recommendations should benefit the user, not third parties.
+    1. Defaults should benefit the user, not third parties.
+    2. Recommendations should benefit the user, not third parties.
 2. **Require as little attention as possible**
-    a. A person's primary task should not be computing, but being human.
-    b. Inform without overburdening.
+    1. A person's primary task should not be computing, but being human.
+    2. Inform without overburdening.
 3. **Do not keep secrets from the user**
-    a. Only share information in ways the user intended.
+    1. Only share information in ways the user intended.
 4. **Keep the user in control**
-    a. Advise, but do not demand. The user has the final say.
-    b. Get active, informed consent, and respect the user's decision.
-    c. Do not hold the user's data hostage.
+    1. Advise, but do not demand. The user has the final say.
+    2. Get active, informed consent, and respect the user's decision.
+    3. Do not hold the user's data hostage.
 5. **Operate safely without supervision**
-    a. Automated actions should respect the user's intent.
-    b. Failures should call for the user's attention.
+    1. Automated actions should respect the user's intent.
+    2. Failures should call for the user's attention.
