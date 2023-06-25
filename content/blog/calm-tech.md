@@ -20,12 +20,21 @@ I suggest a different set of rules for calm tech:
     1. A person's primary task should not be computing, but being human.
     2. Inform without overburdening.
 3. **Do not keep secrets from the user**
-    1. Only share information in ways the user intended.
-    2. Only behave in ways the user intended. If unsure, ask for consent.
+    1. Only use information in ways the user intends.
+    2. Do not deceive, mislead or lie to the user.
 4. **Keep the user in control**
+    1. Let the user choose how their own way of doing things
     1. Advise, but do not demand. The user has the final say.
     2. Get active, informed consent, and respect the user's decision.
     3. Do not hold the user's data hostage.
 5. **Operate safely without supervision**
     1. Automated actions should respect the user's intent.
     2. Failures should call for the user's attention.
+
+## Only act in the user's best interests
+
+
+
+## Related ideas
+
+- Steve Jobs' [bicycle of the mind](https://www.youtube.com/watch?v=W5o7umYvqlw)
