@@ -31,10 +31,6 @@ I suggest a different set of rules for calm tech:
     1. Automated actions should respect the user's intent.
     2. Failures should call for the user's attention.
 
-## Only act in the user's best interests
-
-
-
 ## Related ideas
 
 - Steve Jobs' [bicycle of the mind](https://www.youtube.com/watch?v=W5o7umYvqlw)
