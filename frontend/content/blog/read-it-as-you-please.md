@@ -16,4 +16,4 @@ In any case, the content won't look much different. It might be missing the widg
 
 If the website goes down, get it from archive.org. The pages are built to keep working on their own, even if the rest of the website vanishes.
 
-Information wants to be free. The medium through which it's consumed should not be opinionated. It should be as permissive as possible.
+Information wants to be free. The medium through which it's consumed should be as permissive as possible.
