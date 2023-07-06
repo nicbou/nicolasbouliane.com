@@ -5,7 +5,7 @@ date_created: 2023-04-12
 repo_url: https://github.com/nicbou/ursus/
 ---
 
-I built a static site generator for [All About Berlin](https://allaboutberlin.com/). Now it also powers my personal website.
+I built a static site generator for [All About Berlin](https://allaboutberlin.com/). It also powers my personal website.
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -15,11 +15,11 @@ A static site generator. It turns a bunch of text files into a website.
 
 All About Berlin once ran on [Craft CMS](https://craftcms.com/), which is a bit like WordPress. To make changes, I logged into the admin area, made changes with a rich text editor, and saved them to a database. The server rendered the database content into pages.
 
-Now the content is a bunch of markdown files on my computer. When I run a command, they're turned into a website. In other words, instead of generating pages on demand, I generate them in advance.
+Now the content is a bunch of markdown files on my computer. When I run a command, they're turned into a website. In other words, instead of generating pages on demand on the server, I generate them in advance, on my laptop.
 
 ## Why a static site generator?
 
-A static site generator has many benefits over a content management system. Many of those are specific to how I like to work.
+A static site generator has many benefits over a content management system. Many of those are specific to how I work.
 
 ### Work offline
 
@@ -29,19 +29,21 @@ This lets me work in more interesting places, where reliable internet is not gua
 
 ### Lightweight server
 
-Static websites are just a bunch of files: HTML pages, images, and a few PDFs. The server does not have to render anything itself. It just serves pre-rendered files.
+Static websites are just a bunch of files: HTML pages, images, and a few PDFs. The server returns pre-rendered pages, instead of building them on the fly.
 
-This requires a far simpler server with far fewer moving parts. There is no PHP interpreter, no database, and no elaborate caching mechanism. This means less code to run, less software to keep updated, and fewer things a hacker can exploit.
+This requires a far simpler server with far fewer moving parts. There is no PHP interpreter, no heavy database, and no elaborate caching mechanism. This means less code to run, less software to keep updated, and fewer things a hacker can exploit.
 
 Just look at the server load before and after the migration to Ursus.
 
 ![Resource usage before and after the deployment](/images/illustrations/allaboutberlin-before-after.jpg "The day the fans fell silent")
 
+A lightweight server runs smoothly on older hardware, like the laptop I usually work on. The old setup would bring it to a crawl and halve its battery life.
+
 ### Bring your own tools
 
 My content was locked in a database that only Craft CMS could work with. I could only edit the content with the tools Craft CMS gave me. Those tools were rather restrictive.
 
-Now the content is a bunch of text files. I can edit and transform them with an endless arsenal of tools. Those are the tools I've been using for over a decade: Sublime Text, grep, sed, git, etc.
+Now the content is a bunch of text files. I can edit and transform them with an endless arsenal of tools. Those are the tools I've been using for over a decade: Sublime Text, grep, sed, git, etc. I even wrote a few myself, such as content linters and link checkers.
 
 I can apply fixes across hundreds of pages with regular expressions. Changes that were once too tedious to even consider now take a few seconds. Even simple things like linking to other pages became so much easier with Sublime Text's autocomplete.
 
