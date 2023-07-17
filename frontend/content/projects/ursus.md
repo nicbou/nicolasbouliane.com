@@ -5,7 +5,7 @@ date_created: 2023-04-12
 repo_url: https://github.com/nicbou/ursus/
 ---
 
-I built a static site generator for [All About Berlin](https://allaboutberlin.com/). It also powers my personal website.
+I built a static site generator for [All About Berlin](https://allaboutberlin.com/). It also powers my personal website. It's open source; you can find the code on [Github](https://github.com/nicbou/ursus/).
 
 {% include "blocks/_tableOfContents.html" %}
 
