@@ -19,9 +19,9 @@ They look like the same character, but when compared, they are not equivalent:
 False
 ```
 
-To avoid problems, we pick one way of representing accented characters, and we stick to it. This is called *normalization*. There are two normalization forms: NFD, which prefers composed characters (like U+00DC), and NFD, which prefers decomposed characters (like U+0055 plus U+0308).
+To avoid problems, we pick one way of representing accented characters, and we stick to it. This is called *normalization*. There are two normalization forms: NFC, which prefers composed characters (like U+00DC), and NFD, which prefers decomposed characters (like U+0055 plus U+0308).
 
-Different software and filesystems use different normalization forms. This can lead to problems. For example, **I used rsync to move files between two Macs, and it converted NFC filenames to NFD**. This broke All About Berlin, who looked for pages like `./glossary/Bürgergeld.md` that no longer existed. The `ü` in `Bürgergeld.md` was represented differently in the code, and in the filename.
+Different software and filesystems use different normalization forms. This can lead to problems. For example, **I used Syncthing to backup files, and it converted NFC filenames to NFD**. This broke All About Berlin, who looked for pages like `./glossary/Bürgergeld.md` that no longer existed. The `ü` in `Bürgergeld.md` was represented differently in the code, and in the filename.
 
 I wrote a small script to fix this. It's at the end of this post.
 
@@ -37,7 +37,7 @@ True
 True
 ```
 
-After rsync borked my files with Unicode characters in them, I wrote this short script to fix it. It converts the file names back to NFD.
+After Syncthing borked my files with Unicode characters in them, I wrote this short script to fix it. It converts the file names back to NFD.
 
 ```python
 #!/usr/bin/env python3
@@ -50,3 +50,7 @@ for file in list_of_files:
     if current_form != normalized_form:
         Path(file).rename(normalized_form)
 ```
+
+## Syncthing and unicode normalization
+
+By default, Syncthing automatically fixes unicode normalization errors. In my case, it kept renaming the files to the "wrong" format used by All About Berlin's files. You can change the [`autoNormalize` setting](https://docs.syncthing.net/advanced/folder-autonormalize.html) to `false` in your [`config.xml`](https://docs.syncthing.net/users/config.html), and that will disable that feature.
