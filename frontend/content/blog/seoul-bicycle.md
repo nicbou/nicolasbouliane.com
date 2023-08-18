@@ -32,8 +32,9 @@ Start with [this article](https://www.expatguidekorea.com/article/buying-a-bike-
 
 This is where I found decent bikes:
 
-- [Korea Bicycle Market](https://www.facebook.com/groups/1925380707494620) and [Bicycle Buy and Sale Korea](https://www.facebook.com/groups/287295429283819). Both are for English speakers. The latter is filled with spam posts.
+- [Korea Bicycle Market](https://www.facebook.com/groups/1925380707494620), [Bicycle Buy and Sale Korea](https://www.facebook.com/groups/287295429283819) (mostly spam) and [Bicycle Classifieds Seoul](https://www.facebook.com/groups/BicycleClassifiedsSeoul/)
 - [Dossa](https://corearoadbike.com/). A Korean-speaking bike community with a [market section](https://corearoadbike.com/board/board.php?t_id=Menu02Top1).
 - [Dongmyo flea market](https://goo.gl/maps/vsYf8zCFU9QW9qBh8) has some used bikes, and some new. When I visited, the used bikes were in really poor condition.
+- [Craigslist](https://seoul.craigslist.org/search/bia) has a dozen bikes.
 - [Wright Brothers](https://wrightbrothers.kr). A well-known bike store. They have English-speaking staff, and they sell new and used bikes. The used-bikes are fairly priced, but they are not so cheap.
 - [Bikely](https://goo.gl/maps/2r5VZVSqPVjLb7ay8) does not sell used bikes, but they are the only store I found that carries touring bikes, panniers, and other touring accessories.
