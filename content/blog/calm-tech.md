@@ -10,7 +10,9 @@ Some time ago, I fell in love with Amber Case's concept of [calm tech](https://c
 
 Amber spoke of calm tech in the context of interaction design: calm technology can inform without overburdening, communicate without interrupting, and create ambient awareness through all senses. I fell in love with those principles; they shaped my design philosophy.
 
-But an important aspect is missing: calm requires trust. If you can't trust your software and your devices to be on your side, they are not calm; they are just silent, like predators.
+But an important aspect is missing: calm requires trust. If you can't trust your device or software to be on your side, it's not calm; it's just silent.
+
+![Hostile technology](/images/hostile-tech.png)
 
 I suggest a different set of rules for calm tech:
 
