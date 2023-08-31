@@ -20,7 +20,7 @@ The act of maintenance itself is a form of therapy. Cleaning, mending, oiling an
 
 Long-distance motorcycle travel is a matter of maintenance. Riding is the easy part.
 
-![Motorcycle explosion](/images/illustrations/motorcycle-accident-explosion-b.png)
+![Motorcycle explosion](/images/illustrations/motorcycle-accident-explosion-c.png)
 
 ## Related ideas
 
