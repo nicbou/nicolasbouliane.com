@@ -12,7 +12,7 @@ Amber spoke of calm tech in the context of interaction design: calm technology c
 
 But an important aspect is missing: calm requires trust. If you can't trust your device or software to be on your side, it's not calm; it's just silent.
 
-![Hostile technology](/images/hostile-tech.png)
+![Hostile technology](/images/illustrations/hostile-tech.png)
 
 I suggest a different set of rules for calm tech:
 
