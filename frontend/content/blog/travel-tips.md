@@ -10,11 +10,13 @@ This is an assortment of travel tips I have picked up over the years. Most of it
 
 ## Planning
 
-Most travel advice is written by travel bloggers or content marketer. The former spent two weeks in the country. The latter never left their office. Just ask ChatGPT instead.
+Most travel advice is written by travel bloggers or content marketers. The former spent two weeks in the country and the latter never left their office. They rehash the same recommendations as countless other blogs.
+
+ChatGPT gives you rehashed advice with half the fuss:
 
 > **ChatGPT prompt:** Give me a list of things to see in [city]. For each place, create a URL that searches for the place on Google Maps.
 
-Do a bit of research about the weather there. If you're biking across Korea, don't bring a leather jacket and an oversized hoodie that take half of your luggage. I use [Ventusky](https://www.ventusky.com/) to see the weather on a map.
+Do a bit of research about the weather there. If you're biking across Korea, don't bring a leather jacket and an oversized hoodie that take half of your luggage. I use [Weatherspark](https://weatherspark.com/) to look up historical weather, and [Ventusky](https://www.ventusky.com/) to see where the weather is currently going.
 
 A good book about your destination can infuse your experience with nuance and understanding. Look for evocative books like "Maximum City" or "Stasiland". In a pinch, try *[Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions)*. If you're not sure, ask the [local subreddit](https://old.reddit.com/r/LocationReddits/wiki/index) for suggestions.
 
@@ -67,6 +69,8 @@ Reset frequently. By that I mean eating, resting, charging your devices, drying 
 [Long-distance travel is a matter of maintenance](/blog/motorcycle-maintenance). If you neglect it for too long, you expose yourself to a cascading failure. A small problem turns into big one because you have no cash, your phone died, you're out of water and your tent is still wet.
 
 ## Mental health
+
+Travel fatigue can make you an idle, apathetic mess. It comes to me as an acute case of decision fatigue. I long for the comfort of familiarity and routine. I usually take this as my cue to wrap up the trip and head home, but sometimes a really good curry grounds me just the same.
 
 Remember that a trip is a vacation. Allow yourself to sleep in and to linger in cafés with a good book. Indulge in idleness; no one is judging you.
 
