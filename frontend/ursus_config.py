@@ -40,6 +40,13 @@ config.image_transforms = {
     },
 }
 
+config.linters = (
+    # 'ursus.linters.markdown.MarkdownExternalLinksLinter',
+    'ursus.linters.images.UnusedImagesLinter',
+    'ursus.linters.markdown.MarkdownLinkTextsLinter',
+    'ursus.linters.markdown.MarkdownLinkTitlesLinter',
+)
+
 config.logging = {
     'datefmt': '%H:%M:%S',
     'fmt': '%(asctime)s %(levelname)s [%(name)s:%(lineno)d] %(message)s',
