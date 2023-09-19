@@ -5,11 +5,11 @@ date_created: 2023-09-19
 project_url: https://allaboutberlin.com/docs/anmeldun
 ---
 
-When you move in Berlin, you must register your address. This involves filling a paper form and delivering it in person (on appointment only). This is called the *Anmeldung*.
+When you move in Berlin, you must [register your address](https://allaboutberlin.com/guides/anmeldung-in-english-berlin). This involves filling a paper form and delivering it in person - by appointment only - to the Bürgeramt. This is called the *Anmeldung*.
 
-The *Anmeldung* form sucks. It sucked 8 years ago and it sucks now. It's ambiguous and confusing and I hate it.
+The *Anmeldung* form sucks. It sucked 8 years ago and it sucks now. It's ambiguous and confusing and I hate it, so I made a better one.
 
-So I made a better one. **[You can try it here.](https://allaboutberlin.com/docs/anmeldung)**
+**[You can try it here.](https://allaboutberlin.com/docs/anmeldung)**
 
 ![Anmeldung form filler screenshot](/images/anmeldung-form-filler.png "It's actually digital!")
 
