@@ -2,8 +2,7 @@
 title: Anmeldung form filler
 description: A tool to help you fill the Anmeldung form.
 date_created: 2023-09-19
-project_url: https://allaboutberlin.com/docs/anmeldung
-featured_image: images/anmeldung-form-filler.png
+project_url: https://allaboutberlin.com/docs/anmeldun
 ---
 
 When you move in Berlin, you must register your address. This involves filling a paper form and delivering it in person (on appointment only). This is called the *Anmeldung*.
