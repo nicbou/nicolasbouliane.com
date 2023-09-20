@@ -42,5 +42,5 @@ Yet, beyond the monuments and the restaurants, the small cultural differences ar
 
 **Metrification is not half-assed.** Us Canadians still use feet and inches a lot, despite having switched to metric 4 decades ago. Europeans measure in meters and grams, formally or informally.
 
-**The allergies will break you.** I never suffered as much from my allergies as I did in Europe. This seems to be the case for many other travellers, so make sure you come prepared.
+**The allergies will break you.** I never suffered as much from my allergies as I did in Europe. This seems to be the case for many other travellers, so make sure you [come prepared](https://allaboutberlin.com/guides/hay-fever).
 
