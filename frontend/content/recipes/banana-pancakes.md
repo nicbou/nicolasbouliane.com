@@ -2,6 +2,8 @@
 title: Banana pancakes
 description: A sweet pancake recipe that's quicker, easier and tastier than regular crêpes.
 date_created: 2020-09-18
+tags:
+    breakfast
 ---
 
 ## Ingredients

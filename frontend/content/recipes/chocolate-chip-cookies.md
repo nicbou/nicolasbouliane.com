@@ -3,6 +3,8 @@ title: Chocolate chip cookies
 description: This is my adaptation of Jamie Oliver's chocolate chip cookies recipe.
 date_created: 2020-09-13
 featured_image: images/cookies-after.jpg
+tags:
+    dessert
 ---
 
 ## Ingredients

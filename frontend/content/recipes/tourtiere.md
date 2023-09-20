@@ -3,6 +3,8 @@ title: Tourtière du Lac-Saint-Jean
 description: A traditional recipe from my region, best enjoyed during the holidays.
 date_created: 2020-09-13
 featured_image: images/tourtiere.jpg
+tags:
+    quebec
 ---
 
 ## Ingredients

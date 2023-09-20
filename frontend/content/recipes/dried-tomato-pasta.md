@@ -2,6 +2,8 @@
 title: Dried tomato pasta
 description: Quick and easy pasta that has no business being this tasty.
 date_created: 2023-05-08
+tags:
+    vegetarian
 ---
 
 This is my standard oh-damn-it's-Sunday-and-I-didn't-buy-food dish. It only requires pantry ingredients, and optionally parsley from the balcony garden.

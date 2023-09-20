@@ -2,6 +2,9 @@
 title: Feta Päckchen
 description: A great vegetarian addition to the grill.
 date_created: 2023-04-22
+tags:
+    grill
+    vegetarian
 ---
 
 ## Ingredients

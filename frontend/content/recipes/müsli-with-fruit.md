@@ -2,6 +2,8 @@
 title: Müsli with fruit
 description: Fancy breakfast cereal for consummate morning people.
 date_created: 2022-06-18
+tags:
+    breakfast
 ---
 
 ## Ingredients
