@@ -7,11 +7,25 @@
     <h1>Recipes</h1>
     <ul class="entry-list">
         {% for entry in get_entries('recipes', sort_by='date_created', reverse=True) %}
-            <li>
-                <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
-                <h2><a rel="bookmark" href="{{ entry.url }}">{{ entry.title }}</a></h2>
-                <p>{{ entry.description }}</p>
-            </li>
+            {% if 'untested' not in entry.get('tags', []) %}
+                <li>
+                    <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
+                    <h2><a rel="bookmark" href="{{ entry.url }}">{{ entry.title }}</a></h2>
+                    <p>{{ entry.description }}</p>
+                </li>
+            {% endif %}
+        {% endfor %}
+    </ul>
+    <h2>Untested recipes</h2>
+    <ul class="entry-list">
+        {% for entry in get_entries('recipes', sort_by='date_created', reverse=True) %}
+            {% if 'untested' in entry.get('tags', []) %}
+                <li>
+                    <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
+                    <h2><a rel="bookmark" href="{{ entry.url }}">{{ entry.title }}</a></h2>
+                    <p>{{ entry.description }}</p>
+                </li>
+            {% endif %}
         {% endfor %}
     </ul>
 {% endblock %}
