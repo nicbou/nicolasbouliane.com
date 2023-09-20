@@ -2,7 +2,7 @@
 title: Pulled pork
 description: A simple, delicious pulled pork recipe that makes your whole house smell like heaven.
 date_created: 2020-09-13
-featured_image: images/pulled-pork.jp
+featured_image: images/pulled-pork.jpg
 ---
 
 ## Ingredients
