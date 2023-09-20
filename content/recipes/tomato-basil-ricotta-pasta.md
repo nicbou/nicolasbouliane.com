@@ -3,6 +3,9 @@ title: Tomato, basil and ricotta pasta
 description: A simple, tasty weekday recipe that hinges on a few fresh ingredients.
 date_created: 2021-06-09
 featured_image: images/PXL_20210607_174128590.jpg
+tags:
+    pasta
+    vegetarian
 ---
 
 ## Ingredients

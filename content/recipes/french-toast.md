@@ -3,6 +3,8 @@ title: French toast
 description: Simple eggy toast, perfected.
 date_created: 2022-08-06
 featured_image: images/PXL_20220806_095550631.jpg
+tags:
+    breakfast
 ---
 
 ## Ingredients

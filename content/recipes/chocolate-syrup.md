@@ -2,6 +2,8 @@
 title: Chocolate syrup
 description: Simple chocolate syrup for crêpes and ice cream.
 date_created: 2021-04-15
+tags:
+    dessert
 ---
 
 ## Ingredients

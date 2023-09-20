@@ -3,6 +3,10 @@ title: Spicy thai noodles
 description: A semi-spicy vegan pasta recipe with cilantro, carrots and honey, soy sauce. Trust me, it just works.
 date_created: 2020-09-13
 featured_image: images/spicy-thai-noodles.jpg
+tags:
+    pasta
+    vegan
+    vegetarian
 ---
 
 ## Ingredients

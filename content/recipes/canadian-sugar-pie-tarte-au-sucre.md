@@ -2,6 +2,8 @@
 title: Canadian sugar pie
 description: Tarte au sucre is a traditional dessert from Quebec. It's quick to prepare, and quick to disappear. It's not a French tarte au sucre.
 date_created: 2020-10-25
+tags:
+    dessert
 ---
 
 ## Ingredients

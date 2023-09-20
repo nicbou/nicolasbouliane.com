@@ -2,6 +2,8 @@
 title: Crêpes
 description: Classic French crêpes, the easy way. The "two-two-one" name comes from the ratio of ingredients.
 date_created: 2020-12-10
+tags:
+    breakfast
 ---
 
 ## Ingredients
