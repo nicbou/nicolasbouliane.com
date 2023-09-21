@@ -72,3 +72,5 @@ Anachronistic problems demand anachronistic solutions!
 ### Go fully digital
 
 Or why not skip paper entirely? During COVID, we filled information online, and showed a QR code at the test centre. Why can't the Bürgeramt have that? Even with in-person appointments, a QR code or a short URL would make paper forms entirely unnecessary.
+
+*This story made the front page of Hacker News. You should [read the comments](https://news.ycombinator.com/item?id=37566992) there.*
