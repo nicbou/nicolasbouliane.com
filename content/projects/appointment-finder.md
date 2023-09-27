@@ -1,5 +1,5 @@
 ---
-title: Appointment finder
+title: Bürgeramt appointment finder
 description: A tool that helps you grab one of those elusive Bürgeramt appointments.
 date_created: 2022-02-22
 project_url: https://allaboutberlin.com/tools/appointment-finder
