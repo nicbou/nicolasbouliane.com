@@ -6,13 +6,13 @@ project_url: https://allaboutberlin.com/tools/appointment-finder
 repo_url: https://github.com/nicbou/burgeramt-appointments-websockets
 ---
 
-Most of the German bureaucracy happens in person, by appointment. In 2022, I built [a bot to find a Bürgeramt appointment](https://allaboutberlin.com/tools/appointment-finder). It helps recent immigrants [register their address](https://allaboutberlin.com/glossary/Anmeldung) sooner, and get faster access to government services.
+Most of the German bureaucracy happens in person, by appointment. In 2022, I built [a bot to find Bürgeramt appointments](https://allaboutberlin.com/tools/appointment-finder). It helps recent immigrants [register their address](https://allaboutberlin.com/glossary/Anmeldung) sooner, and get faster access to government services.
 
 **[Try it yourself](https://allaboutberlin.com/tools/appointment-finder)** or [see the code on GitHub](https://github.com/nicbou/burgeramt-appointments-websockets).
 
 ![The Bürgeramt appointment finder UI](/images/appointment-finder.png)
 
-This page explains why I built this tool, and how I got it approved by the city of Berlin.
+This page explains why I built this tool, and how it got approved by the city of Berlin.
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -20,11 +20,11 @@ This page explains why I built this tool, and how I got it approved by the city 
 
 In Berlin, most government services require you to go to the [Bürgeramt](https://allaboutberlin.com/glossary/Bürgeramt) in person. To do this, you need an appointment.
 
-**Bürgeramt appointments are hard to find**. Most of the time, there are no appointments.[^0] You must refresh the calendar page again and again until you find one. Since most appointments are added during working hours,[^1] many Berliners must do this during work.
+**Bürgeramt appointments are hard to find**. Most of the time, there are no appointments.[^0] You must refresh the calendar page again and again until you find one. Since most appointments are added during working hours, many Berliners must do this during work.[^1]
 
 ![Berlin.de showing no available appointments](/images/berlin-buergeramt-termin-kalender.png "No appointments. Typisch Berlin.")
 
-Most of the time, **the only appointments are in 6 to 8 weeks**.[^2] Recent immigrants can't wait this long. They must register their address because it blocks other things. They need a registration certificate and a tax ID *right now*.
+Most of the time, **the only appointments are in 6 to 8 weeks**.[^2] Recent immigrants can't wait this long. They must register their address quickly because it blocks other things. They need a registration certificate and a tax ID *right now*.
 
 If they can't wait, they can't be picky about location. This might mean an appointment across the city in the middle of a workday.
 
