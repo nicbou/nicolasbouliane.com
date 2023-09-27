@@ -21,7 +21,7 @@ I research and write all the content myself, although I do call upon the knowled
 
 All About Berlin is my answer to the hastily written SEO spam that dominates the web. It proves that a website can be successful without annoying the everliving crap out of your readers.
 
-It has no ads, no paywall, no dark patterns, no newsletter popup, no coercive cookie notice, no call to action, no comments, no promoted content, and no share buttons. It gives straight, honest answers for free. That's it.
+It has no ads, no paywall, no dark patterns, no newsletter pop-up, no coercive cookie notice, no call to action, no comments, no promoted content, and no share buttons. It gives straight, honest answers for free. That's it.
 
 The website is funded by affiliate links. That presents its own ethical challenges. However, I have a very straightforward [advertising policy](https://allaboutberlin.com/terms#advertising-policy), and I stick to it.
 
