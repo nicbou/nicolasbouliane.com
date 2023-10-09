@@ -24,7 +24,7 @@ In Berlin, most government services require you to go to the [Bürgeramt](https:
 
 ![Berlin.de showing no available appointments](/images/berlin-buergeramt-termin-kalender.png "No appointments. Typisch Berlin.")
 
-Most of the time, **the only appointments are in 6 to 8 weeks**.[^2] Recent immigrants can't wait this long. They must register their address quickly because it blocks other things. They need a registration certificate and a tax ID *right now*.
+Most of the time, **the only appointments are in 4 to 8 weeks**.[^2] Recent immigrants can't wait this long. They must register their address quickly because it blocks other things. They need a registration certificate and a tax ID *right now*.
 
 If they can't wait, they can't be picky about location. This might mean an appointment across the city in the middle of a workday.
 
@@ -46,7 +46,7 @@ Many city employees retire and must be replaced.[^10] The government regularly p
 
 Bürgeramt appointments take time. A Bürgeramt employee only handles 18 cases per day.[^15] Adding more people helps, but it does not address this problem.
 
-To make things worse, a thousand Berliners miss their Bürgeramt appointment every day.[^16] In Pankow, 10% don't show up to their appointments. In Neukölln, it's 20%.[^17] Two separate city employees hinted that these numbers are too low.
+To make things worse, over thousand Berliners miss their Bürgeramt appointment every day.[^16] Between 10% and 33% of appointments are no-show.[^17]
 
 It could be that people forget their appointments. There are no appointment reminders. An email and SMS reminder system was announced in 2018,[^18] but it's still missing. They also considered making the cancel button more prominent in the confirmation email, but this yet has to be done.
 
@@ -142,7 +142,7 @@ As for me, I'll keep building little tools where I see an opportunity to improve
 
 [^0]: [plus.tagesspiegel.de](https://www.tagesspiegel.de/der-graue-lappen-ist-zuruck-die-jagd-nach-dem-internationalen-fuhrerschein-wird-zum-sussen-nostalgie-erlebnis-336706.html), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/keine-losung-fur-terminstau-bei-berliner-burgeramtern-4256614.html), [checkpoint.tagesspiegel.de](https://checkpoint.tagesspiegel.de/langmeldung/zeWyOidG3PriBabT5nd8b)
 [^1]: [nicolasbouliane.com](https://nicolasbouliane.com/blog/berlin-buergeramt-experiment)
-[^2]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/berlins-innensenator-schlagt-zentralisierung-der-burgeramter-vor-5607997.html)
+[^2]: [Berlin parliament inquiry](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12858.pdf), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/berlins-innensenator-schlagt-zentralisierung-der-burgeramter-vor-5607997.html)
 [^3]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/berlin-will-termine-vorerst-nur-per-telefon-vergeben-5201707.html#:~:text=wo%20sechs%20monate%20im%20voraus%20termin-fixierung%20moglich%20sei%2C%20steige%20au%C3%9Ferdem%20die%20ausfall-%20und%20vergessensquote%20erheblich)
 [^4]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/berlins-innensenator-schlagt-zentralisierung-der-burgeramter-vor-5607997.html#:~:text=jeder%20zehnte%20termin%20werde%20dadurch%20in%20pankow%20nicht%20wahrgenommen.%20in%20neukolln%20seien%20es%20sogar%2020%20prozent.), [rbb24.de \(archived\)](https://web.archive.org/web/20220104195144/https://www.rbb24.de/politik/beitrag/2021/06/berlin-terminmangel-laengere-oeffnungszeiten-buergeraemter.html)
 [^5]: [bz-berlin.de](https://www.bz-berlin.de/berlin/auto-anmeldung-dauert-in-berlin-bis-zu-zwei-wochen), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/schlange-stehen-in-der-zulassungsstelle-3852901.html)
@@ -153,7 +153,7 @@ As for me, I'll keep building little tools where I see an opportunity to improve
 [^10]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/senat-verspricht-mehr-als-1200-zusatzliche-stellen-5497792.html)
 [^15]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/berlin-bekommt-ein-neues-burgeramt-5109592.html#:~:text=pro%20mitarbeiter%20konnen%2018%20termine%20pro%20tag%20angeboten%20werden), [rbb24.de \(archived\)](https://web.archive.org/web/20220104195144/https://www.rbb24.de/politik/beitrag/2021/06/berlin-terminmangel-laengere-oeffnungszeiten-buergeraemter.html)
 [^16]: [berlin.de](https://service.berlin.de/terminvereinbarung/hinweise/#:~:text=leider%20werden%20insgesamt%20etwa%201.000%20termine%2Ftag%20nicht%20wahrgenommen.)
-[^17]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/berlins-innensenator-schlagt-zentralisierung-der-burgeramter-vor-5607997.html#:~:text=jeder%20zehnte%20termin%20werde%20dadurch%20in%20pankow%20nicht%20wahrgenommen.%20in%20neukolln%20seien%20es%20sogar%2020%20prozent.)
+[^17]: [Berlin parliament inquiry](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12858.pdf), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/berlins-innensenator-schlagt-zentralisierung-der-burgeramter-vor-5607997.html#:~:text=jeder%20zehnte%20termin%20werde%20dadurch%20in%20pankow%20nicht%20wahrgenommen.%20in%20neukolln%20seien%20es%20sogar%2020%20prozent.)
 [^18]: [morgenpost.de](https://www.morgenpost.de/berlin/article213130353/Buergeramt-Berliner-sollen-Wunschtermin-einfacher-bekommen.html#:~:text=das%20neue%20system%20soll%20die%20berliner%20zudem%20per%20e-mail%20oder%20sms)
 [^19]: [rbb24.de \(archived\)](https://web.archive.org/web/20211204171454/https://www.rbb24.de/politik/beitrag/2021/07/buergeraemter-berlin-zusaetzliche-termine-massnahmen-.html)
 [^20]: [rbb24.de \(archived\)](https://web.archive.org/web/20211101080501/https://www.rbb24.de/politik/beitrag/2021/09/digitalisierung-verwaltung-berlin-r2g-bilanz.html), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/schlange-ade-es-gibt-wieder-termine-im-burgeramt-5915686.html)
