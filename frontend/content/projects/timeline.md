@@ -2,8 +2,8 @@
 title: Timeline
 description: It collects all your stuff, and it puts it on a nice timeline. It's like a photo stream, a diary, and an activity log mashed together.
 date_created: 2021-02-03
-project_url: https://timeline.nicolasbouliane.com
-repo_url: https://github.com/nicbou/timeline
+project_url: https://github.com/nicbou/timeline-old
+repo_url: https://github.com/nicbou/timeline-old
 featured_image: images/Screen-Shot-2021-05-07-at-22.58.13.png
 ---
 
