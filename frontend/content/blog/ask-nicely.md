@@ -6,35 +6,19 @@ categories: golden
     reference
 ---
 
-I link people to this page when their questions are too vague to answer. Read this post, then ask me again.
+I link people to this page when their questions are too vague to answer. Try these tips, and ask again.
 
 ## What are you trying to do?
 
-What problem do you want to solve?
+Tell me what you *actually* want to do, not just your attempted solution. Your approach might be wrong. I might know a better way to solve your problem.
 
-Tell me what you're actually trying to do, not just where you got stuck. Sometimes, there is a better way to do things. We can avoid an [XY problem](https://xyproblem.info/).
+## What went wrong?
 
-> **Bad:** "Help I urgently need a tax ID!"
-
-> **Good:** "My new employer asks for a tax ID, but I don't have one yet. Can I start my new job anyway?"
-
-## What is the problem?
-
-Where are you stuck? What is blocking you? What errors did you get? What are the exact symptoms of the problem?
-
-Tell me exactly what's wrong. It's a lot faster if you give me the information I need to help you.
+Tell me where you got stuck. Give me enough details to understand the problem. If you give me all the information up front, we save a lot of time.
 
 > **Bad:** "Help my car doesn't work"
 
 > **Good:** "My 2009 Ford Focus won't start. When I turn the key, the dash lights come on, and the radio starts, but the engine does not turn at all."
-
-## What is your situation?
-
-Zoom out, and help me understand the whole situation. Give me enough information to help you.
-
-> **Bad:** “Help how do I move to Germany?"
-
-> **Good:** “I am a Nigerian citizen and I currently live in Hungary. I have a university degree in software engineering. Can I get a German work visa?”
 
 ## What have you tried so far?
 
@@ -46,11 +30,19 @@ If you tell me what did *not* work, we save a lot of time. I can understand the 
 
 > **Good:** "What residence permit options do I have? I can't get a work visa or a Blue Card because I don't have vocational training. Can I move to Germany as a student, or do an internship there instead?"
 
+## What is your situation?
+
+Provide all the important information up front. If I have enough information to help you, we can solve your problem faster.
+
+> **Bad:** “Help how do I move to Germany?"
+
+> **Good:** “I am a Nigerian citizen and I currently live in Hungary. I have a university degree in software engineering. How can I move to Germany?”
+
 ## Remember the human
 
 I will help you *for free*, but I ask for 3 things in return:
 
-- **Make an effort.** I can't do all the work for you. I won't spend 30 minutes to save you 30 seconds of research. I won't help you if you make no effort to help yourself.
+- **Make an effort.** I can't do all the work for you. I won't spend 30 minutes to save you 30 seconds of research. If you don't make an effort, I won't help you.
 - **Be reasonable.** I help people for free as a courtesy. If you need a personal consultation or comprehensive support, please hire someone.
 - **Be kind.** Say hello, please and thank you. I am a stranger who helps you for free, not a chatbot. Don't be like [Liam](/images/rude-email.png).
 
