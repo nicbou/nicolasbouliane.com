@@ -55,7 +55,7 @@ I turned off email notifications on my phone. On my laptop, I only get them duri
 
 I unsubscribe from unwanted emails as soon as I get them, so I get very few of them. I [created filter](https://support.google.com/mail/answer/6579?hl=en) to delete the few unwanted emails that get through. This includes status emails for things I don't need to be notified of, like Amazon receiving the order I just placed.
 
-Now, I get at most 10 emails a day. I sometimes get no emails at all on the weekend. Most of the emails I get are written by a human and addressed to me.
+Now, I get at most 10 emails a day. Sometimes I don't get any. Most of the emails I get are written by a human and addressed to me.
 
 ### Calendar
 
@@ -81,7 +81,7 @@ I realise that I still regularly look for notifications on Facebook, Twitter and
 
 There were feeds on every website I used, on every new tab I opened, on my phone's home screen, and in my operating system's task bar. They were very distracting, so I got rid of them.
 
-Then I stopped drinking from the firehose of current events. The current muddles the veracity and the importance of things. I prefer a sip from the puddle a little away from the chaos, where the ripples settled and I can see below the surface.
+Then I stopped drinking from the fire hose of current events. The current muddles the veracity and the importance of things. I prefer a sip from the puddle a little away from the chaos, where the ripples settled and I can see below the surface.
 
 So I switched to long-form articles. After the race against time subsides, the quality of the reporting gets markedly better. It's less important to be first, and more important to be right.
 
@@ -127,11 +127,11 @@ I use uBlock Origin to block a lot more than ads. I hide practically all suggest
 
 ### My own websites
 
-I removed comments from the websites I run. Now I invite people to email me. All of my business happens in one place, and I no longer deal with comment moderation.
+I design my own websites to be calm technology. I tend to forget that the unfiltered web is a lot louder than what I experience. To me, a calm website is just normal.
 
-Looking at similar websites, I'm probably missing thousands of reader questions, but I do not owe them so much of my time.
+I removed comments from the websites I run. Now I invite people to email me. All of my business happens in one place, and I no longer deal with comment moderation. Looking at similar websites, I'm probably missing hundreds of reader questions, but I do not owe anyone that.
 
-I also design my own websites to be calm technology. I tend to forget that the unfiltered web is a lot louder than what I experience. To me, a calm website is just normal.
+The websites themselves are designed to be as low-maintenance as possible. They're static websites that run forever with almost no maintenance. I set up automatic payments for domains and hosting, and I pay for it years in advance. Everything is behind Cloudflare for extra redundancy. Nothing goes wrong unless I break things myself. Knowing that these website will run for months without intervention gives me peace of mind.
 
 ### My own behaviour
 
