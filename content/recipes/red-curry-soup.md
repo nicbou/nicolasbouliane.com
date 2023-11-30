@@ -2,11 +2,15 @@
 title: Creamy red curry soup
 description: A slightly spicy soup that's dead simple to make
 date_created: 2023-11-30
+tags:
+    soup
+    vegan
+    vegetarian
 ---
 
 ## Ingredients
 
-- 2 tbsp butter (or coconut oil)
+- 2 tbsp butter or coconut oil
 - 1 large yellow onion
 - 4 tbsp red curry paste
 - 350 g carrots, sliced
