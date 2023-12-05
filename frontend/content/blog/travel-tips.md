@@ -12,37 +12,35 @@ This is an assortment of travel tips I have picked up over the years. Most of it
 
 Most travel advice is written by travel bloggers or content marketers. The former spent two weeks in the country and the latter never left their office. They rehash the same recommendations as countless other blogs.
 
-ChatGPT gives you rehashed advice with half the fuss:
+ChatGPT gives you rehashed advice with half the fuss.
 
-> **ChatGPT prompt:** Give me a list of things to see in [city]. For each place, create a URL that searches for the place on Google Maps.
+Use [Weatherspark](https://weatherspark.com/) to look up historical weather where you're going, and [Ventusky](https://www.ventusky.com/) to check weather once you get there. If you're going to bike across a country in 30ºC, 70% humidity weather, don't pack a leather jacket and an oversized hoodie.
 
-Do a bit of research about the weather there. If you're biking across Korea, don't bring a leather jacket and an oversized hoodie that take half of your luggage. I use [Weatherspark](https://weatherspark.com/) to look up historical weather, and [Ventusky](https://www.ventusky.com/) to see where the weather is currently going.
+A good book about your destination can infuse your experience with nuance and understanding. Look for evocative books like *Maximum City* or *Stasiland*. In a pinch, try the *[Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions)* series.
 
-A good book about your destination can infuse your experience with nuance and understanding. Look for evocative books like "Maximum City" or "Stasiland". In a pinch, try *[Very Short Introductions](https://en.wikipedia.org/wiki/Very_Short_Introductions)*. If you're not sure, ask the [local subreddit](https://old.reddit.com/r/LocationReddits/wiki/index) for suggestions.
+Calm down, pace yourself. The world seems small when you can pan across continents with the flick of a finger, but it's unfathomably big under your feet. Make room for spontaneity and exploration. Double or triple the time you think you need.
 
-Calm down, pace yourself. We circled the Baltic sea on motorcycles in 9 days. It was a mistake. We dashed through 8 countries, and it was just a blur of highways, truck stops and motels. Travel as a box-ticking exercise is exhausting and unrewarding.
+I circled the Baltic Sea on a motorcycle with a friend. We dashed across 8 countries in 9 days. I remember it as a blur of highways, truck stops and motels. We stayed a few hours in cities that deserved all 9 days to themself. I still consider those places unvisited.
 
-Give yourself room for spontaneity and exploration. Think of how long you need to complete your trip, and double that. I have the fondest memories of the places where I lingered, whether by choice or by force. A dog bit me in Tbilisi and it kept me in Georgia for a month. Between the rabies shots, I was left to explore and meet people. I saw far more of Georgia and the surrounding countries. Out of it came treasured friendships and a mad journey across Central Asia.
-
-Now I just pick a destination, make a map of vaguely interesting things there, and out the rest once I get there.
+On other occasions, fate had me stop for a long time in unexpected places. Those are the places I remember the most fondly, even when the circumstances were less than ideal.
 
 ## Money
 
-Always have two different bank cards from two different banks. I forgot my credit card in an ATM in Ukraine, but thankfully, I had a second card (with much higher fees). Ideally have a Visa card and a MasterCard. These payment methods are not as universal as you think. Getting money with a MasterCard was a constant struggle in some countries.
+Money is of no use if you lose access to it. Accounts get locked, cards get lost, money gets stolen. You have to prepare for this.
 
-If your card keeps getting declined for online purchases, try using a VPN. Turkish Airlines would not let me buy tickets until I used a VPN. When I appeared to be in my home country the payment went through.
+Carry two different bank cards from two different banks, and ideally two different payment networks. I lost two credit cards abroad. My MasterCard was declined more often than I can count. I learned to keep my eggs in a few different baskets.
 
-Foreign ATMs can charge you in the local currency, or your card's currency. You're basically choosing between your bank's exchange rate, and the ATM's (usually bad) exchange rate.
+Always have some cash on you. In a pinch, US dollars will save your ass. My friend's spent the last cents of a $100 bill on the cup of petrol that got us out of Uzbekistan. Visa and MasterCard - ATMs, even - are not as universal as you might think.
 
-Keep Euros or US dollars with you. In a pinch, you can exchange them for the local currency. My friend's 100$ bill got us out of a sticky situation in Uzbekistan. We spent the last cents on the cup of petrol that got us to the next ATM.
+But flashing a wad of cash is a foolish thing to do, especially wherever bribery is common. Keep a few notes in your wallet, and the rest at the bottom of your luggage.
 
-Keep most of your cash stashed at the bottom of your luggage. Flashing a wad of cash never plays in your favour. I spent half an hour sitting in a Kazakh police car, explaining to a cop that the money in my wallet barely covered the fuel to get me across the desert. The officer started with a bold 200 USD bribe, but eventually accepted my last 500 tenge note - about a dollar. The rest of my cash was hidden at the bottom my panniers.
+A few years ago, I spent half an hour in a police car, explaining to a cop through Google Translate that if I gave him my last few tenge, I'd run out of fuel in the middle of the desert. I showed him my nearly empty wallet. The bribe whittled from 200 US dollars to a single 500 tenge note - about a dollar.
 
 ## Safety
 
 Be aware of the common tourist scams in the areas you visit. The most common scam is the "random" encounter with a local that slowly turns into a high-pressure sales pitch. If you get cold approached by a young local in a touristy area, they probably want something from you.
 
-Don't give your passport unless you absolutely have to. If someone has your passport, they hold you by the balls. I give my driving licence, my residence permit or a photocopy whenever I can. Those are easier to replace.
+Hold onto your passport, and don't give it unless absolutely necessary. People can and will use it to hold you hostage. I give my driving licence, my residence permit or a photocopy whenever I can. Those are easier to replace.
 
 ## Flights
 
@@ -64,16 +62,22 @@ Learn to navigate with the sun. It rises in the east, [slowly arcs across the sk
 
 ## Resilience
 
-Reset frequently. By that I mean eating, resting, charging your devices, drying your clothes, doing your laundry, planning the next day etc.
+Reset frequently. By that I mean: eat, rest, charge your devices, dry your clothes, do your laundry and plan for the days ahead. A stitch in time saves nine.
 
-[Long-distance travel is a matter of maintenance](/blog/motorcycle-maintenance). If you neglect it for too long, you expose yourself to a cascading failure. A small problem turns into big one because you have no cash, your phone died, you're out of water and your tent is still wet.
+[Long-distance travel is a matter of maintenance](/blog/motorcycle-maintenance). If you neglect it for too long, minor snag can snowball into catastrophes. The flat tire is not a problem, unless your phone is dead, you're short on cash and your clothes are wet.
 
 ## Mental health
 
-Travel fatigue can make you an idle, apathetic mess. It comes to me as an acute case of decision fatigue. I long for the comfort of familiarity and routine. I usually take this as my cue to wrap up the trip and head home, but sometimes a really good curry grounds me just the same.
+Maintenance isn't just for your gear. You have to take care of yourself too.
 
-Remember that a trip is a vacation. Allow yourself to sleep in and to linger in cafés with a good book. Indulge in idleness; no one is judging you.
+Travel fatigue can make you an idle, apathetic mess. It comes to me as an acute case of decision fatigue. I long for the comfort of familiarity and routine. I usually take this as my cue to wrap up the trip and head home, but sometimes warm curry grounds me all the same.
 
-Speaking of judgement, don't post on social media. It can be hard to constantly perform for an audience. Sometimes you're a sad, homesick mess with fluids coming out both ends. Focus on having a good time, not on proving it.
+Remember that a trip is a vacation. Allow yourself to sleep in and to linger in cafés with a good book. Indulge in idleness and small rituals; no one is judging you.
 
-On the other hand, a travel journal is a *fantastic* idea. You get to capture how a trip feels in the moment, without fear of judgement. It feels good to unwind, and later you can laugh at your sad, homesick self with fluids coming out both ends.
+Speaking of judgement, go easy on social media. Be there, have a good time, and don't worry about proving it. 
+
+When things go south and a rift grows between your experienced reality and the carefully curated narrative you put out, it can be hard to lift the veil and reach for help. You might feel as if you're failing to live up to your own standards. It's not a good place to be in.
+
+It's hard enough to be a sad, homesick mess with fluids coming out both ends. You shouldn't have to keep up with the expectations of your audience on top of it.
+
+On the other hand, a travel journal is a *fantastic* idea. You can capture how a trip feels in the moment with unmatched fidelity. It feels good to unwind, and later you can laugh at your misadventures.
