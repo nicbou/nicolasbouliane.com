@@ -80,4 +80,4 @@ When things go south and a rift grows between your experienced reality and the c
 
 It's hard enough to be a sad, homesick mess with fluids coming out both ends. You shouldn't have to keep up with the expectations of your audience on top of it.
 
-On the other hand, a travel journal is a *fantastic* idea. You can capture how a trip feels in the moment with unmatched fidelity. It feels good to unwind, and later you can laugh at your misadventures.
+On the other hand, a travel journal is a *fantastic* idea. You can capture how a trip feels in the moment with unmatched fidelity. It feels good to unwind, and later you can laugh at your misadventures. My travel diaries were the inspiration behind the [timeline thing](/projects/timeline).
