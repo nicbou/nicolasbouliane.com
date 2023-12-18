@@ -7,9 +7,9 @@ categories: golden technology
 
 Some time ago, I fell in love with Amber Case's concept of [calm tech](https://calmtech.com/): technology that requires the smallest possible amount of attention.
 
-Amber spoke of calm tech in the context of interaction design: calm technology can inform without overburdening, communicate without interrupting, and create ambient awareness through all senses. I fell in love with those principles; they shaped my design philosophy.
+Amber spoke of calm tech in the context of interaction design: calm technology can inform without overburdening, communicate without interrupting, and create ambient awareness through all senses. I fell in love with those principles; they shaped how I build software.
 
-But an important aspect is missing: calm requires trust. If you can't trust your device or software to be on your side, it's not calm; it's just silent. You have to keep an eye on it lest it turns on you.
+But an important aspect is missing from Amber's manifesto: *calm requires trust*. A quiet street only creates calm in a safe neighbourhood, and the tech industry definitely isn't one of those.
 
 ![Hostile technology](/images/illustrations/hostile-tech.png)
 
