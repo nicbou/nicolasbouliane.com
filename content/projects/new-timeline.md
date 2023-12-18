@@ -14,6 +14,8 @@ All About Berlin used to be like this, until I migrated to a [simple, efficient 
 
 This iteration is meant to be calm technology. It's meant to just work and to require as little attention as possible.
 
+Here's roughly how I did it.
+
 ## The filesystem is the database
 
 If I give you a database dump, you need a few specialised tools to peek at what's inside. If you want a nice user interface to see the data, you'll likely have to write your own.
@@ -34,10 +36,8 @@ For certain data there are no standards, and that's challenging. I have years of
 
 ## Scripts over systems
 
-There is no longer a system. It's just a script.
+You run a command over some files, instead of spinning up a whole system.
 
-I ditched Docker, Django, Django REST Framework, Postgresql, imagemagick, ghostscript, and a lot more. The new timeline is a self-contained Python package with few dependencies.
+I ditched Docker, Django, Django REST Framework, Postgresql, imagemagick, ghostscript, and a lot more. The new timeline is a self-contained Python package with few dependencies. You point it at files, it spits out a website.
 
-There is no longer an elaborate instruction set to run the project. You no longer need to spin up half a dozen Docker images to achieve that. You call `timeline` and you get a timeline. It's that simple. 
-
-For the first time, I feel confident that other people can run this project too. People did run the old timeline and even submitted pull requests to it, but that's a statement to their dedication, not to the project's usability.
+All in all, it's a lot easier to reason about. It's easier to use and easier to maintain. I feel far more confident than people can try it out on their computer.
