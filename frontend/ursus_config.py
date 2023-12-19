@@ -1,3 +1,4 @@
+from datetime import datetime
 from pathlib import Path
 from ursus.config import config
 import logging
@@ -7,7 +8,7 @@ config.content_path = Path(__file__).parent / 'content'
 config.templates_path = Path(__file__).parent / 'templates'
 config.output_path = Path(__file__).parent.parent / 'output'
 
-config.siteUrl = os.environ.get('siteUrl', 'https://nicolasbouliane.com')
+config.site_url = os.environ.get('site_url', 'https://nicolasbouliane.com')
 config.html_url_extension = ''
 config.minify_js = True
 config.minify_css = True
@@ -17,7 +18,8 @@ config.context_processors += (
 )
 
 config.context_globals = {
-    'siteUrl': 'https://nicolasbouliane.com',
+    'now': datetime.now(),
+    'site_url': 'https://nicolasbouliane.com',
     'is_golden': lambda uri, entry: 'golden' in entry.get('categories', []),
     'is_not_golden': lambda uri, entry: 'golden' not in entry.get('categories', []),
 }
