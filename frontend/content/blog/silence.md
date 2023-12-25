@@ -6,76 +6,71 @@ categories: golden
     technology
 ---
 
-Technology's default mode is to constantly call for my attention. Attention is engagement, engagement is profit. Thus a big chunk of the economy devotes itself to grabbing my attention by increasingly coercive means. It took considerable effort to get technology to just *shut the fuck up*.
+Technology constantly calls for my attention, like a needy child. Attention is engagement and engagement is profit. Thus the best minds of our generation are busy grabbing my attention by increasingly coercive means.
+
+This is a post about how I fought back and got technology to *just shut the fuck up*. It's regularly updated.
 
 ![Clothespin holding lips shut](/images/illustrations/clothespin-holding-mouth-shut.png)
 
-This is what this post is about; making technology quieter, and building a healthier relationship with it.
-
 ## What's wrong?
 
-I want to use technology on my own terms, for my own ends. I want [calm technology](https://calmtech.com/) that respects the boundaries I set for it. This includes respecting my time, my attention, my privacy and above all my consent. I should be the user, it should be the tool, not the other way around.
+I want to use technology on for my own ends, on my own terms. I want [calm technology](https://calmtech.com/) that respects the boundaries that I set for it, that respects my time, my attention, my privacy and above all my consent.
 
 I don't want to get sidetracked by addictive technology when I mean to sit down and do work. I want the computer to go back in its box when I'm done with it - like any other tool - so that I can do other things.
 
 > "A person's primary task should not be computing, but being human."
 
-> — Amber Case, [Calm technology](https://calmtech.com/)
+> — [Amber Case](https://calmtech.com/)
 
 ## Silencing technology, bit by bit
 
-For the last two years, I fought tooth and nail to achieve this. Every time the technology I use negatively affected me, I set up a countermeasure.
+For the last three years, I've had a zero tolerance approach to nagging technology. Instead of tolerating the same annoyances for years, I nip them in the bud.
 
-I did not throw my smartphone in a lake and retire to the mountains. I just excised the cancerous parts and preserved the good ones.
+I did not throw my smartphone in a lake to retire to the mountains. I just excised the cancerous parts and preserved the good ones.
 
-### Basic tools
+### Web browsing
 
-- A good ad blocker: [uBlock Origin](https://ublockorigin.com/). Enable the "annoyances" blocklists. They get rid of most cookie banners.
-- A good web browser: Firefox. The Android version lets you install uBlock Origin, and syncs your ad blocker settings between devices. It also has a great distraction-free reader mode.
-- A good search results filter: [uBlacklist](https://github.com/iorate/ublacklist). It hides spammy websites from search results.
-- A good operating system: Mac OS. Windows has become so user-hostile that I refuse to get near it. Linux breaks the rule above: a person's primary task should not be computing, but being human.
+I can't tolerate the unfiltered web anymore. An ad blocker removes ads, cookie banners, newsletter prompts, and all the other annoyances that get between me and my task. I use **[uBlock Origin](https://ublockorigin.com/)** with the "annoyances" blocklists enabled.
 
-These tools do most of the heavy lifting. They remove YouTube ads, Pinterest search results, GDPR cookie banners, and a ton of other annoyances.
+**[uBlacklist](https://github.com/iorate/ublacklist)** removes spammy websites from Google search results. I use it to hide Pinterest and Quora, but also low-quality high-ranking websites like Forbes and MakeUseOf.
+
+I increasingly rely on **[ChatGPT](https://chat.openai.com)** to get answers without sifting through pages of ad-infested blogspam. It's unreasonably effective.
 
 ### Notifications
 
-I turned off all notifications. Only phone calls, instant messages and bank transactions get through. My phone only vibrates for certain people, so a message from a business parter won't interrupt breakfast.
-
-Most notifications are not urgent. I can acknowledge them an hour or two later. This is why they are silent.
+I turned off all notifications on my phone, except for phone calls, instant messages and bank transactions. Nothing else gets through; not even email. Few things require my immediate attention.
 
 > "Technology should require the smallest possible amount of attention. Communicate information without taking the user out of their environment or task. [...] A calm technology will move easily from the periphery of our attention, to the center, and back. The periphery is informing without overburdening."
 
-> — Amber Case, [Calm technology](https://calmtech.com/)
+> — [Amber Case](https://calmtech.com/)
 
-In other cases, I added notifications, so that I don't need to keep an eye on certain things. If my website goes down, or my backups stop working, I will know. I can sleep in peace knowing that everything is running smoothly.
+In other cases, notifications are good. If my website goes down or some automated system fails, I want to be notified. Computers should monitor things so that I don't have to.
 
 ### Email
 
-I turned off email notifications on my phone. On my laptop, I only get them during office hours. The paid version of [Checker Plus for Gmail](https://jasonsavard.com/Checker-Plus-for-Gmail) lets me set quiet hours. It's well worth the money.
+I turned off email notifications on my phone. On my laptop, I only get them during office hours. The paid version of **[Checker Plus for Gmail](https://jasonsavard.com/Checker-Plus-for-Gmail)** lets me set quiet hours. It's well worth the money.
 
-I unsubscribe from unwanted emails as soon as I get them, so I get very few of them. I [created filter](https://support.google.com/mail/answer/6579?hl=en) to delete the few unwanted emails that get through. This includes status emails for things I don't need to be notified of, like Amazon receiving the order I just placed.
+I unsubscribe from unwanted emails as soon as I get them, so I get very few of them. I [created filters](https://support.google.com/mail/answer/6579?hl=en) to delete the few unwanted emails that get through.
 
-Now, I get at most 10 emails a day. Sometimes I don't get any. Most of the emails I get are written by a human and addressed to me.
+Now, most of the emails I get were written by a human and addressed to me.
+
+However, even genuine emails can be too much. I run [a website about German bureaucracy](/projects/all-about-berlin), and I get *a lot* of reader mail. I used to invite them to contact me, but now I ask them to ask other people first. It's just too much work.
 
 ### Calendar
 
-I made my calendar louder to check my phone less. It vibrates like an alarm until I get to it. This makes it easier not to have my phone on me at all times.
+I made my calendar louder to check my phone less. It vibrates like an alarm until I turn it off. This makes it easier not to have my phone on me at all times. I use [Calendar Alarm Reminder](https://play.google.com/store/apps/details?id=com.app_by_LZ.calendar_alarm_clock&hl=en&gl=US) for Android.
 
 ### Apps
 
-Apps have repeatedly violated my trust, so I rarely use them. I prefer websites, because they have limited access to my device. They are subject to my ad blocker, and stop running when I close the tab. They cannot pry their way to the centre of my attention.
+Apps have repeatedly violated my trust, so I rarely use them. I prefer websites, because they have limited access to my device. They are subject to my ad blocker, and they stop running when I close the tab. They cannot pry their way to the centre of my attention.
 
 ### Social media
 
-I can't delete social media because my job depends on it. I find a lot of information on Facebook and Reddit, and share professional updates on multiple platforms.
+I only keep a social media presence for [my business](/projects/all-about-berlin). I scrubbed my personal profiles clean with [Redact](https://redact.dev/) and made them private. All notifications are turned off. I do not follow anyone, so all my feeds are empty.
 
-I just don't follow anyone. My feeds are empty. I wiped my profiles clean with [Redact](https://redact.dev/), then made them private. I no longer post personal updates there.
+This had no impact on my social life. Zilch. My friends were either quiet or silenced by the algorithm. Facebook was hiding my own mother's posts from me. I was already missing out.
 
-Social media websites see this as an affront, and keep trying to growth hack their way back into my life. Every few months, I must block a new "content you may like" or "people you may know" widget.
-
-This had no impact on my social life. Zilch. Facebook was hiding my own mother's posts from me. My friends were either quiet or silenced by the algorithm. I was already missing out.
-
-I realise that I still regularly look for notifications on Facebook, Twitter and LinkedIn. I use the [Redirector extension](https://addons.mozilla.org/en-US/firefox/addon/redirector/) to redirect the front page to my notifications. I never see the front page of those websites.
+These websites perceive my lack of engagement as an affront. They pepper my feed and notifications with "suggested content" and "things you may like" in a desperate bid for my attention.
 
 ### News and feeds
 
@@ -97,11 +92,11 @@ I read more than ever in my life, and it's now a deliberate act, not an anxiety-
 
 I still use reddit, but a lot less than before.
 
-I uninstalled the mobile app, and the mobile website is bad enough to keep me away.
+I uninstalled the mobile app. The mobile website is unbearable, so I'm rarely tempted to use it.
 
 On desktop, I use old.reddit.com. The old website is simpler, faster and quieter than the redesign. It feels more like a forum, and less like a dopamine casino. The [Old Reddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/) extension enforces my choice. I hid a few of the remaining nuisances with ad blocker rules.
 
-I filtered toxic content on the front page by blocking subreddits. A *lot* of subreddits. There are no more American politics, outrage porn or drama on my front page. I only follow a handful of hobby subreddits.
+I filtered toxic content on the front page by blocking subreddits; a *lot* of subreddits. There are no more American politics, outrage porn or drama on my front page. I only follow a handful of hobby subreddits.
 
 This is the default Reddit experience:
 
@@ -111,7 +106,7 @@ This is my own:
 
 ![](/images/Screenshot-2022-08-07-at-17-58-04-reddit-the-front-page-of-the-internet.png)
 
-A bit later, I hid the "next page" button. I get 25 posts, no more. This cuts mindless browsing by a lot.
+A bit later, I hid the "next page" button. I get 25 posts, no more. It's an unreasonably effective way to cut mindless browsing.
 
 ### YouTube
 
@@ -129,9 +124,19 @@ I use uBlock Origin to block a lot more than ads. I hide practically all suggest
 
 I design my own websites to be calm technology. I tend to forget that the unfiltered web is a lot louder than what I experience. To me, a calm website is just normal.
 
-I removed comments from the websites I run. Now I invite people to email me. All of my business happens in one place, and I no longer deal with comment moderation. Looking at similar websites, I'm probably missing hundreds of reader questions, but I do not owe anyone that.
+![Freelance visa guide on All About Berlin](/images/aab-guide-1.png "A quiet website")
 
-The websites themselves are designed to be as low-maintenance as possible. They're static websites that run forever with almost no maintenance. I set up automatic payments for domains and hosting, and I pay for it years in advance. Everything is behind Cloudflare for extra redundancy. Nothing goes wrong unless I break things myself. Knowing that these website will run for months without intervention gives me peace of mind.
+I [removed comments](/blog/no-comments-on-website) from the websites I run, because I don't want to deal with comment moderation and spam. Instead, I invite people to email me. Emails are more manageable, and feel more personal.
+
+I design the websites themselves to run forever with almost no maintenance. They are simple static websites with few moving parts. I have paid for years of hosting in advance, and set up automatic payments just in case. Everything is behind Cloudflare for extra redundancy. If something goes wrong, **[Better Uptime](https://betteruptime.com)** will notify me.
+
+### The tech I build
+
+Nowadays, I only write code for myself and I don't get paid for it. I have less patience for maintenance; I just want things to work. *A person's primary task should not be computing, but being human.*
+
+Some of the things you learn in culinary school don't apply home cooking. The same apply to software engineering. Software with a single user does not need to be professional and scalable. [An app can be a home-cooked meal.](https://www.robinsloan.com/notes/home-cooked-app/)
+
+These days, I delete more code than I write. My software gets simpler and easier to maintain. I pare complex systems down to small scripts with few dependencies. These rarely break down and require almost no maintenance.
 
 ### My own behaviour
 
@@ -147,9 +152,9 @@ I also post a lot less online. On one hand, the internet got much angrier during
 
 ## Result
 
-The original draft of this article had a far more desperate tone. It was written by an alcoholic pouring his liquor down the kitchen drain. I was losing sleep over internet drama, and couldn't fully check out. You read the version rewritten by a sober man, about a year later.
+The original draft of this article had a far more desperate tone. It had the done of an alcoholic pouring his liquor down the kitchen drain. I was losing sleep over internet drama, and couldn't fully check out. You now read the revised account of a sober man.
 
-I sometimes forget what the unfiltered internet looks like. A thin article wrapped in ads, topped with five layers of modals, and a video auto-playing in the corner. An inbox that's 90 percent noise. Two fifteen second ads before each YouTube video, and another one in the middle. Recommended content in every crevice of the user interface. It's unbearable.
+I sometimes forget what the unfiltered internet looks like. A thin article wrapped in ads, topped with five layers of modals, and a video auto-playing in the corner. An inbox that's 90 percent noise. Two fifteen second ads before each YouTube video, and another one in the middle. Recommended content in every crevice of the user interface. This was technology for most of my life.
 
 Now it's all quieter.
 
