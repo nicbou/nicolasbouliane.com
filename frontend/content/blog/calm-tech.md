@@ -46,7 +46,7 @@ I had a washing machine with a loud buzzer. It nearly gave me a heart attack whe
 
 Some alarm clocks use ambient light to wake you up gently. Alarm wristbands vibrate to wake you up without disturbing your sleeping partner.
 
-Some technology deliberately distracts users for its own ends. Think of self-service kiosks that upsell 
+Some technology deliberately distracts users for its own ends. Think of self-service kiosks that upsell.
 
 Consider whether the tech you build needs to call the user's attention so loudly or so frequently, if at all. Can you use the periphery to inform without disturbing?
 
@@ -64,7 +64,7 @@ You can't have calm without trust, and you can't have trust without control. Cal
 
 ## And so on...
 
-This website is my [digital garden](/guides/digital-gardening). This post is just a seedling, a work in progress that I will continue growing.
+This website is my [digital garden](/blogs/digital-gardening). This post is just a seedling, a work in progress that I will continue growing.
 
 ## Related ideas
 
