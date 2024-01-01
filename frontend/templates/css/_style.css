@@ -41,7 +41,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{di
     --font-sans-serif:400 var(--font-size-m) var(--font-family-data);
 
     --color-background: #f6f5f1;
-    --color-text: #353534;
+    --color-text: rgb(73, 71, 70);
     --color-text-light: #73706D;
     --color-text-strong: #000;
 
