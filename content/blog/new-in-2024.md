@@ -4,7 +4,7 @@ description: A brief summary of changes that affect most immigrants in Berlin.
 date_created: 2024-01-01
 ---
 
-Every January, a bunch of things change in Germany. This means that as soon as the firework explosions die down, I must get to work updating All About Berlin's guides and calculators.
+Every January, a bunch of things change in Germany. This means that as soon as the firework explosions die down, I must get to work updating [All About Berlin](https://allaboutberlin.com)'s guides and calculators.
 
 This year is no different. This is a summary of the changes that I believe affect most of my readers.
 
@@ -24,7 +24,7 @@ Some public health insurers got more expensive because they raised their extra c
 
 The maximum cost of health insurance went up. If you earn more than 59,850€ per year, you will notice.
 
-Use my [health insurance calculator](https://allaboutberlin.com/tools/health-insurance-calculator) to see how much you now pay for health insurance.
+Use my [health insurance calculator](https://allaboutberlin.com/tools/health-insurance-calculator) to see how much you now pay for health insurance. It will updated by January 5.
 
 ## Immigration
 
@@ -34,7 +34,9 @@ The minimum income for the freelance visa (in Berlin) went up by 61€. It's you
 
 ## Taxes
 
-The income tax calculation was adjusted for inflation, like every year. This means that if your income stayed the same, you will pay a little less income tax. Use my [tax calculator](https://allaboutberlin.com/tools/tax-calculator) to see how much taxes you now pay.
+The income tax calculation was adjusted for inflation, like every year. This means that if your income stayed the same, you will pay a little less income tax.
+
+Use my [tax calculator](https://allaboutberlin.com/tools/tax-calculator) to see how much taxes you now pay. It will updated by January 5.
 
 ## Citizenship
 
