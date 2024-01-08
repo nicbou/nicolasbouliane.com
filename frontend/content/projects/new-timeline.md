@@ -20,9 +20,9 @@ Here's roughly how I did it.
 
 If I give you a database dump, you need a few specialised tools to peek at what's inside. If you want a nice user interface to see the data, you'll likely have to write your own.
 
-My websites used to have big databases like that. To read from these databases, I had to set up an elaborate software project with gigabytes of dependencies: docker, PHP, MySQL, some content management system... what a pain!
+My websites used to have big databases like that. To read those, I had to set up an elaborate software project with gigabytes of dependencies: docker, PHP, MySQL, some content management system... what a pain!
 
-Now these websites are just a collection of markdown files. Each page is a plain text file in a folder. It's easy to reason about the site structure, and to edit the content.
+Now these websites are just a collection of markdown files. Each page is a plain text file in a folder. It's easy to reason about the site structure, and to edit the content with the software I want.
 
 I didn't want this timeline to be a complex system with a cryptic database. I wanted it to be just another way to visualise my personal files. I wanted to point it at a bunch of folders and say "make a timeline out of this".
 
@@ -30,7 +30,9 @@ One benefit to that approach is that the timeline has no data of its own. I don'
 
 ### Open standards
 
-I tried to pick standard file formats for my data. The timeline displays images, videos and PDFs, but it also gets my geolocation history from GPX files.
+I tried to pick standard file formats for my data. The timeline displays images, videos and PDFs, as well as other common files.
+
+The main benefit is that I can use any software I want to view and edit the data. My location history is just a bunch of GPX files. There are many ways to view and edit those. I can even load them on my GPS device and share them with friends.
 
 For certain data there are no standards, and that's challenging. I have years of chat history and no suitable file format to store them.
 
