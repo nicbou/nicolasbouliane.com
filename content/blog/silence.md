@@ -134,9 +134,9 @@ I design the websites themselves to run forever with almost no maintenance. They
 
 Nowadays, I only write code for myself and I don't get paid for it. I have less patience for maintenance; I just want things to work. *A person's primary task should not be computing, but being human.*
 
-Some of the things you learn in culinary school don't apply home cooking. The same apply to software engineering. Software with a single user does not need to be professional and scalable. [An app can be a home-cooked meal.](https://www.robinsloan.com/notes/home-cooked-app/)
-
 These days, I delete more code than I write. My software gets simpler and easier to maintain. I pare complex systems down to small scripts with few dependencies. These rarely break down and require almost no maintenance.
+
+Lessons from culinary school don't always apply home cooking. That's also true for software engineering and small-scale software. [An app can be a home-cooked meal.](https://www.robinsloan.com/notes/home-cooked-app/) I write more and more software that doesn't scale, designed for a single user with a bunch of hard-coded behaviour. It's a lot easier to maintain.
 
 ### My own behaviour
 
