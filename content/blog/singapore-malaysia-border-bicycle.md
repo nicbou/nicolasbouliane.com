@@ -42,6 +42,8 @@ In general, Johor Bahru is a hostile place for pedestrians and cyclists. I rode 
 
 If you're worried about spending the rest of your bike trip along the highway, worry not. The national routes have motorcycle lanes that are suitable for cyclists. You're still biking in traffic dust and diesel fumes, but at least you don't fear for your life.
 
+Along the coast, it gets a lot more pleasant. If you can, take any of the parallel roads. It's slower but much more pleasant. If you follow the gravel trail about 20 metres from the sea, you might get to see large bands of monkeys. The smaller roads also have a lot of classic *Kampung* wooden houses, and scenes of daily life that you won't catch on the main road.
+
 ## Waiting time
 
 I crossed on February 10 2024, the first day of the Chinese New Year. There were a lot of cars waiting, but as a cyclist I did not wait at all. It was very easy. Motorcyclists didn't wait either.
