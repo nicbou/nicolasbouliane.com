@@ -12,9 +12,11 @@ In the kitchen, you do your *mise en place* before you start cooking. You gather
 
 ## Examples
 
-I created a few commands that let me jump between projects. They put me in the right directory, set environment variables and open development tools, all with a few keystrokes. `aab -s` is a lot shorter than `cd ~/Documents/Projects/AllAboutBerlin/server && docker-compose up --build -d && cd ../site && ursus -wf`. It's also a lot easier to remember.
+I created a few commands that let me jump between projects. They put me in the right directory, set environment variables and open development tools, all with a few keystrokes. `aab -s` is a lot shorter than `cd ~/Documents/Projects/AllAboutBerlin/server && docker-compose up --build -d && cd ../site && ursus -wfs`. It's also a lot easier to remember.
 
 I created equivalent aliases in my [SSH config](https://github.com/nicbou/dotfiles/blob/main/configs/ssh.conf). `ssh aab` is equivalent to `ssh -PXXXX root@allaboutberlin.com`.
+
+This lets me reboot an old project without the dread of figuring out how to run it. There's a script in there that does it, and it's one of the first things explained in the README.
 
 These tools save a few seconds here and there, sure, but above all, they help me stay focused on my main task.
 
