@@ -122,7 +122,7 @@ On the 19th, the Résistance learned that the Allies were only a few miles from 
 
 After two days of fighting, the Germans occupied most of the strategic positions, while the Resistance held the rest of the city. Armed partisans zoomed up and down the boulevards in commandeered Citroëns, cheered by civilians perched at their windows. German soldiers who once freely roamed from café to café now ran from cover to cover.
 
-> "In Paris we had one great advantage - which was a tradition of popular uprising. There was the revolution of course in 1879, but after that 1830, 1848, above all the Commune in 1870. There was a body of doctrine. We knew how to do it."
+> "In Paris we had one great advantage - which was a tradition of popular uprising. There was the revolution of course in 1789, but after that 1830, 1848, above all the Commune in 1870. There was a body of doctrine. We knew how to do it."
 
 > — Maurice Kriegel-Valrimont, French Résistance
 
