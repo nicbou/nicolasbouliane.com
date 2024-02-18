@@ -2,7 +2,7 @@
 title: Rules for calm technology
 description: Calm technology can't just be quiet. It has to be trustworthy.
 date_created: 2023-06-25
-categories: golden technology
+categories: technology
 ---
 
 Some time ago, I fell in love with Amber Case's concept of [calm tech](https://calmtech.com/): technology that requires the smallest possible amount of attention.
