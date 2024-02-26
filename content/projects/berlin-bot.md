@@ -3,7 +3,7 @@ title: Berlin Bot
 description: A small Reddit bot that answers common questions on /r/berlin
 date_created: 2019-01-26
 project_url: https://www.reddit.com/user/berlin-bot/comments/
-repo_url: https://github.com/nicbou/berlin-bot
+repo_url: https://github.com/all-about-berlin/berlin-bot
 featured_image: images/reddit-berlin-bot.png
 ---
 
