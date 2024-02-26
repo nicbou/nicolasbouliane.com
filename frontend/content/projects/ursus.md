@@ -2,7 +2,7 @@
 title: Ursus
 description: The static site generator that powers this website and All About Berlin. Written in Python.
 date_created: 2023-04-12
-repo_url: https://github.com/nicbou/ursus/
+repo_url: https://github.com/all-about-berlin/ursus/
 ---
 
 I built a static site generator for [All About Berlin](https://allaboutberlin.com/). It also powers my personal website. It's open source; you can find the code on [Github](https://github.com/nicbou/ursus/).
@@ -92,7 +92,7 @@ Markdown has some important limitations:
 - No way to embed widgets in the content (like my [tax calculator](https://allaboutberlin.com/tools/tax-calculator))
 - No support for variables and constants in the content
 
-I had to [extend Python Markdown](https://github.com/nicbou/ursus/blob/master/ursus/context_processors/markdown.py) to support those things.
+I had to [extend Python Markdown](https://github.com/all-about-berlin/ursus/blob/master/ursus/context_processors/markdown.py) to support those things.
 
 ## Building the static site generator
 

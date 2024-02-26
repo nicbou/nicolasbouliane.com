@@ -3,12 +3,12 @@ title: Bürgeramt appointment finder
 description: A tool that helps you grab one of those elusive Bürgeramt appointments.
 date_created: 2022-02-22
 project_url: https://allaboutberlin.com/tools/appointment-finder
-repo_url: https://github.com/nicbou/burgeramt-appointments-websockets
+repo_url: https://github.com/all-about-berlin/burgeramt-appointments
 ---
 
 Most of the German bureaucracy happens in person, by appointment. In 2022, I built [a bot to find Bürgeramt appointments](https://allaboutberlin.com/tools/appointment-finder). It helps recent immigrants [register their address](https://allaboutberlin.com/glossary/Anmeldung) sooner, and get faster access to government services.
 
-**[Try it yourself](https://allaboutberlin.com/tools/appointment-finder)** or [see the code on GitHub](https://github.com/nicbou/burgeramt-appointments-websockets).
+**[Try it yourself](https://allaboutberlin.com/tools/appointment-finder)** or [see the code on GitHub](https://github.com/all-about-berlin/burgeramt-appointments).
 
 ![The Bürgeramt appointment finder UI](/images/appointment-finder.png)
 

@@ -30,7 +30,7 @@ As the data clearly shows, appointments are not released at a specific time, but
 
 [![](/images/appointments-scatter-plot.png)](/images/appointments-scatter-plot.png)
 
-I put the data and the scripts I used on [GitHub](https://github.com/nicbou/buergeramt-appointments). It's also on [Google Sheets](https://docs.google.com/spreadsheets/d/1V-FcoMlyZG522poQmL1pAZ7WEBdIERiYx1TxP4MnYVg/edit?usp=sharing), along with more graphs. If you [found an apartment](https://allaboutberlin.com/guides/find-a-flat-in-berlin), and you just need a Bürgeramt appointment, read [this guide](https://allaboutberlin.com/guides/berlin-burgeramt-appointment).
+I put the data and the scripts I used on [GitHub](https://github.com/all-about-berlin/buergeramt-appointments-old). It's also on [Google Sheets](https://docs.google.com/spreadsheets/d/1V-FcoMlyZG522poQmL1pAZ7WEBdIERiYx1TxP4MnYVg/edit?usp=sharing), along with more graphs. If you [found an apartment](https://allaboutberlin.com/guides/find-a-flat-in-berlin), and you just need a Bürgeramt appointment, read [this guide](https://allaboutberlin.com/guides/berlin-burgeramt-appointment).
 
 *This post was featured on [RBB24](https://www.rbb24.de/panorama/beitrag/2021/10/termin-buergeramt-berlin-software-tipp.html) and [Tagesspiegel](https://checkpoint.tagesspiegel.de/newsletter/58AQnV8j65ZFm10qj3Cii6).*
 
