@@ -2,9 +2,13 @@
 title: Crossing Singaport/Malaysia border on a bicycle
 description: Notes about the Johor Bahru border crossing for future travellers.
 date_created: 2024-02-13
+categories:
+    travel
 ---
 
 On February 10, I crossed the border between Singapore and Johor Bahru on a bicycle. This is how it went. This post is meant for people about to do the same; it's not an exciting story.
+
+{% include "blocks/_tableOfContents.html" %}
 
 ## Before you go
 
@@ -47,3 +51,7 @@ Along the coast, it gets a lot more pleasant. If you can, take any of the parall
 ## Waiting time
 
 I crossed on February 10 2024, the first day of the Chinese New Year. There were a lot of cars waiting, but as a cyclist I did not wait at all. It was very easy. Motorcyclists didn't wait either.
+
+## Cycling in Malaysia
+
+I wrote [a detailed post](/blog/malaysia-on-a-bike) about my bicycle trip across Malaysia. If you're thinking of doing the same, it's worth a read.

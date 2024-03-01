@@ -2,7 +2,8 @@
 title: The duty to document
 description: If you learn something the hard way, it's you duty to share your lessons with others.
 date_created: 2023-05-02
-categories: golden
+categories:
+    golden
     technology
 ---
 
