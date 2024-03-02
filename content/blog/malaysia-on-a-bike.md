@@ -50,6 +50,8 @@ Malaysia felt outstandingly safe. I never had to worry about my safety (except w
 
 Malaysia has a small but vibrant cycling community. I met a few of them on the road and through social media. They are friendly and eager to share knowledge. They kindly took me around Malakka and Kuala Lumpur and kept proffering advice during the rest of my trip. A lot of what you read now comes from them.
 
+The dogs are less friendly, and will chase you if you get close to them.
+
 ## Accommodation
 
 Hotels are plentiful along the main road. Booking.com works just fine here. Accommodation is rarer and more expensive during Chinese New Year, and slightly less so during the school holidays.
@@ -97,6 +99,8 @@ Whatsapp is very common here. Hotels sometimes assume that they can contact you 
 There are *some* bicycle shops along the route, although I did not check them out. I'd advise carrying your own tools and some spare tubes.
 
 I strongly recommend getting a hiplock. I use it all the time to lock my bike and panniers while I pop into a store or stop for lunch.
+
+Ear plugs are also good to have for riding along busy roads.
 
 ### Working on the road
 
