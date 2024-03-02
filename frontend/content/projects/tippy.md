@@ -8,5 +8,3 @@ featured_image: images/tippy.png
 ---
 
 Tippy was a small application I made for Windows Mobile. It was written using basic4ppc. The archived download page showed 5,146 downloads. That was before app stores.
-
-![Screenshot of Tippy for Windows Mobile](/images/tippy.png)
