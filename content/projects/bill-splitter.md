@@ -7,7 +7,7 @@ repo_url:
 featured_image: images/screencapture-bills-nicolasbouliane-2019-05-11-17_58_53.png
 ---
 
-Bill Splitter was a tool I threw together in less than a day to manage shared expenses with my roommates. It did its job elegantly for a while. I left this project aside after getting my own apartment, but it still remains online. Since the project is hosted on a free Heroku instance, it can take a while to load at first.
+Bill Splitter was a tool I threw together in less than a day to manage shared expenses with my roommates. It did its job elegantly for a while. I left this project aside after getting my own apartment, but it still remained online to the delight of a dozen people for a few years.
 
 The backend was built with Django. The frontend was built with Bootstrap. Nothing fancy.
 
