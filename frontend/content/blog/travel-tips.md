@@ -42,11 +42,14 @@ A few years ago, I spent half an hour in a police car explaining to a cop with w
 Be aware of the common tourist scams in the areas you visit.
 
 Hold onto your passport, and don't give it unless absolutely necessary. People can and will use it to hold you hostage. I give my driving licence, my residence permit or a photocopy whenever I can. Those are easier to replace.
+
 ## Flights
 
 Book directly from the airline. Never use OTAs like Kiwi, Opodo, Expedia and the rest. Everybody learns this lesson one way or another.
 
 Online travel agents make dealing with the airline or hotel harder, they have abysmal customer service, and they take forever to issue tickets or process refunds.
+
+Airlines often have terrible currency exchange rates. For example, Scoot charged 2,635 MYR (512€) for a flight, but if I paid in Euros, it charged 548€. That's 10% more! Pay in the local currency; your credit card company likely has a better exchange rate.
 
 ## Tech
 
@@ -80,10 +83,12 @@ Travel fatigue can make you an idle, apathetic mess. It comes to me as an acute 
 
 Remember that a trip is a vacation. Allow yourself to sleep in and to linger in nice places with a good book. Indulge in idleness and small rituals; no one is judging you.
 
-Speaking of judgement, go easy on social media. Be there, have a good time, and don't worry about proving it. 
+Speaking of judgement, go easy on social media. Be there, have a good time, and don't worry about proving it.
 
-When things go south and a rift grows between reality and the carefully curated narrative you put out, you might feel as if you're failing to live up to your own standards. It's not a good place to be in, and it can be hard to seek help.
+When things go south and a rift grows between reality and the carefully curated narrative you put out, you might feel as if you're failing to live up to your social media image. It's not a good place to be in, and it can be hard to seek help.
 
-It's hard enough to be a sad, homesick mess with fluids coming out both ends. You shouldn't have to keep up with the expectations of your audience on top of it.
+It's hard enough to be a sad, homesick mess with fluids coming out both ends. You shouldn't have to keep up with the expectations of your audience on top of that.
 
 On the other hand, a travel journal is a *fantastic* idea. You can capture how a trip feels in the moment with unmatched fidelity. It feels good to unwind, and later you can laugh at your misadventures. My travel diaries were the inspiration behind the [timeline thing](/projects/timeline).
+
+On a different note, if you are to spend a significant amount of time with your own thoughts - for example by riding a motorcycle halfway around the world - stay away from ABBA. The half-remembered lyrics of *Take A Chance On Me* bouncing around your head for two weeks straight will chip away at your sanity.
