@@ -1,38 +1,42 @@
 ---
 title: Cycling across Malaysia
-description: Notes about my bicycle trip from Singapore to Phuket for future travellers.
+description: Notes about my bicycle trip from Singapore to Penang for future travellers.
 date_created: 2024-03-01
 categories:
     travel
 ---
 
-Between February and April 2024, I have cycled from Singapore to Phuket, Thailand. I spent most of that time in Malaysia. This post is for those who a similar trip. It's not a travel diary.
+In February and March 2024, I have cycled from Singapore to Penang. This post is for those who plan a similar trip. It's not a travel diary.
 
 {% include "blocks/_tableOfContents.html" %}
 
 ## The landscape
 
-If you ride on the West coast - that's where most cities are - you spend most of your time looking at palm oil plantations and rice paddies. The main road is lined with businesses and open-air restaurants. The secondary roads give you a better glimpse of village life.
+If you ride on the West coast - that's where most cities are - you spend most of your time looking at palm oil plantations and rice paddies. I found the landscape fascinating at first, but quite monotonous after 700 kilometres.
 
-Although you follow the coastline, you won't see the sea much. It's usually hidden behind 50 metres of mangroves or palm trees. In any case, the water is too muddy to swim in. You will find beaches on islands like Pangkor and Penang.
+Although you follow the coastline, you won't much of the sea. It's usually hidden behind 50 metres of mangroves or palm trees. In any case, the water is too muddy to swim in. Even on nicer beaches of Pangkor and Penang, it's rather murky and polluted. I heard that it's better in Langkawi.
 
 ## The road
 
-The road is completely flat most of the time.
+Routes 1 and 5 connect most of Malaysia's west coast. These roads are lined with businesses and open-air restaurants, making food readily available wherever you are. There is usually a broad shoulder to ride on, and Malaysian drivers are surprisingly accommodating of the rare cyclists they come across.
 
-A national route lines the sea across the entire country. There is usually a wide paved shoulder where you can ride safely. However, the heavy traffic is very loud and kicks up a lot of dust. You quickly grow to loathe the time you spend on that road.
+Along the main road, the air is filled with dust, diesel fumes and the loud groan of loaded lorries. It's not a pleasant place to be, but it's often the only option.
 
-The secondary roads are a lot more pleasant. Most of them are paved single or double-lane roads with lots of speed bumps. They sent my panniers flying every time, but they forced most of the traffic onto the main road.
+The secondary roads are quieter and give you a better glimpse of village life. The frequent speed bumps sent my panniers flying every time, but they kept most of the traffic at bay. Unfortunately, I found it hard to build a route out of those small roads, and often ended up back on the main road.
 
-There are also gravel service roads, mostly nearest to the sea and across palm oil plantations. You will see packs of monkeys on those roads, as well as cows, giant lizards and occasionally tapirs.
+There are also gravel service roads, mostly nearest to the sea and across palm oil plantations, often in the shade of trees. There I saw packs of monkeys as well as cows, giant lizards and the occasional boar.
 
-The roads in and out of major cities are *insane*. There is no bicycle infrastructure, and the only way in or out might be the expressway. It's not legal to ride a bike there, and speaking from experience, not advisable.
+Malaysian city planners do not account for pedestrians, let alone cyclists. The only ways in and out of the Johor Bahru, Kuala Lumpur and Penang are expressways and busy roads without shoulders.
 
-To get in and out of Kuala Lumpur, I used Grab to book a 6-seater cab. It cost me 120 MYR each way - about 25€. It's a small price to pay for the convenience and for not dying. On the weekends, you can also use the train to get in or out of the city. Intercity bus might also carry your bike for a little kopi money (20 MYR).
+I cannot stress how crazy and dangerous it is to try riding into those cities. After a bout of cycling on the expressway in Johor Bahru, I vowed to never do anything like that again.
+
+I booked a Grab 6-seater cab to get in and out of Kuala Lumpur. It cost me 120 MYR each way - about 25€. It's a small price to pay for the convenience of not dying. On the weekends, you can also use the train. Intercity buses might also carry your bike for a little kopi money (20 MYR).
+
+I also took a cab to get to Georgetown (Penang) after carefully studying the lack of safe alternatives. It cost me 55 MYR.
 
 ## The weather
 
-*Brutal.* In February and March - right after the monsoon - it's 28º to 35ºC with 70% humidity. The heat the hardest part of the trip. Locals will sometimes question your sanity. You will sometimes question your sanity.
+*Brutal.* In February and March - right after the monsoon - it's 28º to 35ºC with 70% humidity. The heat the hardest part of the trip. Locals will sometimes question your sanity. You might sometimes question it too.
 
 Sometimes, you'll be lucky to ride in the shade of palm trees, but for the most part, you're out in the open, getting pounded by the sun.
 
@@ -44,13 +48,13 @@ Between July and September, farmers burn their crops and fill the air with smoke
 
 ## The people
 
-Absolutely delightful. The whole lot of them. All the positive small interactions made the trip so much better. This was a pleasant surprise after a very lonely ride across South Korea.
+Absolutely delightful. The whole lot of them. The kindness and curiosity of Malaysians was by far the highlight of my trip.
 
 Malaysia felt outstandingly safe. I never had to worry about my safety (except while riding on the expressway), or second-guess anyone's intentions. I could blindly trust everyone I met, and that was great.
 
 Malaysia has a small but vibrant cycling community. I met a few of them on the road and through social media. They are friendly and eager to share knowledge. They kindly took me around Malakka and Kuala Lumpur and kept proffering advice during the rest of my trip. A lot of what you read now comes from them.
 
-The dogs are less friendly, and will chase you if you get close to them.
+The dogs are less friendly. They will chase you if you get close to them, and you might sometimes need to switch lanes to avoid them.
 
 ## Accommodation
 
@@ -68,13 +72,15 @@ You just need water. Lots of water. You can drink the tap water in Malaysia, and
 
 Few hotels include breakfast, but there's always a kopitiam nearby where you can fill up before the ride.
 
+A large part of Malaysia's population is Muslim and fasts during Ramadan. This might make it harder to find food. Malaysians who don't celebrate Ramadan also avoid eating around those who fast, as a sign of respect.
+
 ## The route
 
 The West coast is the more sensible route, as it crosses most of the big cities and important sights. The monsoon ends later on the East coast.
 
 I regret going to Johor Bahru, and wish I'd [crossed the border further East](/blog/singapore-malaysia-border-bicycle). My hotel was trapped between two expressways, and leaving the city involved a reckless ride on the expressway.
 
-I chose to skip Cameron Highland. I didn't feel like climbing 1,500 metres up along Malaysia's longest traffic jam. Quite a few people report that it's a pretty underwhelming destination.
+Do not bike up to Cameron Highland. It's a narrow, winding road with many blind turns and no shoulder to ride on. As a destination, it's rather underwhelming and generally not worth the trouble.
 
 ## Practical details
 
@@ -88,9 +94,9 @@ Scoot is a much cheaper option. They let you check in a bike as part of your lug
 
 ### Tech
 
-You get solid phone reception almost everywhere, so you can rely on mobile data. I got a SIM card from Nomad before leaving, so I had internet as soon as I arrived in Singapore.
+You get solid phone reception almost everywhere, so you can rely on mobile data. I got a SIM card from Nomad before leaving, so I had internet as soon as I arrived in Singapore. I had reliable mobile reception the entire time.
 
-I use OsmAnd to get detailed offline maps, and Google Maps with satellite view to guess road quality. Both maps were fairly accurate. I was never led astray by bad maps.
+I use OsmAnd to get detailed offline maps, and Google Maps with satellite view to guess road quality. Both maps were fairly accurate. I was not led astray by bad maps.
 
 Whatsapp is very common here. Hotels sometimes assume that they can contact you that way. So do most people. It's good to have.
 
@@ -98,15 +104,23 @@ Whatsapp is very common here. Hotels sometimes assume that they can contact you 
 
 There are *some* bicycle shops along the route, although I did not check them out. I'd advise carrying your own tools and some spare tubes.
 
-I strongly recommend getting a hiplock. I use it all the time to lock my bike and panniers while I pop into a store or stop for lunch.
+I strongly recommend getting a hiplock. I use it all the time to lock my bike and panniers while I pop into a store or stop for lunch. At night, I used my heavier lock. Hotel staff often let me lock my bike in a safer place.
 
 Ear plugs are also good to have for riding along busy roads.
 
 ### Working on the road
 
-Malaysia did not have a lot of infrastructure for digital nomads. It's rather hard to find a desk to work at, or even a friendly coffee shop. Most restaurants and coffee shops here are open-air. Nice air-conditioned hipster cafés with laptop tables are a rarity.
+Malaysia does not have a lot of infrastructure for digital nomads. It's rather hard to find a desk to work at, or even a friendly coffee shop. Most restaurants and coffee shops here are open-air. Nice air-conditioned hipster cafés with laptop tables are a rarity. You only find them in Kuala Lumpur, Ipoh and Penang.
 
 On the bright side, all but one hotel had fast Wi-Fi.
+
+## Conclusion
+
+Visiting Malaysia was a fantastic idea. Doing it on a bicycle was questionable.
+
+Flying with a bike was a massive hassle and cycling in the tropical heat was definitely [type II fun](https://sketchplanations.com/the-fun-scale). Had I done the same trip on a motorbike, I would likely have taken longer detours and made it all the way to Bangkok with less effort.
+
+However, this trip was a way to avoid bearing the brunt of German winter, get a bit of exercise and discover a country I had hitherto barely heard of. *Mission fucking accomplished!*
 
 ## Any questions?
 
