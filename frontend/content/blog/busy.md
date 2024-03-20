@@ -14,7 +14,7 @@ Objectively, things are fine. [All About Berlin](/projects/all-about-berlin) - t
 
 I want to slow the treadmill down. I want to make more slack to build great things. This post is about how I'm doing it.
 
-![Sleeping dog](/images/sleeping-dog.png)
+![Sleeping dog](/images/illustrations/sleeping-dog.png)
 
 ## Automation
 
