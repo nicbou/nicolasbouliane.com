@@ -46,7 +46,7 @@ I also use [Better Uptime](https://betterstack.com/uptime) to get notified if so
 
 I've recently implemented "time bombs" on All About Berlin. They're little snippets that fail to compile after a certain date. Here is an example:
 
-> `This guide explains the current laws about cannabis in Germany. The rules will change in April 2024.{% raw %}{{ fail_on('2024-04-01') }}{% endraw %}`
+    The rules will change in April 2024.{% raw %}{{ fail_on('2024-04-01') }}{% endraw %}
 
 This content has an expiration date. After April 2024, this page will not build. It's a loud reminder to update it. For me, that means one less thing to monitor.
 
