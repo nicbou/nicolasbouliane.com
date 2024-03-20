@@ -10,7 +10,7 @@ Adulthood feels like stepping onto a treadmill that never stops. If I slow down 
 
 I've been at it for a while, but these days the treadmill is going too fast. My work is preordained for months, and I never get to work on what I want. Not without neglecting *something*.
 
-Objectively, things are fine. [All About Berlin](/projects/all-about-berlin) - the website I run for a living - is steadily improving. This little [digital garden](/blog/digital-gardening) grows, flowers and bears fruit. But it's a big garden. I spend more and more time on upkeep, rarely finding the energy to plant new seeds.
+Objectively, things are fine. [All About Berlin](/projects/all-about-berlin) - the website I run for a living - is steadily improving. The [digital garden](/blog/digital-gardening) grows, flowers and bears fruit. But it's a big garden. I spend more and more time on upkeep, rarely finding the energy to plant seeds.
 
 I want to slow the treadmill down. I want to make more slack to build great things. This post is about how I'm doing it.
 
@@ -46,7 +46,7 @@ I also use [Better Uptime](https://betterstack.com/uptime) to get notified if so
 
 I've recently implemented "time bombs" on All About Berlin. They're little snippets that fail to compile after a certain date. Here is an example:
 
-    This guide explains the current laws about cannabis in Germany. The rules will change in April 2024.\{\{ fail_on('2024-04-01') }}
+> `This guide explains the current laws about cannabis in Germany. The rules will change in April 2024.{% raw %}{{ fail_on('2024-04-01') }}{% endraw %}`
 
 After April 2024, this page will not build. It's a loud reminder that this page needs to be updated.
 
