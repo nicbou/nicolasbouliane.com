@@ -48,15 +48,13 @@ I've recently implemented "time bombs" on All About Berlin. They're little snipp
 
 > `This guide explains the current laws about cannabis in Germany. The rules will change in April 2024.{% raw %}{{ fail_on('2024-04-01') }}{% endraw %}`
 
-After April 2024, this page will not build. It's a loud reminder that this page needs to be updated.
+This content has an expiration date. After April 2024, this page will not build. It's a loud reminder to update it. For me, that means one less thing to monitor.
 
 ## Efficiency
 
-I have created a small community of immigration experts. We share knowledge and answer each other's questions. It allows me to get valuable insight in minutes instead of weeks.
+I have created a small community of immigration experts. We share knowledge and answer each other's questions. It allows me to answer tricky questions in minutes instead of weeks.
 
-I also moved from a content management system to a static site generator. It completely eliminated website maintenance work, and made me much more productive when editing content. It did for my work what a sharp knife and a well laid out kitchen does for a chef's. [I wrote about it](/projects/ursus) earlier.
-
-I'm currently thinking of ways of setting an expiration date on content. If I write "The minimum wage is 12€ (12.41€ in January)", it should trigger an error after January 1. Currently, I set calendar reminders, but it's a slow and awkward process.
+I also moved from a content management system to a static site generator. It completely eliminated website maintenance work, and made me much more productive when editing content. It did for my work what a sharp knife and a well laid out kitchen does for a chef's. [I wrote about it.](/projects/ursus)
 
 ## Saying no
 
