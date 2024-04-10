@@ -6,21 +6,21 @@ date_created: 2023-12-30
 
 I'm too busy.
 
-Adulthood feels like stepping onto a treadmill that never stops. If I slow down to catch my breath, I must catch up later. While I'm on vacation, chores and bills pile up, waiting for my return. Nothing is ever just *done*.
+Adulthood feels like being on treadmill that never stops. When I slow down to catch my breath, I must make up for it later. While I'm on vacation, chores and bills pile up, waiting for my return. Nothing is ever just *done*. The treadmill is just the overhead of running a business, of being an adult.
 
-I've been at it for a while, but these days the treadmill is going too fast. My work is preordained for months, and I never get to work on what I want. Not without neglecting *something*.
+I've been at it for a while, but recently the treadmill has been going faster - too fast. My work is preordained for months, and I never to build new things, to play or experiment. Not without neglecting *something*.
 
 Objectively, things are fine. [All About Berlin](/projects/all-about-berlin) - the website I run for a living - is steadily improving. The [digital garden](/blog/digital-gardening) grows, flowers and bears fruit. But it's a big garden. I spend more and more time on upkeep, rarely finding the energy to plant seeds.
 
-I want to slow the treadmill down. I want to make more slack to build great things. This post is about how I'm doing it.
+I want to slow the treadmill down. I want to give myself more slack to build great things. This is a post about what I tried, and how it went.
 
 ![Sleeping dog](/images/illustrations/sleeping-dog.png)
 
 ## Automation
 
-When I was in college, I built websites for small businesses. One day during the finals, I got a call from a panicked client. Their email server was down and they were losing money. I had to set my books aside *right now* and fight that fire.
+When I was in college, I built websites for small businesses. Things beyond my control sometimes went wrong, and it was my job to fix them *right now*. I'd get a frantic call from a client because their email server went down, and I had to drop everything and fix it. Even during finals week. Even on a family trip. Even when nursing a hangover.
 
-Since then, I've been exceedingly wary of creating time-sensitive work for myself. I prefer automating a job at a convenient time to being bothered at an inconvenient time. I never want to interrupt a vacation to renew an SSL certificate.
+Since then, I've been exceedingly wary of creating time-sensitive work for myself. Better automate a job at a convenient time than being bothered at an inconvenient time. I never want to interrupt a vacation to renew an SSL certificate again.
 
 However, I still need to bite the bullet sometimes. I wrote a few important calculators that need [a yearly update in January](/blog/new-in-2024). I will update them for a third year next week. I'm getting *much* better at it. Each year, the code is a little easier to update, the tests a little more thorough. Eventually, I hope that it will mostly update itself.
 
@@ -66,10 +66,14 @@ I got better at saying "no". It's harder when someone you respect has a great id
 
 I know that I don't owe anyone my time and energy. I'm offering a lot of valuable information for free already. I don't feel great about declining people, but it has become a necessity.
 
-Telling people this was a relief. I had to start telling people to find help elsewhere, and to set clear boundaries with my vacation responder. It allows me to really disconnect and unwind, and guess what... the website still runs fine!
+Telling people this was a relief. I had to start telling people to find help elsewhere, and to set clear boundaries with my vacation responder. It allows me to really disconnect and unwind. As I am typing this, my vacation responder has been on for 8 weeks, and guess what... the website still runs fine!
 
 ## Doing less
 
 More and more, I do less and less. I have shelved many projects in 2023 to stay focused on what matters to me.
 
 I try to keep my business lean. I don't want to waste time on ceremonial aspects like printing stickers and business cards, running a newsletter, being a guest on podcasts and so on.
+
+## Outcome
+
+It works. Things get done, and I have enough slack to try new things and enjoy sunny days.
