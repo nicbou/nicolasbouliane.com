@@ -52,7 +52,7 @@ Absolutely delightful. The whole lot of them. The kindness and curiosity of Mala
 
 Malaysia felt outstandingly safe. I never had to worry about my safety (except while riding on the expressway), or second-guess anyone's intentions. I could blindly trust everyone I met, and that was great.
 
-Malaysia has a small but vibrant cycling community. I met a few of them on the road and through social media. They are friendly and eager to share knowledge. They kindly took me around Malakka and Kuala Lumpur and kept proffering advice during the rest of my trip. A lot of what you read now comes from them.
+Malaysia has a small but vibrant cycling community. I met a few of them on the road and through social media. They are friendly and eager to share knowledge. They kindly took me around Malacca and Kuala Lumpur and kept proffering advice during the rest of my trip. A lot of what you read now comes from them.
 
 The dogs are less friendly. They will chase you if you get close to them, and you might sometimes need to switch lanes to avoid them.
 
