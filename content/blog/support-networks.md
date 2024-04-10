@@ -4,14 +4,14 @@ description: I wanted to create a community, yet I was oblivious to the oldest s
 date_created: 2024-04-10
 ---
 
-When I was in Malaysia, I shared a meal with a Spanish restaurateur. He had been running a tapas restaurant in Malakka for the better part of a decade.
+I had drinks with a Spaniard in Malaysia. He moved to Malakka years ago to start a tapas restaurant with his wife. As we sat by the street, watching the humid air condense on our beer glasses, we started talking about the logistics of running a restaurant there. He described the the difficulty of hiring and training the local staff to his foreign standard.
 
-We mostly talked about bicycles, but also delved into the logistics of running a tapas restaurant halfway around the world. He told me about the difficulty of hiring and training restaurant staff in Malaysia.
+He struggled with the Nepalese migrant workers that made up half of his staff. These boys, he explained, were dropped at the airport by their agency and left to fend for themselves.
 
-One point that struck me was the problems he faced with the Nepalese migrant workers that made up half of his staff. These boys, he explained, were dropped at the airport by their agency and left to fend for themselves. When they had a problem - money, sickness, even teenage angst - they turned to their boss, the only person they know. He was unexpectedly thrust into the role of a father figure for half a dozen boys. 
+When they had problems with money or health, with loneliness or the family back home, they'd turn to him and his wife. He was unexpectedly thrust into the role of a father figure for half a dozen boys. He truly had to run the business like a family, with all the drama it involved.
 
-His Muslim employees, on the other hand, could count on the local mosque to soften their landing. The mosque would set them up, show them around and be there when they needed help. Muslims had a support network. The Nepalese boys did not.
+More interestingly, unlike the Nepalese, he continued, the Muslim migrant workers fared much better. When they arrived in Malakka, the local mosque would soften their landing. There, they could find community, a place to spend time, and people to help them. They had a support network. The Nepalese workers did not.
 
-I earn a living from giving immigrants a soft landing. I started by giving them good information. The next logical step is to give them a community.
+![Drawing of men praying at a mosque](/images/illustrations/mosque.png)
 
-Yet I was completely oblivious to the oldest support networks in the world. I could talk somebody's head off about third places and social infrastructure, but I never considered the mosque or the YMCA as examples to learn from.
+I [help immigrants for a living](/projects/all-about-berlin). I am keenly aware of how it feels to move somewhere without a support network. Yet I was completely oblivious to the oldest support network in the world: religion. I could talk somebody's head off about third places and social infrastructure, but it never occurred to me that mosques could be examples to learn from.
