@@ -12,9 +12,33 @@ In February and March 2024, I have cycled from Singapore to Penang. This post is
 
 ## The landscape
 
-If you ride on the West coast - that's where most cities are - you spend most of your time looking at palm oil plantations and rice paddies. I found the landscape fascinating at first, but quite monotonous after 700 kilometres.
+If you ride on the West coast - that's where most cities are - you spend most of your time looking at palm oil plantations and rice paddies. I found the landscape fascinating, although seeing palm plantation after palm plantation along a busy road got quite monotonous after a while.
 
-Although you follow the coastline, you won't much of the sea. It's usually hidden behind 50 metres of mangroves or palm trees. In any case, the water is too muddy to swim in. Even on nicer beaches of Pangkor and Penang, it's rather murky and polluted. I heard that it's better in Langkawi.
+![Trail through a palm plantation](/images/malaysia-palm-plantation.jpg "A trail going through a palm plantation")
+
+![Rice paddies in Malaysia](/images/malaysia-rice-paddies-2.jpg "A secondary road through the rice paddies")
+
+![Secondary road going through rice paddies in Malaysia](/images/malaysia-rice-paddies.jpg "A secondary road through the rice paddies")
+
+Although you follow the coastline, you won't much of the sea. It's usually hidden behind 50 metres of mangroves or palm trees. In any case, the water is too muddy to swim in. Even on nicer beaches of Pangkor and Penang, it's rather murky and polluted. I heard that it's much better in Langkawi.
+
+Since you're cycling along the west coast, you will be treated to breathtaking sunsets almost every day.
+
+![Riverside sunset in Malaysia](/images/malaysia-riverside.jpg)
+
+![Seaside sunset in Pangkor, Malaysia](/images/pangkor-sunset.jpg)
+
+The cities are quite nice. I loved walking around Malacca, and especially Georgetown. Despite spending 3 weeks in Georgetown, I have almost no pictures. It's a beautiful place, take my word for it.
+
+![Riverside bar in Malacca](/images/malakka-riverside.jpg "Enjoying a beer on the riverside in Malacca")
+
+![Seaside view in Penang](/images/penang-seaside.jpg "Seaside view in Penang")
+
+![River in Malaysia](/images/malaysia-river.jpg "One of the many rivers you will cross.")
+
+Some of the mosques are simply breathtaking. The one in Bagan Datuk was my favourite.
+
+![Bagan Datuk mosque](/images/bagan-datuk-mosque.jpg)
 
 ## The road
 
@@ -22,9 +46,17 @@ Routes 1 and 5 connect most of Malaysia's west coast. These roads are lined with
 
 Along the main road, the air is filled with dust, diesel fumes and the loud groan of loaded lorries. It's not a pleasant place to be, but it's often the only option.
 
+![Route 5 in Malaysia](/images/malaysia-route-5.jpg)
+
+![Road in Malaysia](/images/malaysia-roadside.jpg "A typical view from the main road")
+
 The secondary roads are quieter and give you a better glimpse of village life. The frequent speed bumps sent my panniers flying every time, but they kept most of the traffic at bay. Unfortunately, I found it hard to build a route out of those small roads, and often ended up back on the main road.
 
 There are also gravel service roads, mostly nearest to the sea and across palm oil plantations, often in the shade of trees. There I saw packs of monkeys as well as cows, giant lizards and the occasional boar.
+
+![A trail along the palm plantations in Malaysia](/images/malaysia-trail.jpg)
+
+![A trail along the palm plantations in Malaysia](/images/malaysia-trail-2.jpg)
 
 Malaysian city planners do not account for pedestrians, let alone cyclists. The only ways in and out of the Johor Bahru, Kuala Lumpur and Penang are expressways and busy roads without shoulders.
 
@@ -36,7 +68,7 @@ I also took a cab to get to Georgetown (Penang) after carefully studying the lac
 
 ## The weather
 
-*Brutal.* In February and March - right after the monsoon - it's 28º to 35ºC with 70% humidity. The heat the hardest part of the trip. Locals will sometimes question your sanity. You might sometimes question it too.
+*Brutal.* In February and March - right after the monsoon - it's 30º to 37ºC with 70% humidity. The heat the hardest part of the trip. Locals will sometimes question your sanity. You might sometimes question it too.
 
 Sometimes, you'll be lucky to ride in the shade of palm trees, but for the most part, you're out in the open, getting pounded by the sun.
 
@@ -80,7 +112,9 @@ The West coast is the more sensible route, as it crosses most of the big cities 
 
 I regret going to Johor Bahru, and wish I'd [crossed the border further East](/blog/singapore-malaysia-border-bicycle). My hotel was trapped between two expressways, and leaving the city involved a reckless ride on the expressway.
 
-Do not bike up to Cameron Highland. It's a narrow, winding road with many blind turns and no shoulder to ride on. As a destination, it's rather underwhelming and generally not worth the trouble.
+Do not bike up to Cameron Highland. It's a narrow, winding road with many blind turns and no shoulder to ride on. I found it rather underwhelming as a destination. It's a permanent traffic jam with no cabs or public transit. I never got to see the jungle because I couldn't find transportation to it.
+
+![Traffic on the road to Cameron Highland](/images/cameron-highland-traffic.jpg "The road to Cameron Highland is a permanent traffic jam")
 
 ## Practical details
 
@@ -89,6 +123,8 @@ Do not bike up to Cameron Highland. It's a narrow, winding road with many blind 
 Bringing my bicycle with me was a pain. Most airlines have labyrinthine luggage policies regarding bicycles. Even they can't figure them out when asked.
 
 Finnair was the only airline with a clear price for bikes, but it was not cheap. Besides, they pummelled my bike box like it insulted their mother. When my bike came out on the conveyor belt, the box was torn open with a wheel hanging loose. My heart stopped when I saw the carnage, but nothing fell out or got damaged.
+
+![Bicycle in a torn box after shipping by Finnair](/images/finnair-bicycle-box.jpg)
 
 Scoot is a much cheaper option. They let you check in a bike as part of your luggage allowance, so no extra charge so long as you're within the weight limit. For some reason, their customer support refused to tell me this, insisting that I'd know when I check in. At the airport, there was no fuss and no extra charge. They accepted my 30 kg box without a word. Another internaut had the same experience.
 
@@ -124,7 +160,7 @@ Visiting Malaysia was a fantastic idea. Doing it on a bicycle was questionable.
 
 Flying with a bike was a hassle and cycling in the tropical heat was definitely [type II fun](https://sketchplanations.com/the-fun-scale). Had I done the same trip on a motorbike, I would likely have taken longer detours and made it all the way to Bangkok with less effort.
 
-However, this trip was a way to avoid bearing the brunt of German winter, get a bit of exercise and discover a country I had hitherto barely heard of. *Mission fucking accomplished!*
+However, this trip was a way to avoid bearing the brunt of German winter, get a bit of exercise and discover a country I had hitherto barely heard of. *Mission accomplished!*
 
 ## Any questions?
 
