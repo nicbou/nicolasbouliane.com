@@ -86,11 +86,15 @@ Do not bike up to Cameron Highland. It's a narrow, winding road with many blind 
 
 ### Flying with a bike
 
-Flying with the bike is a pain. Most airlines have labyrinthine luggage policies that even they can't figure out when asked.
+Bringing my bicycle with me was a pain. Most airlines have labyrinthine luggage policies regarding bicycles. Even they can't figure them out when asked.
 
-Finnair is the only airline with a clear price for bikes, but it's not a cheap airline. Besides, they pummelled my bike box like it owed them money. When my bike came out on the conveyor belt, the box was torn open with the wheel hanging loose. My heart stopped, but nothing fell out or got damaged.
+Finnair was the only airline with a clear price for bikes, but it was not cheap. Besides, they pummelled my bike box like it insulted their mother. When my bike came out on the conveyor belt, the box was torn open with a wheel hanging loose. My heart stopped when I saw the carnage, but nothing fell out or got damaged.
 
-Scoot is a much cheaper option. They let you check in a bike as part of your luggage allowance, so no extra charge so long as you're within the weight limit. At least that's what Redditors told me. Their customer support refused to tell me how much it cost to ship a bike, insisting that I'd know when I check in.
+Scoot is a much cheaper option. They let you check in a bike as part of your luggage allowance, so no extra charge so long as you're within the weight limit. For some reason, their customer support refused to tell me this, insisting that I'd know when I check in. At the airport, there was no fuss and no extra charge. They accepted my 30 kg box without a word. Another internaut had the same experience.
+
+The kind people at Lim Bicycles in Penang prepared the bike for the return journey. They gave me a bigger, sturdier box, and wrapped the frame with extra cardboard. I paid 15 MYR for the box and 90 MYR for their trouble. It was well worth the money.
+
+![Bicycle box in a bicycle store](/images/bicycle-packed.jpg)
 
 ### Tech
 
@@ -118,7 +122,7 @@ On the bright side, all but one hotel had fast Wi-Fi.
 
 Visiting Malaysia was a fantastic idea. Doing it on a bicycle was questionable.
 
-Flying with a bike was a massive hassle and cycling in the tropical heat was definitely [type II fun](https://sketchplanations.com/the-fun-scale). Had I done the same trip on a motorbike, I would likely have taken longer detours and made it all the way to Bangkok with less effort.
+Flying with a bike was a hassle and cycling in the tropical heat was definitely [type II fun](https://sketchplanations.com/the-fun-scale). Had I done the same trip on a motorbike, I would likely have taken longer detours and made it all the way to Bangkok with less effort.
 
 However, this trip was a way to avoid bearing the brunt of German winter, get a bit of exercise and discover a country I had hitherto barely heard of. *Mission fucking accomplished!*
 
