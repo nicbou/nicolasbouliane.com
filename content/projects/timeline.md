@@ -7,6 +7,8 @@ repo_url: https://github.com/nicbou/timeline-old
 featured_image: images/Screen-Shot-2021-05-07-at-22.58.13.png
 ---
 
+*There's a [more recent version](/projects/new-timeline) of this project. You should check it out!*
+
 This is a page from my travel journal. It's from a day in 2019, when I was on my way to Central Asia.
 
 ![](/images/Scan-15-2019-05-23.jpeg)
