@@ -7,15 +7,11 @@ repo_url: https://github.com/nicbou/timeline
 featured_image: images/timeline-1.png
 ---
 
-A few years ago, I have built a [timeline thing](/project/timeline). It has been running smoothly on my home server since then, but I dread touching it.
+Some time ago, I built a [timeline thing](/project/timeline). It ran smoothly for a few years, but it was a heavy, complex project. It was hard to configure, run, reason about and work on. I dreaded touching it.
 
-It's a heavy project. It's hard to configure, hard to run, hard to reason about, hard to work on, and hard to monitor.
-
-All About Berlin used to be like this, until I migrated to a [simple, efficient static site generator](/project/ursus). It had a profound positive impact on my workflow. I applied lessons from this migration to the timeline thing.
+This iteration is leaner, simpler. It's meant to be [calm technology](https://calmtech.com/) that requires as little attention as possible. It draw inspiration from the [simple, efficient static site generator](/project/ursus) I created for All About Berlin.
 
 ![Screenshot of the timeline tool](/images/timeline-2.png)
-
-This iteration is meant to be calm technology. It's meant to just work and to require as little attention as possible.
 
 Here's roughly how I did it.
 
@@ -41,11 +37,11 @@ For certain data there are no standards, and that's challenging. I have years of
 
 ## Scripts over systems
 
-You run a command over some files, instead of spinning up a whole system.
+You run a command over some files and it outputs other files. You don't spin up a whole system with a database and an API.
 
 I ditched Docker, Django, Django REST Framework, Postgresql, imagemagick, ghostscript, and a lot more. The new timeline is a self-contained Python package with few dependencies. You point it at files, it spits out a website.
 
-All in all, it's a lot easier to reason about. It's easier to use and easier to maintain. I feel far more confident than people can try it out on their computer.
+I find this new iteration much easier to reason about. It's also easier to run and easier to maintain. I feel far more confident than people can try it out on their computer.
 
 ## Run it yourself
 
