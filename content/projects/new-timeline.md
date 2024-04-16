@@ -4,6 +4,7 @@ description: It builds a timeline out of your photos, diaries, calendars and loc
 date_created: 2023-11-28
 project_url: https://github.com/nicbou/timeline
 repo_url: https://github.com/nicbou/timeline
+featured_image: images/timeline-1.png
 ---
 
 A few years ago, I have built a [timeline thing](/project/timeline). It has been running smoothly on my home server since then, but I dread touching it.
@@ -11,6 +12,8 @@ A few years ago, I have built a [timeline thing](/project/timeline). It has been
 It's a heavy project. It's hard to configure, hard to run, hard to reason about, hard to work on, and hard to monitor.
 
 All About Berlin used to be like this, until I migrated to a [simple, efficient static site generator](/project/ursus). It had a profound positive impact on my workflow. I applied lessons from this migration to the timeline thing.
+
+![Screenshot of the timeline tool](/images/timeline-2.png)
 
 This iteration is meant to be calm technology. It's meant to just work and to require as little attention as possible.
 
@@ -43,3 +46,9 @@ You run a command over some files, instead of spinning up a whole system.
 I ditched Docker, Django, Django REST Framework, Postgresql, imagemagick, ghostscript, and a lot more. The new timeline is a self-contained Python package with few dependencies. You point it at files, it spits out a website.
 
 All in all, it's a lot easier to reason about. It's easier to use and easier to maintain. I feel far more confident than people can try it out on their computer.
+
+## Run it yourself
+
+The code is on [GitHub](https://github.com/nicbou/timeline). It's also a Python package that you can simply install and run.
+
+[See the project on GitHub](https://github.com/nicbou/timeline)
