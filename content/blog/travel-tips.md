@@ -2,7 +2,8 @@
 title: Assorted travel advice
 description: Lessons learned on the road.
 date_created: 2023-09-05
-categories: golden travel
+categories:
+    travel
 ---
 
 This is an assortment of travel tips I have picked up over the years. Most of it is geared toward long-distance solo travel.
