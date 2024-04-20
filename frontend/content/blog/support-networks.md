@@ -2,6 +2,9 @@
 title: Support networks
 description: I wanted to create a community, yet I was oblivious to the oldest support network in the world.
 date_created: 2024-04-10
+categories:
+    golden
+    travel
 ---
 
 I had drinks with a Spaniard in Malaysia. He moved to Malacca years ago to start a tapas restaurant with his wife. As we sat by the street, watching the humid air condense on our beer glasses, we started talking about the logistics of running a restaurant there. He described the the difficulty of hiring and training the local staff to his foreign standard.
