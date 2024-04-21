@@ -21,4 +21,4 @@ I [help immigrants for a living](/projects/all-about-berlin). I am keenly aware 
 
 There is value to congregating with your neighbours every day. In every discussion about the loneliness epidemic, commenters will remind people of the Church's role in their community, and what is being lost with its fading relevance.
 
-It leaves me thinking about my role in my community. For the last few years, I have focused on creating a *resource* for Berlin's immigrants, but I should also have been building a *community*. Going forward, I'd like to develop the sort of [social infrastructure](https://www.thebritishacademy.ac.uk/blog/social-infrastructure-in-two-minutes/) to binds this community together.
+It leaves me thinking about my role in my community. For the last few years, I have focused on creating a *resource* for Berlin's immigrants, but I should also have been building a *community*. Going forward, I'd like to develop the sort of [social infrastructure](https://www.thebritishacademy.ac.uk/blog/social-infrastructure-in-two-minutes/) to bind this community together.
