@@ -13,9 +13,7 @@ config.html_url_extension = ''
 config.minify_js = True
 config.minify_css = True
 
-config.context_processors += (
-    'ursus.context_processors.git_date.GitDateProcessor',
-)
+config.context_processors.append('ursus.context_processors.git_date.GitDateProcessor')
 
 config.context_globals = {
     'now': datetime.now(),
