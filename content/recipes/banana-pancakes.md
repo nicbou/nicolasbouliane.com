@@ -6,6 +6,8 @@ tags:
     breakfast
 ---
 
+This is a recipe somewhere between slim [French crêpes](/recipes/pancakes) and thick [American pancakes](/recipes/thick-pancakes). If you don't have bananas, you can substitute them with other fruit or leave them out entirely.
+
 ## Ingredients
 
 - 125 g flour
