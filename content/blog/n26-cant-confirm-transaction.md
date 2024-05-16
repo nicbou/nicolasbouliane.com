@@ -20,6 +20,6 @@ Fixes that did not work for me:
 
 In the end, I recreated the same transaction directly in the N26 app, instead of using the website. I was able to confirm this one. There are still two "stuck" transactions, but at least I was able to send money.
 
-The long term solution is to switch to [another bank](https://allaboutberlin.com/guides/first-bank-account-in-germany). N26 hasn't fixed this issue in over 3 years. I don't expect them to fix it anytime soon. If you don't insist on English language support, DKB and ING are solid alternatives.
+The long term solution is to switch to [another bank](https://allaboutberlin.com/guides/best-bank-germany). N26 hasn't fixed this issue in over 3 years. I don't expect them to fix it anytime soon. If you don't insist on English language support, DKB and ING are solid alternatives.
 
 [^0]: [twitter.com](https://twitter.com/search?q=n26%20can%27t%20confirm&src=typed_query&f=live), [twitter.com](https://twitter.com/_schlicki/status/1217449059188989952)

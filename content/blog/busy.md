@@ -24,7 +24,7 @@ Since then, I've been exceedingly wary of creating time-sensitive work for mysel
 
 However, I still need to bite the bullet sometimes. I wrote a few important calculators that need [a yearly update in January](/blog/new-in-2024). I will update them for a third year next week. I'm getting *much* better at it. Each year, the code is a little easier to update, the tests a little more thorough. Eventually, I hope that it will mostly update itself.
 
-There's one last task that requires a lot of maintenance: my guide on [choosing a German bank](https://allaboutberlin.com/guides/first-bank-account-in-germany). Banks frequently change their terms and update their fees, and it's a pain to rewrite the guide every few months. I'm thinking of either hiring someone to update the information, or sharing the work with other websites that have similar guides.
+There's one last task that requires a lot of maintenance: my guide on [choosing a German bank](https://allaboutberlin.com/guides/best-bank-germany). Banks frequently change their terms and update their fees, and it's a pain to rewrite the guide every few months. I'm thinking of either hiring someone to update the information, or sharing the work with other websites that have similar guides.
 
 ## Grouping
 

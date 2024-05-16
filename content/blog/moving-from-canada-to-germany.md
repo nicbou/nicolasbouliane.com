@@ -116,9 +116,9 @@ On your way out, you need to [do your *Ab*meldung](https://allaboutberlin.com/gu
 
 ### Bank accounts and finances
 
-In order to [open a bank account in Germany](https://allaboutberlin.com/guides/first-bank-account-in-germany), you will need to be [registered as a resident](https://allaboutberlin.com/guides/anmeldung-in-english-berlin). This is what most sources say, but [some banks don't require it](https://allaboutberlin.com/guides/german-banks-no-address).
+In order to [open a bank account in Germany](https://allaboutberlin.com/guides/best-bank-germany), you will need to be [registered as a resident](https://allaboutberlin.com/guides/anmeldung-in-english-berlin). This is what most sources say, but [some banks don't require it](https://allaboutberlin.com/guides/german-banks-no-address).
 
-I do not have specific bank recommendations, but make sure you can get English service online and at your local branch. I went with Commerzbank because they had a branch in my building, but I had a hard time getting help in English, and their fees were ridiculous. [I wrote a detailed review of N26](https://allaboutberlin.com/guides/an-honest-review-of-n26 "Review of N26 bank"), after having an account with them for a few years. I also wrote a [comparison of German banks for expats](https://allaboutberlin.com/guides/first-bank-account-in-germany) so you can pick the best one for your needs.
+I do not have specific bank recommendations, but make sure you can get English service online and at your local branch. I went with Commerzbank because they had a branch in my building, but I had a hard time getting help in English, and their fees were ridiculous. [I wrote a detailed review of N26](https://allaboutberlin.com/guides/an-honest-review-of-n26 "Review of N26 bank"), after having an account with them for a few years. I also wrote a [comparison of German banks for expats](https://allaboutberlin.com/guides/best-bank-germany) so you can pick the best one for your needs.
 
 Keep in mind that almost everything in Germany is paid in cash. Aside from grocery stores and fast food chains, many places won't accept credit and debit cards. Cheques are also seldom used, since bank transfers are the norm for rent and other large payments.
 
