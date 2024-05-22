@@ -72,8 +72,10 @@ Telling people this was a relief. I had to start telling people to find help els
 
 More and more, I do less and less. I have shelved many projects in 2023 to stay focused on what matters to me.
 
-I try to keep my business lean. I don't want to waste time on ceremonial aspects like printing stickers and business cards, running a newsletter, being a guest on podcasts and so on.
+I try to keep my business lean. I don't want to waste time on ceremonial aspects like printing stickers and business cards, running a newsletter, being a guest on podcasts and so on. I try to do what needs doing, and nothing more.
 
 ## Outcome
 
-It works. Things get done, and I have enough slack to try new things and enjoy sunny days.
+It worked, mostly. I managed to set everything aside for a few weeks to make use of the nice weather. For a few weeks in May, nothing got done, and it felt great. On rainy days I would just make a few small fixes and keep up with emails, but that was it.
+
+It felt good to be back in control of my time.

@@ -158,9 +158,7 @@ I sometimes forget what the unfiltered internet looks like. A thin article wrapp
 
 Now it's all quieter.
 
-Did all this effort unlock superhuman productivity? No. But it prevents technology from constantly hijacking my attention. It gives time well spent a fighting chance against instant gratification.
-
-I spend less time on the computer. I don't get sidetracked as much. Internet drama does not phase me. I have more time to read, garden, and ride my bicycle.
+Did all this effort unlock superhuman productivity? No, but it helped. I spend less time on the computer. I don't get sidetracked as much. Internet drama does not phase me. I have more time to read, garden, and ride my bicycle.
 
 The computer is a tool again, and now it's going back in its box.
 
