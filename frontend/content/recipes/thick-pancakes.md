@@ -12,7 +12,7 @@ tags:
 - 2 tbsp vinegar
 - 120 g flour (1 cup)
 - 2 tbsp sugar
-- 1 tablespoon baking powder
+- 1 teaspoon baking powder
 - 1/2 teaspoon baking soda
 - 1/2 teaspoon salt
 - 1 egg
