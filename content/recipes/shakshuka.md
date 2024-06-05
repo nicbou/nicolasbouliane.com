@@ -15,6 +15,7 @@ tags:
 - 3 cloves garlic, minced
 - 1.5 tbsp paprika
 - 2 tsp cumin
+- 1 tsp chili flakes
 - 800 g peeled tomatoes, in their juice, crushed to smaller bits
 - 1 tsp salt, adjust to taste
 - pepper
@@ -27,7 +28,7 @@ tags:
 
 1. Cook the **red bell pepper** in **olive oil** in a pan on medium heat. Lightly char the peppers, then add the **onion**. Cook until the it softens.
 2. Add the **garlic** and cook for about 30 seconds. At that point your pan shouldn't be too hot, so it won't burn the garlic.
-3. Add the **paprika** and **cumin**. Mix until everything is coated with them.
+3. Add the **chili**, **paprika** and **cumin**. Mix until everything is coated with them.
 4. Crush the **tomatoes** between your fingers to make them smaller. Add them to the pan.
 5. Add **salt**, **pepper** and half of the **cilantro**. Simmer on low temperature for around 10 minutes. Adjust salt and pepper to taste while it cooks. I use about 1 teaspoon of salt.
 6. Make little wells in the sauce for **eggs**. Pour the eggs into those holes. If the eggs are at room temperature, they cook faster and the yolk doesn't harden.

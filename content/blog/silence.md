@@ -14,7 +14,7 @@ This is a post about how I fought back and got technology to *just shut the fuck
 
 ## What's wrong?
 
-I want to use technology on for my own ends, on my own terms. I want [calm technology](https://calmtech.com/) that respects the boundaries that I set for it, that respects my time, my attention, my privacy and above all my consent.
+I want to use technology on my own terms, for my own ends. I want [calm technology](https://calmtech.com/) that respects the boundaries that I set for it, that respects my time, my attention, my privacy and above all my consent.
 
 I don't want to get sidetracked by addictive technology when I mean to sit down and do work. I want the computer to go back in its box when I'm done with it - like any other tool - so that I can do other things.
 
