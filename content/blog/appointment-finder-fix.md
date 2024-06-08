@@ -22,4 +22,4 @@ Once I knew this, the fix was simple. I moved the bot to a different server, and
 
 I am very thankful to Mathias and the IKT-ZMS team for their help. The tool could not exist without them. Although they can't make exceptions for my bot, they've been kind enough to help me troubleshoot problems and keep it online.
 
-This runs contrary to the belief that the city government is working against me out of spite. From my perspective, they've repeatedly volunteered to help me, a random guy building tools for fun.
+Many on social media have suspected that the city government is working against me out of spite. This could not be further from the truth. From my perspective, they have repeatedly volunteered to help me, a random guy building tools for fun. I am very grateful for their help.
