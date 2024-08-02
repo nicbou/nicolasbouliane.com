@@ -80,9 +80,9 @@ On the other hand, opening and editing markdown files is *much* faster than clic
 
 ### No suitable options
 
-Existing static site generators seemed focused on simple blogs. They did not support complex relationships between entries (related content, reviewers, glossary entries, attachments). I didn't want to rebuild my website around another tool's limitations.
+Existing static site generators seemed focused on simple blogs. They did not support complex relationships between entries (related content, reviewers, glossary entries, attachments). It was also impossible to insert tools and widgets in the content. I didn't want to rebuild my website around another tool's limitations, so I wrote my own.
 
-I ended up extending both Markdown processing and Jinja template rendering. This would have been much harder if I picked a tool written in an unfamiliar language.
+I ended up extending both Markdown processing and Jinja template rendering to suit my needs. This would have been much harder if I picked a different tool written in an unfamiliar language.
 
 ### Markdown limitations
 
