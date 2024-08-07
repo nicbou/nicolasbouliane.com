@@ -1,57 +1,45 @@
 ---
 title: Please ask again
-description: If I linked you to this page, it's because I can't or won't help you. Here is how to fix it.
+description: Or how to ask for help on the internet
 date_created: 2022-07-09
 categories: golden
     reference
 ---
 
-I link people to this page when their questions are too vague to answer. Try these tips, and ask again.
+This page is a list of good practices when asking for help on the internet. If I linked you to this page, it's an invitation to ask again.
 
-## What are you trying to do?
+## Do your research first
 
-Tell me what you *actually* want to do, not just your attempted solution. Your approach might be wrong. I might know a better way to solve your problem.
+Before you ask for a stranger's help, try to solve your problem yourself. Read a few articles, watch some YouTube tutorials. Ask Google and ChatGPT. If you ask a community, read their FAQ or their wiki. Search for previous threads that answer your question.
 
-## What went wrong?
+Don't be a [help vampire](https://communitymgt.fandom.com/wiki/Help_Vampire); before you ask, [RTFM](https://en.wikipedia.org/wiki/RTFM) or [JFGI](https://slang.net/meaning/jfgi). If you show no attempt at solving your own problem, people might ignore you, or rudely remind you to do some research.
 
-Tell me where you got stuck. Give me enough details to understand the problem. If you give me all the information up front, we save a lot of time.
+## Ask the right people
 
-> **Bad:** "Help my car doesn't work"
+It's okay to ask strangers for help, but if you need a lot of hand-holding, or if you need the other person to do all the work, you should hire a professional.
 
-> **Good:** "My 2009 Ford Focus won't start. When I turn the key, the dash lights come on, and the radio starts, but the engine does not turn at all."
+If you have a problem with a business, ask their customer service first. These people are paid to help you.
 
-## What have you tried so far?
+## Get to the point
 
-Tell me how you have tried to solve your problem. Have you searched for existing solutions? Have you tried any of the solutions? What happened?
+If you reach out to a stranger for help, pack as much information as you can in your first message. [Don't say hello and wait](https://sbmueller.github.io/nohello/), and [don't ask to ask](https://dontasktoask.com/). If you make strangers work to figure out what you want, they might ignore you.
 
-If you tell me what did *not* work, we save a lot of time. I can understand the problem better, and offer more specific help.
+## Ask clear questions
 
-> **Bad:** "What should I see and do in Berlin"
+**Describe your goal, not just the step where you got stuck.** Sometimes, you took a wrong turn a long time ago. If we get you unstuck, you will just keep heading in the wrong direction. In other words, you might get the right answer to the wrong question. Tell us what you're trying to do, in case we know a better way.
 
-> **Good:** "What residence permit options do I have? I can't get a work visa or a Blue Card because I don't have vocational training. Can I move to Germany as a student, or do an internship there instead?"
+**Give all the important information upfront**, so that we can help you right away. If you need technical help, share the error messages, the error logs, the make and model of your device. If you ask for personal help, share all relevant information about your situation. Don't make people fish for that information.
 
-## What is your situation?
-
-Provide all the important information up front. If I have enough information to help you, we can solve your problem faster.
-
-> **Bad:** “Help how do I move to Germany?"
-
-> **Good:** “I am a Nigerian citizen and I currently live in Hungary. I have a university degree in software engineering. How can I move to Germany?”
+**Tell us what you have tried so far.** Have you searched for existing solutions? Have you tried any of the solutions? What happened? It helps us understand the problem better, and offer more specific solutions. It also shows that you made an effort to solve your problem, and that makes us more likely to help you.
 
 ## Remember the human
 
-I will help you *for free*, but I ask for 3 things in return:
+Remember to be kind and courteous. Say hello and thank you. Don't just blurt your question like you're talking to a chatbot.
 
-- **Make an effort.** I can't do all the work for you. I won't spend 30 minutes to save you 30 seconds of research. If you don't make an effort, I won't help you.
-- **Be reasonable.** I help people for free as a courtesy. If you need a personal consultation or comprehensive support, please hire someone.
-- **Be kind.** Say hello, please and thank you. I am a stranger who helps you for free, not a chatbot. Don't be like [Liam](/images/rude-email.png).
+Respect other people's time by providing clear information. Respect their effort by providing feedback and expressing gratitude. This is not strictly necessary, but everyone appreciates a bit of recognition.
 
-## Related ideas
+## Pay you dues
 
-- [Don't say hello and wait](https://sbmueller.github.io/nohello/).
-- [Don't ask to ask, just ask](https://dontasktoask.com/).
-- [Read the f\*\*\*ing manual](https://www.techopedia.com/definition/13211/read-the-fing-manual-rtfm)
-- [Remember the human](http://staff.washington.edu/janzen/wireframe/Netiquette%20Site/remember-the-human.html)
-- [Be investable](https://www.youtube.com/watch?v=Rufif247scI)
-- [12 steps to asking for qmail help](https://pyropus.ca./personal/writings/12-steps-to-qmail-list-bliss.html#step1)
+After you solved your problem, [remember to share your solution](/blog/duty-to-document). Thousands of people might find your question through Google, and they will be happy to find a solution.
 
+You should also give feedback and express your gratitude to those who helped you. It's heartbreaking to spend an hour helping someone, and not even get a "thank you".
