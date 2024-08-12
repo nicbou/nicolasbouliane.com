@@ -40,6 +40,10 @@ Respect other people's time by providing clear information. Respect their effort
 
 ## Pay you dues
 
-After you solved your problem, [remember to share your solution](/blog/duty-to-document). Thousands of people might find your question through Google, and they will be happy to find a solution.
+After you solved your problem, [remember to **share your solution**](/blog/duty-to-document). Thousands of people might find your question through Google, and they will be happy to find a solution.
 
-You should also give feedback and express your gratitude to those who helped you. It's heartbreaking to spend an hour helping someone, and not even get a "thank you".
+You should also **follow up and express your gratitude** to those who helped you for free.
+
+## Related links
+
+- [How to ask smart questions](http://catb.org/~esr/faqs/smart-questions.html)
