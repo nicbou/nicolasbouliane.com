@@ -8,7 +8,7 @@ categories: golden
 
 Technology constantly calls for my attention, like a needy child. Attention is engagement and engagement is profit. Thus the best minds of our generation are busy grabbing my attention by increasingly coercive means.
 
-This is a post about how I fought back and got technology to *just shut the fuck up*. It's regularly updated.
+This is a post about how I fought back and got technology to *just shut up*. It's regularly updated.
 
 ![Clothespin holding lips shut](/images/illustrations/clothespin-holding-mouth-shut.png)
 
@@ -90,13 +90,13 @@ I read more than ever in my life, and it's now a deliberate act, not an anxiety-
 
 ### Reddit
 
-I still use reddit, but a lot less than before.
-
-I uninstalled the mobile app. The mobile website is unbearable, so I'm rarely tempted to use it.
+I still use reddit, but a lot less than before. I uninstalled the mobile app. The mobile website is unbearable, so I'm rarely tempted to use it.
 
 On desktop, I use old.reddit.com. The old website is simpler, faster and quieter than the redesign. It feels more like a forum, and less like a dopamine casino. The [Old Reddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/) extension enforces my choice. I hid a few of the remaining nuisances with ad blocker rules.
 
-I filtered toxic content on the front page by blocking subreddits; a *lot* of subreddits. There are no more American politics, outrage porn or drama on my front page. I only follow a handful of hobby subreddits.
+I filtered toxic content on the front page by blocking subreddits - hundreds of them. There are no more American politics, outrage porn or drama on my front page. I only follow a handful of hobby subreddits.
+
+I use the [Redirector extension](https://addons.mozilla.org/en-US/firefox/addon/redirector/) to redirect /r/all to my conscientiously curated home page. No more doom scrolling!
 
 This is the default Reddit experience:
 
@@ -128,7 +128,7 @@ I design my own websites to be calm technology. I tend to forget that the unfilt
 
 I [removed comments](/blog/no-comments-on-website) from the websites I run, because I don't want to deal with comment moderation and spam. Instead, I invite people to email me. Emails are more manageable, and feel more personal.
 
-I design the websites themselves to run forever with almost no maintenance. They are simple static websites with few moving parts. I have paid for years of hosting in advance, and set up automatic payments just in case. Everything is behind Cloudflare for extra redundancy. If something goes wrong, **[Better Uptime](https://betteruptime.com)** will notify me.
+I design the websites themselves to run forever with almost no maintenance. They are simple static websites with few moving parts. I have paid for years of hosting in advance, and set up automatic payments just in case. Everything is behind Cloudflare for extra redundancy. If something goes wrong, [Better Uptime](https://betteruptime.com) notifies me.
 
 ### The tech I build
 
@@ -140,26 +140,26 @@ Lessons from culinary school don't always apply home cooking. That's also true f
 
 ### My own behaviour
 
-I leave my phone out of the bedroom. When I go to bed, I leave it in silent mode on my desk.
+I leave my phone out of the bedroom. When I go to bed, I leave it on silent mode on my desk.
 
-Instead of getting smacked with raw social media first thing in the morning, I read a book, or articles I have queued in Pocket. The iPad I read on is completely disconnected from the cloud and social media. It's a distraction-free device.
+Instead of getting smacked with raw social media first thing in the morning, I read a book or articles I have queued in [Instapaper](https://www.instapaper.com/). The iPad I read on is disconnected from the cloud and social media. It's a distraction-free device.
 
-I used to go straight to the computer - still in my underwear - to continue something that started on my phone in bed. Now I have coffee and breakfast on the balcony, *then* catch up with the world.
+I used to go straight to my desk - still in my underwear - to continue something that started on my phone in bed. Now I have coffee and breakfast on the balcony, *then* catch up with the world. I don't have the discipline to do this every day, but I'm getting darn good at it.
 
-I also post a lot less online. On one hand, the internet got much angrier during the pandemic, and on the other hand, I mellowed out. I don't get the same rush from engaging with internet drama. It was never worth it.
+I also post a lot less online. The internet got much angrier during the pandemic, and I mellowed out as well. I found that the best response to quibblers and boors is indifference. When the discussion gets tedious, I shrug and move on. Rude emails go straight to the trash.
 
 > "A strange game. The only winning move is not to play."
 
 ## Result
 
-The original draft of this article had a far more desperate tone. It had the done of an alcoholic pouring his liquor down the kitchen drain. I was losing sleep over internet drama, and couldn't fully check out. You now read the revised account of a sober man.
+The original draft of this article had the desperate tone of an alcoholic pouring his liquor down the kitchen drain. I was losing sleep over internet drama. I couldn't fully check out. Things are a lot better now.
 
 I sometimes forget what the unfiltered internet looks like. A thin article wrapped in ads, topped with five layers of modals, and a video auto-playing in the corner. An inbox that's 90 percent noise. Two fifteen second ads before each YouTube video, and another one in the middle. Recommended content in every crevice of the user interface. This was technology for most of my life.
 
 Now it's all quieter.
 
-Did all this effort unlock superhuman productivity? No, but it helped. I spend less time on the computer. I don't get sidetracked as much. Internet drama does not phase me. I have more time to read, garden, and ride my bicycle.
+Did all this effort unlock superhuman productivity? No, but it helped. I spend less time on the computer. I don't get sidetracked as much. I am blissfully unaware of the latest internet drama. I have more time to read, garden, and ride my bicycle.
 
-The computer is a tool again, and now it's going back in its box.
+The computer is a tool again, and it's going back in its box.
 
 ![](/images/illustrations/gtmktz0vzjl51.jpg)
