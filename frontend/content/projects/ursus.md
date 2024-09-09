@@ -152,7 +152,7 @@ The new footnotes combine multiple sources into a single footnote. This<sup>1</s
 
 With no server to index pages and handle search, I had to rewrite search from scratch.
 
-I generate an index with Lunr.py, and use Lunr.py in the browser to search content. It's ridiculously fast, and a massive user experience improvement. [Try it yourself.](https://allaboutberlin.com/guides)
+I generate an index with Lunr.py, and use Lunr.js in the browser to search content. It's ridiculously fast, and a massive user experience improvement. [Try it yourself.](https://allaboutberlin.com/guides)
 
 ## How it feels
 
