@@ -34,15 +34,13 @@ If you reach out to a stranger for help, pack as much information as you can in 
 
 ## Remember the human
 
-Remember to be kind and courteous. Say hello and thank you. Don't just blurt your question like you're talking to a chatbot.
-
-Respect other people's time by providing clear information. Respect their effort by providing feedback and expressing gratitude. This is not strictly necessary, but everyone appreciates a bit of recognition.
+**Be kind and courteous.** Say hello and thank you. Don't just blurt your question like you're talking to a chatbot.
 
 ## Pay you dues
 
 After you solved your problem, [remember to **share your solution**](/blog/duty-to-document). Thousands of people might find your question through Google, and they will be happy to find a solution.
 
-You should also **follow up and express your gratitude** to those who helped you for free.
+Remember to **follow up and express your gratitude** to those who helped you for free. It sucks to spend a part of your day helping a stranger, and not even get a "thank you" in return.
 
 ## Related links
 
