@@ -90,13 +90,11 @@ I read more than ever in my life, and it's now a deliberate act, not an anxiety-
 
 ### Reddit
 
-I still use reddit, but a lot less than before. I uninstalled the mobile app. The mobile website is unbearable, so I'm rarely tempted to use it.
+I still use reddit, but *a lot* less than before.
 
-On desktop, I use old.reddit.com. The old website is simpler, faster and quieter than the redesign. It feels more like a forum, and less like a dopamine casino. The [Old Reddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/) extension enforces my choice. I hid a few of the remaining nuisances with ad blocker rules.
+First, I uninstalled the mobile app. The mobile website is unbearable, so I lost the urge to visit it.
 
-I filtered toxic content on the front page by blocking subreddits - hundreds of them. There are no more American politics, outrage porn or drama on my front page. I only follow a handful of hobby subreddits.
-
-I use the [Redirector extension](https://addons.mozilla.org/en-US/firefox/addon/redirector/) to redirect /r/all to my conscientiously curated home page. No more doom scrolling!
+On desktop, I use old.reddit.com. The old website is simple, faster and quieter than the redesigned version. It feels more like the forums of yore, and less like a dopamine casino. I enforce my choice with the [Old Reddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/) extension. I added some uBlock rules to hide the remaining annoyances.
 
 This is the default Reddit experience:
 
@@ -106,7 +104,15 @@ This is my own:
 
 ![](/images/Screenshot-2022-08-07-at-17-58-04-reddit-the-front-page-of-the-internet.png)
 
-A bit later, I hid the "next page" button. I get 25 posts, no more. It's an unreasonably effective way to cut mindless browsing.
+I did not stop there. I aggressively removed toxic subreddits from my home page - more than a hundred of them by now. The [Reddit is Fun]() extension lets me filter keywords like "Trump", "Harris" and "Biden", as political posts constantly sneak into benign subreddits. There is no more American politics, outrage porn or drama on my front page.
+
+That made my reddit experience a lot more pleasant, but I could still scroll for a few hours. I hid the pagination buttons, and that put an end to it. I got 25 posts, no more. It was unreasonably effective.
+
+But even then, the remaining content on /r/all annoyed me, so I used the [Redirector](https://addons.mozilla.org/en-US/firefox/addon/redirector/) to redirect it to my conscientiously curated home page.
+
+Over time, the local subreddits got on my nerves too, so I left subreddit after subreddit until there were none.
+
+Now, I land on an empty feed. There's nothing to look at. I barely participate anymore, and I feel quite fine about it. Mission accomplished!
 
 ### YouTube
 
@@ -152,11 +158,13 @@ I also post a lot less online. The internet got much angrier during the pandemic
 
 ## Result
 
-The original draft of this article had the desperate tone of an alcoholic pouring his liquor down the kitchen drain. I was losing sleep over internet drama. I couldn't fully check out. Things are a lot better now.
+The original draft of this article had the desperate tone of an alcoholic pouring his liquor down the kitchen drain. I was losing sleep over internet drama. I couldn't fully check out. A few years later, things are a lot better.
 
 I sometimes forget what the unfiltered internet looks like. A thin article wrapped in ads, topped with five layers of modals, and a video auto-playing in the corner. An inbox that's 90 percent noise. Two fifteen second ads before each YouTube video, and another one in the middle. Recommended content in every crevice of the user interface. This was technology for most of my life.
 
-Now it's all quieter.
+Above all, my phone and my laptop got boring. There's just nothing left to look at. I still have the reflex to pull out my phone when I am bored or nervous, but there's nothing to find there.
+
+It's all quieter.
 
 Did all this effort unlock superhuman productivity? No, but it helped. I spend less time on the computer. I don't get sidetracked as much. I am blissfully unaware of the latest internet drama. I have more time to read, garden, and ride my bicycle.
 
