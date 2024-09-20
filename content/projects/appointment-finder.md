@@ -138,7 +138,7 @@ Another kind government employee from a different team showed me how the appoint
 
 There is also hope from the fringes of government: my old colleagues are lifting mountains in the [Digital Service](https://digitalservice.bund.de/), as are the people at [CityLab](https://citylab-berlin.org/de/start/).
 
-As for me, I'll keep building little tools where I see an opportunity to improve German bureaucracy. Recently, I released a [tool to fill the address registration form](/projects/anmeldung-form-filler). More are coming.
+As for me, I'll keep building little tools where I see an opportunity to improve German bureaucracy. Recently, I released a [tool to fill the address registration form](/projects/anmeldung-form-filler) and to [request a new tax ID](https://allaboutberlin.com/docs/010250-antrag-auf-vergabe-einer-steuerlichen-id). More are coming.
 
 [^0]: [plus.tagesspiegel.de](https://www.tagesspiegel.de/der-graue-lappen-ist-zuruck-die-jagd-nach-dem-internationalen-fuhrerschein-wird-zum-sussen-nostalgie-erlebnis-336706.html), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/keine-losung-fur-terminstau-bei-berliner-burgeramtern-4256614.html), [checkpoint.tagesspiegel.de](https://checkpoint.tagesspiegel.de/langmeldung/zeWyOidG3PriBabT5nd8b)
 [^1]: [nicolasbouliane.com](https://nicolasbouliane.com/blog/berlin-buergeramt-experiment)
