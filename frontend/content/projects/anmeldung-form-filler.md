@@ -59,7 +59,7 @@ This is a technique I first used with the [currency tooltips](/blog/currency-too
 
 ## What's next?
 
-I'd like to digitalize more forms. The [tax ID request form](https://allaboutberlin.com/docs/010250-antrag-auf-vergabe-einer-steuerlichen-id) is a solid contender, as the original design is offensively bad. The [Abmeldung](https://allaboutberlin.com/docs/abmeldung) form would also be useful.
+I will digitalize more forms. I have already done the [Abmeldung](https://allaboutberlin.com/docs/abmeldung) and [tax ID request](https://allaboutberlin.com/docs/010250-antrag-auf-vergabe-einer-steuerlichen-id) forms. These form fillers get used hundreds of times per month. With each new form I digitalize, my work becomes a little more efficient, a little more streamlined. It now takes me only a few days to convert a form.
 
 ### Faxes and snail mail
 
