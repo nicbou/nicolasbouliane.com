@@ -48,7 +48,6 @@ config.linters = (
 )
 
 config.logging = {
-    'datefmt': '%H:%M:%S',
-    'fmt': '%(asctime)s %(levelname)s [%(name)s:%(lineno)d] %(message)s',
     'level': logging.INFO,
+    'format': '%(asctime)s %(levelname)s [%(name)s:%(lineno)d] %(message)s',
 }
