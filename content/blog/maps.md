@@ -55,9 +55,9 @@ The next logical step is to get *much* better feedback.  In my mind, I think it'
 
 Google has millions of smartphones observing traffic conditions in real time. This is how we know precisely how jammed the A2 is on a given day. I think we can do this for German bureaucracy too. If we collect enough feedback about people's bureaucratic experience, we can give people an idea of what journey they're getting themselves into.
 
-I want to do the same thing. I have hundreds of thousands of visitors. If even a single-digit percentage of them let me know how their journey went, *this* would become plausible:
+I want to do the same thing. I have hundreds of thousands of visitors. If even a single-digit percentage of them let me know how their journey went, *this* becomes possible:
 
-![](/images/illustrations/bureaucratic-map.png)
+![](/images/illustrations/bureaucratic-roadblock-berlin.png "What I really want")
 
 The only challenge is to ask for it at just the right time, which is right after they get what they want. Ask too early and they don't know. Ask too late and they don't care.
 
