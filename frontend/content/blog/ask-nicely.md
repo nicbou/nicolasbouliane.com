@@ -10,9 +10,11 @@ This page is a list of good practices when asking for help on the internet. If I
 
 ## Do your research first
 
-Before you ask for a stranger's help, try to solve your problem yourself. Read a few articles, watch some YouTube tutorials. Ask Google and ChatGPT. If you ask a community, read their FAQ or their wiki. Search for previous threads that answer your question.
+**Don't be a [help vampire](https://communitymgt.fandom.com/wiki/Help_Vampire)!** Before you ask for a stranger's help, try to solve your problem yourself. Read a few articles, watch some YouTube tutorials, [read the manual](https://en.wikipedia.org/wiki/RTFM), [Google your question](https://slang.net/meaning/jfgi) or ask ChatGPT. 
 
-Don't be a [help vampire](https://communitymgt.fandom.com/wiki/Help_Vampire); before you ask, [RTFM](https://en.wikipedia.org/wiki/RTFM) or [JFGI](https://slang.net/meaning/jfgi). If you show no attempt at solving your own problem, people might ignore you, or rudely remind you to do some research.
+If you ask a community for help, read their FAQ or their wiki. Search for previous threads that might answer your question. If you contact the owner of a website, check their website first.
+
+If you show no attempt at solving your own problem, people might ignore you, or rudely ask you to do your own research.
 
 ## Ask the right people
 
@@ -34,9 +36,9 @@ If you reach out to a stranger for help, pack as much information as you can in 
 
 ## Remember the human
 
-**Be kind and courteous.** Say hello and thank you. Don't just blurt your question like you're talking to a chatbot.
+**Be kind and courteous.** Say hello, please and thank you. Don't just blurt your question like you're talking to a chatbot.
 
-## Pay you dues
+## Pay your dues
 
 After you solved your problem, [remember to **share your solution**](/blog/duty-to-document). Thousands of people might find your question through Google, and they will be happy to find a solution.
 
