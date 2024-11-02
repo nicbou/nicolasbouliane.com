@@ -71,9 +71,15 @@ The form went live two weeks ago, and 40 people already volunteered to give feed
 
 If this works well, I want to replicate the success across the entire website. If I know precisely how long it takes to get a work visa, to register a business or to become a citizen, I can make people's journey a lot more predictable.
 
-![](/images/feedback-after-process.png)
+In October 2024, I have built [a form to collect feedback](https://allaboutberlin.com/tools/residence-permit-feedback) about the immigration office processing times.
 
-I will try it out and let you know how it goes.
+![](/images/blue-card-feedback.png)
+
+![](/images/blue-card-feedback-2.png)
+
+![](/images/blue-card-feedback-email.png)
+
+If all goes well, we will get more insight about the immigration office wait times than ever before. For people who have been waiting for over 6 months for a residence permit, this will be a game changer.
 
 ## Related ideas
 
