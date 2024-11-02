@@ -24,7 +24,7 @@ If you have a problem with a business, ask their customer service first. These p
 
 ## Get to the point
 
-If you reach out to a stranger for help, pack as much information as you can in your first message. [Don't say hello and wait](https://sbmueller.github.io/nohello/), and [don't ask to ask](https://dontasktoask.com/). If you make strangers work to figure out what you want, they might ignore you.
+Pack as much information as you can in your first message. [Don't say hello and wait](https://sbmueller.github.io/nohello/), and [don't ask to ask](https://dontasktoask.com/). If you make strangers work to figure out what you want, they might ignore you.
 
 ## Ask clear questions
 
