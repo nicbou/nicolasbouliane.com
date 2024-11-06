@@ -21,7 +21,9 @@ Maps made the journey predictable. We know exactly how to get there, how long it
 
 It made navigation completely stress-free.
 
-![](/images/illustrations/map-predictability.png)
+![A person looking at the uncertain road ahead](/images/illustrations/map-predictability-before.png)
+
+![A person holding a map that makes the road ahead more predictable](/images/illustrations/map-predictability-after.png)
 
 So why don't we have this for other kinds of journeys?
 
@@ -35,7 +37,7 @@ There is no GPS this time. There isn't even a map. There are only scarce, ambigu
 
 A map would make the journey predictable. It would not fix the months-long bureaucratic traffic jams, nor would it turn business registration into a scenic drive, but it would give people a sense of what's ahead, and they could prepare for that. Remove the uncertainty, and you remove most of the anxiety.
 
-![](/images/illustrations/bureaucratic-map.png)
+![Increasing levels of clarity](/images/illustrations/bureaucratic-map.png)
 
 I don't picture a literal map, just good information that fills the same role, anything that prepares travellers for their journey. I'd settle for plain text and some flowcharts.
 
