@@ -51,3 +51,5 @@ config.logging = {
     'level': logging.INFO,
     'format': '%(asctime)s %(levelname)s [%(name)s:%(lineno)d] %(message)s',
 }
+
+config.add_markdown_extension('nl2br')
