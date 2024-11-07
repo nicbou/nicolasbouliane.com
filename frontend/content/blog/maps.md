@@ -65,7 +65,7 @@ The biggest challenge is timing. My readers come to me at the beginning of their
 
 This is what I have come up with:
 
-![](/images/feedback-collection.png)
+![Feedback collection tool](/images/feedback-collection.png)
 
 This is a step in the form to request a new tax ID. If all goes well, a reader should get their tax ID around 6 weeks after using this form. Then, if they volunteered to give feedback, they get an email with a few questions. I ask at precisely the right time.
 
