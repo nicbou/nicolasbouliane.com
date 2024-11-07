@@ -86,5 +86,6 @@ If all goes well, we will get more insight about the immigration office wait tim
 ## Related ideas
 
 - [The duty to document](/blog/duty-to-document)
+- [All About Berlin](/projects/all-about-berlin) is the embodiment of this
 - [Guerilla public service](https://www.okwhatever.org/topics/selfie/guerrilla-public-service) and the [guerilla groundsman](https://twitter.com/guerrgroundsman)'s random acts of tidying.
 

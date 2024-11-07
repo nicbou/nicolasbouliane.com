@@ -25,4 +25,3 @@ Long-distance motorcycle travel is a matter of maintenance. Riding is the easy p
 ## Related ideas
 
 - [The maintenance race](https://www.worksinprogress.co/issue/the-maintenance-race/)
-
