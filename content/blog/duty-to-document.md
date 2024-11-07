@@ -20,3 +20,4 @@ I figure that if you have knowledge that could benefit thousands of people, and 
 ## Related ideas
 
 - [A map for everything](/blog/maps)
+- [All About Berlin](/projects/all-about-berlin) was born out of a duty to document
