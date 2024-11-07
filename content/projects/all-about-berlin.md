@@ -3,29 +3,30 @@ title: All About Berlin
 description: A website that helps people settle in Berlin and navigate German bureaucracy.
 date_created: 2017-09-20
 project_url: https://allaboutberlin.com
-repo_url: 
-featured_image: images/aab-homepage.png
+repo_url: https://github.com/all-about-berlin
 ---
 
-I run [a website called All About Berlin](https).
+I run [a website called All About Berlin](https). It's a huge collection of detailed guides that help immigrants navigate German bureaucracy and understand all the little systems that make up German society. Put simply, it shows people how to adult in a new country.
+
+{% include "blocks/_tableOfContents.html" %}
+
+## A brief intro
 
 ![All About Berlin](/images/aab-homepage.png)
 
 ![All About Berlin guide](/images/aab-guide.png)
 
-The website is a collection of detailed guides that help immigrants navigate German bureaucracy and understand all the little systems that make up German society. Put simply, it shows people how to adult in a new country.
-
 The website is quite famous among immigrants. It's often praised for being very clear, straightforward, and practical.
 
 ![Positive feedback for All About Berlin](/images/aab-feedback.png)
 
-I absolutely love how kind and grateful my readers have been over the years. It still blows my mind when I talk to a complete stranger, and their face lights up when they realise that I run that website.
-
-It's one of the best parts of my job. It's very rewarding work.
+I absolutely love how kind and grateful my readers have been over the years. It still blows my mind when I talk to a complete stranger, and their face lights up when they realise that I run that website. It's one of the best parts of my job. It's very rewarding work.
 
 The website is relatively unknown to native Germans. This was not a problem 7 years ago, as I mostly covered topics that Germans are familiar with. But more and more, I also cover topics that also concern them, and I do so much more thoroughly than German language resources. They would also benefit from this website if it was available in their language.
 
-## Uncertainty causes anxiety
+## Why
+
+### Uncertainty causes anxiety
 
 The guiding principle behind the website is that uncertainty causes anxiety.
 
@@ -48,7 +49,7 @@ they feel a lot calmer about it. They wait the same amount of time, but the clar
 
 ![Increasing levels of clarity](/images/illustrations/bureaucratic-map.png)
 
-## Uncertainty has a cost
+### Uncertainty has a cost
 
 Uncertainty also adds a cost to everything. You leave home earlier because you don't know how long it will take to find parking. You take an early bus because public transit is unreliable. You get to the airport early because you don't know how long the security check will take. You waste time and energy to account for the unexpected.
 
@@ -68,7 +69,7 @@ This sort of uncertainty wastes everyone's time and energy. Not only immigrants 
 
 One important principle that was drilled into us in engineering school is that the earlier you catch a mistake, the cheaper it is to fix. If you give people good instructions, they can prepare better, and you waste less time dealing with incomplete application. It prevents a lot of unnecessary work, and frees up resources for better uses.
 
-## Uncertainty leads to avoidance
+### Uncertainty leads to avoidance
 
 In the worst case scenario, uncertainty leads to avoidance.
 
@@ -144,7 +145,7 @@ What do you do if you can't open a bank account because you can't get a [tax ID]
 
 ![Person showing another person the way](/images/illustrations/follow-me.png)
 
-## Good information matters
+### Good information matters
 
 My solution is good information. If you can't change the outcome, at least you can change the experience. Good information makes the experience more predictable, and that makes people feel a lot better about it.
 
