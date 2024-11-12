@@ -8,44 +8,41 @@ repo_url: https://github.com/all-about-berlin
 
 I run [a website called All About Berlin](https). It's a huge collection of detailed guides that help immigrants navigate German bureaucracy and understand all the little systems that make up German society. Put simply, it shows people how to adult in a new country.
 
-{% include "blocks/_tableOfContents.html" %}
-
-## A brief intro
-
 ![All About Berlin](/images/aab-homepage.png)
 
 ![All About Berlin guide](/images/aab-guide.png)
+
+{% include "blocks/_tableOfContents.html" %}
 
 The website is quite famous among immigrants. It's often praised for being very clear, straightforward, and practical.
 
 ![Positive feedback for All About Berlin](/images/aab-feedback.png)
 
-I absolutely love how kind and grateful my readers have been over the years. It still blows my mind when I talk to a complete stranger, and their face lights up when they realise that I run that website. It's one of the best parts of my job. It's very rewarding work.
+My readers are unbelievably kind and grateful. It still blows my mind when I talk to a complete stranger, and their face lights up when they realise that I run that website. It's one of the best parts of my job. It's very rewarding work.
 
-The website is relatively unknown to native Germans. This was not a problem 7 years ago, as I mostly covered topics that Germans are familiar with. But more and more, I also cover topics that also concern them, and I do so much more thoroughly than German language resources. They would also benefit from this website if it was available in their language.
+It is, however, relatively unknown to native Berliners. This was not a problem 7 years ago, as I mostly covered topics that Germans are already familiar with. But more and more, I also cover topics that also concern them, and I do so much more thoroughly than German language resources. They would also benefit from this website if it was available in their language.
 
-## Why
+## Why I built it
 
 ### Uncertainty causes anxiety
 
-The guiding principle behind the website is that uncertainty causes anxiety.
+The guiding principle behind All About Berlin is that uncertainty causes anxiety.
 
 ![A person looking at the uncertain road ahead](/images/illustrations/map-predictability-before.png)
 
-And if you reduce uncertainty, you can also make people feel better. If a train is delayed, but the display or the app tells you exactly when it's coming, you can adjust your plans.
+And if you reduce uncertainty, you make people feel better.
 
 ![A person holding a map that makes the road ahead more predictable](/images/illustrations/map-predictability-after.png)
 
-What bothers us about waiting for a train, a taxi or a residence permit is not the wait itself, but the degree of uncertainty.
+What bothers us about waiting for a train, a taxi or a residence permit is not the wait itself, but the degree of uncertainty. Waiting for a train is not so bad if you know exactly when it's coming. Even delays are no big deal if you are informed about them.
 
 ![A BVG Daisy display showing the tram timetable](/images/bvg-daisy-tram.jpg)
 
-But if you don't know what's going on, it gets a lot trickier. If you don't know when your train is coming - or if it's coming at all - there's a lot more uncertainty, and it's a lot harder to plan around that.
+But when no information is available, it gets a lot trickier. If you don't know when your train is coming - or if it's coming at all - there's a lot more uncertainty, and it's a lot harder to plan around it. Should you wait longer? Call a cab? Cancel plans?
 
 !["Außer Betrieb" by UnbewegtImBilde, CC BY-SA 2.0](/images/bvg-broken-daisy.jpg)
 
-Likewise, if you tell people how long a bureaucratic process takes,
-they feel a lot calmer about it. They wait the same amount of time, but the clarity improves the experience of waiting.
+That also applies to bureaucracy. If you tell people how long a bureaucratic process takes, they feel a lot calmer about it. They wait the same amount of time, but the clarity improves the experience of waiting.
 
 ![Increasing levels of clarity](/images/illustrations/bureaucratic-map.png)
 
@@ -55,19 +52,17 @@ Uncertainty also adds a cost to everything. You leave home earlier because you d
 
 ![Man looking for parking, waiting for the bus, waiting at the airport](/images/illustrations/waiting-man.png)
 
-Likewise, we tell people to bring everything they have to their immigration office appointment. The stakes are too high to leave anything to chance, so they chase documents they don't need, and get unnecessary certified translations at great expense.
+Likewise, we tell people to bring every document they can to their immigration office appointment. A missing document can delay their residence permit application by weeks. They risk burning through more of their savings while they wait for the permission to work. It can cost them their job, and even their life in Germany.
 
-A missing document can delay their residence permit application by weeks. It makes them burn through more of their savings while they wait for the permission to work. It can cost them their job, and even their life in Germany.
-
-I know people who had to go back to their home country because of immigration office delays. These are not just isolated cases, but a common story.
+The stakes are too high and the case workers too capricious to bring just what's *officially* required. Therefore, people chase documents they don't need and get them translated at great expense, just in case a capricious case worker might ask for them.
 
 ![Man with a wheelbarrow full of documents going to the Ausländerbehörde](/images/illustrations/lea-documents.png)
 
-This sort of uncertainty wastes everyone's time and energy. Not only immigrants who waste their time getting documents they don't need and their energy stressing about the outcome, but also case workers who waste their labour processing incomplete applications and turning people back.
+This sort of uncertainty wastes everyone's time and energy. Not only immigrants who waste time chasing unnecessary documents and energy stressing about the outcome, but also case workers who waste their labour processing incomplete applications.
 
 ![Man with a wheelbarrow full of documents at the Ausländerbehörde](/images/illustrations/lea-documents-rejection.png)
 
-One important principle that was drilled into us in engineering school is that the earlier you catch a mistake, the cheaper it is to fix. If you give people good instructions, they can prepare better, and you waste less time dealing with incomplete application. It prevents a lot of unnecessary work, and frees up resources for better uses.
+Engineering school drilled into us that the earlier you catch a mistake, the cheaper it is to fix. Good instructions are the earliest, cheapest fix their is. Well informed people prepare better, and you waste less time dealing with them. It saves everyone a lot of unnecessary work and frees up resources for better uses.
 
 ### Uncertainty leads to avoidance
 
