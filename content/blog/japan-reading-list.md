@@ -29,6 +29,7 @@ I visited Japan in Autumn 2024. As is tradition, I enriched my visit with as muc
 - **[Tokyo's manhole covers](https://stickymangorice.com/2021/02/10/tokyo-manhole-covers/)**
 - **[Wakaba mark](https://99percentinvisible.org/article/wakaba-mark-japanese-car-stickers-signal-levels-driving-experience/)** (99% Invisible)
 - **[Meiji-era Japanese oil paintings](https://www.artizon.museum/en/collection/category/7)**
+- **[30-hour days](https://en.wikipedia.org/wiki/Date_and_time_notation_in_Japan#Time)** - Japanese signs sometimes write "30時" (30 o-clock) to mean that an event goes past midnight, all the way until 6 AM. This explains why we sometimes saw closing times like "24:30".
 
 ## Japanese culture
 
