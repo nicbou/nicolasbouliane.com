@@ -210,7 +210,7 @@ The second time after the Russian invasion of Ukraine, to try to corral all the 
 
 I try to focus on evergreen content that can be steadily improved over time, instead of ephemeral articles that quickly fade into irrelevance.
 
-## 2. Think about it super hard
+### 2. Think about it super hard
 
 The next step is to fully understand the problem, and to come up with a basic guide structure.
 
@@ -241,7 +241,7 @@ I also try to find out which of their cultural expectations don't apply in Germa
 
 At last, I offer people [ways to get help](https://allaboutberlin.com/guides/questions-about-berlin). I would love to help everyone individually, and I *do* answer every email that comes my way, but it's unsustainable. I used to get dozens of emails a week - far more than I could answer - so I have to redirect readers to a curated list of experts.
 
-## 3. Research
+### 3. Research
 
 Once I know what I want to write about and which questions I need to answer, I start researching the topic in depth. This is the hardest part of my job.
 
@@ -260,7 +260,7 @@ I also ask the city directly, but it's not nearly as effective as one would thin
 
 This is why it's so important to ask around. It gives me an idea of how much variance there is in the process. I can't always give people a precise answer, but even documenting the range of possible outcomes is valuable to my readers.
 
-## 4. Writing and editing.
+### 4. Writing and editing.
 
 Next comes the writing part. I write clearly and concisely, in plain English. I put a lot of work into it. I can revise the same paragraph over and over again for an hour.
 
@@ -300,7 +300,7 @@ I also made a tool that helps people find Bürgeramt appointments. It might not 
 
 ![Anmeldung appointment finder](/images/aab-appointment-finder.png)
 
-## 5. Release
+### 5. Release
 
 All About Berlin's content is under source control, so I can work on different things at the same time.  For example, I can make all sorts of small changes on the main branch and work on a new series of guides in another branch.
 
@@ -313,7 +313,7 @@ After the release, I follow a post-release checklist. The first day mostly invol
 
 I also release the by-products of my work. I [open source](https://github.com/All-About-Berlin) as much code as possible. I really wish I could open source the website itself with all its content. It would open things up to contributors. However, the hostile nature of the web means that illicit copies of the website would spring up within a week.
 
-## 6. Maintenance
+### 6. Maintenance
 
 The last step is by far the most important one: maintenance. Each guide I release is a commitment, a liability. It's not something that I just publish and forget.
 
