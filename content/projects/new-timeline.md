@@ -1,10 +1,11 @@
 ---
-title: Timeline v2
+title: Timeline 2.0
 description: It builds a timeline out of your photos, diaries, calendars and location history. Same idea, built better.
 date_created: 2023-11-28
 project_url: https://github.com/nicbou/timeline
 repo_url: https://github.com/nicbou/timeline
 featured_image: images/timeline-1.png
+categories: golden
 ---
 
 Some time ago, I built a [timeline thing](/project/timeline). It ran smoothly for a few years, but it was a heavy, complex project. It was hard to configure, run, reason about and work on. I dreaded touching it.
