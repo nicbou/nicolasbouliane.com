@@ -154,14 +154,14 @@ figure, :not(figure) > picture, :not(figure, picture) > img {display:block;margi
     .entry-list time{font:var(--font-sans-serif);grid-row-end:span 10;color:var(--color-text-light)}
     .entry-list li > :not(time){grid-column-start:2;border-left:var(--border-light);padding-left:var(--spacing-m)}
     .entry-list h2, .entry-list h3{font-size:var(--font-size-h3);margin:0}
-    .entry-list p{font:var(--font-data);margin:0;padding:var(--spacing-m) 0 var(--spacing-l);line-height:var(--line-height)}
+    .entry-list p{font:var(--font-data);margin:0;padding:var(--spacing-s) 0 var(--spacing-l);line-height:var(--line-height)}
     .entry-list li:before{content:''}
 
 .recipe li.checked{text-decoration:line-through;}
 
 @media screen and ( max-width:600px ){
     :root{
-        --font-size-m:20px;
+        --font-size-m:22px;
         --font-size-s:15px;
     }
 
