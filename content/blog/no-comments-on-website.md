@@ -50,5 +50,4 @@ Emails trickle in at about the same rate as comments before them, but spam comme
 
 The emails I get tend to be more personal, more conversational. Each message is addressed to one person, not to an audience. It's signed with a name and a return address. It behoves one to be more considerate in their choice of words.
 
-It has been a few years since I have made this decision, and I am still happy with it.
-
+It has been a few years since I have made this decision, and I am still happy with it. In some cases, I have created widgets to let users provide very specific feedback about things like [wait times at the immigration office](/projects/immigration-office-wait-times). The data is automatically collected and aggregated, instead of polluting my mailbox. I pay attention to it when I choose to, and that's very valuable to me.
