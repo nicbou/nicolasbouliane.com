@@ -37,7 +37,7 @@ But if you don't know when the train is coming, or whether it's coming at all, y
 
 !["Außer Betrieb" by UnbewegtImBilde, CC BY-SA 2.0](/images/bvg-broken-daisy.jpg)
 
-This is something Uber has done brilliantly. You no longer need to stand outside, wondering when your cab is coming and whether the driver got the address right. Your phone shows you where they are, and buzzes just as they turn the corner. You wait the same amount of time, but the clarity improves the experience of waiting.
+This is something Uber has done brilliantly. You no longer need to stand outside, wondering when your cab is coming and whether the driver got the address right. Your phone shows you where they are, and buzzes just as they turn the corner. The experience of waiting is greatly improved by knowing how long you're going to wait.
 
 That also applies to bureaucracy. When you reduce uncertainty around a bureaucratic process, you improve the entire experience. This is the guiding idea behind All About Berlin. Add clarity, remove anxiety.
 
@@ -330,7 +330,7 @@ To make my research easier, I have created a WhatsApp community of immigration e
 
 Trawling social media for relevant information is getting a bit time consuming, so I try to get better at directly collecting feedback from my users.
 
-I have just released [a tool](https://allaboutberlin.com/tools/auslanderbehorde-wait-times) that measures the wait times at the immigration office. It collected around 50 data points in its first week, more than I'd usually find in a whole year.
+I have just released [a tool](https://allaboutberlin.com/guides/auslanderbehorde-wait-times) that measures the wait times at the immigration office. It collected around 50 data points in its first week, more than I'd usually find in a whole year.
 
 ![All About Berlin feedback tool](/images/aab-rp-feedback.png)
 
