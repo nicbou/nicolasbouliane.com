@@ -1,14 +1,14 @@
 ---
 title: Immigration office wait times
 description: A tool that collects and displays feedback about the Landesamt für Einwanderung.
-date_created: 2024-11-30
+date_created: 2024-11-27
 project_url: https://allaboutberlin.com/guides/auslanderbehorde-wait-times
 categories:
     golden
     allaboutberlin
 ---
 
-I made [a tool](https://allaboutberlin.com/guides/auslanderbehorde-wait-times) that collects and displays feedback about wait times at the Berlin immigration office.
+I made [a tool](https://allaboutberlin.com/guides/auslanderbehorde-wait-times) that collects and displays feedback about wait times at the Berlin immigration office. It's on [All About Berlin](/projects/all-about-berlin) since November 2024.
 
 ![Tool that shows LEA wait times](/images/lea-wait-times.png)
 
@@ -24,7 +24,7 @@ While they wait, people are often left unable to start a new job and earn a livi
 
 In other cases, their old residence permit expires, and they are unable to travel outside Germany for months on end. People miss weddings and funerals, unable to secure the *[Fiktionsbescheinigung](https://allaboutberlin.com/guides/fiktionsbescheinigung)* that would let them re-enter the country.
 
-I navigate people through the immigration process since 7 years, and I still don't know how long these things take. This needed to change. By giving people a clear timeline of their residence permit application, I can make their journey much less stressful.
+I navigate people through the immigration process [since 2017](/project/all-about-berlin), and I still don't know how long these things take. This needed to change. By giving people a clear timeline of their residence permit application, I can make their journey much less stressful.
 
 So I have built [a tool](https://allaboutberlin.com/guides/auslanderbehorde-wait-times) that collects reports from readers and measures wait times by department and residence permit type.
 
