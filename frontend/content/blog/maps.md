@@ -73,7 +73,7 @@ The form went live two weeks ago, and 40 people already volunteered to give feed
 
 If this works well, I want to replicate the success across the entire website. If I know precisely how long it takes to get a work visa, to register a business or to become a citizen, I can make people's journey a lot more predictable.
 
-In October 2024, I have built [a form to collect feedback](https://allaboutberlin.com/tools/residence-permit-feedback) about the immigration office processing times.
+In October 2024, I have built [a form to collect feedback](https://allaboutberlin.com/guides/auslanderbehorde-wait-times) about the immigration office processing times. It comes with a nice tool to visualize average wait times by department, and individual reports from readers. [Read more about it.](/projects/immigration-office-wait-times)
 
 ![](/images/blue-card-feedback.png)
 
@@ -87,5 +87,6 @@ If all goes well, we will get more insight about the immigration office wait tim
 
 - [The duty to document](/blog/duty-to-document)
 - [All About Berlin](/projects/all-about-berlin) is the embodiment of this
+    - [Immigration office wait times](/projects/immigration-office-wait-times) is a map for the *Landesamt für Einwanderung*
 - [Guerilla public service](https://www.okwhatever.org/topics/selfie/guerrilla-public-service) and the [guerilla groundsman](https://twitter.com/guerrgroundsman)'s random acts of tidying.
 
