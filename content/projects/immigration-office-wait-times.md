@@ -8,23 +8,25 @@ categories:
     allaboutberlin
 ---
 
-I made [a tool](https://allaboutberlin.com/guides/auslanderbehorde-wait-times) that collects and displays feedback about wait times at the Berlin immigration office. It's on [All About Berlin](/projects/all-about-berlin) since November 2024.
+I made [a tool](https://allaboutberlin.com/guides/auslanderbehorde-wait-times) to measure and display wait times at the Berlin immigration office. It collects user reports and shows statistics by department and residence permit type. It's on [All About Berlin](/projects/all-about-berlin) since November 2024.
 
 ![Tool that shows LEA wait times](/images/lea-wait-times.png)
 
 {% include "blocks/_tableOfContents.html" %}
 
-## Introduction
+## What's wrong?
 
 For many, moving to Berlin means applying for a residence permit and renewing it every 2 to 4 years.
 
 No one knows exactly how long this process takes. Wait times vary from 1 to 10 months, depending on the department, the residence permit type, and pure luck.
 
-While they wait, people are often left unable to start a new job and earn a living. People frequently lose their job before they even start due to immigration office delays.
+While they wait, people are often left unable to start a new job and earn a living. Immigrants lose their job before they even start because of to those delays. A friend I was hosting ran out of savings before he even got a response from the immigration office. He had to move back to his home country. These are not isolated cases.
 
-In other cases, their old residence permit expires, and they are unable to travel outside Germany for months on end. People miss weddings and funerals, unable to secure the *[Fiktionsbescheinigung](https://allaboutberlin.com/guides/fiktionsbescheinigung)* that would let them re-enter the country.
+In other cases, their old residence permit expires, and they are unable to travel for months on end. They miss weddings and funerals, because they wouldn't be allowed back into Germany.
 
-I navigate people through the immigration process [since 2017](/project/all-about-berlin), and I still don't know how long these things take. This needed to change. By giving people a clear timeline of their residence permit application, I can make their journey much less stressful.
+I navigate people through this process since 2017, and I still didn't have a precise idea of how long it takes. This needed to change.
+
+By giving people a clear timeline of their residence permit application, their journey becomes more predictable, and much less stressful. It does not speed up the process, but it helps people plan around it. 
 
 So I have built [a tool](https://allaboutberlin.com/guides/auslanderbehorde-wait-times) that collects reports from readers and measures wait times by department and residence permit type.
 
@@ -32,13 +34,17 @@ So I have built [a tool](https://allaboutberlin.com/guides/auslanderbehorde-wait
 
 I already wrote about [how predictability reduces anxiety](/projects/all-about-berlin), and how [a good map improves any journey](/blog/maps).
 
-It's one thing not to know when your food delivery is coming, and another not to know when you will receive a regular paycheck and stop burning through your savings. A friend I was hosting ran out of money before he even got a response from the immigration office. This is not an isolated case.
+What makes ride sharing and food delivery apps so great in my mind is that they give you an ETA. You know when your driver is coming, so you can sit inside and finish your drink instead of waiting outside in the cold. The experience of waiting is greatly improved by knowing how long you are going to wait.
+
+![Map showing a driver's ETA](/images/illustrations/map-eta.png)
+
+Even when wait times are not known, you can hint at wait times. For example, Google Maps tells you how busy a restaurant is before you even get there.
+
+![Google Maps showing how busy a place is](/images/illustrations/google-maps-busy-times.png)
+
+I wanted to bring the same sort of predictability to a place where much more is at stake: the immigration office. It's one thing not to know when your lunch is coming, and another not to know when you will receive a regular paycheck and stop burning through your savings.
 
 Other people also have a stake in this: your dependents who came to Germany with you, and your employer who is hoping you can start working soon. People regularly lose their job because they even start due to immigration office delays.
-
-What makes ride sharing and food delivery apps so great in my mind is that they give you an ETA. The experience of waiting is greatly improved by knowing how long you are going to wait.
-
-Having the same sort of ETA for something as important as your right to live in this country? That would be a game changer.
 
 ## How it works
 
