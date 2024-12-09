@@ -18,7 +18,7 @@ I made [a tool](https://allaboutberlin.com/guides/auslanderbehorde-wait-times) t
 
 For many, moving to Berlin means applying for a residence permit and renewing it every 2 to 4 years.
 
-No one knows exactly how long this process takes. Wait times vary from 1 to 10 months, depending on the department, the residence permit type, and pure luck.
+No one knows exactly how long this process takes. The immigration office does not measure that.[^1] Wait times vary from 1 to 10 months, depending on the department, the residence permit type, and pure luck.
 
 While they wait, people are often left unable to start a new job and earn a living. Immigrants lose their job before they even start because of to those delays. A friend I was hosting ran out of savings before he even got a response from the immigration office. He had to move back to his home country. These are not isolated cases.
 
@@ -69,3 +69,5 @@ If they scroll down, they can see feedback from individual users, along with com
 ## How it's built
 
 As other tools on All About Berlin, it's a simple Vue JS widget talking to a REST API. The backend used to be a bare bones Flask API, but I moved the entire thing to Django for this project. Switching to a familiar, batteries-included framework was a great decision.
+
+[^1]: [Frag den Staat](https://fragdenstaat.de/anfrage/durchschnittliche-bearbeitungszeiten/) (June 2024)
