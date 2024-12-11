@@ -4,12 +4,14 @@
 {% set canonicalUrl = "/projects" %}
 
 {% block content %}
-    <h1>Projects</h1>
+    <header>
+        <h1>Projects</h1>
+    </header>
     <h2>Active projects</h2>
     <ul class="entry-list">
         {% for entry in get_entries('projects', filter_by=is_golden, sort_by='date_created', reverse=True) %}
             <li>
-                <time datetime="{{ entry.date_created.strftime('%F') }}">Since {{ entry.date_created.strftime('%Y') }}</time>
+                <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
                 <h2><a rel="bookmark" href="{{ entry.url }}">{{ entry.title }}</a></h2>
                 <p>{{ entry.description }}</p>
             </li>

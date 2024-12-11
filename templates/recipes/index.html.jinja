@@ -4,7 +4,9 @@
 {% set canonicalUrl = "/recipes" %}
 
 {% block content %}
-    <h1>Recipes</h1>
+    <header>
+        <h1>Recipes</h1>
+    </header>
     <ul class="entry-list">
         {% for entry in get_entries('recipes', sort_by='date_created', reverse=True) %}
             {% if 'untested' not in entry.get('tags', []) %}

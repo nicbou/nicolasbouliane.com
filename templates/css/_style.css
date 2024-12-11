@@ -41,6 +41,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{di
     --color-border-light: #E6E3E1;
     --border-light: 1px solid var(--color-border-light);
 
+    --spacing-xxl: 3rem;
     --spacing-text-xl: 2.5em;
     --spacing-xl: 2.5rem;
     --spacing-text-l: 1.5em;
@@ -79,13 +80,13 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{di
 
 html, body{scroll-behavior:smooth;font-family: var(--font-family-text);font-size: var(--font-size-m);line-height: var(--line-height);margin:0;padding:0;color: var(--color-text);background:var(--color-background)}
 
-header, main{width: min(calc(72ch + 2 * var(--page-borders)), 100%);padding: 0 var(--page-borders);box-sizing: border-box;margin:0 auto}
+body > header, main{width: min(calc(72ch + 2 * var(--page-borders)), 100%);padding: 0 var(--page-borders);box-sizing: border-box;margin:0 auto}
 
-header {display:flex;justify-content:space-between;align-items:center;border-bottom:var(--border-light)}
-    header > a:before{content:'❧ '}
-    header nav{font:var(--font-data)}
-        header nav ul{margin:0;display:flex;}
-            header nav ul li{margin:0 0 0 var(--spacing-text-m);}
+body > header {display:flex;justify-content:space-between;align-items:center;border-bottom:var(--border-light)}
+    body > header > a:before{content:'❧ '}
+    body > header nav{font:var(--font-data)}
+        body > header nav ul{margin:0;display:flex;}
+            body > header nav ul li{margin:0 0 0 var(--spacing-text-m);}
 
 main{}
     main nav{padding:var(--spacing-l);border: var(--border-light);border-radius:var(--border-radius)}
@@ -104,12 +105,12 @@ ol{counter-reset:list;}
     ol li:before{counter-increment:list;content: counter(list) ". ";font-size:1em;font-style:italic;position:absolute;left:0;line-height:var(--line-height)}
 
 h1, h2, h3{line-height:var(--line-height-compact);margin:1.5em 0 1em;}
-    h1{background:url('data:image/svg+xml;utf8,{% include "/img/separator.svg" %}') no-repeat bottom center;background-size:300px;font-size:2.7rem;letter-spacing:-0.02em;font-weight:600;padding-bottom:calc(var(--spacing-text-m) + 19px);text-align:center}
-        h1 small{font-size:1rem;letter-spacing:0;display:block;margin-top:var(--spacing-text-s)}
+    main header{margin:var(--spacing-xxl) 0;background:url('data:image/svg+xml;utf8,{% include "/img/separator.svg" %}') no-repeat bottom center;background-size:300px;font-size:2.7rem;padding-bottom:calc(var(--spacing-xxl) + 19px);text-align:center}
+        main header h1{margin:0; letter-spacing:-0.02em;font-weight:600;}
+        main header small{font-size:1rem;display:block;margin-top:var(--spacing-text-s)}
     h2{font-size:var(--font-size-h2);font-weight:500;}
     h3{font-size:var(--font-size-h3);font-weight:500;}
 
-h1 small, h2 small, h3 small{display:block;font-size:var(--font-size-m);line-height:var(--line-height);font-weight:400}
 h2 small{margin-top:var(--spacing-text-s)}
 
 strong, b{font-weight:700}
