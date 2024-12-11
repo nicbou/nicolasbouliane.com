@@ -3,28 +3,18 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;grid-column-start:0;}
 
 @font-face {
+    font-display: swap;
     font-family: 'EB Garamond';
     font-style: normal;
-    font-weight: 500;
-    src: local(''), url('/fonts/eb-garamond-v26-latin-500.woff2') format('woff2');
+    font-weight: 400 800;
+    src: local(''), url('/fonts/eb-garamond.woff2') format('woff2');
 }
 @font-face {
-    font-family: 'EB Garamond';
-    font-style: normal;
-    font-weight: 400;
-    src: local(''), url('/fonts/eb-garamond-v26-latin-regular.woff2') format('woff2');
-}
-@font-face {
-    font-family: 'EB Garamond';
-    font-style: normal;
-    font-weight: 700;
-    src: local(''), url('/fonts/eb-garamond-v26-latin-700.woff2') format('woff2');
-}
-@font-face {
+    font-display: swap;
     font-family: 'EB Garamond';
     font-style: italic;
-    font-weight: 400;
-    src: local(''), url('/fonts/eb-garamond-v26-latin-italic.woff2') format('woff2');
+    font-weight: 400 800;
+    src: local(''), url('/fonts/eb-garamond-italic.woff2') format('woff2');
 }
 
 :root{
@@ -114,7 +104,7 @@ ol{counter-reset:list;}
     ol li:before{counter-increment:list;content: counter(list) ". ";font-size:1em;font-style:italic;position:absolute;left:0;line-height:var(--line-height)}
 
 h1, h2, h3{line-height:var(--line-height-compact);margin:1.5em 0 1em;}
-    h1{background:url('data:image/svg+xml;utf8,{% include "/img/separator.svg" %}') no-repeat bottom center;background-size:300px;font-size:2.7rem;letter-spacing:-0.02em;font-weight:700;padding-bottom:calc(var(--spacing-text-m) + 19px);text-align:center}
+    h1{background:url('data:image/svg+xml;utf8,{% include "/img/separator.svg" %}') no-repeat bottom center;background-size:300px;font-size:2.7rem;letter-spacing:-0.02em;font-weight:600;padding-bottom:calc(var(--spacing-text-m) + 19px);text-align:center}
         h1 small{font-size:1rem;letter-spacing:0;display:block;margin-top:var(--spacing-text-s)}
     h2{font-size:var(--font-size-h2);font-weight:500;}
     h3{font-size:var(--font-size-h3);font-weight:500;}
