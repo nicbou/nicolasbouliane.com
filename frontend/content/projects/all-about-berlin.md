@@ -7,7 +7,7 @@ repo_url: https://github.com/all-about-berlin
 categories: golden
 ---
 
-Since 2017, I run a website called [All About Berlin](https). It hosts a large collection of detailed guides that help immigrants settle in Germany. It helps them navigate the kafkaeske bureaucracy and figure out all the little systems that make up German society. It's my full time job since 2020.
+Since 2017, I run a website called [All About Berlin](https://allaboutberlin.com). It hosts a large collection of detailed guides that help immigrants settle in Germany. It helps them navigate the kafkaeske bureaucracy and figure out all the little systems that make up German society. It's my full time job since 2020.
 
 Put simply, it shows immigrants how to adult in Germany their new country.
 
