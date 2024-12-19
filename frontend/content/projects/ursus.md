@@ -19,7 +19,7 @@ Now the content is a bunch of markdown files on my computer. When I run a comman
 
 ## Why a static site generator?
 
-A static site generator has many benefits over a content management system. Many of those are specific to how I work.
+A static site generator has many benefits over a content management system. Many of those support my very specific use case.
 
 ### Work offline
 
@@ -48,6 +48,22 @@ Now the content is a bunch of text files. I can edit and transform them with an 
 I can apply fixes across hundreds of pages with regular expressions. Changes that were once too tedious to even consider now take a few seconds. Even simple things like linking to other pages became so much easier with Sublime Text's autocomplete.
 
 For example, it's now easy to replace "permanent residency" with "permanent residence", move thousands of footnote superscripts [after the punctuation mark](https://tex.stackexchange.com/questions/56063/how-to-properly-typeset-footnotes-superscripts-after-punctuation-marks), or fix hundreds of broken links.
+
+### Source control
+
+The content is now under source control. Instead of saving individual changes, I commit bundles of changes with git. I can see exactly what I changed before I commit the changes, and I can easily roll back mistakes. It's a significant step up from Craft's crude, myopic revision history.
+
+It also means that I can work on separate things on separate branches. I work on sweeping content changes that span hundreds of pages, and deploy them all at once when they're ready.
+
+### Linters
+
+Ursus has a linting system. When you call `ursus lint`, it runs a battery of tests on the content. It helps me catch formatting errors, such as broken links, unused footnotes, duplicate titles, and missing tables of contents.
+
+I run the linter directly in my text editor. When I save a file, Sublime Text highlights all the errors in it.
+
+I also run it as a pre-commit hook, so that I only publish error-free changes.
+
+Ursus comes with a bunch of default linters, but it's trivial to create more. All About Berlin has about a dozen extra linters to verify everything from checking title length to making sure business listings are up to date. It removes the burden of verifying those things myself.
 
 ### What you see is what you mean
 
@@ -156,6 +172,6 @@ I generate an index with Lunr.py, and use Lunr.js in the browser to search conte
 
 ## How it feels
 
-All About Berlin has been running on Ursus for a while now. I am very happy with the results. I spend a lot less time babysitting the server. Writing content with a powerful text editor feels a lot more natural for a software developer.
+All About Berlin has been running on Ursus for a while now. I am very happy with the results. I spend a lot less time babysitting the server. Writing content with a powerful text editor feels a lot more natural for a software developer. This blog now runs on Ursus too.
 
-After two months, I decided to move my personal website to Ursus.
+I also *love* the linting feature. It's tightly integrated into my workflow and helps me catch all sorts of small mistakes right away. I don't need to worry about broken links, formatting errors, invalid footnotes and the like because I know the linter will catch them and highlight them right in my text editor.
