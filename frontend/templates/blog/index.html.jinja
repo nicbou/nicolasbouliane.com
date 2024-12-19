@@ -7,7 +7,7 @@
     <header>
         <h1>Blog</h1>
     </header>
-    <h2>Timeless posts</h2>
+    <h2>Highlights</h2>
     <ul class="entry-list">
         {% for entry in get_entries('blog', filter_by=is_golden, sort_by='date_created', reverse=True) %}
             <li>
