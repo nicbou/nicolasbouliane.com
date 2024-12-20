@@ -4,13 +4,19 @@ description: A brief summary of changes that affect most immigrants in Berlin.
 date_created: 2024-12-20
 ---
 
-Every January, all sorts of things change in Germany as new laws come into effect. As soon as the noise fireworks dies down, I must get to work updating [All About Berlin](https://allaboutberlin.com)'s guides and calculators.
+Every January, all sorts of things change in Germany as new laws come into effect. This post is a summary of the changes that I believe will affect most of my readers.
 
-This year is no different. This is a summary of the changes that I believe affect most of my readers.
+In the past, the first day of the year was a scramble to update [All About Berlin](https://allaboutberlin.com)'s guides and calculators. However, I have honed my craft over the years, and now I get it all done two weeks in advance, in about two hours. The changes will go live on the 31st, and I will be free to enjoy my *guten Rutsch ins neue Jahr*.
 
-## Minimum wage
+Enough words. Here's what's new in 2025.
 
-Minimum wage was raised from 12.41€ to 12.82€ per hour. The maximum minijob income was raised from 538€ to 556€ per month.
+## Extra day off
+
+May 8 2025 is the 80th anniversary of the end of the Second World War, and it's an [official holiday](https://www.berlin.de/aktuelles/8435274-958090-8-mai-2025-soll-einmalig-gesetzlicher-fe.html) in the state of Berlin.
+
+## Minimum wage and social benefits
+
+Minimum wage was raised from 12.41€ to 12.82€ per hour. The maximum minijob income was raised from 538€ to 556€ per month. Bürgergeld does not change. Wohngeld goes up by 15%. Kindergeld was raised from 250€ to 255€ per month.
 
 ## Public transit
 
@@ -22,9 +28,9 @@ On the bright side, we're getting [more trains and a better information system](
 
 ## Health insurance
 
-Public health insurance got more expensive across the board. You must pay an extra 1% of your income for health insurance: 0.2% for nursing care insurance, and an average of 0.8% for the insurer surcharge.
+Public health insurance got more expensive across the board. You must pay an extra 1% of your income for health insurance: 0.2% for nursing care insurance, and an average of 0.8% for the insurer surcharge. Fortunately, your employer covers half of that increase.
 
-Use my [health insurance calculator](https://allaboutberlin.com/tools/health-insurance-calculator) to see how much you now pay for health insurance. It will be updated on January 1.
+Use my [health insurance calculator](https://allaboutberlin.com/tools/health-insurance-calculator) to see how much you now pay for health insurance, and consider changing to another health insurer. The calculator will be updated on January 1.
 
 ## Immigration
 
