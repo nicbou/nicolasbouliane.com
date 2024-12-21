@@ -8,6 +8,8 @@ Every January, a bunch of things change in Germany. This means that as soon as t
 
 This year is no different. This is a summary of the changes that I believe affect most of my readers.
 
+[See what's new in 2025 ➞](/blog/new-in-2025)
+
 ## Minimum wage
 
 Minimum wage was raised from 12€ to 12.41€ per hour. The maximum minijob income was raised from 520€ to 538€.

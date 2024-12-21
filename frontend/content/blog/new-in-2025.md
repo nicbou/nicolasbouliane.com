@@ -4,15 +4,17 @@ description: A brief summary of changes that affect most immigrants in Berlin.
 date_created: 2024-12-20
 ---
 
-Every January, all sorts of things change in Germany as new laws come into effect. This post is a summary of the changes that I believe will affect most of my readers.
+Every year, on the first of January, all sorts of things change in Germany as new laws come into force. Mostly, life gets more expensive, but there are some nice surprises too.
 
-In the past, the first day of the year was a scramble to update [All About Berlin](https://allaboutberlin.com)'s guides and calculators. However, I have honed my craft over the years, and now I get it all done two weeks in advance, in about two hours. The changes will go live on the 31st, and I will be free to enjoy my *guten Rutsch ins neue Jahr*.
+I used to dread the mad scramble to update [All About Berlin](https://allaboutberlin.com) every January, but I have since honed my craft, and the update takes about two hours. I know exactly what is changing. I just have to update a few constants in a file, and my work is done. Best of all, I do it all in mid-December and deploy the changes on the 31st, leaving me free to enjoy a *guten Rutsch ins neue Jahr*.
+
+![Fête villageoise, Hans Sebald Beham, 1546](/images/illustrations/new-year-2025.png)
 
 Enough words. Here's what's new in 2025.
 
 ## Extra day off
 
-May 8 2025 is the 80th anniversary of the end of the Second World War, and it's an [official holiday](https://www.berlin.de/aktuelles/8435274-958090-8-mai-2025-soll-einmalig-gesetzlicher-fe.html) in the state of Berlin.
+May 8 2025 marks the 80th anniversary of the end of the Second World War and the end of the Nazi regime. It's a one-time official holiday in the state of Berlin.[^2]
 
 ## Minimum wage and social benefits
 
@@ -28,7 +30,7 @@ On the bright side, we're getting [more trains and a better information system](
 
 ## Health insurance
 
-Public health insurance got more expensive across the board. You must pay an extra 1% of your income for health insurance: 0.2% for nursing care insurance, and an average of 0.8% for the insurer surcharge. Fortunately, your employer covers half of that increase.
+Public health insurance got more expensive across the board. You must pay an extra 0.5% of your income for health insurance: 0.2% for nursing care insurance and 0.8% on average for the insurer surcharge, with half of it covered by your employer.
 
 Use my [health insurance calculator](https://allaboutberlin.com/tools/health-insurance-calculator) to see how much you now pay for health insurance, and consider changing to another health insurer. The calculator will be updated on January 1.
 
@@ -36,22 +38,17 @@ Use my [health insurance calculator](https://allaboutberlin.com/tools/health-ins
 
 The minimum income for the Blue Card went up 6.6% (48,300€ or 43,760€ depending on your profession).
 
-The minimum income for the freelance visa has not changed: it's your rent + your health insurance + 563€.
-
-I am finishing a complete overhaul of my [residence permit guides](https://allaboutberlin.com/collections/immigration). The instructions are better and clearer than ever.
-
-As far as I know, there are no big immigration reforms coming. However the Berlin immigration office is rapidly digitalising residence permit applications. So far, it led to faster processing times. However, the digital permanent residence application introduced [new requirements](https://old.reddit.com/r/berlin/comments/1hb05e2/permanent_residence_applications_are_now_digital/) like a language test and an integration test, so it's a mixed blessing.
+As far as I know, there are no big immigration reforms coming. However the Berlin immigration office is rapidly digitalising residence permit applications. So far, it led to faster processing times, but in the case of permanent residence, it introduced new requirements. It could very well be a *Verschlimmbesserung*.
 
 ## Taxes
 
-The income tax calculation was retroactively adjusted for all of 2024. You will pay less income tax, so that's nice! As for every other year, the 2025 calculation was adjusted for inflation. This means that if your income stayed the same in 2025, you will pay a little less income tax.
+The income tax calculation was retroactively adjusted for all of 2024. You will pay less income tax, so that's nice! As for every other year, the 2025 calculation was adjusted for inflation. This means that if your income stayed the same in 2025, you will pay a little less income tax. Use my [tax calculator](https://allaboutberlin.com/tools/tax-calculator) to see how much taxes you now pay. It will updated by January 1.
 
-Use my [tax calculator](https://allaboutberlin.com/tools/tax-calculator) to see how much taxes you now pay. It will updated by January 1.
-
-Things also changed for small businesses. The maximum income for [*Kleinunternehmer*](https://allaboutberlin.com/guides/kleinunternehmer) was raised from 22,000€-50,000€ to 25,000€-100,000€. Small businesses can choose not to charge VAT.
+Things also changed for small businesses. The maximum income for [*Kleinunternehmer*](https://allaboutberlin.com/guides/kleinunternehmer) was raised from 22,000€ to 25,000€.
 
 ## Digitalisation
 
-Berlin significantly cut it's digitalisation budget. This is the opposite of what the *Rechnungshof* recommended in its very spicy report in November. This might not be the year Berlin will enter the digital age.
+Berlin significantly cut it's digitalisation budget. This is the opposite of what the *Rechnungshof* recommended in [its very spicy report](https://www.berlin.de/rechnungshof/presse/pressemitteilungen/pressemitteilung.1507520.php) in November. This might not be the year Berlin will enter the digital age.
 
 [^1]: [VBB](https://www.vbb.de/presse/neue-fahrpreise-im-vbb-zum-1-januar-2025/), [RBB](https://www.rbb24.de/politik/beitrag/2024/11/berlin-brandenburg-vbb-ticketpreise-fahrpreiserhoehung-zustimmung-aufsichtsrat.html), [taz](https://taz.de/Ausfaelle-bei-der-U-Bahn/!6040893/)
+[^2]: [Berlin.de](https://www.berlin.de/aktuelles/8435274-958090-8-mai-2025-soll-einmalig-gesetzlicher-fe.html)
