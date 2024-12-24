@@ -163,4 +163,9 @@ figure, :not(figure) > picture, :not(figure, picture) > img {display:block;margi
 @media (prefers-reduced-motion: reduce) {
   *,:before,:after {animation-delay: -1ms !important;animation-duration: 1ms !important;animation-iteration-count: 1 !important;background-attachment: initial !important;scroll-behavior: auto !important;transition-duration: 0s !important;transition-delay: 0s !important;}
 }
+
+@media print{
+    main header{background: none;padding-bottom: var(--spacing-xl);margin:var(--spacing-xl) 0 0;border-bottom: 1px solid #000;text-align: left}
+    main header h1{font-size: 80%;}
+}
 {% endcss %}
