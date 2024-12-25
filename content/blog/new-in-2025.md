@@ -6,7 +6,7 @@ date_created: 2024-12-20
 
 Every year, on the first of January, all sorts of things change in Germany as new laws come into force. Mostly, life gets more expensive, but there are some nice surprises too.
 
-I used to dread the mad scramble to update [All About Berlin](https://allaboutberlin.com) every January, but I have since honed my craft, and the update takes about two hours. I know exactly what is changing. I just have to update a few constants in a file, and my work is done. Best of all, I do it all in mid-December and deploy the changes on the 31st, leaving me free to enjoy a *guten Rutsch ins neue Jahr*.
+I used to dread the mad scramble to update [All About Berlin](https://allaboutberlin.com) every January, but I have since honed my craft, and this update took about two hours. I know where to look, so I just update a few constants in a file, and my work is done. I do it all in mid-December, leaving me free to enjoy a *guten Rutsch ins neue Jahr*. I wish you the same.
 
 ![Fête villageoise, Hans Sebald Beham, 1546](/images/illustrations/new-year-2025.png)
 
@@ -18,7 +18,7 @@ May 8 2025 marks the 80th anniversary of the end of the Second World War and the
 
 ## Minimum wage and social benefits
 
-Minimum wage was raised from 12.41€ to 12.82€ per hour. The maximum minijob income was raised from 538€ to 556€ per month. Bürgergeld does not change. Wohngeld goes up by 15%. Kindergeld was raised from 250€ to 255€ per month.
+Minimum wage was raised from 12.41€ to 12.82€ per hour. The maximum [minijob](https://allaboutberlin.com/glossary/Minijob) income was raised from 538€ to 556€ per month. Bürgergeld does not change. Wohngeld goes up by 15%. Kindergeld was raised from 250€ to 255€ per month.
 
 ## Public transit
 
@@ -38,7 +38,7 @@ Use my [health insurance calculator](https://allaboutberlin.com/tools/health-ins
 
 The minimum income for the Blue Card went up 6.6% (48,300€ or 43,760€ depending on your profession).
 
-As far as I know, there are no big immigration reforms coming. However the Berlin immigration office is rapidly digitalising residence permit applications. So far, it led to faster processing times, but in the case of permanent residence, it introduced new requirements. It could very well be a *Verschlimmbesserung*.
+As far as I know, there are no big immigration reforms coming. However the Berlin immigration office is rapidly digitalising residence permit applications. So far, it led to faster processing times, but in the case of permanent residence, it introduced new requirements. Those requirements add significant costs and delays for applicants. It could end up being a *[Verschlimmbesserung](https://www.urbandictionary.com/define.php?term=Verschlimmbesserung)* for some.
 
 ## Taxes
 
@@ -48,7 +48,7 @@ Things also changed for small businesses. The maximum income for [*Kleinunterneh
 
 ## Digitalisation
 
-Berlin significantly cut it's digitalisation budget. This is the opposite of what the *Rechnungshof* recommended in [its very spicy report](https://www.berlin.de/rechnungshof/presse/pressemitteilungen/pressemitteilung.1507520.php) in November. This might not be the year Berlin will enter the digital age.
+Berlin significantly cut it's digitalisation budget. This is the opposite of what the *Rechnungshof* recommended in [its very spicy report](https://www.berlin.de/rechnungshof/presse/pressemitteilungen/pressemitteilung.1507520.php) in November. This might not be the year Berlin enters the digital age.
 
 [^1]: [VBB](https://www.vbb.de/presse/neue-fahrpreise-im-vbb-zum-1-januar-2025/), [RBB](https://www.rbb24.de/politik/beitrag/2024/11/berlin-brandenburg-vbb-ticketpreise-fahrpreiserhoehung-zustimmung-aufsichtsrat.html), [taz](https://taz.de/Ausfaelle-bei-der-U-Bahn/!6040893/)
 [^2]: [Berlin.de](https://www.berlin.de/aktuelles/8435274-958090-8-mai-2025-soll-einmalig-gesetzlicher-fe.html)
