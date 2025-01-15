@@ -48,7 +48,10 @@ Things also changed for small businesses. The maximum income for [*Kleinunterneh
 
 ## Digitalisation
 
+In May, passport photos become digital.[^3] You can't bring a passport photo from a random photo Fotofix machine. It must be digitally submitted by a registered photographer, or you must use the photo machine at the Bürgeramt or the Ausländerbehörde. Registered photographers can also submit photos digitally, but there is no information about how that will work. For the user, this digital process might not be an improvement.
+
 Berlin significantly cut it's digitalisation budget. This is the opposite of what the *Rechnungshof* recommended in [its very spicy report](https://www.berlin.de/rechnungshof/presse/pressemitteilungen/pressemitteilung.1507520.php) in November. This might not be the year Berlin enters the digital age.
 
 [^1]: [VBB](https://www.vbb.de/presse/neue-fahrpreise-im-vbb-zum-1-januar-2025/), [RBB](https://www.rbb24.de/politik/beitrag/2024/11/berlin-brandenburg-vbb-ticketpreise-fahrpreiserhoehung-zustimmung-aufsichtsrat.html), [taz](https://taz.de/Ausfaelle-bei-der-U-Bahn/!6040893/)
 [^2]: [Berlin.de](https://www.berlin.de/aktuelles/8435274-958090-8-mai-2025-soll-einmalig-gesetzlicher-fe.html)
+[^3]: [Berlin.de](https://www.berlin.de/aktuelles/9382039-958090-das-aendert-sich-2025-in-berlin.html)
