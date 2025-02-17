@@ -412,9 +412,17 @@ Mobile-first design has been the standard for over a decade. It is expected that
 
 This has been covered in more details in the [automatic translations](#automatic-translations) section.
 
+We have mature tooling to build multilingual text-based websites. However, it adds a layer of complexity to any tool that you choose to build.
+
+The hardest part is simply maintaining one version of your content for each language, and keeping those in sync. Tools exist to make this easier, but it cannot be entirely automated.
+
 ### 3. Accessibility
 
-Accessibility is less taken for granted. It's a set of practices that must be implemented. Some basic level of accessibility should be expected by default, but full compliance with ARIA guidelines is less common.
+A basic level of accessibility can be expected, but full WCAG compliance is harder, especially if it's not part of the entire design process from the start.
+
+The choice of technology has less impact on accessibility, but the complexity of what you build does. It's easy to make text accessible. It's much harder to make software accessible.
+
+Talk to the *[Landesbeauftragte für digitale Barrierefreiheit](https://www.berlin.de/lb/digitale-barrierefreiheit/)* and the [ITDZ accessibility team](https://www.itdz-berlin.de/allgemeines/digitale-barrierefreiheit/). They might save you a lot of guesswork.
 
 ### 4. Privacy
 
