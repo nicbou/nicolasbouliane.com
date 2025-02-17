@@ -6,23 +6,21 @@ date_created: 2025-02-01
 
 This is a feasibility study for a new website for the Berlin Welcome Center website. The Welcome Center is a counselling centre for recent immigrants. It is managed by the *Senat für Partizipation, Integration und Migration*.
 
+{% include "blocks/_tableOfContents.html" %}
+
 ## Foreword
 
 ### Budget assumptions
 
-In this report, I prioritise the impact and longevity of the project, given an initial budget of around 50,000€ and a much smaller yearly budget for maintenance and further development. I assume that this budget is subject to political winds, so I favour low maintenance costs wherever possible.
-
-My recommendations might be somewhat different given a much higher budget, but I believe that the principles would be roughly the same.
+In this report, I prioritised the impact and longevity of the project, given an initial budget of around 50,000€. I assumed that there will also be a smaller yearly budget for maintenance and further development. I also assumed that this budget is subject to political winds, so I favoured low maintenance costs wherever possible.
 
 ### Simple is cheap
 
-The common theme of this report is that software is complex, and that complexity is expensive. Text on a page might get you the same impact for a fraction of the cost.
+There is a common theme in this report: software is complex, and complexity is expensive. Use as little complexity as you need to get the job done.
 
-A text-based website is cheap to build, maintain and adapt. Once the website is built, anyone can work on the content. Text-based websites can be built to run forever with minimal maintenance. The only downside is the user experience. Text takes more effort to read and understand.
+A text-based website is cheap to build, maintain and adapt. Once the website is built, anyone can work on the content. Such websites can run forever with minimal maintenance. The only downside is the user experience. Text takes more effort to read and understand.
 
-Software is the opposite. It can save time and offer a magical user experience. However, it's really expensive to build, adapt and maintain, especially if you outsource it. Software is a commitment. Maintaining software takes time, effort, and money—just like keeping a car on the road. You must keep the server running, keep the software updated, keep it compliant with data protection laws, and so on. Use as little as you need to get the job done.
-
-In this report, I lean towards simplicity, because simple projects are far more likely to be successful. More importantly, simple websites can run forever on a shoestring budget. You can have most of the impact for a fraction of the cost. Bespoke software is a big bet, and can easily become a money pit.
+Software is the opposite. Good software saves time and offers a magical user experience. However, it's much more expensive to build, adapt and maintain, especially if you outsource the technical work. You must allot time and money to server upkeep, software updates, and so on. Software is a commitment.
 
 ### Bet on text
 
@@ -34,19 +32,19 @@ More often than not, text is a much better choice than software.
 
 ### Castles on quicksand
 
-You can't build a rigid digital layer on top of our unstable and unpredictable bureaucracy.
+You can't build a rigid digital layer on top of an unpredictable analog bureaucracy.
 
-Bureaucracy is too arbitrary and unpredictable to describe with code. Each Bezirk, each Amt and each Beamter interprets the law differently. They make arbitrary decisions based on undocumented policies that change without warning. This is not a stable foundation to build rigid software upon.
+German bureaucracy is too arbitrary and inconsistent to describe with code. Each Bezirk, each Amt and each Beamter interprets the law differently. They make arbitrary decisions based on undocumented policies that change without warning. This is not a stable foundation to build rigid software upon.
 
-Bureaucracy is also really hard to observe. For All About Berlin, I rely on a large network of people that took years to build. I use scripts to watch hundreds of pages for changes. It can still take weeks to notice, understand and document changes in policy.
+Bureaucracy is also really hard to observe. For All About Berlin, I rely on a large network of people that took years to build. I use scripts to watch hundreds of pages for changes. Even with that infrastructure, it can take weeks to notice, understand and document changes in policy.
 
-Consider that German bureaucracy might change faster than you can change the software you build for it. Text is much cheaper to adapt than software.
+Consider that German bureaucracy might change faster than you can adapt the software that you have built. Text is much cheaper to adapt than software.
 
 ### Sheds and skyscrapers
 
 Complex projects require specialised labour. Specialised labour is more expensive and harder to find.
 
-It's easy to find a freelancer who can work on a WordPress website. It's harder to find a developer who understands your fancy technology stack, especially if you can't pay market rates, or only need a few hours of work every now and then. Maintenance can become a human resources problem.
+You can easily find freelancers to work on a WordPress website. It might be harder to find maintainers for your fancy technology stack. It's even harder if you can't pay market rates, or if you only a developer for a few hours every now and then. Maintaining complex software can become a human resources problem.
 
 [Choose boring technology](https://mcfunley.com/choose-boring-technology), especially if you don't have an in-house development team to maintain it.
 
