@@ -46,13 +46,15 @@ If you decide to do it the hard way, be aware that the grip can't just slide off
 
 The left grip will require some glue, which should be included with the kit. If it's not there, you can use extra strong hairspray instead. I learned this trick tonight, after swearing at my bicycle handlebars for the last 5 years. Just apply some glue, and slide the grips right on. You won't need much strength. Just make sure the grip's cable doesn't get in the way of the clutch.
 
+The supplied glue does not stick, and after a while your left grip will start slipping. The internet recommends all sorts of fixes, but the only one that seems to work in the long term is Gorilla Glue. Other people recommend adding a layer of tape between the bars and the grips to make the fit tighter. If you get the bars really cold and the grips really hot, you can slip it on and get a really tight fit.
+
 ![](/images/20201111_180427.jpg)
 
 The right grip is a little trickier. First, you need to remove the plastic lip on the throttle. You can easily do it with a box cutter. The left end of the throttle forms a cone (see photos above), and it prevents you from pushing the grip all the way in. With a box cutter, I beveled the left side of the grip to make it fit onto that cone.
 
 Before you insert the grip, make sure that its cable won't get in the way of the brake lever, even when you twist the throttle. You won't be able to adjust that later.
 
-I did not use any glue on this side, because the throttle is ribbed, and the fit is *much* tighter. I had to use a hammer to push the grip onto the throttle. That went really well, but after a few hits, the entire throttle assembly slid back. I had to hold it in place by putting a piece of wood between the throttle assembly and the mirror. I tightened everything again when I was done.
+I did not use any glue on this side, because the throttle is ribbed, and the fit is *much* tighter. I had to use a mallet to push the grip onto the throttle. That went really well, but after a few hits, the entire throttle assembly slid back. I had to hold it in place by putting a piece of wood between the throttle assembly and the mirror. I tightened everything again when I was done.
 
 ![](/images/20201111_183359.jpg)
 
