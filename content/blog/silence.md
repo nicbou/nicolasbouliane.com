@@ -24,53 +24,49 @@ I don't want to get sidetracked by addictive technology when I mean to sit down 
 
 ## Silencing technology, bit by bit
 
-For the last three years, I've had a zero tolerance approach to nagging technology. Instead of tolerating the same annoyances for years, I nip them in the bud.
+Since a few years, I have had a zero tolerance policy on nagging technology. Instead of tolerating the same annoyances for years, I have been aggressively silencing them.
 
-I did not throw my smartphone in a lake to retire to the mountains. I just excised the cancerous parts and preserved the good ones.
+I did not throw my smartphone in a lake to retire to the mountains. I just excised the cancerous parts of technology and preserved the good ones.
 
 ### Web browsing
 
-I can't tolerate the unfiltered web anymore. An ad blocker removes ads, cookie banners, newsletter prompts, and all the other annoyances that get between me and my task. I use **[uBlock Origin](https://ublockorigin.com/)** with the "annoyances" blocklists enabled.
+I don't tolerate the unfiltered web anymore. An ad blocker removes ads, cookie banners, newsletter prompts, and anything else that gets between me and my task.
+
+I use **[uBlock Origin](https://ublockorigin.com/)** with the "annoyances" blocklists enabled. I have also added dozens of custom rules to remove feeds and other distractions.
 
 **[uBlacklist](https://github.com/iorate/ublacklist)** removes spammy websites from Google search results. I use it to hide Pinterest and Quora, but also low-quality high-ranking websites like Forbes and MakeUseOf.
 
-I increasingly rely on **[ChatGPT](https://chat.openai.com)** to get answers without sifting through pages of ad-infested blogspam. It's unreasonably effective.
+I increasingly rely on **[ChatGPT](https://chat.openai.com)** to get answers without sifting through pages of ad-infested blogspam. For certain queries, it's unreasonably effective.
 
 ### Notifications
 
 I turned off all notifications on my phone, except for phone calls, instant messages and bank transactions. Nothing else gets through; not even email. Few things require my immediate attention.
 
-> "Technology should require the smallest possible amount of attention. Communicate information without taking the user out of their environment or task. [...] A calm technology will move easily from the periphery of our attention, to the center, and back. The periphery is informing without overburdening."
+> "Technology should require the smallest possible amount of attention. Communicate information without taking the user out of their environment or task. [...] The periphery is informing without overburdening."
 
 > — [Amber Case](https://calmtech.com/)
 
-In other cases, notifications are good. If my website goes down or some automated system fails, I want to be notified. Computers should monitor things so that I don't have to.
+Most of the time, my phone is on Do Not Disturb, so I get no notifications at all. I check WhatsApp every once in a while, and if I forget, it's because I am not available. We used to be unavailable, and it was fine.
+
+In some cases, notifications are good. If my website goes down or some automated system fails, I want to be notified. Computers should monitor things so that I don't have to.
 
 ### Email
 
-I turned off email notifications on my phone. On my laptop, I only get them during office hours. The paid version of **[Checker Plus for Gmail](https://jasonsavard.com/Checker-Plus-for-Gmail)** lets me set quiet hours. It's well worth the money.
+At times, I feel like I spend most of my waking hours answering emails or doing the dishes. I have to squeeze everything else in.
 
-I unsubscribe from unwanted emails as soon as I get them, so I get very few of them. I [created filters](https://support.google.com/mail/answer/6579?hl=en) to delete the few unwanted emails that get through.
+I have gradually turned off all email notifications. At first I only had notifications on my laptop, then only during office hours, then not at all. I check emails when I have time, usually every few hours throughout the day. Checking emails has become a deliberate activity instead of a distraction.
 
-Now, most of the emails I get were written by a human and addressed to me.
+I don't get many emails anymore. I unsubscribe from unwanted emails as soon as I get them. I [create filters](https://support.google.com/mail/answer/6579?hl=en) to block the unwanted emails that slip through.
 
-However, even genuine emails can be too much. I run [a website about German bureaucracy](/projects/all-about-berlin), and I get *a lot* of reader mail. I used to invite them to contact me, but now I ask them to ask other people first. It's just too much work.
-
-### Calendar
-
-I made my calendar louder to check my phone less. It vibrates like an alarm until I turn it off. This makes it easier not to have my phone on me at all times. I use [Calendar Alarm Reminder](https://play.google.com/store/apps/details?id=com.app_by_LZ.calendar_alarm_clock&hl=en&gl=US) for Android.
-
-### Apps
-
-Apps have repeatedly violated my trust, so I rarely use them. I prefer websites, because they have limited access to my device. They are subject to my ad blocker, and they stop running when I close the tab. They cannot pry their way to the centre of my attention.
+Now, I mostly get emails that were written by a human and addressed to me personally. However, even those can become a burden. I run [a website about German bureaucracy](/projects/all-about-berlin), and I get *a lot* of reader mail. Those questions require careful consideration and measured responses. [Since 2025](/blog/all-about-berlin-2025), I have started re-routing them to better-qualified organisations.
 
 ### Social media
 
-I only keep a social media presence for [my business](/projects/all-about-berlin). I scrubbed my personal profiles clean with [Redact](https://redact.dev/) and made them private. All notifications are turned off. I do not follow anyone, so all my feeds are empty.
+I only keep a social media presence for [my business](/projects/all-about-berlin). I have scrubbed my personal profiles clean with [Redact](https://redact.dev/) and made them private. All notifications are turned off. I do not follow anyone, so all my feeds are empty. It's a write-only medium.
 
-This had no impact on my social life. Zilch. My friends were either quiet or silenced by the algorithm. Facebook was hiding my own mother's posts from me. I was already missing out.
+This had a minimal impact on my social life. My friends were either quiet or silenced by the algorithm. Facebook was hiding my own mother's posts from me. I was already missing out. It's only difficult to follow artists and venues that only announce events on Instagram.
 
-These websites perceive my lack of engagement as an affront. They pepper my feed and notifications with "suggested content" and "things you may like" in a desperate bid for my attention.
+Some of these platforms perceive my lack of engagement as an affront. They pepper my feed and notifications with "suggested content" and "things you may like" in a desperate bid for my attention. I remove them with my ad blocker, or simply redirect the front page to my notifications.
 
 ### News and feeds
 
@@ -88,31 +84,35 @@ This has almost completely replaced scrolling in bed and at the breakfast table.
 
 I read more than ever in my life, and it's now a deliberate act, not an anxiety-inducing impulse. I have learned a lot more from those sources than from following the news cycle.
 
+### Apps
+
+Apps have repeatedly violated my trust, so I rarely use them. I prefer websites, because they have limited access to my device. They are subject to my ad blocker, and they stop running when I close the tab. They cannot pry their way to the centre of my attention.
+
 ### Reddit
 
 I still use reddit, but *a lot* less than before.
 
 First, I uninstalled the mobile app. The mobile website is unbearable, so I lost the urge to visit it.
 
-On desktop, I use old.reddit.com. The old website is simple, faster and quieter than the redesigned version. It feels more like the forums of yore, and less like a dopamine casino. I enforce my choice with the [Old Reddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/) extension. I added some uBlock rules to hide the remaining annoyances.
+Then I whittled down the list of subreddits I follow until it was down to two subreddits. When those began to annoy me, I unfollowed them too. My reddit front page - *The Front Page of the Internet* - is now empty.
+
+I only use old.reddit.com. The old website is simple, faster and quieter than the redesign. It feels less like a dopamine casino, and more like a place where one seeks information. I enforce my choice with the [Old Reddit Redirect](https://addons.mozilla.org/en-US/firefox/addon/old-reddit-redirect/) extension. I added some uBlock rules to hide the remaining annoyances.
+
+Another small tweak I have made was to hide the pagination buttons. I only get 25 posts, no more. It was unreasonably effective in curbing mindless browsing.
 
 This is the default Reddit experience:
 
-![](/images/Screenshot-2022-08-07-at-17-59-57-reddit.png)
+![Screenshot of Reddit front page](/images/Screenshot-2022-08-07-at-17-59-57-reddit.png)
 
-This is my own:
+This is mine:
 
-![](/images/Screenshot-2022-08-07-at-17-58-04-reddit-the-front-page-of-the-internet.png)
+![Screenshot of Reddit with ad blockers](/images/Screenshot-2022-08-07-at-17-58-04-reddit-the-front-page-of-the-internet.png)
 
-I did not stop there. I aggressively removed toxic subreddits from my home page - more than a hundred of them by now. The [Reddit is Fun]() extension lets me filter keywords like "Trump", "Harris" and "Biden", as political posts constantly sneak into benign subreddits. There is no more American politics, outrage porn or drama on my front page.
+I have made two more tweaks that greatly improved my Reddit experience.
 
-That made my reddit experience a lot more pleasant, but I could still scroll for a few hours. I hid the pagination buttons, and that put an end to it. I got 25 posts, no more. It was unreasonably effective.
+First, I redirect /r/all to my notifications. I used the [Redirector](https://addons.mozilla.org/en-US/firefox/addon/redirector/) extension for that. By now it's just an endless stream of outrage about American politics. I just get silence.
 
-But even then, the remaining content on /r/all annoyed me, so I used the [Redirector](https://addons.mozilla.org/en-US/firefox/addon/redirector/) to redirect it to my conscientiously curated home page.
-
-Over time, the local subreddits got on my nerves too, so I left subreddit after subreddit until there were none.
-
-Now, I land on an empty feed. There's nothing to look at. I barely participate anymore, and I feel quite fine about it. Mission accomplished!
+Second, I hid the "next page" button. My reddit experience is now manually navigating to /r/curatedtumblr, looking at today's 25 posts, then doing something else.
 
 ### YouTube
 
@@ -134,15 +134,15 @@ I design my own websites to be calm technology. I tend to forget that the unfilt
 
 I [removed comments](/blog/no-comments-on-website) from the websites I run, because I don't want to deal with comment moderation and spam. Instead, I invite people to email me. Emails are more manageable, and feel more personal.
 
-I design the websites themselves to run forever with almost no maintenance. They are simple static websites with few moving parts. I have paid for years of hosting in advance, and set up automatic payments just in case. Everything is behind Cloudflare for extra redundancy. If something goes wrong, [Better Uptime](https://betteruptime.com) notifies me.
+I design the websites themselves to run forever with minimal maintenance. They are simple static websites with few moving parts. I have paid for years of hosting in advance, and set up automatic payments just in case. Everything is behind Cloudflare for extra redundancy. If something goes wrong, [Better Uptime](https://betteruptime.com) notifies me. So far, nothing went wrong.
 
 ### The tech I build
 
 Nowadays, I only write code for myself and I don't get paid for it. I have less patience for maintenance; I just want things to work. *A person's primary task should not be computing, but being human.*
 
-These days, I delete more code than I write. My software gets simpler and easier to maintain. I pare complex systems down to small scripts with few dependencies. These rarely break down and require almost no maintenance.
+These days, I delete more code than I write. My software gets simpler and easier to maintain. I pare complex systems down to small scripts with few dependencies.
 
-Lessons from culinary school don't always apply home cooking. That's also true for software engineering and small-scale software. [An app can be a home-cooked meal.](https://www.robinsloan.com/notes/home-cooked-app/) I write more and more software that doesn't scale, designed for a single user with a bunch of hard-coded behaviour. It's a lot easier to maintain.
+[An app can be a home-cooked meal.](https://www.robinsloan.com/notes/home-cooked-app/) Software does not need to be massively scalable and suitable for every use case. It's fine to write simple Python scripts with hard-coded logic.
 
 ### My own behaviour
 
@@ -150,7 +150,7 @@ I leave my phone out of the bedroom. When I go to bed, I leave it on silent mode
 
 Instead of getting smacked with raw social media first thing in the morning, I read a book or articles I have queued in [Instapaper](https://www.instapaper.com/). The iPad I read on is disconnected from the cloud and social media. It's a distraction-free device.
 
-I used to go straight to my desk - still in my underwear - to continue something that started on my phone in bed. Now I have coffee and breakfast on the balcony, *then* catch up with the world. I don't have the discipline to do this every day, but I'm getting darn good at it.
+I used to go straight to my desk - still in my underwear - to continue something that started on my phone in bed. Now I have coffee and breakfast on the balcony, *then* catch up with the world. I don't have the discipline to do this every morning, but I'm getting darn good at it.
 
 I also post a lot less online. The internet got much angrier during the pandemic, and I mellowed out as well. I found that the best response to quibblers and boors is indifference. When the discussion gets tedious, I shrug and move on. Rude emails go straight to the trash.
 
@@ -160,14 +160,14 @@ I also post a lot less online. The internet got much angrier during the pandemic
 
 The original draft of this article had the desperate tone of an alcoholic pouring his liquor down the kitchen drain. I was losing sleep over internet drama. I couldn't fully check out. A few years later, things are a lot better.
 
-I sometimes forget what the unfiltered internet looks like. A thin article wrapped in ads, topped with five layers of modals, and a video auto-playing in the corner. An inbox that's 90 percent noise. Two fifteen second ads before each YouTube video, and another one in the middle. Recommended content in every crevice of the user interface. This was technology for most of my life.
-
-Above all, my phone and my laptop got boring. There's just nothing left to look at. I still have the reflex to pull out my phone when I am bored or nervous, but there's nothing to find there.
-
 It's all quieter.
 
-Did all this effort unlock superhuman productivity? No, but it helped. I spend less time on the computer. I don't get sidetracked as much. I am blissfully unaware of the latest internet drama. I have more time to read, garden, and ride my bicycle.
+Did all this effort unlock superhuman productivity? No, but it helped. I spend less time on the computer. I pull out my phone less. I don't get sidetracked as much. I am blissfully unaware of the latest internet drama, and certainly not embroiled in any of it. I have more time to read, garden, and ride my bicycle.
 
-The computer is a tool again, and it's going back in its box.
+I don't read as much as I would like to. I still seek cheap entertainment at the end of a long day. I still reach for my phone to escape from an awkward situation.
+
+It's an iterative and incremental process. I slowly get better at it, and I update this post every few months to remember how much progress I have made.
+
+The computer is a tool again, and now it's going back in its box.
 
 ![](/images/illustrations/gtmktz0vzjl51.jpg)
