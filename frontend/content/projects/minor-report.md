@@ -134,7 +134,7 @@ It's possible that nobody really uses your search feature. All About Berlin gets
 
 ### 1. Description
 
-> Klickbare, interaktive und individualisierbare (z. B. nach Angaben zu den gesprochenen Sprachen, zum Aufenthaltsstatus, zur Aufenthaltsdauer etc.) Schritt-für-Schritt-Anleitungen, die Nutzende einfach und verständlich durch bürokratischen Prozessen führen.
+> **Requirement:** Klickbare, interaktive und individualisierbare (z. B. nach Angaben zu den gesprochenen Sprachen, zum Aufenthaltsstatus, zur Aufenthaltsdauer etc.) Schritt-für-Schritt-Anleitungen, die Nutzende einfach und verständlich durch bürokratischen Prozessen führen.
 
 This feature is about creating an interactive guide to navigate users through bureaucratic processes. You build tools that help them navigate [decision trees](https://en.wikipedia.org/wiki/Decision_tree). You ask them questions, and their answers lead them to a recommendation. This is an improvement over simple text instructions.
 
@@ -142,7 +142,7 @@ Let's call those tools "interactive guides".
 
 ### 2. Technical requirements
 
-You can write interactive guides one by one, as bespoke software. This is the approach I take.
+You can create interactive guides one by one, as bespoke software. This is the approach I take.
 
 Your content editors might want to build tools themselves. They could create and update interactive guides without hiring expensive software developers every time. A tool could help them create flowcharts, and automatically turn those flowcharts into an interactive guide for the website.
 
@@ -180,7 +180,7 @@ See ["Castles on quicksand"](#castles-on-quicksand).
 
 ### 1. Description
 
-> Klickbare, interaktive und individualisierbare (z. B. nach Angaben zu den gesprochenen Sprachen, zum Aufenthaltsstatus, zur Aufenthaltsdauer etc.) Schritt Checklisten, um Nutzende bei der Vorbereitung von einzureichenden Unterlagen für Anträge oder beim Prüfen zu erbringen der Voraussetzungen zu unterstützen.
+> **Requirement:** Klickbare, interaktive und individualisierbare (z. B. nach Angaben zu den gesprochenen Sprachen, zum Aufenthaltsstatus, zur Aufenthaltsdauer etc.) Schritt Checklisten, um Nutzende bei der Vorbereitung von einzureichenden Unterlagen für Anträge oder beim Prüfen zu erbringen der Voraussetzungen zu unterstützen.
 
 This feature is about offering smart lists of documents. There are two ways to imagine this:
 
@@ -217,7 +217,7 @@ See ["Castles on quicksand"](#castles-on-quicksand).
 
 ### 1. Description
 
-> Automatische Übersetzung der Inhalte und Umschalten zwischen unterschiedlichen Sprachen, um die Mehrsprachigkeit aller Inhalte in unterschiedlichen Formaten (Textinhalte, Infografiken, Erklärvideos) zu gewährleisten
+> **Requirement:** Automatische Übersetzung der Inhalte und Umschalten zwischen unterschiedlichen Sprachen, um die Mehrsprachigkeit aller Inhalte in unterschiedlichen Formaten (Textinhalte, Infografiken, Erklärvideos) zu gewährleisten
 
 This feature is about automatically translating the content, interface and tools on the website.
 
@@ -266,7 +266,7 @@ Even bad translations can be helpful. French users who get French search results
 
 ### 1. Description
 
-> Mehrsprachige Ausfüllhilfen für analoge Anträge/Formulare sowie für digitale Anträge/Formulare, die auf anderen Plattformen gehostet sind, um das selbstständige Erledigen von komplexen bürokratischen Prozessen ohne Zugriff auf externe Beratung zu ermöglichen (siehe hier auch Schnittstelle zu Online-Anträgen des Service-Portals)
+> **Requirement:** Mehrsprachige Ausfüllhilfen für analoge Anträge/Formulare sowie für digitale Anträge/Formulare, die auf anderen Plattformen gehostet sind, um das selbstständige Erledigen von komplexen bürokratischen Prozessen ohne Zugriff auf externe Beratung zu ermöglichen (siehe hier auch Schnittstelle zu Online-Anträgen des Service-Portals)
 
 This feature is about gathering information from a user in the language of their choice, then completing complex bureaucratic tasks on their behalf, automatically.
 
@@ -300,7 +300,7 @@ See ["Castles on quicksand"](#castles-on-quicksand).
 
 ### 1. Description
 
-> Automatische Übersetzung der Inhalte (Textinhalte, Infografiken, Erklärvideos) in einfache Sprache und Umschalten zwischen komplexer Sprache und einfacher Sprache, um barrierearme Zugänglichkeit zu gewährleisten
+> **Requirement:** Automatische Übersetzung der Inhalte (Textinhalte, Infografiken, Erklärvideos) in einfache Sprache und Umschalten zwischen komplexer Sprache und einfacher Sprache, um barrierearme Zugänglichkeit zu gewährleisten
 
 This feature is about automatically translating the content to plain language.
 
@@ -330,7 +330,7 @@ See "[automatic translations](#automatic-translations)".
 
 ### 1. Description
 
-> Erfassung der Fragen, der Profile (z. B. Staatsangehörigkeit, Aufenthaltsstatus, Sprache usw.) und Beratungsbedarfe von Ratsuchende per Fragebogen und per Chat- oder Clickbot, um Informationen und Verweise personalisiert bzw. auf die spezifische Situation eingegrenzt anbieten zu können.
+> **Requirement:** Erfassung der Fragen, der Profile (z. B. Staatsangehörigkeit, Aufenthaltsstatus, Sprache usw.) und Beratungsbedarfe von Ratsuchende per Fragebogen und per Chat- oder Clickbot, um Informationen und Verweise personalisiert bzw. auf die spezifische Situation eingegrenzt anbieten zu können.
 
 ### 2. Technical requirements
 
@@ -344,7 +344,7 @@ See "[automatic translations](#automatic-translations)".
 
 ### 1. Description
 
-> Rechner (z. B. für Lebenshaltungskosten, finanzielle Unterstützung, Wohngeld etc.) mit Personalisierungsfunktionen durch Filter, um Kosten oder finanziellen Unterstützungen in der eigenen Situation einzuschätzen.
+> **Requirement:** Rechner (z. B. für Lebenshaltungskosten, finanzielle Unterstützung, Wohngeld etc.) mit Personalisierungsfunktionen durch Filter, um Kosten oder finanziellen Unterstützungen in der eigenen Situation einzuschätzen.
 
 This feature is about calculators that help immigrants calculate their cost of living, among other important values.
 
@@ -360,7 +360,7 @@ I see no applicable use for AI here. These tools navigate users through rigidly-
 
 ### 1. Description
 
-> Gespeicherte Suche und bevorzugte Dienste (mit und ohne Nutzeraccount), um relevante Inhalte (darunter Schritt-für-Schritt-Anleitungen und Checklisten in Arbeit, siehe 2 und 3) schnell wieder abzurufen
+> **Requirement:** Gespeicherte Suche und bevorzugte Dienste (mit und ohne Nutzeraccount), um relevante Inhalte (darunter Schritt-für-Schritt-Anleitungen und Checklisten in Arbeit, siehe 2 und 3) schnell wieder abzurufen
 
 ### 2. Technical requirements
 
@@ -374,7 +374,7 @@ I see no applicable use for AI here. These tools navigate users through rigidly-
 
 ### 1. Description
 
-> Glossarfunktion über Tooltips, um komplexe und wichtige Begriffe zu erklären, ohne dass Nutzende auf eine spezifische Seite weitergeleitet werden
+> **Requirement:** Glossarfunktion über Tooltips, um komplexe und wichtige Begriffe zu erklären, ohne dass Nutzende auf eine spezifische Seite weitergeleitet werden
 
 This feature is about defining words in a tooltip.
 
