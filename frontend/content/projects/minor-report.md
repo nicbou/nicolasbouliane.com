@@ -4,7 +4,7 @@ description: A feasibility study for the new website of the Berlin Welcome Cente
 date_created: 2025-02-01
 ---
 
-This is a feasibility study for a new website for the Berlin Welcome Center website. The Welcome Center is a counselling centre for recent immigrants. It is managed by the *Senat für Partizipation, Integration und Migration*.
+This is a feasibility study for a new website for the Berlin Welcome Center. The Welcome Center is a counselling centre for recent immigrants. It is managed by the *[Senat für Partizipation, Integration und Migration](https://www.berlin.de/lb/intmig/)*.
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -16,11 +16,11 @@ In this report, I prioritised the impact and longevity of the project, given an 
 
 ### Simple is cheap
 
-There is a common theme in this report: software is complex, and complexity is expensive. Use as little complexity as you need to get the job done.
+There is a common theme in this report: software is complex, and complexity is expensive. Add as little complexity as you need to get the job done.
 
 A text-based website is cheap to build, maintain and adapt. Once the website is built, anyone can work on the content. Such websites can run forever with minimal maintenance. The only downside is the user experience. Text takes more effort to read and understand.
 
-Software is the opposite. Good software saves time and offers a magical user experience. However, it's much more expensive to build, adapt and maintain, especially if you outsource the technical work. You must allot time and money to server upkeep, software updates, and so on. Software is a commitment.
+Software is the opposite. Good software saves time and offers a magical user experience. However, it's much more expensive to build, adapt and maintain, especially if you outsource the technical work. You must allot time and money to server upkeep, software updates, and so on. Software is a commitment, and its upkeep is a tax.
 
 ### Bet on text
 
@@ -52,23 +52,25 @@ You can easily find freelancers to work on a WordPress website. It might be hard
 
 ### 1. Description
 
-> “Intelligentes” Suchfeld mit Filteroptionen, um Ergebnisse personalisiert einzugrenzen (z. B. nach Staatsangehörigkeit, Aufenthaltsstatus, Sprache usw.) sowie automatischer Vervollständigung der Suchanfrage und Korrektur von Rechtschreibfehlern, um Treffsicherheit zu verbessern
+> ‘Intelligent’ search field with filter options to personalise results (e.g. by nationality, residence status, language, etc.) as well as automatic completion of the search query and correction of spelling errors to improve accuracy
 
-This feature is about a search that helps users efficiently find content on the website. It should return content in the correct languages, and possibly include a sort of autocomplete feature.
+This feature is about a search box that helps users efficiently find content on the website. It should return content in the user's language, and possibly include a sort of autocomplete feature.
 
 ### 2. Technical requirements
 
 #### Simple search
 
-Most CMS come with lexical search. It searches for words in documents. This is what most websites use.
+Most CMSes come with lexical search. It searches for words in documents. This is what most websites use.
 
-Lexical search is "fuzzy". It matches nearby words, like plural forms (cook → cooks), similar stems (root → rooted), and words a few letters apart (flaw → flow). This is the default; it does not require extra effort to implement.
+Lexical search is "fuzzy". It matches nearby words, like plural forms (cook → cooks), similar stems (root → rooted), and words a few letters apart (flaw → flow).
+
+This is the default; it comes as a feature of most CMSes, so it does not require extra effort to implement.
 
 Example lexical searches: [rbb24.de](https://www.rbb24.de/suche/#searchform_q__landesamt,,20f,,C3,,BCr,,20einwanderung___start__0___fromSearchbox), [settle-in-berlin.com](https://www.settle-in-berlin.com/?s=anmeldung)
 
 #### Intelligent search
 
-Semantic is a little smarter. It matches meaning instead of words. For example, people might search for "visa" when they mean "residence permit". Semantic search returns results that are conceptually similar.
+Semantic search is a little smarter. It matches meaning instead of words. For example, people might search for "visa" when they mean "residence permit". Semantic search returns results that are conceptually similar.
 
 Good semantic search is much harder to implement.
 
@@ -96,25 +98,27 @@ RAG is a common technique used in developing expert AI. It would likely be used 
 
 #### Search
 
-Search is a feature. Good search is a project. Given your budget, aim for "good enough". The basic search that comes with your CMS should be good enough for a website with a few hundred pages. There might be CMS plugins that improve search with minimal effort.
+Search is a feature. Good search is a project. Given your budget, aim for "good enough".
 
 Lexical search is good enough, and it's very easy to implement. It meets most people's expectations, especially on a small website with a few hundred pages. It's also easy to suggest different types of results in the search bar (categories, tags and pages), like in the CityLab prototypes.
 
-Semantic search is possible, but it's more work. There are off-the-shelf solutions for this, but they must be implemented, then customised and adjusted to your needs. This takes significant effort.
+Semantic search is possible, but it's more work. There are off-the-shelf solutions for this, but they must be implemented, then customised and adjusted to your needs. This can take significant development time.
 
-[Algolia](https://www.algolia.com/) and [ElasticSearch](https://www.elastic.co/enterprise-search/) are two of the biggest providers. You feed them your documents, and they give you a search box. These solutions are deployed by large corporations to search across many departments and websites. These solutions do not guarantee good search results. Ranking the results is both an art and a science, and the right methods are specific to each project. These solutions are overkill for your needs.
+[Algolia](https://www.algolia.com/) and [ElasticSearch](https://www.elastic.co/enterprise-search/) are two of the biggest providers. You feed them your documents, and they give you a search box. These solutions are deployed by large organisations to search across many departments and websites. These solutions are overkill for your needs.
 
-[Google Programmable Search Engine](https://programmablesearchengine.google.com/about/) could also work. It's basically search results from Google, but limited to your website. It's halfway between basic search and the fully customisable experience of other off-the-shelf solutions.
+[Google Programmable Search Engine](https://programmablesearchengine.google.com/about/) could also work. It's basically search results from Google, but limited to your website. It's halfway between basic lexical search and the fully customisable experience of other off-the-shelf solutions.
 
-Global search is much more difficult. You would need to crawl all those websites yourself, filter out useless pages, evade anti-bot measures, and figure out how to rank those results. Then you would definitely need tools like Algolia or ElasticSearch. You would effectively build your own little search engine. This is well beyond your budget.
+Global search across multiple websites is much more difficult. You would need to crawl all those websites yourself, filter out useless pages, evade anti-bot measures, and figure out how to rank those results. Then you would definitely need tools like Algolia or ElasticSearch. You would effectively build your own little search engine. This is well beyond your budget.
 
-Search can always be improved later. Implement basic lexical search now, gather usage data, and improve it later as needed. Semantic search might be a stretch for your budget. A clever AI search would definitely exceed your budget.
+Search can always be improved later. Implement basic lexical search now, gather usage data, and improve it later as needed. Semantic search might stretch your budget. AI search would definitely exceed it.
 
 #### Filtering
 
 Filtering is easy to implement. Most CMSs provide utilities that make it possible. Returning different *kinds* of results (categories, tags, guides, articles, document templates) is also easy to implement.
 
-To get good filters, you need good metadata. Filters only work when every page is correctly tagged, categorised, and all the fields are correctly filled in. The search filters of online stores only work if every the data for every product is meticulously filled in. You can only filter clothes by colour because someone added colour data to every product. The [British Museum](https://www.britishmuseum.org/collection/) has an excellent search because their documents are obsessively tagged.
+To get good filters, you need good metadata. Filters only work when every page is correctly tagged, categorised, and all the fields are correctly filled in. The search filters of an online store only work if the metadata for every product is meticulously filled in. You can only filter clothes by colour because someone added colour data to every product.
+
+![Amazon product filters](/images/product-filters.png "Product filters require detailed product data")
 
 In your case, this means carefully considering how you organise, categorise and tag your content. Consider how much effort this could mean for your editors.
 
@@ -134,7 +138,7 @@ It's possible that nobody really uses your search feature. All About Berlin gets
 
 ### 1. Description
 
-> **Requirement:** Klickbare, interaktive und individualisierbare (z. B. nach Angaben zu den gesprochenen Sprachen, zum Aufenthaltsstatus, zur Aufenthaltsdauer etc.) Schritt-für-Schritt-Anleitungen, die Nutzende einfach und verständlich durch bürokratischen Prozessen führen.
+> Clickable, interactive and customisable (e.g. according to the languages spoken, residence status, length of stay, etc.) step-by-step instructions that guide users through bureaucratic processes in a simple and understandable way.
 
 This feature is about creating an interactive guide to navigate users through bureaucratic processes. You build tools that help them navigate [decision trees](https://en.wikipedia.org/wiki/Decision_tree). You ask them questions, and their answers lead them to a recommendation. This is an improvement over simple text instructions.
 
@@ -182,7 +186,7 @@ See ["Castles on quicksand"](#castles-on-quicksand).
 
 ### 1. Description
 
-> **Requirement:** Klickbare, interaktive und individualisierbare (z. B. nach Angaben zu den gesprochenen Sprachen, zum Aufenthaltsstatus, zur Aufenthaltsdauer etc.) Schritt Checklisten, um Nutzende bei der Vorbereitung von einzureichenden Unterlagen für Anträge oder beim Prüfen zu erbringen der Voraussetzungen zu unterstützen.
+> Clickable, interactive and customisable (e.g. according to the languages spoken, residence status, length of stay, etc.) step-by-step checklists to support users in preparing documents to be submitted for applications or in checking the requirements.
 
 This feature is about offering smart lists of documents. There are two ways to imagine this:
 
@@ -219,7 +223,7 @@ See ["Castles on quicksand"](#castles-on-quicksand).
 
 ### 1. Description
 
-> **Requirement:** Automatische Übersetzung der Inhalte und Umschalten zwischen unterschiedlichen Sprachen, um die Mehrsprachigkeit aller Inhalte in unterschiedlichen Formaten (Textinhalte, Infografiken, Erklärvideos) zu gewährleisten
+> Automatic translation of content and switching between different languages to ensure the multilingualism of all content in different formats (text content, infographics, explanatory videos)
 
 This feature is about automatically translating the content, interface and tools on the website.
 
@@ -268,7 +272,7 @@ Even bad translations can be helpful. French users who get French search results
 
 ### 1. Description
 
-> **Requirement:** Mehrsprachige Ausfüllhilfen für analoge Anträge/Formulare sowie für digitale Anträge/Formulare, die auf anderen Plattformen gehostet sind, um das selbstständige Erledigen von komplexen bürokratischen Prozessen ohne Zugriff auf externe Beratung zu ermöglichen (siehe hier auch Schnittstelle zu Online-Anträgen des Service-Portals)
+> Multilingual completion aids for analogue applications/forms as well as for digital applications/forms hosted on other platforms to enable independent completion of complex bureaucratic processes without access to external advice
 
 This feature is about gathering information from a user in the language of their choice, then completing complex bureaucratic tasks on their behalf, automatically.
 
@@ -302,7 +306,7 @@ See ["Castles on quicksand"](#castles-on-quicksand).
 
 ### 1. Description
 
-> **Requirement:** Automatische Übersetzung der Inhalte (Textinhalte, Infografiken, Erklärvideos) in einfache Sprache und Umschalten zwischen komplexer Sprache und einfacher Sprache, um barrierearme Zugänglichkeit zu gewährleisten
+> Automatic translation of content (text content, infographics, explanatory videos) into simple language and switching between complex language and simple language to ensure low-barrier accessibility
 
 This feature is about automatically translating the content to plain language.
 
@@ -328,11 +332,11 @@ AI tools can aid skilled editors with plain writing, but they can't replace skil
 
 See "[automatic translations](#automatic-translations)".
 
-## 7. ...
+## 7. Chatbot
 
 ### 1. Description
 
-> **Requirement:** Erfassung der Fragen, der Profile (z. B. Staatsangehörigkeit, Aufenthaltsstatus, Sprache usw.) und Beratungsbedarfe von Ratsuchende per Fragebogen und per Chat- oder Clickbot, um Informationen und Verweise personalisiert bzw. auf die spezifische Situation eingegrenzt anbieten zu können.
+> Recording the questions, profiles (e.g. nationality, residence status, language, etc.) and counselling needs of those seeking advice by questionnaire and by chat or clickbot in order to be able to offer personalised information and referrals or to narrow them down to the specific situation.
 
 ### 2. Technical requirements
 
@@ -346,11 +350,9 @@ See "[automatic translations](#automatic-translations)".
 
 ### 1. Description
 
-> **Requirement:** Rechner (z. B. für Lebenshaltungskosten, finanzielle Unterstützung, Wohngeld etc.) mit Personalisierungsfunktionen durch Filter, um Kosten oder finanziellen Unterstützungen in der eigenen Situation einzuschätzen.
+> Calculator (e.g. for living costs, financial support, housing benefit, etc.) with personalisation functions using filters to estimate costs or financial support in your own situation.
 
-This feature is about calculators that help immigrants calculate their cost of living, among other important values.
-
-See [interactive instructions](#interactive-instructions), as the work, the challenges and the costs are almost the same.
+See [interactive instructions](#interactive-instructions). The work, the challenges and the costs are almost the same.
 
 ### 2. Technical requirements
 
@@ -362,7 +364,7 @@ I see no applicable use for AI here. These tools navigate users through rigidly-
 
 ### 1. Description
 
-> **Requirement:** Gespeicherte Suche und bevorzugte Dienste (mit und ohne Nutzeraccount), um relevante Inhalte (darunter Schritt-für-Schritt-Anleitungen und Checklisten in Arbeit, siehe 2 und 3) schnell wieder abzurufen
+> Saved search and favourite services (with and without user account) to quickly retrieve relevant content (including step-by-step instructions and checklists in progress, see 2 and 3)
 
 ### 2. Technical requirements
 
@@ -376,9 +378,11 @@ I see no applicable use for AI here. These tools navigate users through rigidly-
 
 ### 1. Description
 
-> **Requirement:** Glossarfunktion über Tooltips, um komplexe und wichtige Begriffe zu erklären, ohne dass Nutzende auf eine spezifische Seite weitergeleitet werden
+> Glossary function via tooltips to explain complex and important terms without redirecting users to a specific page
 
-This feature is about defining words in a tooltip.
+This feature is about showing word definitions in a tooltip.
+
+![All About Berlin glossary](/images/glossary.png)
 
 ### 2. Technical requirements
 
