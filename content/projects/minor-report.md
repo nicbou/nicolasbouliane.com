@@ -476,4 +476,6 @@ Then focus on what matters the most: giving good advice. You need good informati
 
 Don't underestimate the effort it takes to produce quality advice. I had to build a community of practice from the ground up. My work involves dozens of immigration professionals, government employees and industry experts. I also monitor hundreds of pages to know when German bureaucracy changes.
 
-This will require a far greater commitment from you, for a much longer time. Every technology choice that you make should go towards making *that* work easier.
+This will require a far greater commitment from you, for a much longer time. Every technology choice that you make should go towards making the editors' work easier, because they will be the ones doing the most work.
+
+The requirements do not mention search engine optimisation (SEO). I would also prioritise this, as the website is only useful if users discover it. The marketing of this website is out of scope for this report, but should be taken seriously.
