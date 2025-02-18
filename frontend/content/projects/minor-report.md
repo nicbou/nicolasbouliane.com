@@ -16,11 +16,13 @@ The structure of the report mirrors that of [the requirements document](/files/m
 
 ### Budget assumptions
 
-In this report, I prioritised the impact and longevity of the project, given an initial budget of around 50,000€. I assumed that there will also be a smaller yearly budget for maintenance and further development. I also assumed that this budget is subject to political winds, so I favoured low maintenance costs wherever possible.
+I prioritise the impact and longevity of this project, given an initial budget of around 50,000€. I assume that there will be a smaller yearly budget for maintenance and further development. I also assume that this budget is subject to political winds, so I favour resilience and low maintenance costs wherever possible.
+
+A higher budget would not significantly affect my recommendations.
 
 ### Simple is cheap
 
-There is a common theme in this report: software is complex, and complexity is expensive. Add as little complexity as you need to get the job done.
+Software is complex, and complexity is expensive. Add as little complexity as you need to get the job done. This will be a common theme in my report.
 
 A text-based website is cheap to build, maintain and adapt. Once the website is built, anyone can work on the content. Such websites can run forever with minimal maintenance. The only downside is the user experience. Text takes more effort to read and understand.
 
@@ -48,7 +50,7 @@ Consider that German bureaucracy might change faster than you can adapt the soft
 
 Complex projects require specialised labour. Specialised labour is more expensive and harder to find.
 
-You can easily find freelancers to work on a WordPress website. It might be harder to find maintainers for your fancy technology stack. It's even harder if you can't pay market rates, or if you only a developer for a few hours every now and then. Maintaining complex software can become a human resources problem.
+You can easily find freelancers to work on a WordPress website. It might be harder to find maintainers for a fancier technology stack. It's even harder if you can't pay market rates, or if you only need a developer for a few hours every now and then. Maintaining complex software can become a human resources problem.
 
 [Choose boring technology](https://mcfunley.com/choose-boring-technology), especially if you don't have an in-house development team to maintain it.
 
@@ -156,7 +158,7 @@ For this, they would need *no-code tools*.
 
 ### 3. Artificial intelligence
 
-I see no applicable use for AI here. These tools navigate users through rigidly-defined processes. There should be no uncertainty, and no room for an AI to guess what to do. AI advice is error-prone, difficult to test, and likely to give incorrect advice the appearance of trustworthiness.
+I see no applicable use of AI here. These tools navigate users through rigidly-defined processes. There should be no uncertainty, and no room for an AI to guess what to do. AI advice is error-prone, difficult to test, and likely to give incorrect advice the appearance of trustworthiness.
 
 ### 4. Feasibility assessment
 
@@ -215,7 +217,7 @@ Still, consider that for this purpose, plain text could be enough. It's more imp
 
 Requirements are not fixed in stone. They vary by office, department and case worker. They change without warning, and are rarely well-documented. The official information on Berlin.de is often incorrect. Gathering correct information is a lot more work than choosing how to present the information.
 
-See ["Castles on quicksand"](#castles-on-quicksand).
+See ["castles on quicksand"](#castles-on-quicksand).
 
 ## 4. Automatic translations
 
@@ -278,19 +280,19 @@ This feature is about gathering information from a user in the language of their
 
 This solution requires building a layer on top of existing bureaucratic processes. [As highlighted before](#castles-on-quicksand), this implies building rigid software on top of arbitrary, undocumented and capricious bureaucracy.
 
-: filling the form, sending the form, making the payment, getting status updates, receiving the desired document 
-
 ### 3. Artificial intelligence
+
+I see no applicable use of AI here.
 
 ### 4. Feasibility assessment
 
 Berlin does not offer an API for its digital processes. For the most part, Berlin does not offer digital processes. It's mostly analog processes over email.
 
-For every step of the process, you must create scripts that mimic the actions of a human: clicking around, downloading forms, filling PDFs, sending emails and making payments.
+For every step of the process, you must create scripts that mimic the actions of a human: clicking around, downloading forms, filling PDFs, sending emails and making payments. This sort of automation - with a [headless browser](https://en.wikipedia.org/wiki/Headless_browser) like Selenium or Playwright - is slow and unreliable. You might also get blocked or rate-limited by the Berlin.de servers.
 
 The response from the bureaucracy is not an instant, predictable, machine-readable message. A human will write a unique letter and mail it to user's home address in 4 to 8 weeks.
 
-Each of the 12 districts handles bureaucracy in its own way, with varying requirements and varying efficiency. You must either adjust your automated solution to the whims of each district, or send all your applications to a single district. In my experience, no district will volunteer for this.
+Each of the 12 districts handles bureaucracy in its own way, with varying requirements and varying efficiency. You must either adjust your automated solution to the whims of each district, or send all your applications to the single district that does its job well. In my experience, no district will volunteer for this.
 
 The few existing digital processes only work with BundID, which most immigrants can't use, and which your scripts can't work around.
 
@@ -298,7 +300,7 @@ Put simply, Berlin's bureaucracy is actively hostile to automation. In any case,
 
 ### 5. Risks and challenges
 
-See ["Castles on quicksand"](#castles-on-quicksand).
+See ["castles on quicksand"](#castles-on-quicksand).
 
 ## 6. Simple language
 
@@ -328,31 +330,19 @@ AI tools can aid skilled editors with plain writing, but they can't replace skil
 
 ### 5. Risks and challenges
 
-See "[automatic translations](#automatic-translations)".
+See ["automatic translations"](#automatic-translations).
 
-## 7. Chatbot
-
-### 1. Description
+## 7. Chatbots
 
 > Recording the questions, profiles (e.g. nationality, residence status, language, etc.) and counselling needs of those seeking advice by questionnaire and by chat or clickbot in order to be able to offer personalised information and referrals or to narrow them down to the specific situation.
 
-### 2. Technical requirements
-
-### 3. Artificial intelligence
-
-### 4. Feasibility assessment
-
-### 5. Risks and challenges
+See ["interactive instructions"](#interactive-instructions). The work, the challenges and my conclusion are the same.
 
 ## 8. Calculators
 
-### 1. Description
-
 > Calculator (e.g. for living costs, financial support, housing benefit, etc.) with personalisation functions using filters to estimate costs or financial support in your own situation.
 
-See [interactive instructions](#interactive-instructions). The work, the challenges and the costs are almost the same.
-
-### 2. Technical requirements
+See ["interactive instructions"](#interactive-instructions). The work, the challenges and my conclusion are the same.
 
 ### 3. Artificial intelligence
 
@@ -402,7 +392,7 @@ I cannot think of any specific risks or challenges for implementing this feature
 
 ## API access
 
-None of the listed elements offer an API. These websites are not designed to be operated by other machines. Many of those website implement anti-bot measures. They either limit the rate of requests, or block bots outright.
+None of the listed websites offer an API. These websites are not designed to be operated by other machines. Many of those website implement anti-bot measures. They either limit the rate of requests, or block bots outright.
 
 As explained in the [application aid](#application-aid) section, the planned feature is not feasible with the allocated budget.
 
@@ -410,7 +400,7 @@ As explained in the [application aid](#application-aid) section, the planned fea
 
 ### 1. Mobile first
 
-Mobile-first design has been the standard for over a decade. It is expected that the website must adapt to mobile screens.
+Mobile-first design has been the standard for over a decade. It is expected that the website must adapt to mobile screens, and both designers and developers can be expected to take this into account.
 
 ### 2. Multilingual content
 
