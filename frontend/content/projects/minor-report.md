@@ -1,10 +1,14 @@
 ---
-title: Feasibility study: Berlin Welcome Center
-description: A feasibility study for the new website of the Berlin Welcome Center.
+title: Feasibility study: Welcome Center Berlin
+description: A report about building a new website for the Welcome Center, an official website to welcome immigrants to Berlin.
 date_created: 2025-02-01
 ---
 
-This is a feasibility study for a new website for the Berlin Welcome Center. The Welcome Center is a counselling centre for recent immigrants. It is managed by the *[Senat für Partizipation, Integration und Migration](https://www.berlin.de/lb/intmig/)*.
+This is a feasibility study for a new website for the [Welcome Center Berlin](https://www.berlin.de/willkommenszentrum/). The Welcome Center is a counselling centre for recent immigrants. This project is supported by the [Senate for Participation, Integration and Migration](https://www.berlin.de/lb/intmig/). This report is commissioned by [Minor](https://minor-kontor.de/).
+
+My report is based on my experience running [All About Berlin](https://allaboutberlin.com) since 2017, and my 15 years of experience as a web developer.
+
+The structure of the report mirrors that of [the requirements document](/files/minor-requirements-2025-01-21.pdf). Every section is a response to a stated requirement.
 
 {% include "blocks/_tableOfContents.html" %}
 
