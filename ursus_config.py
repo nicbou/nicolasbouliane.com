@@ -23,6 +23,10 @@ config.context_globals = {
 }
 
 config.image_transforms = {
+    '': {
+        'include': ('files/*.pdf', ),
+        'output_types': ('original', ),
+    },
     'content2x': {
         'exclude': ('*.pdf', '*.svg'),
         'max_size': (1848, 1848),
