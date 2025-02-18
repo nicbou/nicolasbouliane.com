@@ -354,13 +354,27 @@ I see no applicable use for AI here. These tools navigate users through rigidly-
 
 > Saved search and favourite services (with and without user account) to quickly retrieve relevant content (including step-by-step instructions and checklists in progress, see 2 and 3)
 
+This feature is about starring important content for easy access, and about remembering user actions and preferences.
+
 ### 2. Technical requirements
+
+This information can be saved in the browser's local storage. This information is never transmitted to us. It's a simple, privacy-friendly, GDPR-compliant way of saving user preferences.
 
 ### 3. Artificial intelligence
 
+I see no applicable use of AI here.
+
 ### 4. Feasibility assessment
 
+Saving user preferences is easy. Saving recent or starred content is also easy. This should not add significant development time.
+
 ### 5. Risks and challenges
+
+The biggest challenge is managing changes.
+
+For example, a user ticks items #1, #4, and #5 in a list. What happens if you rename some items or move them around? How do you know which items to tick when the user visits the website again?
+
+Another example: you save a user's progress through an interactive guide. What happens if the process changes?
 
 ## 10. Glossary
 
