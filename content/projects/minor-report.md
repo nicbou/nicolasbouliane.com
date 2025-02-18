@@ -426,11 +426,11 @@ Talk to the *[Landesbeauftragte für digitale Barrierefreiheit](https://www.berl
 
 ### 4. Privacy
 
-GDPR (DSGVO) is only a concern if you collect data about your users. You should only worry about privacy if you track your users, or if you collect personally identifying information from them.
+GDPR (DSGVO) is only a concern if you collect data about your users. This can happen if you track your users, or if you collect and store information about them through forms, user accounts or cookies. The easiest way to conform to data protection laws is to not collect any data.
 
-For example, if you collect data about your users, you must ensure that it is only used for the intended purpose, and that the data is deleted as soon as it's no longer needed. 
+You can still collect anonymous statistics while respecting the GDPR. Your statistics lose some precision and granularity, but they give you sufficient insight into your user base.
 
-It is possible to gather anonymous user statistics without a privacy banner, and without violating GDPR. You lose some precision and granularity, but it's sufficient to get an idea of how your users navigate your website.
+You can also collect personal data, so long as you collect it with consent, use it for its intended purpose, store it securely and delete it when it's no longer needed.
 
 ## Available options
 
