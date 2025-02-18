@@ -4,7 +4,7 @@ description: A report about building a new website for the Welcome Center, an of
 date_created: 2025-02-01
 ---
 
-This is a feasibility study for the new website of the [Welcome Center Berlin](https://www.berlin.de/willkommenszentrum/). This a counselling centre for immigrants run by the [Senate for Participation, Integration and Migration](https://www.berlin.de/lb/intmig/). My report was commissioned by [Minor](https://minor-kontor.de/), who was commissioned by the Senate.
+This is a feasibility study for the new website of the [Welcome Center Berlin](https://www.berlin.de/willkommenszentrum/). This a counselling centre for immigrants run by the [Senate for Participation, Integration and Migration](https://www.berlin.de/lb/intmig/). My report was commissioned by [Minor](https://minor-kontor.de/).
 
 The following assessment and recommendations are based on my experience running [All About Berlin](https://allaboutberlin.com) since 2017, and my 15 years of experience as a web developer.
 
@@ -209,8 +209,6 @@ Interactive checklists are not achievable within your budget. They work exactly 
 
 Rich list elements are possible, and very easy to implement. This feature is well within your budget.
 
-Still, consider that for this purpose, plain text could be enough. It's more important to have good, reliable information than to present it slightly better.
-
 ### 5. Risks and challenges
 
 Requirements are not fixed in stone. They vary by office, department and case worker. They change without warning, and are rarely well-documented. The official information on Berlin.de is often incorrect. Gathering correct information is a lot more work than choosing how to present the information.
@@ -408,9 +406,47 @@ You might want to use change monitoring tools to watch pages on Berlin.de for ch
 
 ## API access
 
-None of the listed websites offer an API. These websites are not designed to be operated by other machines. Many of those website implement anti-bot measures. They either limit the rate of requests, or block bots outright.
+None of the listed websites offer a public API. These websites are not designed to be operated by other machines. Many of those website implement anti-bot measures. They either limit the rate of requests, or block bots outright.
 
 As explained in the [application aid](#application-aid) section, the planned feature is not feasible with the allocated budget.
+
+### Service-Portal
+
+Berlin.de [does have an API](https://gitlab.opencode.de/eappointment/zmsdldb), but its address is not known. It might not be accessible to you. This API is [a central database of all services](https://www.berlin.de/moderne-verwaltung/buergerservice/im-netz/service-portal-berlin/dienstleistungsdatenbank/artikel.976708.php). It would let you get information about those services a little more easily, without having to scrape the service pages.
+
+Accessing this database would allow you to get up-to-date information about government services. This would be useful if monitoring service pages for changes. Change monitoring can also be done by tools like [changedetection.io](https://changedetection.io).
+
+### Landesamt für Einwanderung
+
+To my knowledge, the LEA offers no public APIs.
+
+The most important resource the LEA offers is the VAB. This is a detailed explanation of all their internal procedures, ordered by paragraph of the immigration law.
+
+This document is only available as a PDF. I have pressured them to release it in a more accessible (and machine-readable) format, but never received a response.
+
+Having this information in a better format would allow us to link to specific parts of the document, and to watch the document for changes. My attempts to make this happen were not successful.
+
+### Berliner Beratungsnetz für Zugewanderte
+
+They have built an API for their own use. We can also call this API to get a list of all the services listed on their website. This could be useful if recommending the same services on your own website.
+
+That being said, repeating the same information might not be that useful. It would be easier to simply link to their website.
+
+### Jobsuche-Portal der Bundesagentur für Arbeit
+
+...
+
+### Anerkennungs-Finder von „Anerkennung in Deutschland“
+
+### Interaktiver Einbürgerungstest des Bundesamt für Migration und Flüchtlinge
+
+There are dozens of other tools that help people practice for the citizenship test. My friend has built one in his spare time. They all use the official list of questions. You can likely get a machine-readable list of questions for your own use.
+
+That being said, this need is already covered by many people. It might be more useful to curate a list of those tools instead of building your own.
+
+### Bundesministerium für Arbeit und Soziales
+
+To my knowledge, the BMAS does not offer any public API, or any tools which you could use on your website. The calculators use very simple formulas and can trivially be reproduced on your side.
 
 ## Additional requirements
 
@@ -428,7 +464,7 @@ The hardest part is simply maintaining one version of your content for each lang
 
 ### 3. Accessibility
 
-A basic level of accessibility can be expected, but full WCAG compliance is harder, especially if it's not part of the entire design process from the start.
+A basic level of accessibility can be expected, but full [WCAG compliance](https://www.wcag.com/resource/what-is-wcag/) is harder, especially if it's not part of the entire design process from the start.
 
 The choice of technology has less impact on accessibility, but the complexity of what you build does. It's easy to make text accessible. It's much harder to make software accessible.
 
