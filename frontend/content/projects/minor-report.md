@@ -404,6 +404,14 @@ Implementing glossary tooltips is very easy. It should not meaningfully impact t
 
 I cannot think of any specific risks or challenges for implementing this feature.
 
+## 11. Extras
+
+These features are not part of the initial requirements, but were brought up during subsequent calls.
+
+### Change monitoring
+
+You might want to use change monitoring tools to watch pages on Berlin.de for changes. If the page changes, you get an email showing what changed. I monitor hundreds of pages like this. It's an essential part of my job. For this, use [changedetection.io](https://changedetection.io).
+
 ## API access
 
 None of the listed websites offer an API. These websites are not designed to be operated by other machines. Many of those website implement anti-bot measures. They either limit the rate of requests, or block bots outright.
