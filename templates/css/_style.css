@@ -22,6 +22,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{di
     --font-family-data: 'Source Sans Pro', 'Trebuchet MS', sans-serif;
     --font-size-h2: 1.8rem;
     --font-size-h3: 1.4rem;
+    --font-size-h4: 1.15rem;
     --font-size-m: 25px;
     --font-size-s: 17px;
     --line-height: 1.5em;
@@ -110,6 +111,7 @@ h1, h2, h3{line-height:var(--line-height-compact);margin:1.5em 0 1em;}
         main header small{font-size:1rem;display:block;margin-top:var(--spacing-text-s)}
     h2{font-size:var(--font-size-h2);font-weight:500;}
     h3{font-size:var(--font-size-h3);font-weight:500;}
+    h4{font-size:var(--font-size-h4);font-weight:500;}
 
 h2 small{margin-top:var(--spacing-text-s)}
 
