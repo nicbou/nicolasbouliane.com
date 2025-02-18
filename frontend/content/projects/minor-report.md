@@ -174,6 +174,8 @@ Interactive guides need regular maintenance. Bureaucratic processes change often
 
 Search engines only index what they can see. They do not see the useful information buried multiple steps deep into an interactive guide. Interactive guides make information less discoverable for people using Google, ChatGPT or your own search. You might need to maintain two versions of your advice: a text version, and an interactive guide.
 
+Making software accessible is much harder than making text content accessible.
+
 See ["Castles on quicksand"](#castles-on-quicksand).
 
 ## 3. Interactive checklists
@@ -460,10 +462,12 @@ You can use a framework instead of a CMS. If you plan to build a *platform*, a f
 
 If you want to build a platform, you can choose something more involved and elaborate. Not a CMS but a framework that you shape into what you want. This is a lot more work, but it leaves an open end for future development. I don't think this would work well for you, mainly because it would take longer to get the website running, require more specialised labour to build, and likely wouldn't really help.
 
-My assessment, put plainly, is to create a very simple website and to focus on the quality of your advice. How you choose to deliver your advice (text vs nice tools) is not nearly as important as how complete and accurate your advice is.
+## Summary and recommendations
 
-Your budget is adequate for that purpose.
+Build a simple website that you can easily maintain, using readily available labour. This will keep your maintenance costs low.
 
-I consider most of the features above to be superfluous. I doubt that you can build and sustain the features that you dream of in any meaningful capacity. These features are likely to drain budget away from more meaningful efforts.
+Then focus on what matters the most: giving good advice. You need good information more than you need a fancy website.
 
-Speaking from experience, this is a long term project. The bulk of the effort should be spent on collecting and propagating good information, and not on building fancy features.
+Don't underestimate the effort it takes to produce quality advice. I had to build a community of practice from the ground up. My work involves dozens of immigration professionals, government employees and industry experts. I also monitor hundreds of pages to know when German bureaucracy changes.
+
+This will require a far greater commitment from you, for a much longer time. Every technology choice that you make should go towards making *that* work easier.
