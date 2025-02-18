@@ -90,17 +90,17 @@ You mentioned that your search should return results from other websites. Search
 
 ### 3. Artificial intelligence
 
-Artificial intelligence builds upon good search, which builds upon good content.
+Artificial intelligence builds upon good search. Good search builds upon good content.
 
-Retrieval-augmented generation (RAG) is a hybrid of search and AI. AI can't fit your entire website into its brain, so it searches your content and summarises the first few results. RAG only works if its built on top of a good search. AI can only generate answers from your content if it finds it.
+Usually, AI can't fit your entire website into its brain, so it searches your website and generates a response from the first few results. This is called retrieval-augmented generation (RAG).
 
-RAG is a common technique used in developing expert AI. It would likely be used if you develop a chatbot, AI search and other AI tools. In other words, before you build a good AI, you must build a good search.
+If you build a chatbot, AI search and other AI tools, you will likely use RAG. RAG only works well if your search works well. In other words, to build a good AI, you must first build a good search.
 
 ### 4. Feasibility assessment
 
 #### Search
 
-Search is a feature. Good search is a project. Given your budget, aim for "good enough".
+Search is a feature. *Good* search is a project. Given your budget, aim for "good enough".
 
 Lexical search is good enough, and it's very easy to implement. It meets most people's expectations, especially on a small website with a few hundred pages. It's also easy to suggest different types of results in the search bar (categories, tags and pages), like in the CityLab prototypes.
 
