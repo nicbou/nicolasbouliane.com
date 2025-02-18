@@ -344,10 +344,6 @@ See ["interactive instructions"](#interactive-instructions). The work, the chall
 
 See ["interactive instructions"](#interactive-instructions). The work, the challenges and my conclusion are the same.
 
-### 3. Artificial intelligence
-
-I see no applicable use for AI here. These tools navigate users through rigidly-defined calculations. There should be no uncertainty, and no room for an AI to guess what to do. AI calculations are error-prone, difficult to test, and likely to give incorrect calculations the appearance of trustworthiness.
-
 ## 9. Saved content
 
 ### 1. Description
