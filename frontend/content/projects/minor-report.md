@@ -434,19 +434,31 @@ You can also collect personal data, so long as you collect it with consent, use 
 
 ## Available options
 
-- WordPress
-- Craft CMS
-- Jekyll
+For your needs, I would consider WordPress or Craft CMS.
 
-- WPML
-- Lokalise
+### WordPress
 
-## Summary and recommendations
+[WordPress](https://wordpress.org/) is ubiquitous. You can find cheap, flexible freelancers for occasional changes. You can find cheap, good managed hosting for it. There are plugins to do everything. This keeps your development and maintenance costs low.
 
-- Keep it simple
-- "Sometimes, magic is just someone spending more time on something than anyone else might reasonably expect."
-- Build something simple that you can maintain
-- Spend the leftover money on good editors
+Still, WordPress is not perfect. Because of it's popularity, it's a huge target for hackers. Each plugin is a potential security flaw. You need third-party plugins for things that are baked into other CMSes, like custom post types and multilingual content. The codebase is weird and unpleasant to work with.
+
+Nonetheless, it's the best option for you. [why]
+
+WordPress is free. However you might need to pay licence fees for essential plugins.
+
+### Craft CMS
+
+All About Berlin ran on [Craft CMS](https://craftcms.com/) for a few years. It's a lot more pleasant to use than WordPress, both for editors and developers.
+
+However, since it's relatively obscure, you can't rely on a large plugin ecosystem to solve every problem. You must code everything yourself. You won't find experienced Craft developers, so you must hire skilled generalists. These are more expensive and harder to find.
+
+For your project, Craft would cost 399€, then 99€ per year for updates.
+
+### Something custom
+
+You can use a framework instead of a CMS. If you plan to build a *platform*, a framework gives the developers a lot more flexibility.
+
+If you want to build a platform, you can choose something more involved and elaborate. Not a CMS but a framework that you shape into what you want. This is a lot more work, but it leaves an open end for future development. I don't think this would work well for you, mainly because it would take longer to get the website running, require more specialised labour to build, and likely wouldn't really help.
 
 My assessment, put plainly, is to create a very simple website and to focus on the quality of your advice. How you choose to deliver your advice (text vs nice tools) is not nearly as important as how complete and accurate your advice is.
 
