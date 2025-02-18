@@ -54,8 +54,6 @@ You can easily find freelancers to work on a WordPress website. It might be hard
 
 > ‘Intelligent’ search field with filter options to personalise results (e.g. by nationality, residence status, language, etc.) as well as automatic completion of the search query and correction of spelling errors to improve accuracy
 
-This feature is about a search box that helps users efficiently find content on the website. It should return content in the user's language, and possibly include a sort of autocomplete feature.
-
 ### 2. Technical requirements
 
 #### Simple search
@@ -140,7 +138,7 @@ It's possible that nobody really uses your search feature. All About Berlin gets
 
 > Clickable, interactive and customisable (e.g. according to the languages spoken, residence status, length of stay, etc.) step-by-step instructions that guide users through bureaucratic processes in a simple and understandable way.
 
-This feature is about creating an interactive guide to navigate users through bureaucratic processes. You build tools that help them navigate [decision trees](https://en.wikipedia.org/wiki/Decision_tree). You ask them questions, and their answers lead them to a recommendation. This is an improvement over simple text instructions.
+This feature is about creating interactive guides to navigate users through bureaucratic processes. You ask them questions, and their answers lead them to a recommendation. This is an improvement over simple text instructions.
 
 Let's call those tools "interactive guides".
 
@@ -160,27 +158,23 @@ I see no applicable use for AI here. These tools navigate users through rigidly-
 
 Each interactive guide is its own mini project with its own requirements.
 
-I need two to six weeks to build a interactive guide. The first tool takes longer to build, because developers must build the groundwork that is reused for each tool afterwards.
+I takes me two to six weeks to build a single interactive guide. The first ones take longer to build, because developers must build the groundwork that is reused for each tool afterwards.
 
 It might take longer in your case, because the work is defined by one team and done by another. It also takes time to understand and define the logic behind each tool. If that knowledge comes from a third team, it adds more delays.
 
 There might be off-the-shelf solutions to create interactive guides without coding. If these tools exist, they might require significant development time to adapt to your needs.
 
-There is [Floma](https://floma.io/), a tool built for the calculator on [Mietencheck.de](https://mietencheck.de/), but it's not mature software yet. The closest mature solution is [VisiRule](https://www.visirule.co.uk/solutions/decision-tree-flowcharts), but it might not do exactly what you need.
+There is [Floma](https://floma.io/), a tool built for the calculator on [Mietencheck.de](https://mietencheck.de/), but it's not mature software yet. The closest mature solution is [VisiRule](https://www.visirule.co.uk/solutions/decision-tree-flowcharts), but it might not do exactly what you need. There is also a [white paper](https://vis4good.github.io/papers/2023/zhou.pdf) about a similar tool, but I found no immediately usable solutions.
 
-In my opinion, this feature is not achievable within your budget. Bespoke interactive guides are expensive to build. A tool that lets you build your own interactive guides is several times more expensive, and might still fail at its task.
+In my opinion, this feature is not achievable within your budget. Bespoke interactive guides are expensive to build. A tool that lets you build your own interactive guides is several times more expensive, and it might still fail at its task.
 
 ### 5. Risks and challenges
 
-Translating those interactive guides adds a layer of complexity. Every question, answer and verdict must be translated to multiple languages. If you choose the no-code route, it will be hard to do this through an intuitive user interface.
+Offering those interactive guides in multiple languages adds a layer of complexity. Every question, answer and verdict must be translated to multiple languages. If you choose the no-code route, it will be hard to do this through an intuitive user interface. If you use off-the-shelf solutions, they might not support multiple languages at all.
 
-Interactive guides need regular maintenance. Bureaucratic processes change often and without warning. The changes might require a complete overhaul of your tools. There is also a lot of variance in German bureaucracy. It might not be possible to describe things as a simple flowchart with a well-defined outcome.
+Interactive guides need regular maintenance. Bureaucratic processes change often and without warning. A bureaucratic change might require a complete overhaul of your tools. There is also a lot of variance in German bureaucracy. It might not be possible to describe processes as a simple flowchart with a well-defined outcome. See ["castles on quicksand"](#castles-on-quicksand) above.
 
 Search engines only index what they can see. They do not see the useful information buried multiple steps deep into an interactive guide. Interactive guides make information less discoverable for people using Google, ChatGPT or your own search. You might need to maintain two versions of your advice: a text version, and an interactive guide.
-
-Making software accessible is much harder than making text content accessible.
-
-See ["Castles on quicksand"](#castles-on-quicksand).
 
 ## 3. Interactive checklists
 
