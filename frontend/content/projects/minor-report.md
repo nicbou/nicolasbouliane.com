@@ -4,47 +4,45 @@ description: A report about building a new website for the Welcome Center, an of
 date_created: 2025-02-01
 ---
 
-This is a feasibility study for a new website for the [Welcome Center Berlin](https://www.berlin.de/willkommenszentrum/). The Welcome Center is a counselling centre for recent immigrants. This project is supported by the [Senate for Participation, Integration and Migration](https://www.berlin.de/lb/intmig/). This report is commissioned by [Minor](https://minor-kontor.de/).
+This is a feasibility study for the new website of the [Welcome Center Berlin](https://www.berlin.de/willkommenszentrum/). This a counselling centre for immigrants run by the [Senate for Participation, Integration and Migration](https://www.berlin.de/lb/intmig/). My report was commissioned by [Minor](https://minor-kontor.de/), who was commissioned by the Senate.
 
-My report is based on my experience running [All About Berlin](https://allaboutberlin.com) since 2017, and my 15 years of experience as a web developer.
+The following assessment and recommendations are based on my experience running [All About Berlin](https://allaboutberlin.com) since 2017, and my 15 years of experience as a web developer.
 
-The structure of the report mirrors that of [the requirements document](/files/minor-requirements-2025-01-21.pdf). Every section is a response to a stated requirement.
+The sections of the report mirror those of [the requirements document](/files/minor-requirements-2025-01-21.pdf), which you should read first.
 
 {% include "blocks/_tableOfContents.html" %}
 
 ## Foreword
 
-### Budget assumptions
+### Priorities and assumptions
 
-I prioritise the impact and longevity of this project, given an initial budget of around 50,000€. I assume that there will be a smaller yearly budget for maintenance and further development. I also assume that this budget is subject to political winds, so I favour resilience and low maintenance costs wherever possible.
+I have prioritised the impact and longevity of this project, given an initial budget of around 50,000€. I have assumed that there will be a smaller yearly budget for maintenance and further development, and that this budget will be subject to political winds. I chose to favour resilience and low maintenance costs wherever possible.
 
 A higher budget would not significantly affect my recommendations.
 
 ### Simple is cheap
 
-Software is complex, and complexity is expensive. Add as little complexity as you need to get the job done. This will be a common theme in my report.
+Add as little complexity as you need to get the job done. Software is complex, and complexity is expensive. This will be a common theme in my report.
 
-A text-based website is cheap to build, maintain and adapt. Once the website is built, anyone can work on the content. Such websites can run forever with minimal maintenance. The only downside is the user experience. Text takes more effort to read and understand.
+A text-based website is cheap to build, maintain and adapt. Once it's built, anyone can make changes to its content. Such websites can run forever with minimal maintenance. The only downside is the user experience; text takes more effort to read and understand.
 
-Software is the opposite. Good software saves time and offers a magical user experience. However, it's much more expensive to build, adapt and maintain, especially if you outsource the technical work. You must allot time and money to server upkeep, software updates, and so on. Software is a commitment, and its upkeep is a tax.
+Software is the opposite. Good software can save time and offer a magical user experience. However, it's much more expensive to build, adapt and maintain. The work must be done by skilled professionals. You must allot time and money to server upkeep, software updates, and so on. Software is a commitment, and its upkeep is a tax.
 
 ### Bet on text
 
-Text is very flexible. It can be cited, linked to, emailed and printed. It can be found through Google, archived, subscribed to, saved for online reading, translated, summarised by AI and read by accessibility tools. It can automatically be turned into PDFs, newsletters, flyers e-books and podcasts.
-
-Due to its simplicity, text is easy to migrate between platforms. There are countless tools to work with text.
-
 More often than not, text is a much better choice than software.
+
+Text is as flexible as it gets. It can be cited, linked to, emailed and printed. It can be found through Google, archived, subscribed to, saved for online reading, translated, summarised by AI and read by accessibility tools. It can automatically be turned into PDFs, newsletters, flyers e-books and podcasts.
+
+Text is also platform-agnostic. It's easy to move around, and is far more likely to survive across multiple website redesigns. It does not rot and fall apart like software.
+
+It might be tempting to build fancy features, but the magic is often in doing simple things really well.
 
 ### Castles on quicksand
 
 You can't build a rigid digital layer on top of an unpredictable analog bureaucracy.
 
-German bureaucracy is too arbitrary and inconsistent to describe with code. Each Bezirk, each Amt and each Beamter interprets the law differently. They make arbitrary decisions based on undocumented policies that change without warning. This is not a stable foundation to build rigid software upon.
-
-Bureaucracy is also really hard to observe. For All About Berlin, I rely on a large network of people that took years to build. I use scripts to watch hundreds of pages for changes. Even with that infrastructure, it can take weeks to notice, understand and document changes in policy.
-
-Consider that German bureaucracy might change faster than you can adapt the software that you have built. Text is much cheaper to adapt than software.
+German bureaucracy is too arbitrary and inconsistent to describe with code. Each district, each office and each bureaucrat interprets the law differently. They make arbitrary decisions based on undocumented policies that change without warning. This is not a stable foundation to build rigid software upon.
 
 ### Sheds and skyscrapers
 
