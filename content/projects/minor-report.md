@@ -312,7 +312,7 @@ This feature is about automatically translating the content to plain language.
 
 ### 2. Technical requirements
 
-The requirements, methods and challenges are exactly the same as for [automatic translations](#automatic-translations). For the most part, you can treat simple language as just another language.
+The requirements, methods and challenges are exactly the same as for [automatic translations](#4-automatic-translations). For the most part, you can treat simple language as just another language.
 
 ### 3. Artificial intelligence
 
@@ -330,13 +330,13 @@ AI tools can aid skilled editors with plain writing, but they can't replace skil
 
 ### 5. Risks and challenges
 
-See ["automatic translations"](#automatic-translations).
+See ["automatic translations"](#3-automatic-translations).
 
 ## 7. Chatbots
 
 > Recording the questions, profiles (e.g. nationality, residence status, language, etc.) and counselling needs of those seeking advice by questionnaire and by chat or clickbot in order to be able to offer personalised information and referrals or to narrow them down to the specific situation.
 
-See ["interactive guides"](#interactive-guides). The work, the challenges and my conclusion are the same.
+See ["interactive guides"](#2-interactive-guides). The work, the challenges and my conclusion are the same.
 
 ## 8. Calculators
 
@@ -348,7 +348,7 @@ See ["interactive guides"](#interactive-guides). The work, the challenges and my
 
 ### 2. Technical requirements
 
-Building calculators is similar to building [interactive guides](#interactive-guides), just easier. Calculators usually follow a simpler logic. They apply clearly-defined formulas instead of an approximate flowchart of a bureaucratic process. In many cases, they just multiply one number by another.
+Building calculators is similar to building [interactive guides](#2-interactive-guides), just easier. Calculators usually follow a simpler logic. They apply clearly-defined formulas instead of an approximate flowchart of a bureaucratic process. In many cases, they just multiply one number by another.
 
 ![Trade tax calculation](/images/minor-gewerbesteuerrechner.png "The trade tax calculation is basic arithmetic")
 
@@ -360,7 +360,7 @@ I see no applicable use of AI here. Calculators apply clearly-defined formulas. 
 
 ### 4. Feasibility assessment
 
-Calculators have the same drawbacks as [interactive guides](#interactive-guides). You need a developer to build and maintain them. They must be updated when the formulas change. However, due to their simpler logic, you can build them much faster, and they require far less maintenance.
+Calculators have the same drawbacks as [interactive guides](#2-interactive-guides). You need a developer to build and maintain them. They must be updated when the formulas change. However, due to their simpler logic, you can build them much faster, and they require far less maintenance.
 
 In some cases, these calculators already exist, and it's much easier to link to them. It saves you the trouble of building and maintaining yourself.
 
@@ -440,7 +440,7 @@ You might want to use change monitoring tools to watch pages on Berlin.de for ch
 
 The websites listed in the proposal do not have a public API. They are not designed to be operated by other machines. Many of those website implement anti-bot measures. They either limit the rate of requests, or block bots outright. It would be difficult for your software to access their data.
 
-As explained in the ["application aid"](#application-aid) section, the planned feature is not feasible with the allocated budget.
+As explained in the ["application aid"](#5-application-aid) section, the planned feature is not feasible with the allocated budget.
 
 ### Service-Portal
 
@@ -492,7 +492,7 @@ Mobile-first design has been the standard for over a decade. It is expected that
 
 ### 2. Multilingual content
 
-This has been covered in more details in the [automatic translations](#automatic-translations) section.
+This has been covered in more details in the [automatic translations](#4-automatic-translations) section.
 
 We have mature tooling to build multilingual text-based websites. However, it adds a layer of complexity to any tool that you choose to build.
 
