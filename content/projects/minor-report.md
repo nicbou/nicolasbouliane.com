@@ -406,47 +406,51 @@ You might want to use change monitoring tools to watch pages on Berlin.de for ch
 
 ## API access
 
-None of the listed websites offer a public API. These websites are not designed to be operated by other machines. Many of those website implement anti-bot measures. They either limit the rate of requests, or block bots outright.
+The websites listed in the proposal do not have a public API. They are not designed to be operated by other machines. Many of those website implement anti-bot measures. They either limit the rate of requests, or block bots outright. It would be difficult for your software to access their data.
 
-As explained in the [application aid](#application-aid) section, the planned feature is not feasible with the allocated budget.
+As explained in the ["application aid"](#application-aid) section, the planned feature is not feasible with the allocated budget.
 
 ### Service-Portal
 
-Berlin.de [does have an API](https://gitlab.opencode.de/eappointment/zmsdldb), but its address is not known. It might not be accessible to you. This API is [a central database of all services](https://www.berlin.de/moderne-verwaltung/buergerservice/im-netz/service-portal-berlin/dienstleistungsdatenbank/artikel.976708.php). It would let you get information about those services a little more easily, without having to scrape the service pages.
+Berlin.de [has an API](https://gitlab.opencode.de/eappointment/zmsdldb), but its not public. Its address is unknown. It might not be accessible to you. This API gives you access to [the central database of all services](https://www.berlin.de/moderne-verwaltung/buergerservice/im-netz/service-portal-berlin/dienstleistungsdatenbank/artikel.976708.php). It would let you get information about those services a little more easily, without having to scrape the service pages.
 
-Accessing this database would allow you to get up-to-date information about government services. This would be useful if monitoring service pages for changes. Change monitoring can also be done by tools like [changedetection.io](https://changedetection.io).
+Accessing this database would allow you to get up-to-date information about government services; a machine-readable version of the service pages on Berlin.de.
+
+Accessing this database would make it easier to monitor those services for changes. Change monitoring can also be done by tools like [changedetection.io](https://changedetection.io).
 
 ### Landesamt für Einwanderung
 
-To my knowledge, the LEA offers no public APIs.
+To my knowledge, the LEA offers no public API.
 
-The most important resource the LEA offers is the VAB. This is a detailed explanation of all their internal procedures, ordered by paragraph of the immigration law.
+The most important resource the LEA offers is the [VAB](https://allaboutberlin.com/out/vab). This PDF document is a detailed explanation of all their internal procedures.
 
-This document is only available as a PDF. I have pressured them to release it in a more accessible (and machine-readable) format, but never received a response.
+This document is only available as a PDF. I have pressured them to release it in a more accessible (and machine-readable) format, but I have never received a response.
 
-Having this information in a better format would allow us to link to specific parts of the document, and to watch the document for changes. My attempts to make this happen were not successful.
+Having this information in a better format would allow us to link to specific parts of the document, and to watch each section for changes. It would also serve as a reference for the immigration community, a bit like [gesetze-im-internet.de](https://www.gesetze-im-internet.de/).
 
 ### Berliner Beratungsnetz für Zugewanderte
 
-They have built an API for their own use. We can also call this API to get a list of all the services listed on their website. This could be useful if recommending the same services on your own website.
+They have built an API for their own use. Their website calls this API to know which items to display on the map.
 
-That being said, repeating the same information might not be that useful. It would be easier to simply link to their website.
+With their permission, you could use this API to get their list of services. It could help you recommend the same services on your website.
+
+Technically speaking, CORS policies might prevent you from using this API. You might need to bypass this by proxying it through your server. It's not hard, but it adds more moving parts to your project. If it does not benefit the user, I would recommend against it.
 
 ### Jobsuche-Portal der Bundesagentur für Arbeit
 
-...
+The Bundesagentur für Arbeit has a REST API to search for jobs, but linking to their website directly will offer a better user experience.
 
 ### Anerkennungs-Finder von „Anerkennung in Deutschland“
 
+There is no API for this tool. Linking to the tool directly will offer a better user experience.
+
 ### Interaktiver Einbürgerungstest des Bundesamt für Migration und Flüchtlinge
 
-There are dozens of other tools that help people practice for the citizenship test. My friend has built one in his spare time. They all use the official list of questions. You can likely get a machine-readable list of questions for your own use.
-
-That being said, this need is already covered by many people. It might be more useful to curate a list of those tools instead of building your own.
+There already exist tools and apps that help people practice for the Einbürgerungstest. They all use the official list of questions. Curate a list of those tools instead of building your own.
 
 ### Bundesministerium für Arbeit und Soziales
 
-To my knowledge, the BMAS does not offer any public API, or any tools which you could use on your website. The calculators use very simple formulas and can trivially be reproduced on your side.
+To my knowledge, the BMAS does not offer any public API, or any tools which you could use on your website. However, their calculators use very simple formulas and can trivially be reproduced on your side.
 
 ## Additional requirements
 
