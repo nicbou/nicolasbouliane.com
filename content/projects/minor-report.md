@@ -552,6 +552,28 @@ Then focus on what matters the most: giving good advice. You need good informati
 
 Don't underestimate the effort it takes to produce quality advice. I had to build a community of practice from the ground up. My work involves dozens of immigration professionals, government employees and industry experts. I also monitor hundreds of pages to know when German bureaucracy changes.
 
-This will require a far greater commitment from you, for a much longer time. Every technology choice that you make should go towards making the editors' work easier, because they will be the ones doing the most work.
+This will require a far greater commitment from you, for a much longer time. Every technology choice that you make should go towards making the editors' work easier, because they will be the ones doing most of the work.
+
+With that in mind, this is how I would prioritise tasks:
+
+1. Build a simple, multilingual, text-based website that is easy to maintain.
+2. Implement a [glossary](#10-glossary).
+3. Write useful content in [plain language](#6-simple-language).
+4. Implement a basic [search](#1-intelligent-search) feature. Do not bother with intelligent or multi-site search.
+5. Implement [rich list items](#3-interactive-checklists) to display lists of documents with clear explanations.
+
+This is a short, achievable list of objectives. Start by doing this right, then use your remaining budgets for the following features:
+
+1. Make your editors more productive. Implement [automatic translations](#4-automatic-translations). Use [automated tools](#6-simple-language) to enforce grammar rules, plain writing and other stylistic choices. 
+2. Identify which parts of your advice would benefit from [calculators](#8-calculators) and [interactive guides](#2-interactive-guides). Build the most sensible ones.
+3. Implement the feature to save content and remember checklist items that the user ticked.
+
+These are the features I would not implement at all:
+
+1. Chatbots
+2. Intelligent checklists
+3. Intelligent search
+4. Multi-site search
+5. Any AI-based advice
 
 The requirements do not mention search engine optimisation (SEO). I would also prioritise this, as the website is only useful if users discover it. The marketing of this website is out of scope for this report, but should be taken seriously.
