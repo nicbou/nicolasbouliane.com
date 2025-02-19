@@ -474,11 +474,13 @@ The hardest part is simply maintaining one version of your content for each lang
 
 ### 3. Accessibility
 
-A basic level of accessibility can be expected, but full [WCAG compliance](https://www.wcag.com/resource/what-is-wcag/) is harder, especially if it's not part of the entire design process from the start.
+A basic level of accessibility can be expected. Full [WCAG compliance](https://www.wcag.com/resource/what-is-wcag/) (AAA) is also feasible, especially if it's part of the requirements from the start. You can demand that the final website to pass WCAG AAA accessibility requirements.
 
-The choice of technology has less impact on accessibility, but the complexity of what you build does. It's easy to make text accessible. It's much harder to make software accessible.
+See [this example accessibility test](https://www.accessibilitychecker.org/audit/?website=https%3A%2F%2Fallaboutberlin.com%2Fguides%2Fgerman-health-insurance&flag=ge) for an idea of what accessibility requirements look like.
 
-Talk to the *[Landesbeauftragte für digitale Barrierefreiheit](https://www.berlin.de/lb/digitale-barrierefreiheit/)* and the [ITDZ accessibility team](https://www.itdz-berlin.de/allgemeines/digitale-barrierefreiheit/). They might save you a lot of guesswork.
+Making text content accessible is easy. Making graphics, videos and interactive tools accessible is harder. It might add to the cost and complexity of including those things on your website.
+
+Talk to the *[Landesbeauftragte für digitale Barrierefreiheit](https://www.berlin.de/lb/digitale-barrierefreiheit/)* and the [ITDZ accessibility team](https://www.itdz-berlin.de/allgemeines/digitale-barrierefreiheit/). They might have useful recommendations to make, and useful resources to offer.
 
 ### 4. Privacy
 
