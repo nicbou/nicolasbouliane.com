@@ -136,7 +136,7 @@ Content can only be searched for if it's indexed. All the text in an article is 
 
 It's possible that nobody really uses your search feature. All About Berlin gets 7 searches for every 1,000 visits. If most of your visitors come directly to the right page from Google, search engine optimisation is a better investment.
 
-## 2. Interactive instructions
+## 2. Interactive guides
 
 ### 1. Description
 
@@ -195,11 +195,11 @@ This feature is about offering smart lists of documents. There are two ways to i
 - **Make the elements more useful**  
     A regular list, but the list elements are more than just text. For example, they can have a "?" button that explains what the document is and where to find it. The list could show previews of the document or link to a PDF template. The editors can create those rich list items and reuse them in multiple lists.
 
-![Rich list elements](/images/rich-list-elements.png)
+![Rich list elements](/images/rich-list-elements.png "Rich list elements")
 
 ### 2. Technical requirements
 
-The requirements for an interactive checklist are the same as for interactive instructions. Each interactive checklist is its own mini project. You must figure out all the possible checklist combinations and build the logic to display them. Then you are no longer writing text, but programming rules. You are writing software. Once again, you can pay software developers to do it every time, or pay a much higher price to let them build software to edit the list yourselves.
+The requirements for an interactive checklist are the same as for interactive guides. Each interactive checklist is its own mini project. You must figure out all the possible checklist combinations and build the logic to display them. Then you are no longer writing text, but programming rules. You are writing software. Once again, you can pay software developers to do it every time, or pay a much higher price to let them build software to edit the list yourselves.
 
 Rich list elements are much easier to make. They are just a nice way to present the information. You create documents using the CMS, and you insert a list of those documents in your posts. We can present these documents however we want: in a collapsible panel, with a little information bubble, etc.
 
@@ -209,7 +209,7 @@ Artificial intelligence can be used to quickly add a lot of information about a 
 
 ### 4. Feasibility assessment
 
-Interactive checklists are not achievable within your budget. They work exactly like interactive instructions, and they are unachievable for the same reasons.
+Interactive checklists are not achievable within your budget. They work exactly like interactive guides, and they are unachievable for the same reasons.
 
 Rich list elements are possible, and very easy to implement. This feature is well within your budget.
 
@@ -336,13 +336,39 @@ See ["automatic translations"](#automatic-translations).
 
 > Recording the questions, profiles (e.g. nationality, residence status, language, etc.) and counselling needs of those seeking advice by questionnaire and by chat or clickbot in order to be able to offer personalised information and referrals or to narrow them down to the specific situation.
 
-See ["interactive instructions"](#interactive-instructions). The work, the challenges and my conclusion are the same.
+See ["interactive guides"](#interactive-guides). The work, the challenges and my conclusion are the same.
 
 ## 8. Calculators
 
+### 1. Description
+
 > Calculator (e.g. for living costs, financial support, housing benefit, etc.) with personalisation functions using filters to estimate costs or financial support in your own situation.
 
-See ["interactive instructions"](#interactive-instructions). The work, the challenges and my conclusion are the same.
+![All About Berlin tax calculator](/images/illustrations/aab-tax-calculator.png "An income tax calculator on All About Berlin")
+
+### 2. Technical requirements
+
+Building calculators is similar to building [interactive guides](#interactive-guides), just easier. Calculators usually follow a simpler logic. They apply clearly-defined formulas instead of an approximate flowchart of a bureaucratic process. In many cases, they just multiply one number by another.
+
+![Trade tax calculation](/images/minor-gewerbesteuerrechner.png "The trade tax calculation is basic arithmetic")
+
+Maintaining calculators is much easier. The formulas change on a predictable schedule. For example, most tax calculations change on January 1. The changes are observable, because they are set by law. If you monitor [§32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html), you get an email every time the income tax formula changes.
+
+### 3. Artificial intelligence
+
+I see no applicable use of AI here. Calculators apply clearly-defined formulas. There should be no uncertainty, and no room for an AI to guess what to do. AI advice is error-prone, difficult to test, and likely to give incorrect advice the appearance of trustworthiness.
+
+### 4. Feasibility assessment
+
+Calculators have the same drawbacks as [interactive guides](#interactive-guides). You need a developer to build and maintain them. They must be updated when the formulas change. However, due to their simpler logic, you can build them much faster, and they require far less maintenance.
+
+In some cases, these calculators already exist, and it's much easier to link to them. It saves you the trouble of building and maintaining yourself.
+
+You can also licence other people's calculators and embed them on your website. For example, Lexware Office uses a [Smart Rechner](https://www.smart-rechner.de/widget.php) calculator on [this page](https://office.lexware.de/wissenswelt/rechner-checklisten/gewerbesteuerrechner/). Their licencing fee is 15€ to 36€ per month, but their calculators are only in German.
+
+### 5. Risks and challenges
+
+The calculators require regular maintenance to remain accurate.
 
 ## 9. Saved content
 
