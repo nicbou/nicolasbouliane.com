@@ -144,6 +144,8 @@ It's possible that nobody really uses your search feature. All About Berlin gets
 
 This feature is about creating interactive guides to navigate users through bureaucratic processes. You ask them questions, and their answers lead them to a recommendation. This is an improvement over simple text instructions.
 
+![Interactive questionnaire](/images/interactive-guide.png)
+
 Let's call those tools "interactive guides".
 
 ### 2. Technical requirements
@@ -192,6 +194,8 @@ This feature is about offering smart lists of documents. There are two ways to i
     The user enters information about themself, and they get a personalised list of instructions or documents to prepare, based on their situation.
 - **Make the elements more useful**  
     A regular list, but the list elements are more than just text. For example, they can have a "?" button that explains what the document is and where to find it. The list could show previews of the document or link to a PDF template. The editors can create those rich list items and reuse them in multiple lists.
+
+![Rich list elements](/images/rich-list-elements.png)
 
 ### 2. Technical requirements
 
@@ -347,6 +351,8 @@ See ["interactive instructions"](#interactive-instructions). The work, the chall
 > Saved search and favourite services (with and without user account) to quickly retrieve relevant content (including step-by-step instructions and checklists in progress, see 2 and 3)
 
 This feature is about starring important content for easy access, and about remembering user actions and preferences.
+
+!["Save this" button](/images/save-feature.png)
 
 ### 2. Technical requirements
 
