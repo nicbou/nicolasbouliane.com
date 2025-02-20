@@ -130,7 +130,7 @@ I looked at All About Berlin's stats, and ranked my visitors by country. There w
 
 I picked the 5 most popular currencies, but it left out 3 of Germany's neighbours. If I added more currencies, the tooltip became hard to read.
 
-Instead, I check the user's preferred locales in [`navigator.languages`](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/languages), and use that to choose which currencies to list. If that doesn't work, I fall back to the hard-coded top 3.
+Instead, I check the user's preferred locales in [`navigator.languages`](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/languages), and use that to choose which currencies to list. If that doesn't work, I fall back to the hard-coded top 3. I used this technique [again](/projects#anmeldung-form-filler#culture-sniffing) in my Anmeldung form filler.
 
 I used [country-json's data](https://github.com/samayo/country-json/tree/master/src) to make a map of country codes ("US") to currency codes ("USD"). You can [see the code](https://gist.github.com/nicbou/fa67c1a1c48251af1fad0ea018ff9993) for it on Gist. I realised later that the data is wrong, and shows many outdated currencies.
 
