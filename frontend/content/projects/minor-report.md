@@ -28,6 +28,8 @@ A text-based website is cheap to build, maintain and adapt. Once it's built, any
 
 Software is the opposite. Good software can save time and offer a magical user experience. However, it's much more expensive to build, adapt and maintain. The work must be done by skilled professionals. You must allot time and money to server upkeep, software updates, and so on. Software is a commitment, and its upkeep is a tax.
 
+![Information is cheap and effective](/images/illustrations/information-cheap-effective.png "Text-based information is cheap and effective")
+
 ### Bet on text
 
 More often than not, text is a much better choice than software.
@@ -122,7 +124,7 @@ Filtering is easy to implement. Most CMSs provide utilities that make it possibl
 
 To get good filters, you need good metadata. Filters only work when every page is correctly tagged, categorised, and all the fields are correctly filled in. The search filters of an online store only work if the metadata for every product is meticulously filled in. You can only filter clothes by colour because someone added colour data to every product.
 
-![Amazon product filters](/images/product-filters.png "Product filters require detailed product data")
+![Amazon product filters](/images/padi-product-filters.png "Product filters require detailed product data")
 
 In your case, this means carefully considering how you organise, categorise and tag your content. Consider how much effort this could mean for your editors.
 
@@ -197,7 +199,7 @@ This feature is about offering smart lists of documents. There are two ways to i
 - **Make the elements more useful**  
     A regular list, but the list elements are more than just text. For example, they can have a "?" button that explains what the document is and where to find it. The list could show previews of the document or link to a PDF template. The editors can create those rich list items and reuse them in multiple lists.
 
-![Rich list elements](/images/rich-list-elements.png "Rich list elements")
+![Rich list elements](/images/padi-rich-list-elements.png "Rich list elements")
 
 ### 2. Technical requirements
 
@@ -332,7 +334,7 @@ AI and non-AI tools can be used to highlight passages that need improvement. It 
 
 AI tools can aid skilled editors with plain writing, but they can't replace skilled editing work. These tools don't need to be integrated in your CMS; they just need to be available to your editors. I would suggest simply making [Deepl Write](https://www.deepl.com/de/write), [Language Tool](https://languagetool.org/de), [Hemingway](https://hemingwayapp.com/) or [Grammarly](https://www.grammarly.com/) available to your editors, and making plain writing part of your style guide.
 
-![Deepl Write](/images/deepl-tones.png "Deepl Write helps you write in plain language.")
+![Deepl Write](/images/padi-deepl-tones.png "Deepl Write helps you write in plain language.")
 
 ### 5. Risks and challenges
 
@@ -356,7 +358,7 @@ See ["interactive guides"](#2-interactive-guides). The work, the challenges and 
 
 Building calculators is similar to building [interactive guides](#2-interactive-guides), just easier. Calculators usually follow a simpler logic. They apply clearly-defined formulas instead of an approximate flowchart of a bureaucratic process. In many cases, they just multiply one number by another.
 
-![Trade tax calculation](/images/minor-gewerbesteuerrechner.png "The trade tax calculation is basic arithmetic")
+![Trade tax calculation](/images/padi-gewerbesteuerrechner.png "The trade tax calculation is basic arithmetic")
 
 Maintaining calculators is much easier. The formulas change on a predictable schedule. For example, most tax calculations change on January 1. The changes are observable, because they are set by law. If you monitor [§32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html), you get an email every time the income tax formula changes.
 
@@ -384,7 +386,7 @@ The calculators require regular maintenance to remain accurate.
 
 This feature is about starring important content for easy access, and about remembering user actions and preferences.
 
-!["Save this" button](/images/save-feature.png)
+!["Save this" button](/images/padi-save-feature.png)
 
 ### 2. Technical requirements
 
