@@ -382,7 +382,7 @@ The calculators require regular maintenance to remain accurate.
 
 ### 1. Description
 
-> Saved search and favourite services (with and without user account) to quickly retrieve relevant content (including step-by-step instructions and checklists in progress, see 2 and 3)
+> Saved search and favourite services (with and without user account) to quickly retrieve relevant content (including step-by-step instructions and checklists in progress, see [2](#2-interactive-guides) and [3](#3-interactive-checklists))
 
 This feature is about starring important content for easy access, and about remembering user actions and preferences.
 
@@ -397,6 +397,8 @@ If we set the correct "autocomplete" attribute on form fields, we can let the br
 Some preferences can be inferred from the information given by the user's browser. For example, we get a list of the languages the user speaks. We can use it to set the default language. We can also infer other data, such as their country of origin and their preferred currencies. [I used this technique](/projects/anmeldung-form-filler#culture-sniffing) in my Anmeldung form filler.
 
 ![Culture-sniffing form field](/images/anmeldung-country-picker.png "This field uses 'culture sniffing' to suggest the user's country")
+
+Making the saved information available across multiple devices is harder. Then you likely need to let user create accounts, and save their information on your server in a [GDPR-compliant](#4-privacy) way. It adds cost and complexity to the project, but I don't see this feature being used often. Since there is not a lot of information to save (name, nationality, residence status), it might be easier to re-enter the information than to create a user account.
 
 ### 3. Artificial intelligence
 
