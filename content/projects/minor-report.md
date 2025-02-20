@@ -282,7 +282,7 @@ This solution requires building a layer on top of existing bureaucratic processe
 
 ### 3. Artificial intelligence
 
-I see no applicable use of AI here.
+I see no applicable use of AI here. This is something that AI agents are designed for. However, the technology is not yet mature enough to implement. AI agents are error-prone, difficult to test, and likely to give incorrect decisions the appearance of trustworthiness.
 
 ### 4. Feasibility assessment
 
