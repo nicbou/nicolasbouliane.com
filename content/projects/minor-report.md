@@ -436,6 +436,12 @@ These features are not part of the initial requirements, but were brought up dur
 
 You might want to use change monitoring tools to watch pages on Berlin.de for changes. If the page changes, you get an email showing what changed. I monitor hundreds of pages like this. It's an essential part of my job. For this, use [changedetection.io](https://changedetection.io).
 
+### Style guide
+
+The website must follow the [Berlin.de style guide](https://styleguide.berlin.de/), and use the elements from their design system. This is a good thing. It saves you a lot of time, because the supplied components already take care of style, functionality, accessibility and mobile friendliness. Best of all, another team handles their maintenance.
+
+Using this design system with your CMS of choice should not be a problem. You must use the base templates as described [here](https://styleguide.berlin.de/patterns/05-styleguide-startseite/05-styleguide-startseite.html).
+
 ## API access
 
 The websites listed in the proposal do not have a public API. They are not designed to be operated by other machines. Many of those website implement anti-bot measures. They either limit the rate of requests, or block bots outright. It would be difficult for your software to access their data.
