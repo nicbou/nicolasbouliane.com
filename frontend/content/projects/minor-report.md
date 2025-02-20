@@ -440,7 +440,7 @@ You might want to use change monitoring tools to watch pages on Berlin.de for ch
 
 The website must follow the [Berlin.de style guide](https://styleguide.berlin.de/), and use the elements from their design system. This is a good thing. It saves you a lot of time, because the supplied components already take care of style, functionality, accessibility and mobile friendliness. Best of all, another team handles their maintenance.
 
-Using this design system with your CMS of choice should not be a problem. You must use the base templates as described [here](https://styleguide.berlin.de/patterns/05-styleguide-startseite/05-styleguide-startseite.html).
+Using this design system with your CMS of choice should not be a problem. You must use the base templates as described [here](https://support.berlin.de/designsystem/auftritte/layout-vom-designsystem-per-template-integrieren-1443859.php).
 
 ## API access
 
@@ -496,6 +496,8 @@ To my knowledge, the BMAS does not offer any public API, or any tools which you 
 
 Mobile-first design has been the standard for over a decade. It is expected that the website must adapt to mobile screens, and both designers and developers can be expected to take this into account.
 
+You must use Berlin.de's style guide. The templates and components they provide are already mobile-friendly. This saves you a lot of time.
+
 ### 2. Multilingual content
 
 This has been covered in more details in the [automatic translations](#4-automatic-translations) section.
@@ -512,7 +514,9 @@ See [this example accessibility test](https://www.accessibilitychecker.org/audit
 
 Making text content accessible is easy. Making graphics, videos and interactive tools accessible is harder. It might add to the cost and complexity of including those things on your website.
 
-Talk to the *[Landesbeauftragte für digitale Barrierefreiheit](https://www.berlin.de/lb/digitale-barrierefreiheit/)* and the [ITDZ accessibility team](https://www.itdz-berlin.de/allgemeines/digitale-barrierefreiheit/). They might have useful recommendations to make, and useful resources to offer.
+You must use Berlin.de's style guide. The templates and components they provide are already accessible. This saves you a lot of time.
+
+The *[Landesbeauftragte für digitale Barrierefreiheit](https://www.berlin.de/lb/digitale-barrierefreiheit/)* and the [ITDZ accessibility team](https://www.itdz-berlin.de/allgemeines/digitale-barrierefreiheit/) can help you implement and test accessibility on your website.
 
 ### 4. Privacy
 
@@ -571,15 +575,14 @@ With that in mind, this is how I would prioritise tasks:
 This is a short, achievable list of objectives. Start by doing this right, then use your remaining budgets for the following features:
 
 1. Make your editors more productive. Implement [automatic translations](#4-automatic-translations). Use [automated tools](#6-simple-language) to enforce grammar rules, plain writing and other stylistic choices. 
-2. Identify which parts of your advice would benefit from [calculators](#8-calculators) and [interactive guides](#2-interactive-guides). Build the most sensible ones.
+2. Identify which parts of your advice would benefit from [calculators](#8-calculators) and [interactive guides](#2-interactive-guides). Build the most sensible ones, or licence them from Smart Rechner.
 3. Implement the feature to save content and remember checklist items that the user ticked.
 
 These are the features I would not implement at all:
 
-1. Chatbots
-2. Intelligent checklists
-3. Intelligent search
-4. Multi-site search
+1. [Chatbots](#7-chatbots)
+2. [Application aid](#5-application-aid)
+2. [Intelligent checklists](#3-interactive-checklists)
+3. [Intelligent search](#1-intelligent-search)
+4. [Multi-site search](#1-intelligent-search)
 5. Any AI-based advice
-
-The requirements do not mention search engine optimisation (SEO). I would also prioritise this, as the website is only useful if users discover it. The marketing of this website is out of scope for this report, but should be taken seriously.
