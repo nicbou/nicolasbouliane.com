@@ -58,6 +58,8 @@ You can easily find freelancers to work on a WordPress website. It might be hard
 
 > ‘Intelligent’ search field with filter options to personalise results (e.g. by nationality, residence status, language, etc.) as well as automatic completion of the search query and correction of spelling errors to improve accuracy
 
+!["Intelligent search box"](/images/padi-intelligent-search.jpg "CityLab's search box prototype")
+
 ### 2. Technical requirements
 
 #### Simple search
