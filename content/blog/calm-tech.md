@@ -64,7 +64,7 @@ You can't have calm without trust, and you can't have trust without control. Cal
 
 ## And so on...
 
-This website is my [digital garden](/blogs/digital-gardening). This post is just a seedling, a work in progress that I will continue growing.
+This website is my [digital garden](/blog/digital-gardening). This post is just a seedling, a work in progress that I will continue growing.
 
 ## Related ideas
 

@@ -338,7 +338,7 @@ AI tools can aid skilled editors with plain writing, but they can't replace skil
 
 ### 5. Risks and challenges
 
-See ["automatic translations"](#3-automatic-translations).
+See ["automatic translations"](#4-automatic-translations).
 
 ## 7. Chatbots
 
@@ -394,7 +394,7 @@ This information can be saved in the browser's local storage. This information i
 
 If we set the correct "autocomplete" attribute on form fields, we can let the browser autofill form fields. It's very easy to implement, and it saves the user a lot of time.
 
-Some preferences can be inferred from the information given by the user's browser. For example, we get a list of the languages the user speaks. We can use it to set the default language. We can also infer other data, such as their country of origin and their preferred currencies. [I used this technique](/projects#anmeldung-form-filler#culture-sniffing) in my Anmeldung form filler.
+Some preferences can be inferred from the information given by the user's browser. For example, we get a list of the languages the user speaks. We can use it to set the default language. We can also infer other data, such as their country of origin and their preferred currencies. [I used this technique](/projects/anmeldung-form-filler#culture-sniffing) in my Anmeldung form filler.
 
 ![Culture-sniffing form field](/images/anmeldung-country-picker.png "This field uses 'culture sniffing' to suggest the user's country")
 
