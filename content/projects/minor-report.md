@@ -300,6 +300,10 @@ The few existing digital processes only work with BundID, which most immigrants 
 
 Put simply, Berlin's bureaucracy is actively hostile to automation. In any case, this feature would not be achievable within your budget.
 
+---
+
+![Anmeldung appointment finder](/images/aab-appointment-finder.png)
+
 ### 5. Risks and challenges
 
 See ["castles on quicksand"](#castles-on-quicksand).
@@ -385,6 +389,12 @@ This feature is about starring important content for easy access, and about reme
 ### 2. Technical requirements
 
 This information can be saved in the browser's local storage. This information is never transmitted to us. It's a simple, privacy-friendly, GDPR-compliant way of saving user preferences.
+
+If we set the correct "autocomplete" attribute on form fields, we can let the browser autofill form fields. It's very easy to implement, and it saves the user a lot of time.
+
+Some preferences can be inferred from the information given by the user's browser. For example, we get a list of the languages the user speaks. We can use it to set the default language. We can also infer other data, such as their country of origin and their preferred currencies. [I used this technique](/projects#anmeldung-form-filler#culture-sniffing) in my Anmeldung form filler.
+
+![Culture-sniffing form field](/images/anmeldung-country-picker.png "This field uses 'culture sniffing' to suggest the user's country")
 
 ### 3. Artificial intelligence
 
