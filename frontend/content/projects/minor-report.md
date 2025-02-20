@@ -60,7 +60,7 @@ You can easily find freelancers to work on a WordPress website. It might be hard
 
 > ‘Intelligent’ search field with filter options to personalise results (e.g. by nationality, residence status, language, etc.) as well as automatic completion of the search query and correction of spelling errors to improve accuracy
 
-!["Intelligent search box"](/images/padi-intelligent-search.jpg "CityLab's search box prototype")
+!["Intelligent search box"](/images/illustrations/padi-intelligent-search.jpg "CityLab's search box prototype")
 
 ### 2. Technical requirements
 
@@ -124,7 +124,7 @@ Filtering is easy to implement. Most CMSs provide utilities that make it possibl
 
 To get good filters, you need good metadata. Filters only work when every page is correctly tagged, categorised, and all the fields are correctly filled in. The search filters of an online store only work if the metadata for every product is meticulously filled in. You can only filter clothes by colour because someone added colour data to every product.
 
-![Amazon product filters](/images/padi-product-filters.png "Product filters require detailed product data")
+![Amazon product filters](/images/illustrations/padi-product-filters.png "Product filters require detailed product data")
 
 In your case, this means carefully considering how you organise, categorise and tag your content. Consider how much effort this could mean for your editors.
 
@@ -148,7 +148,7 @@ It's possible that nobody really uses your search feature. All About Berlin gets
 
 This feature is about creating interactive guides to navigate users through bureaucratic processes. You ask them questions, and their answers lead them to a recommendation. This is an improvement over simple text instructions.
 
-![Interactive questionnaire](/images/interactive-guide.png)
+![Interactive questionnaire](/images/illustrations/padi-interactive-guide.png)
 
 Let's call those tools "interactive guides".
 
@@ -199,7 +199,7 @@ This feature is about offering smart lists of documents. There are two ways to i
 - **Make the elements more useful**  
     A regular list, but the list elements are more than just text. For example, they can have a "?" button that explains what the document is and where to find it. The list could show previews of the document or link to a PDF template. The editors can create those rich list items and reuse them in multiple lists.
 
-![Rich list elements](/images/padi-rich-list-elements.png "Rich list elements")
+![Rich list elements](/images/illustrations/padi-rich-list-elements.png "Rich list elements")
 
 ### 2. Technical requirements
 
@@ -302,9 +302,17 @@ The few existing digital processes only work with BundID, which most immigrants 
 
 Put simply, Berlin's bureaucracy is actively hostile to automation. In any case, this feature would not be achievable within your budget.
 
----
+If you can't automate a process, simplify it in increments. Use calculators, interactive guides and message templates to reduce friction at each step. Semi-automation is a lot more achievable.
 
-![Anmeldung appointment finder](/images/aab-appointment-finder.png)
+![Autonomation](/images/illustrations/padi-autonomation.png)
+
+For example, All About Berlin simplfies the [Anmeldung](https://allaboutberlin.com/glossary/Anmeldung) process at every step:
+
+- [A tool](/projects/anmeldung-form-filler) helps users fill the Anmeldung form.
+- [Another tool](/projects/appointment-finder) helps them find a Bürgeramt appointment.
+- [A guide](https://allaboutberlin.com/guides/anmeldung-in-english-berlin) explains why the Anmeldung is important, how to do it, and how to get the required documents.
+
+![Anmeldung appointment finder](/images/aab-appointment-finder.png "An Anmeldung appointment finder")
 
 ### 5. Risks and challenges
 
@@ -334,7 +342,7 @@ AI and non-AI tools can be used to highlight passages that need improvement. It 
 
 AI tools can aid skilled editors with plain writing, but they can't replace skilled editing work. These tools don't need to be integrated in your CMS; they just need to be available to your editors. I would suggest simply making [Deepl Write](https://www.deepl.com/de/write), [Language Tool](https://languagetool.org/de), [Hemingway](https://hemingwayapp.com/) or [Grammarly](https://www.grammarly.com/) available to your editors, and making plain writing part of your style guide.
 
-![Deepl Write](/images/padi-deepl-tones.png "Deepl Write helps you write in plain language.")
+![Deepl Write](/images/illustrations/padi-deepl-tones.png "Deepl Write helps you write in plain language.")
 
 ### 5. Risks and challenges
 
@@ -358,7 +366,7 @@ See ["interactive guides"](#2-interactive-guides). The work, the challenges and 
 
 Building calculators is similar to building [interactive guides](#2-interactive-guides), just easier. Calculators usually follow a simpler logic. They apply clearly-defined formulas instead of an approximate flowchart of a bureaucratic process. In many cases, they just multiply one number by another.
 
-![Trade tax calculation](/images/padi-gewerbesteuerrechner.png "The trade tax calculation is basic arithmetic")
+![Trade tax calculation](/images/illustrations/padi-gewerbesteuerrechner.png "The trade tax calculation is basic arithmetic")
 
 Maintaining calculators is much easier. The formulas change on a predictable schedule. For example, most tax calculations change on January 1. The changes are observable, because they are set by law. If you monitor [§32a EStG](https://www.gesetze-im-internet.de/estg/__32a.html), you get an email every time the income tax formula changes.
 
@@ -386,7 +394,7 @@ The calculators require regular maintenance to remain accurate.
 
 This feature is about starring important content for easy access, and about remembering user actions and preferences.
 
-!["Save this" button](/images/padi-save-feature.png)
+!["Save this" button](/images/illustrations/padi-save-feature.png)
 
 ### 2. Technical requirements
 
@@ -398,7 +406,11 @@ Some preferences can be inferred from the information given by the user's browse
 
 ![Culture-sniffing form field](/images/anmeldung-country-picker.png "This field uses 'culture sniffing' to suggest the user's country")
 
-Making the saved information available across multiple devices is harder. Then you likely need to let user create accounts, and save their information on your server in a [GDPR-compliant](#4-privacy) way. It adds cost and complexity to the project, but I don't see this feature being used often. Since there is not a lot of information to save (name, nationality, residence status), it might be easier to re-enter the information than to create a user account.
+Syncing the user's settings across multiple devices is harder. Then you need users accounts, and save their information on your server. This involves sending activation emails, enabling password changes and password recovery, and a host of other small tasks. This needs to be done in a [GDPR-compliant](#4-privacy) way, so users must be able to delete their account, and you must delete unused data after some time.
+
+![Syncing between a smartphone and a laptop](/images/illustrations/padi-sync.png)
+
+This adds a lot of complexity to your project, and the benefit to users is questionable. It might be easier to re-enter the information than to create a user account.
 
 ### 3. Artificial intelligence
 
@@ -538,7 +550,7 @@ The *[Landesbeauftragte für digitale Barrierefreiheit](https://www.berlin.de/lb
 
 GDPR (DSGVO) is only a concern if you collect data about your users. This can happen if you track your users, or if you collect and store information about them through forms, user accounts or cookies. The easiest way to conform to data protection laws is to not collect any data.
 
-You can still collect anonymous statistics while respecting the GDPR. Your statistics lose some precision and granularity, but they give you sufficient insight into your user base.
+You can still collect anonymous statistics while respecting the GDPR. On All About Berlin, I use [Plausible Analytics](https://plausible.io/). Your statistics lose some precision and granularity, but they give you sufficient insight into your user base.
 
 You can also collect personal data, so long as you collect it with consent, use it for its intended purpose, store it securely and delete it when it's no longer needed.
 
