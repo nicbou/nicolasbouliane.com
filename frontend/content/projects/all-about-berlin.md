@@ -283,7 +283,7 @@ I use images sparingly, but I create my own graphics when they can be helpful. I
 
 ![All About Berlin graphics](/images/aab-graphics.png)
 
-I also create my own [letter generators](/blog/letter-generators). Writing a letter in a foreign language is a daunting task for many. It adds friction and makes people procrastinate or give up. My letter generators show the letter in English and German, and let people fill in the blanks. They get used thousands of times per month. That's hundreds of hours saved!
+I also create my own [letter generators](/projects/letter-generators). Writing a letter in a foreign language is a daunting task for many. It adds friction and makes people procrastinate or give up. My letter generators show the letter in English and German, and let people fill in the blanks. They get used thousands of times per month. That's hundreds of hours saved!
 
 ![All About Berlin letter generator](/images/aab-template.png)
 

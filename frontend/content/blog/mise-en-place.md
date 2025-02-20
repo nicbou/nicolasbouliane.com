@@ -22,4 +22,4 @@ These tools save a few seconds here and there, sure, but above all, they help me
 
 ## Related ideas
 
-- [No script is too simple](https://nicolasbouliane.com/blog/no-script-is-too-simple)
+- [No script is too simple](/blog/no-script-is-too-simple)

@@ -44,12 +44,14 @@ config.image_transforms = {
     },
 }
 
-config.linters = (
-    # 'ursus.linters.markdown.MarkdownExternalLinksLinter',
+config.linters = [
+    'ursus.linters.footnotes.OrphanFootnotesLinter',
     'ursus.linters.images.UnusedImagesLinter',
+    'ursus.linters.markdown.MarkdownInternalLinksLinter',
     'ursus.linters.markdown.MarkdownLinkTextsLinter',
     'ursus.linters.markdown.MarkdownLinkTitlesLinter',
-)
+    'ursus.linters.markdown.RelatedEntriesLinter',
+]
 
 config.logging = {
     'level': logging.INFO,

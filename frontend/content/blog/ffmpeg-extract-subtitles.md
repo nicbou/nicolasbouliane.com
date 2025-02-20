@@ -67,7 +67,7 @@ ffmpeg -i input.mkv -map "0:2" output.eng.srt
 ffmpeg -i input.mkv -map "0:4" output.ger.srt
 ```
 
-You can combine that into a single command[^0]:
+You can combine that into a single command:[^0]
 
 ```bash
 ffmpeg -i input.mkv -map "0:2" output.eng.srt -map "0:4" output.ger.srt
@@ -121,5 +121,4 @@ However, that's not always true. Some image-based subtitle streams (like `hdmv_p
 You can see my current implementation [here](https://github.com/nicbou/homeserver/blob/master/videoprocessing/src/jobs.py#L120), in the `extract_subtitles` function.
 
 [^0]: [trac.ffmpeg.org](http://trac.ffmpeg.org/wiki/Creating%20multiple%20outputs)
-
 [^1]: [stackoverflow.com](https://stackoverflow.com/questions/58808907/is-it-possible-to-determine-if-a-subtitle-track-is-imaged-based-or-text-based-wi)

@@ -8,9 +8,9 @@ featured_image: images/timeline-1.png
 categories: golden
 ---
 
-Some time ago, I built a [timeline thing](/project/timeline). It ran smoothly for a few years, but it was a heavy, complex project. It was hard to configure, run, reason about and work on. I dreaded touching it.
+Some time ago, I built a [timeline thing](/projects/timeline). It ran smoothly for a few years, but it was a heavy, complex project. It was hard to configure, run, reason about and work on. I dreaded touching it.
 
-This iteration is leaner, simpler. It's meant to be [calm technology](https://calmtech.com/) that requires as little attention as possible. It draw inspiration from the [simple, efficient static site generator](/project/ursus) I created for All About Berlin.
+This iteration is leaner, simpler. It's meant to be [calm technology](https://calmtech.com/) that requires as little attention as possible. It draw inspiration from the [simple, efficient static site generator](/projects/ursus) I created for All About Berlin.
 
 ![Screenshot of the timeline tool](/images/timeline-2.png)
 

@@ -22,7 +22,7 @@ You can find more details about visa requirements on [the German Consulate's web
 
 In my case, I went with a youth mobility visa for my internship, and for a regular work visa when I returned. In both cases, the entire process took about a month.
 
-The [checklist for the youth mobility visa](http://www.canada.diplo.de/yma#topic29) should give you a good idea of which documents you are expected to produce. When I applied for a work visa the second time, the only extra document I needed was a copy of my degree, translated to English by a [certified translator](/admin/entries/blog/www.traducteuragree.com). For your proof of first housing, you can simply use a hotel reservation. However, you will need a real address to start working, because you can't get a tax ID without a fixed address, and you can't get paid without a tax ID.
+The [checklist for the youth mobility visa](http://www.canada.diplo.de/yma#topic29) should give you a good idea of which documents you are expected to produce. When I applied for a work visa the second time, the only extra document I needed was a copy of my degree, translated to English by a certified translator. For your proof of first housing, you can simply use a hotel reservation. However, you will need a real address to start working, because you can't get a tax ID without a fixed address, and you can't get paid without a tax ID.
 
 You will likely have to make a trip to the German Consulate in Toronto or Vancouver, even if you live a thousand kilometres from there. Megabus is a cheap way to travel between cities.
 
