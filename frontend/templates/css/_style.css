@@ -169,5 +169,6 @@ figure, :not(figure) > picture, :not(figure, picture) > img {display:block;margi
 @media print{
     main header{background: none;padding-bottom: var(--spacing-xl);margin:var(--spacing-xl) 0 0;border-bottom: 1px solid #000;text-align: left}
     main header h1{font-size: 80%;}
+    main nav{display: none!important}
 }
 {% endcss %}
