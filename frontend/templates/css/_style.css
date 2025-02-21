@@ -174,7 +174,7 @@ figure, :not(figure) > picture, :not(figure, picture) > img {display:block;margi
 
     main header{background: none;padding-bottom: var(--spacing-xl);margin:var(--spacing-xl) 0 0;border-bottom: 1px solid #000;text-align: left}
     main header h1{font-size: 80%;}
-    body > header, main header h1 small, main nav{display: none!important}
+    body > header, main header small, main nav{display: none!important}
 
     h1, h2, h3, h4, h5, h6, img {page-break-after:avoid;page-break-inside:avoid;}
     table, pre {page-break-inside:avoid}
