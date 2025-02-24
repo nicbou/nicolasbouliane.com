@@ -564,7 +564,7 @@ For your needs, I would consider WordPress or Craft CMS.
 
 Still, WordPress is not perfect. Because of it's popularity, it's a huge target for hackers. Each plugin is a potential security flaw. You need third-party plugins for things that are baked into other CMSes, like custom post types and multilingual content. The codebase is weird and unpleasant to work with.
 
-Nonetheless, it's the best option for you. [why]
+Nonetheless, it's the best option for you. It's the most cost-effective option, and the most likely to last several years.
 
 WordPress is free. However you might need to pay licence fees for essential plugins.
 
@@ -580,7 +580,9 @@ For your project, Craft would cost 399€, then 99€ per year for updates.
 
 You can use a framework instead of a CMS. If you plan to build a *platform*, a framework gives the developers a lot more flexibility.
 
-If you want to build a platform, you can choose something more involved and elaborate. Not a CMS but a framework that you shape into what you want. This is a lot more work, but it leaves an open end for future development. I don't think this would work well for you, mainly because it would take longer to get the website running, require more specialised labour to build, and likely wouldn't really help.
+If you want to build a platform, you can choose something more involved and elaborate. Not a CMS but a framework that you shape into what you want. This is a lot more work, but it leaves an open end for future development.
+
+I don't think this would work well for you, mainly because it would take longer to get the website running, require more specialised labour to build, and likely wouldn't really help.
 
 ## Summary and recommendations
 
