@@ -406,11 +406,13 @@ Some preferences can be inferred from the information given by the user's browse
 
 ![Culture-sniffing form field](/images/anmeldung-country-picker.png "This field uses 'culture sniffing' to suggest the user's country")
 
+We can save the user's preferences in [local storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API). This is easy, privacy-friendly and GDPR-compliant. We can use this to remember the user's preferred language and other settings.
+
 Syncing the user's settings across multiple devices is harder. Then you need users accounts, and save their information on your server. This involves sending activation emails, enabling password changes and password recovery, and a host of other small tasks. This needs to be done in a [GDPR-compliant](#4-privacy) way, so users must be able to delete their account, and you must delete unused data after some time.
 
 ![Syncing between a smartphone and a laptop](/images/illustrations/padi-sync.png)
 
-This adds a lot of complexity to your project, and the benefit to users is questionable. It might be easier to re-enter the information than to create a user account.
+Cross-device synchronisation adds a lot of complexity to your project, and the benefit to users is questionable. It might be easier to re-enter the information than to create a user account.
 
 ### 3. Artificial intelligence
 
@@ -418,7 +420,7 @@ I see no applicable use of AI here.
 
 ### 4. Feasibility assessment
 
-Saving user preferences is easy. Saving recent or starred content is also easy. This should not add significant development time.
+Saving user preferences is easy. Saving recent or starred content is also easy. This should not add significant development time. This information can be saved locally in the user's browser. This is a privacy-friendly, GDPR-compliant approach.
 
 ### 5. Risks and challenges
 
@@ -553,6 +555,8 @@ GDPR (DSGVO) is only a concern if you collect data about your users. This can ha
 You can still collect anonymous statistics while respecting the GDPR. On All About Berlin, I use [Plausible Analytics](https://plausible.io/). Your statistics lose some precision and granularity, but they give you sufficient insight into your user base.
 
 You can also collect personal data, so long as you collect it with consent, use it for its intended purpose, store it securely and delete it when it's no longer needed.
+
+There are privacy-friendly and GDPR-compliant ways to save user preferences. This is usually done with [local storage and session storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API). Unlike data stored in cookies, this information stays in the user's browser. It is not transmitted to the server on every request.
 
 ## Available options
 
