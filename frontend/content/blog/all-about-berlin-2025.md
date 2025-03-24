@@ -4,9 +4,11 @@ description: Things are going to be a little different from now on, but it's for
 date_created: 2025-01-15
 ---
 
-I have made a few resolutions going into the new year. Two of them have to do with All About Berlin.
+I have made a few resolutions going into the new year. Two of them have to do with [All About Berlin](https://allaboutberlin.com).
 
 The first resolution is to work less. I am not a workaholic by any stretch of the imagination, but I struggle to fully disconnect. I got better at it in 2024 - you can tell by my [commit history](https://github.com/nicbou/) - and I want to keep working in that direction.
+
+![Man relaxing on a gondola](/images/illustrations/relaxing.png)
 
 The second is to maintain the same income as last year. This is a lofty goal given that the German economy is shrinking, immigration is down, and tech giants are slowly strangling the independent web. Last fall, year-on-year traffic was down for the first time ever, by about 15%. It's not devastating, but it's concerning.
 

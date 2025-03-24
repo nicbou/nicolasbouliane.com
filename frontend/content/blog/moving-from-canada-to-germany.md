@@ -40,7 +40,7 @@ In Germany, [you are mandated by law to have health insurance](https://allaboutb
 
 The [health insurance requirements](https://allaboutberlin.com/guides/german-visa-health-insurance) for German visas are pretty hard to navigate. I speak from experience. I wrote a very detailed guide on [how to choose health insurance](https://allaboutberlin.com/guides/german-health-insurance). You should read that first.
 
-On All About Berlin, I usually recommend people to [work with a broker](https://allaboutberlin.com/guides/german-health-insurance#insurance-brokers). They offer advice for free, and get paid a commission no matter which insurance you pick. I work with Daniel at B-Protected and [Feather](https://allaboutberlin.com/out/popsure-expats) since a long time, and I can vouch for them.
+On All About Berlin, I usually recommend people to [work with a broker](https://allaboutberlin.com/guides/german-health-insurance#insurance-brokers). They offer advice for free, and get paid a commission no matter which insurance you pick.
 
 ### Taxes
 
