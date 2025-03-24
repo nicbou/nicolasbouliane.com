@@ -14,7 +14,7 @@ Most businesses care about this. Dead ends hurt sales. At my last e-commerce job
 
 The German government, on the other hand, does not give a flying hoot about broken links. Websites that were built as references move pages around with puzzling frequency, for no apparent reason. The URLs just stop working, so the countless websites, videos, online courses and printed pamphlets link to those pages, and they just... disappear.
 
-I often link to government websites on All About Berlin. Every few weeks, a reader informs me of a broken link. Sometimes, I fixed the same link just a few months ago. Most of the time, the page still exists, completely unchanged, just under a different URL.
+I often link to government websites on [All About Berlin](https://allaboutberlin.com). Every few weeks, a reader informs me of a broken link. Sometimes, I fixed the same link just a few months ago. Most of the time, the page still exists, completely unchanged, just under a different URL.
 
 Sometimes, the URLs don't break, yet perhaps they should. For example, the immigration office replaced one form with another, and stopped accepting the old version. The old form remained at the old address, and the new one was uploaded elsewhere. Pages (including my own) kept linking to the old form, unaware that a new version existed. I wonder how many people were turned back at their immigration office appointment because of that cock-up.
 

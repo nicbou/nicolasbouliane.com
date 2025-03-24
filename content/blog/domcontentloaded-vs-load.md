@@ -4,7 +4,7 @@ description: A tiny change made the JavaScript code on All About Berlin load twi
 date_created: 2021-10-25
 ---
 
-I spend a lot of time making All About Berlin fast. It's just text on a page; it should be fast. Still, while the pages load instantly, the bits of JavaScript functionality took an extra second to load. It's hardly noticeable, but hardly justifiable.
+I spend a lot of time making [All About Berlin](https://allaboutberlin.com) fast. It's just text on a page; it should be fast. Still, while the pages load instantly, the bits of JavaScript functionality took an extra second to load. It's hardly noticeable, but hardly justifiable.
 
 When I profiled the page, I found the culprit: the `load` event took 750 milliseconds to fire. Nothing happened before that event fired. Once `load` fired, the actual functionality loaded in about 10 milliseconds.
 

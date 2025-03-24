@@ -8,7 +8,7 @@ In early 2020, I disabled comments on every website I run. Here is how and why I
 
 ## Most comments are bad
 
-On All About Berlin, readers shared their experience with Berlin's notoriously unpredictable bureaucracy. On Wiser Coder, they confirmed that 5 year old solutions still worked, or provided better ones. Some readers asked tricky questions that highlighted flaws in my content. These comments were invaluable, but they were a small minority.
+On [All About Berlin](https://allaboutberlin.com), readers shared their experience with Berlin's notoriously unpredictable bureaucracy. On Wiser Coder, they confirmed that 5 year old solutions still worked, or provided better ones. Some readers asked tricky questions that highlighted flaws in my content. These comments were invaluable, but they were a small minority.
 
 ![](/images/Bildschirmfoto-2020-04-27-um-11.00.26.png)
 
