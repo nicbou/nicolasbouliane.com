@@ -1,5 +1,5 @@
 ---
-title: The Greater Badass
+title: The Greater Bad-ass
 description: I took a spill.
 date_created: 2025-04-12
 categories:
@@ -7,27 +7,27 @@ categories:
     golden
 ---
 
-My motorcycle slips on a patch of mud, the front wheel goes from under me, I hit the ground hard, parts go flying, the wind gets knocked out of me.
+My motorcycle slips on a patch of mud, the front wheel goes from under me, I hit the ground hard, parts go flying, I get the wind knocked out of me.
 
-I prop the bike back up. I hammer my right pannier back into shape with a rock, secure the mirror in place with metal wire, tape my cracked hand guard to the handlebar. The adrenaline is wearing off, and now comes the pain. I can still drive. It could have been worse. *So much* worse.
+I catch my breath then prop the bike back up. I hammer my right pannier back into shape with a rock, secure the mirror in place with metal wire, tape my cracked hand guard to the handlebar. The adrenaline is wearing off, and now comes the pain. I can still drive. It could have been worse. *So much* worse.
 
-I ride to the next town in a daze, humbled, replaying the crash and counting my blessings. Before I left, I debated buying stiff, expensive, cumbersome off-road boots, and they just saved my foot. I merely twisted my ankle instead of pulverising every bone below it.
+In a daze, humbled, I ride to the next town, replaying the crash and counting my blessings. Before leaving I debated buying those stiff, cumbersome off-road boots, and they just saved my foot. I twisted my ankle instead of pulverising every bone below it.
 
-In the parking lot of a supermarket, I'm eating raspberries and chuckling at my own dumb luck. Another motorcyclist arrives on a dirt-covered Yamaha Tenere.
+In the parking lot of a supermarket, I'm eating raspberries and chuckling at my own dumb luck when another motorcyclist arrives on a dirt-covered Yamaha Ténéré.
 
-To my surprise, he speaks French too. We chit chat for a few minutes while chewing on ready-made snacks. He rode from Marseille, starting on the Trans Euro Trail in Barcelona. He must have ridden some five hundred kilometres off-road by now. I did wiped out on my first kilometre on the same trail. I am embarrassed, but he is gracious about it. The ground can be treacherous, those panniers are heavy, this is not an off-road bike.
+To my surprise, he speaks French too, albeit with an unmistakeable Marseille accent. We chit chat for a few minutes while chewing on ready-made snacks. He rode from France, starting on the Trans Euro Trail in Barcelona. He must have ridden some five hundred kilometres off-road by now. I tried the same trail and wiped out on the first kilometre. I am embarrassed, but he is gracious about it. The ground can be treacherous, you know? And those panniers are heavy. This is not an off-road bike either.
 
-I feel a sharp pain in my chest. It's my crushed ego - and my fractured sternum.
+I have met the Greater Bad-ass.
 
-I have met the Greater Badass.
+I feel a sharp pain in my chest. It's my crushed ego - and a fractured sternum.
 
-I came up with the Greater Bad-ass Theory five years ago, on the big trip that I thought would cemented my status as a True Adventurer. On that trip, I have met many Greater Bad-asses; people who rode all the way here avoiding tarmac, cyclists riding from Vietnam to France, a guy riding a 500€ KLR he rebuilt himself, retirees travelling two-up. None of them were showing off. For some this trip was routine.
+The Greater Bad-ass Theory is from a few years ago. I was on the big trip that I thought would cement my status as a True Adventurer. I have met many Greater Bad-asses on that trip - people who rode all the way here avoiding tarmac, cyclists riding from Vietnam to France, a guy on a 500€ KLR that he rebuilt himself, retirees travelling two-up from Finland. None of them were showing off. For some this trip was routine.
 
 Nothing humbles you like being on the trip of your life - the Big One - and meeting one person after another doing the same thing, but harder.
 
-Meeting the Greater Badass did not inspire me push myself harder. It grounded me. When I measure my life by those metrics, I enter a league in which people's achievements dwarf mine. I don't reach the top, just the foot of a new pyramid. I'll drive myself to an early grave long before my name is enshrined in their Hall of Bad-assery.
+Meeting the Greater Bad-ass did not inspire me push myself harder; it grounded me. Once I made big adventures a part of my identity, I entered a league in which people's achievements dwarf mine. I did not reach the top, just the foot of a new pyramid. I'll drive myself to an early grave long before my name is enshrined in their Hall of Bad-assery.
 
-That day in April, I went off-road to prove something. I was not trying to reach a secret oasis or earn an exclusive view. I did it for my ego. I wanted to get dirt on my bike and ride into town looking like I was the true adventurer that I was. I was a poseur, and the universe put me back in my place. It was a gentle lesson, as far as motorcycle lessons go.
+That day in April, I went off-road to prove something. I was not trying to reach a secret oasis or earn an exclusive view. I did it for my ego. I wanted to get dirt on my bike and ride into town looking like a true adventurer. I was a poseur, and the universe put me back in my place. It was a gentle lesson, as far as motorcycle lessons go.
 
 The lesson? Measure your experience in fun had, not in miles travelled or countries visited. Mind not the width of your chicken strips nor the rider in gaining on you in your mirrors.[^1] Don't push yourself beyond your limits, ride your own ride.[^2]
 
