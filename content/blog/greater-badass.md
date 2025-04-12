@@ -1,0 +1,44 @@
+---
+title: The Greater Badass
+description: I took a spill.
+date_created: 2025-04-12
+categories:
+    motorcycle
+    golden
+---
+
+My motorcycle slips on a patch of mud, the front wheel goes from under me, I hit the ground hard, parts go flying, the wind gets knocked out of me.
+
+I prop the bike back up. I hammer my right pannier back into shape with a rock, secure the mirror in place with metal wire, tape my cracked hand guard to the handlebar. The adrenaline is wearing off, and now comes the pain. I can still drive. It could have been worse. *So much* worse.
+
+I ride to the next town in a daze. In the parking lot of a supermarket, I'm eating raspberries and chuckling at my own dumb luck. I count my blessings. My brand new boots that just saved my foot.
+
+Another motorcyclist arrives on a dirt-covered bike. A Yamaha Tenere that was used as intended.
+
+To my surprise, he speaks French too. We chit chat for a few minutes. He rode from Marseille, starting on the Trans Euro Trail in Barcelona. He must have ridden some five hundred kilometres off-road already. I did one kilometre on the same trail and wiped out. He's gracious about it: the ground can be treacherous, those panniers are heavy, this is not the right bike.
+
+I feel a sharp pain in my chest. It's my crushed ego - and my fractured sternum.
+
+I have met the Greater Badass.
+
+I came up with the Greater Bad-ass Theory five years ago, on the big trip that I thought would cemented my status as a True Adventurer. On that trip, I have met many Greater Bad-asses; people who rode all the way here avoiding tarmac, cyclists riding from Vietnam to France, a guy riding a 500€ KLR he rebuilt himself, retirees travelling two-up. None of them were showing off. For some this trip was routine.
+
+Nothing humbles you like being on the trip of your life - the Big One - and meeting one person after another doing the same thing, but harder.
+
+Meeting the Greater Badass did not inspire me push myself harder. It grounded me. When I measure my life by those metrics, I enter a league in which people whose achievements dwarf mine. I don't reach the top of the top, just the foot of an entirely new pyramid. I'll drive myself to an early grave long before my name is enshrined in their Hall of Bad-assery.
+
+That day in April, I went off-road to prove something. I was not trying to reach a secret oasis or earn an exclusive view. I did it for my ego. I wanted to get dirt on my bike and ride into town looking like I was the true adventurer that I was. I was a poseur, and the universe put me back in my place. It was a gentle lesson, as far as motorcycle lessons go.
+
+The lesson? Measure your experience in fun had, not in miles travelled or countries visited. Mind not the width of your chicken strips nor the rider in gaining on you in your mirrors.[^1] Don't push yourself beyond your limits, ride your own ride.[^2]
+
+## Related ideas
+
+In *[The Right Stuff](https://en.wikipedia.org/wiki/The_Right_Stuff_\(book\))*, Tom Wolfe writes at length about the unspoken hierarchy of machismo and bravery among test pilots and astronauts. They all climb the "great ziggurat", performing increasingly dangerous feats to prove their mettle. This is the environment in which "pushing the envelope" was coined.
+
+*[Zen and the Art of Motorcycle Maintenance](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance)* has [a passage about ego climbing](https://makingtheplay.com/2023/06/13/the-ego-climber-2/):
+
+> Any effort that has self-glorification as its final endpoint is bound to end in disaster. Now we’re paying the price. When you try to climb a mountain to prove how big you are, you almost never make it. And even if you do, it’s a hollow victory. In order to sustain the victory you have to prove yourself again and again in some other way, and again and again and again, driven forever to fill a false image, haunted by the fear that the image is not true and someone will find out. That’s never the way.  
+> — Robert M. Pirsig, *Zen and the Art of Motorcycle Maintenance*
+
+[^1]: Chicken strips are the unworn edges of a motorcycle tire. Wide strips of unworn rubber imply cautious riding.
+[^2]: A common saying among motorcyclists. It means riding in accordance to your skills, without succumbing to peer pressure.
