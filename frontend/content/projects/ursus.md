@@ -25,7 +25,7 @@ A static site generator has many benefits over a content management system. Many
 
 The entire website is on my computer. I can make changes and preview them without an internet connection. I can deploy the changes later, when I'm back online.
 
-This lets me work in more interesting places, where reliable internet is not guaranteed. This lets me spend more time away from my desk.
+This lets me work in more interesting places, where reliable internet is not guaranteed, or more accurately, when unreliable internet is guaranteed. I have worked on planes, ferries and beaches. This lets me spend more time away from my desk.
 
 ### Lightweight server
 
