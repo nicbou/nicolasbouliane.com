@@ -25,6 +25,8 @@ The Greater Bad-ass Theory is from a few years ago. I was on the big trip that I
 
 Nothing humbles you like being on the trip of your life - the Big One - and meeting one person after another doing the same thing, but harder.
 
+![Stickers from motorcyclists on a petrol station windows](/images/greater-badasses.jpg "Well done! You made it! You can put your sticker here with the other ones.")
+
 Meeting the Greater Bad-ass did not inspire me push myself harder; it grounded me. Once I made big adventures a part of my identity, I entered a league in which people's achievements dwarf mine. I did not reach the top, just the foot of a new pyramid. I'll drive myself to an early grave long before my name is enshrined in their Hall of Bad-assery.
 
 That day in April, I went off-road to prove something. I was not trying to reach a secret oasis or earn an exclusive view. I did it for my ego. I wanted to get dirt on my bike and ride into town looking like a true adventurer. I was a poseur, and the universe put me back in my place. It was a gentle lesson, as far as motorcycle lessons go.
