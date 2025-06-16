@@ -34,6 +34,8 @@ I visited Japan in Autumn 2024. As is tradition, I enriched my visit with as muc
 
 ## Japanese culture
 
+- **[Things Become Other Things](https://www.goodreads.com/book/show/217245583-things-become-other-things)**  
+    I read this book a few months after my visit, but I thoroughly enjoyed it. Craig Mod also has [an excellent newsletter](https://craigmod.com/ridgeline/) that touches some of the same topics as in his book. I would love to read Kissa By Kissa but could not find a copy. It looks like a gorgeous book.
 - **[Tidying up is not joyful but another misuse of Eastern ideas](https://aeon.co/ideas/tidying-up-is-not-joyful-but-another-misuse-of-eastern-ideas)** (Aeon) - A history of the West's perception of Japanese minimalism, how it's mostly incorrect, and why that's alright.
 - **[Some perspective on the Japan earthquake](https://www.kalzumeus.com/2011/03/13/some-perspective-on-the-japan-earthquake/)** (Patrick McKenzie, 2011) - An overview of how Japanese society prepares for earthquakes.
 - **[Doing business in Japan](https://www.kalzumeus.com/2014/11/07/doing-business-in-japan/)** (Patrick McKenzie, 2014) - The experience of famous entrepreneur Patrick McKenzie as a salaryman and as a business owner in Japan.
