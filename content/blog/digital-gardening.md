@@ -14,7 +14,7 @@ I accept that my work will remain unfinished. I am eager to discover what the so
 
 I have learned to welcome other gardeners as peers, instead of fearing them as competitors. I have learned to share advice and compliments freely. The world needs more gardens.
 
-![](/images/illustrations/growing-tree.png)
+![Illustration of a tree at different stages of growth](/images/illustrations/growing-tree.png)
 
 This article is a seedling. I might tend to it later, when it feels right. Kind regards to [Maggie Appleton](https://maggieappleton.com/garden), who introduced me to this metaphor.
 
