@@ -29,6 +29,8 @@ If a case has been "waiting" for a month, we want to prioritise it over others, 
 
 One problem that we identified early on is that we waited too long to collect basic information. Some people have pretty straightforward cases, and if we knew a little more about them up front, we could skip the consultation call and get them insured within 24 hours. Instead it takes us a few days and a phone call to achieve the same thing. Soon we will have a far better idea of which parts of the process we can improve.
 
+![Health insurance questions a broker asks](/images/seamus-questions.png "The sooner we ask those questions, the faster we can make a recommendation.")
+
 Beyond that, there is nothing special. We have a bit of information, and we can add comments and files to the case over time. If you have seen Jira or HubSpot, none of this will blow your mind.
 
 ## Technically speaking
