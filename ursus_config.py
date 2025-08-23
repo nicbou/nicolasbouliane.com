@@ -8,7 +8,7 @@ config.content_path = Path(__file__).parent / 'content'
 config.templates_path = Path(__file__).parent / 'templates'
 config.output_path = Path(__file__).parent.parent / 'output'
 
-config.site_url = os.environ.get('site_url', 'https://nicolasbouliane.com')
+config.site_url = os.environ.get('site_url', '')
 config.html_url_extension = ''
 config.minify_js = True
 config.minify_css = True
