@@ -6,8 +6,9 @@
 {% block content %}
     <header>
         <h1>Recipes</h1>
+        <small>Food I have made for those I love.</small>
     </header>
-    <ul class="entry-list">
+    <ul class="entry-list recipes">
         {% for entry in get_entries('recipes', sort_by='date_created', reverse=True) %}
             {% if 'untested' not in entry.get('tags', []) %}
                 <li>

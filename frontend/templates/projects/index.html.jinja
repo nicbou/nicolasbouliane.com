@@ -6,9 +6,10 @@
 {% block content %}
     <header>
         <h1>Projects</h1>
+        <small>Things I have built over the years.</small>
     </header>
     <h2>Active projects</h2>
-    <ul class="entry-list">
+    <ul class="entry-list projects">
         {% for entry in get_entries('projects', filter_by=is_golden, sort_by='date_created', reverse=True) %}
             <li>
                 <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
@@ -18,7 +19,7 @@
         {% endfor %}
     </ul>
     <h2>Everything else</h2>
-    <ul class="entry-list">
+    <ul class="entry-list projects">
         {% for entry in get_entries('projects', filter_by=is_not_golden, sort_by='date_created', reverse=True) %}
             <li>
                 <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
