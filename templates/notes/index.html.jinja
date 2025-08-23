@@ -6,12 +6,12 @@
 {% block content %}
     <header>
         <h1>Notes</h1>
-        <small>Things that might appear in my WhatsApp stories.</small>
+        <small>Things I would WhatsApp you if we were friends.</small>
     </header>
     <ul class="entry-list notes">
         {% for entry in get_entries('notes', sort_by='date_created', reverse=True) %}
             <li>
-                <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%-b %Y') }}</time>
+                <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%-d %-b %Y') }}</time>
                 <div>
                     {{ entry.body|render|safe }}
                 </div>
