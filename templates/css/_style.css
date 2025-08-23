@@ -121,7 +121,7 @@ a{position:relative;color:var(--color-link);border-bottom:2px solid transparent;
     a:hover{border-color:var(--color-link);top:-1px}
 pre {padding: 1em;overflow: auto;box-shadow:var(--box-shadow);border-radius: var(--border-radius);font-family: monospace;font-size: 0.7rem;line-height: var(--line-height-compact);background: var(--color-background-inverted);color: var(--color-text-inverted)}
 :not(pre) > code{font-family:monospace;font-size:0.7rem;box-decoration-break:clone;background:var(--color-border-light);border-radius:var(--border-radius);padding:0.1em 0.25em}
-blockquote{border-top:var(--border-light);border-bottom:var(--border-light);padding:var(--spacing-text-m) var(--spacing-text-l);color:var(--color-text-strong);font-size:1.2rem;line-height:1.4em;}
+blockquote{border-top:var(--border-light);border-bottom:var(--border-light);padding:var(--spacing-text-m) var(--spacing-text-l);color:var(--color-text-strong);font-size:1.1rem;line-height:1.4em;}
     blockquote p{margin:var(--spacing-text-s) 0}
 sup, sub{font-size:var(--font-size-s);vertical-align:baseline;position:relative;line-height:0;white-space:nowrap;top:-0.6em}
     sub {top:0.3em}
