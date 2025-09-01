@@ -143,13 +143,13 @@ figure, :not(figure) > picture, :not(figure, picture) > img {display:block;margi
     img[src*="/illustrations/"]{box-shadow:none}
     figcaption{font-style:italic;color:var(--color-text-light);margin-top:var(--spacing-text-s);text-align:center;}
 
-.entry-list li{padding:0;margin:0;display:grid;grid-template-columns:4ch 1fr;grid-gap:0 var(--spacing-text-m);align-items:first baseline}
+.entry-list > li{padding:0;margin:0;display:grid;grid-template-columns:4ch 1fr;grid-gap:0 var(--spacing-text-m);align-items:first baseline}
     .entry-list time{font:var(--font-sans-serif);grid-row-end:span 10;color:var(--color-text-light)}
-    .entry-list li > :not(time){grid-column-start:2;border-left:var(--border-light);padding-left:var(--spacing-m)}
+    .entry-list > li > :not(time){grid-column-start:2;border-left:var(--border-light);padding-left:var(--spacing-m)}
     .entry-list:not(.notes) :is(h2, h3){font-size:var(--font-size-h3);margin:0}
     .entry-list:not(.notes) p{font:var(--font-data);margin:0;padding:var(--spacing-s) 0 var(--spacing-l);line-height:var(--line-height)}
-    .entry-list.notes li div > :first-child{margin-top: 0}
-    .entry-list li:before{content:''}
+    .entry-list.notes > li > div > :first-child{margin-top: 0}
+    .entry-list > li:before{content:''}
 
 .recipe li.checked{text-decoration:line-through;}
 
