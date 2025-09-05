@@ -37,7 +37,7 @@ But if you don't know when the train is coming, or whether it's coming at all, y
 
 !["Außer Betrieb" by UnbewegtImBilde, CC BY-SA 2.0](/images/bvg-broken-daisy.jpg)
 
-This is something Uber has done brilliantly. You no longer need to stand outside, wondering when your cab is coming and whether the driver got the address right. Your phone shows you where they are, and buzzes just as they turn the corner. The experience of waiting is greatly improved by knowing how long you're going to wait.
+This is something Uber has done brilliantly. You no longer need to stand outside, wondering when your cab is coming or whether the driver got the address right. Your phone shows you where they are, and buzzes just as they turn the corner. The experience of waiting is greatly improved by knowing how long you're going to wait.
 
 That also applies to bureaucracy. When you reduce uncertainty around a bureaucratic process, you improve the entire experience. This is the guiding idea behind All About Berlin. Add clarity, remove anxiety.
 
