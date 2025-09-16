@@ -8,9 +8,11 @@ categories:
     allaboutberlin
 ---
 
-I made [a tool](https://allaboutberlin.com/guides/auslanderbehorde-wait-times) to measure and display wait times at the Berlin immigration office. It collects user reports and shows statistics by department and residence permit type. It's on [All About Berlin](/projects/all-about-berlin) since November 2024.
+I have made [a tool](https://allaboutberlin.com/guides/auslanderbehorde-wait-times) to measure and display wait times at the Berlin immigration office. It collects user reports and shows statistics by department and residence permit type. It's on [All About Berlin](/projects/all-about-berlin) since November 2024, and it has collected hundreds of data points.
 
 ![Tool that shows LEA wait times](/images/lea-wait-times.png)
+
+In September 2025, I have made another tool to measure [citizenship wait times](https://allaboutberlin.com/guides/citizenship-wait-times).
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -28,7 +30,7 @@ I navigate people through this process since 2017, and I still didn't have a pre
 
 By giving people a clear timeline of their residence permit application, their journey becomes more predictable, and much less stressful. It does not speed up the process, but it helps people plan around it. 
 
-So I have built [a tool](https://allaboutberlin.com/guides/auslanderbehorde-wait-times) that collects reports from readers and measures wait times by department and residence permit type.
+So I have built [a tool](https://allaboutberlin.com/guides/auslanderbehorde-wait-times) that collects reports from readers and measures wait times by department and residence permit type. There is [a separate page](https://allaboutberlin.com/guides/citizenship-wait-times) to measure citizenship wait times.
 
 ## Why I built this
 
