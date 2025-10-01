@@ -148,7 +148,10 @@ figure, :not(figure) > picture, :not(figure, picture) > img {display:block;margi
     .entry-list > li > :not(time){grid-column-start:2;border-left:var(--border-light);padding-left:var(--spacing-m)}
     .entry-list:not(.notes) :is(h2, h3){font-size:var(--font-size-h3);margin:0}
     .entry-list:not(.notes) p{font:var(--font-data);margin:0;padding:var(--spacing-s) 0 var(--spacing-l);line-height:var(--line-height)}
-    .entry-list.notes > li > div > :first-child{margin-top: 0}
+    .entry-list.notes > li + li > div {border-top:var(--border-light); padding-top:var(--spacing-l); padding-bottom:var(--spacing-l);}
+    .entry-list.notes > li > div > :first-child{margin-top: 0; border-top:none;}
+    .entry-list.notes > li > div > :last-child{margin-bottom: 0; border-bottom:none;}
+    .entry-list.posts > li > p, .entry-list.recipes > li > p {padding-left: var(--spacing-m)}
     .entry-list > li:before{content:''}
 
 .recipe li.checked{text-decoration:line-through;}
@@ -180,5 +183,7 @@ figure, :not(figure) > picture, :not(figure, picture) > img {display:block;margi
     h1, h2, h3, h4, h5, h6, img {page-break-after:avoid;page-break-inside:avoid;}
     table, pre {page-break-inside:avoid}
     ul, ol, dl {page-break-before:avoid}
+
+    blockquote{padding: var(--spacing-text-m) var(--spacing-text-s)}
 }
 {% endcss %}
