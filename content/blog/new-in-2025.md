@@ -4,6 +4,8 @@ description: A brief summary of changes that affect most immigrants in Berlin.
 date_created: 2024-12-20
 ---
 
+*Update: the [2026 version](/blog/new-in-2026) is live*
+
 Every year, on the first of January, all sorts of things change in Germany as new laws come into force. Mostly, life gets more expensive, but there are some nice surprises too.
 
 I used to dread the mad scramble to update [All About Berlin](https://allaboutberlin.com) every January, but I have since honed my craft, and this update took about two hours. I know where to look, so I just update a few constants in a file, and my work is done. I do it all in mid-December, leaving me free to enjoy a *guten Rutsch ins neue Jahr*. I wish you the same.
