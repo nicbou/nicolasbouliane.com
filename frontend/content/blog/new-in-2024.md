@@ -4,6 +4,8 @@ description: A brief summary of changes that affect most immigrants in Berlin.
 date_created: 2024-01-01
 ---
 
+*Update: the [2025 version](/blog/new-in-2025) is live*
+
 Every January, a bunch of things change in Germany. This means that as soon as the firework explosions die down, I must get to work updating [All About Berlin](https://allaboutberlin.com)'s guides and calculators.
 
 This year is no different. This is a summary of the changes that I believe affect most of my readers.
