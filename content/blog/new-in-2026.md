@@ -8,6 +8,8 @@ Every year, on the first of January, prices change and new laws come into effect
 
 And thus, every year, I spend a few days updating [All About Berlin](https://allaboutberlin.com)'s hundreds of pages and calculators. This is a summary of the changes I have noticed.
 
+![Harlem Dancers by Elizabeth Olds, 1939](/images/harlem-dancers.jpg)
+
 ## Restaurants
 
 Eating out will get cheaper. Cafés and restaurants will charge 7% [VAT](https://allaboutberlin.com/glossary/Umsatzsteuer) instead of 19%.
