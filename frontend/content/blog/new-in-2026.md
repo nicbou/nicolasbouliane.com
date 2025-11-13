@@ -14,11 +14,11 @@ Eating out will get cheaper. Cafés and restaurants will charge 7% [VAT](https:/
 
 ## Public transit
 
-Berlin's public transit has been notably unreliable in 2025. It seems like the BVG and the Deutsche Bahn are only punctual in one area: the yearly price increase.[^4]
+After a rough start, the BVG's punctuality has [steadily improved](https://entwicklungsstadt.de/bvg-auf-dem-weg-zu-mehr-zuverlaessigkeit-erste-zahlen-machen-hoffnung/) throughout 2025. The S-Bahn [got worse](https://www.nd-aktuell.de/artikel/1195005.oepnv-mehr-ausfaelle-und-verspaetungen-die-s-bahn-berlin-und-das-elend.html). However, you can count on one thing to arrive on time: the yearly price increase.[^4]
 
+- Deutschland Ticket: €58 ➞ €63 (+9%)
 - AB ticket: €3.80 ➞ €4 (+5%)
 - ABC ticket: €4.70 ➞ €5 (+6%)
-- Deutschland Ticket: €58 ➞ €63 (+9%)
 
 ## Minimum wage and social benefits
 
