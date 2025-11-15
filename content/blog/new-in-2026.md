@@ -50,6 +50,8 @@ The minimum income for the Blue Card was raised from €48,300 to €50,700.
 
 The minimum income for the freelance visa will also go up. We don't know by how much yet.[^5]
 
+Citizenship after 3 years was quietly abolished in November 2025.[^6]
+
 ## Taxes
 
 The income tax formula is adjusted for inflation every year. The tax-free income and various other thresholds are going up. If your salary stays the same, you will pay slightly less income tax.
@@ -71,3 +73,4 @@ Thanks for sticking around!
 [^3]: For a 30 year old adult choosing the cheapest health insurer
 [^4]: [VBB](https://www.vbb.de/news/neue-fahrpreise-im-vbb-ab-1-januar-2026/) (November 2025)
 [^5]: The cost is based on § 13 BAföG, and no update has been announced yet (November 13)
+[^6]: [deutschlandfunk.de](https://www.deutschlandfunk.de/bundestag-macht-beschleunigte-einbuergerung-rueckgaengig-100.html)
