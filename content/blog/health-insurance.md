@@ -3,7 +3,6 @@ title: I guess I'm an insurance salesman now
 description: The things you will do to save what you have worked on for the last 8 years of life.
 date_created: 2025-08-04
 categories:
-    golden
     allaboutberlin
 ---
 
