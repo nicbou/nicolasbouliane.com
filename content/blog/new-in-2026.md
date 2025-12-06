@@ -67,7 +67,7 @@ Use my [tax calculator](https://allaboutberlin.com/tools/tax-calculator) to see 
 
 This is why I spent most of the year on rewriting my [health insurance guide](https://allaboutberlin.com/guides/german-health-insurance), improving my [health insurance calculator](https://allaboutberlin.com/tools/health-insurance-calculator), and giving you free and direct access to an insurance expert. It made up for the loss of income while providing something useful. I'm quite proud of that, but boy oh boy was it a tedious few months. I'm glad it's mostly over.
 
-Now that things have stabilised, I can finally focus on what matters. I will spend 2026 refreshing guides and improving tools. There is a slew of meaningful updates on the way.
+Now that things have stabilised, I can finally focus on what matters. I will spend 2026 refreshing guides and improving tools. There is a slew of meaningful updates on the way. You can hear about them in my [brand new newsletter](https://allaboutberlin.com/newsletter).
 
 Thanks for sticking around!
 
