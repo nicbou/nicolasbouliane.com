@@ -12,7 +12,7 @@ In December 2025, I started [a monthly newsletter](https://allaboutberlin.com/ne
 
 This is also my chance to write to you directly, in my own language, as a friend. After 8 years of writing guides in the simplest, most succinct English, it’s nice to unwind and throw idioms around.
 
-This newsletter will be three things: occasional, casual, and conversational. I want to share interesting updates with you, to get your feedback every once in a while, and to hear your side of the story.
+This newsletter will be three things: occasional, casual, and conversational. I want to share interesting updates with you, to get your feedback every once in a while, and to hear your side of the story. There will be no ads and no sponsored content.
 
 ## Picking the platform
 
@@ -24,4 +24,8 @@ Instead, I chose Buttondown, a quiet underdog whose business model I vibe with. 
 
 This newsletter is a way for me to share updates with a consenting audience, without meddling from algorithms. It's my way to [work with the garage door up](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu), and hopefully to create [social infrastructure](https://maggieappleton.com/gathering-structures) in the future.
 
-I don't have the writing chops nor the energy to compete with excellent newsletters like [Handpicked Berlin](https://handpickedberlin.com/), [20 Percent Berlin](https://www.20percent.berlin/), [Berlin Events Weekly](https://www.berlineventsweekly.com/) and [The Berlin Companion](https://theberlincompanion.com/). Give them a look!
+I don't intend to compete with excellent newsletters like [Handpicked Berlin](https://handpickedberlin.com/), [20 Percent Berlin](https://www.20percent.berlin/), [Berlin Events Weekly](https://www.berlineventsweekly.com/) and [The Berlin Companion](https://theberlincompanion.com/). I have neither the energy nor the writing chops.
+
+## Other notes
+
+Last year, I [asked the internet](https://news.ycombinator.com/item?id=32304011) why so many websites pushed their newsletter. I was surprised to hear that they worked so well.
