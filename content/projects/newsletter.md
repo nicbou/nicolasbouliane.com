@@ -12,7 +12,7 @@ In December 2025, I started [a monthly newsletter](https://allaboutberlin.com/ne
 
 This is also my chance to write to you directly, in my own language, as a friend. After 8 years of writing guides in the simplest, most succinct English, it’s nice to unwind and throw idioms around.
 
-This newsletter will be three things: occasional, casual, and conversational. I want to share interesting updates with you, to get your feedback every once in a while, and to hear your side of the story. There will be no ads and no sponsored content.
+This newsletter will be three things: occasional, casual, and conversational. I want to share interesting updates and timely reminders, and ask for your feedback every once in a while. There will be no ads and no sponsored content.
 
 ## Picking the platform
 
