@@ -1,5 +1,5 @@
 ---
-title: stickers
+title: Stickers
 description: Turning my artwork into stickers
 date_created: 2025-12-08
 project_url:
@@ -20,7 +20,7 @@ Then you get the ones that are just plain weird.
 
 !["Make gentrify total destroy / Rent is a fuck"](/images/rent-is-a-fuck.jpg)
 
-!["Sorry not sorry for making you horny"](images/sorry-not-sorry.jpg)
+!["Sorry not sorry for making you horny"](/images/sorry-not-sorry.jpg)
 
 I love how this sort of guerrilla art snaps me out of autopilot, and I wanted to make my own for a while.
 
