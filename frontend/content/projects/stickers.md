@@ -14,14 +14,6 @@ Closer to home, the bathroom of your local watering hole hints at the sort of cr
 
 !["Stickers on a Berlin pub table"](images/berlin-bar-stickers.jpg)
 
-Then you get the ones that are just plain weird.
-
-!["Internetzugang" butthole stickers](/images/internetzugang-butthole.jpg)
-
-!["Make gentrify total destroy / Rent is a fuck"](/images/rent-is-a-fuck.jpg)
-
-!["Sorry not sorry for making you horny"](/images/sorry-not-sorry.jpg)
-
 I love how this sort of guerrilla art snaps me out of autopilot, and I wanted to make my own for a while.
 
 Recently, a friend got me into watercolour painting, and we were talking about leaving our watercolours in random places for strangers to take home. Then I made this little doodle that I loved too much to let go. Instead, I put him on a small batch of stickers.
