@@ -32,9 +32,10 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{di
     --font-sans-serif:400 var(--font-size-m) var(--font-family-data);
 
     --color-background: #f6f5f1;
-    --color-text: rgb(73, 71, 70);
-    --color-text-light: #73706D;
+    --color-text: #1d1b16;
+    --color-text-light: #575142;
     --color-text-strong: #000;
+    --color-link: #d00707;
 
     --color-text-inverted: var(--color-background);
     --color-background-inverted: var(--color-text);
@@ -53,8 +54,6 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{di
     --spacing-s: 0.5rem;
 
     --page-borders: var(--spacing-l);
-
-    --color-link: #64719c;
 
     --box-shadow: 0 0.5rem 1rem #0001;
     --border-radius: 5px;
@@ -107,7 +106,7 @@ ol{counter-reset:list;}
 
 h1, h2, h3{line-height:var(--line-height-compact);margin:1.5em 0 1em;}
     main header{margin:var(--spacing-xxl) 0;background:url('data:image/svg+xml;utf8,{% include "/img/separator.svg" %}') no-repeat bottom center;background-size:300px;font-size:2.7rem;padding-bottom:calc(var(--spacing-xxl) + 19px);text-align:center}
-        main header h1{margin:0; letter-spacing:-0.02em;font-weight:600;}
+        main header h1{margin:0; letter-spacing:-0.01em;font-weight:500;}
         main header small{font-size:1rem;display:block;margin-top:var(--spacing-text-s)}
     h2{font-size:var(--font-size-h2);font-weight:500;}
     h3{font-size:var(--font-size-h3);font-weight:500;}
