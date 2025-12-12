@@ -150,7 +150,7 @@ figure, :not(figure) > picture, :not(figure, picture) > img {display:block;margi
     .entry-list.notes > li + li > div {border-top:var(--border-light); padding-top:var(--spacing-l); padding-bottom:var(--spacing-l);}
     .entry-list.notes > li > div > :first-child{margin-top: 0; border-top:none;}
     .entry-list.notes > li > div > :last-child{margin-bottom: 0; border-bottom:none;}
-    .entry-list.posts > li > p, .entry-list.recipes > li > p {padding-left: var(--spacing-m)}
+    .entry-list:is(.posts, .recipes, .projects) > li > p {padding-left: var(--spacing-m)}
     .entry-list > li:before{content:''}
 
 .recipe li.checked{text-decoration:line-through;}
