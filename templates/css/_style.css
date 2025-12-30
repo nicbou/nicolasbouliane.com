@@ -99,7 +99,7 @@ p, ul, ol, details, main nav, blockquote, pre{margin:var(--spacing-text-l) 0}
 ul{}
     li{padding-left:1em;list-style:outside none;position:relative;margin:0.5em 0}
         li:last-child{margin-bottom:0}
-        main ul li:before, main nav li:before{content:'➤';font-size:0.6em;position:absolute;left:0}
+        main ul > li:before, main nav li:before{content:'➤';font-size:0.6em;position:absolute;left:0;line-height: calc(var(--line-height) / 0.6)}
 ol{counter-reset:list;}
     ol li{padding-left:1.5em;}
     ol li:before{counter-increment:list;content: counter(list) ". ";font-size:1em;font-style:italic;position:absolute;left:0;line-height:var(--line-height)}
@@ -147,9 +147,14 @@ figure, :not(figure) > picture, :not(figure, picture) > img {display:block;margi
     .entry-list > li > :not(time){grid-column-start:2;border-left:var(--border-light);padding-left:var(--spacing-m)}
     .entry-list:not(.notes) :is(h2, h3){font-size:var(--font-size-h3);margin:0}
     .entry-list:not(.notes) p{font:var(--font-data);margin:0;padding:var(--spacing-s) 0 var(--spacing-l);line-height:var(--line-height)}
+    .entry-list.notes > li:first-child > div {padding-bottom:var(--spacing-l);}
     .entry-list.notes > li + li > div {border-top:var(--border-light); padding-top:var(--spacing-l); padding-bottom:var(--spacing-l);}
-    .entry-list.notes > li > div > :first-child{margin-top: 0; border-top:none;}
+    .entry-list.notes > li > div > :first-child{margin-top: 0; border:none;}
     .entry-list.notes > li > div > :last-child{margin-bottom: 0; border-bottom:none;}
+    .entry-list.notes blockquote{padding: 0 0 0 var(--spacing-text-m);position: relative;}
+        .entry-list.notes blockquote:before{content:'“';font-size: 2em;position: absolute;left:0;color:var(--color-text-light)}
+    .entry-list.notes blockquote > :first-child{margin-top: 0}
+    .entry-list.notes blockquote > :last-child{margin-bottom: 0}
     .entry-list:is(.posts, .recipes, .projects) > li > p {padding-left: var(--spacing-m)}
     .entry-list > li:before{content:''}
 
