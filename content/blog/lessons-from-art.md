@@ -6,17 +6,30 @@ categories:
     golden
 ---
 
-My resolution for 2025 was to make more art. A hundred sketches, paintings, stickers and sculptures later, I get to say that I have kept my resolution.
+My resolution for 2025 was to make more art, and I had a ton of fun keeping it. I got into took acrylic painting lessons, got into watercolours, [made stickers](/projects/stickers), and sketched more than ever before.
 
-I have learned a few lessons along the way that apply to more than just art.
+Along the way, I have learned a few unexpected life lessons.
 
 ## Make mistakes
 
-The single greatest contribution to my growth as an artist was allowing myself to make mistakes. Messing up is a byproduct of trying, and being okay with it means trying more often. It made me more keen to experiment with new techniques and tackle complex subjects.
+I became a better artist when I allowed myself to make mistakes.
 
-I have learned to paint the same thing multiple times in a row. If I can't wrestle a good painting out of a bad sketch, you can usually slip a few lessons out of it, and get it right after one or two attempts. Each iteration has something to teach me.
+Until now, I used the pages of my notebooks parsimoniously. I feared disgracing them with drafts and studies. If someone were to yank one from my hands and flip through it, they would expose me as a fraud. Even when I upgraded to infinite digital paper, I wanted my Procreate gallery to look perfect.
 
-Paper is so cheap as to be in infinite supply. Even top-shelf art supplies are relatively affordable. The only thing in finite supply is your time on earth.
+I was not aware of [studies](https://en.wikipedia.org/wiki/Study_(art)). Behind every great painting is a series of sketches that help the artist figure how to render their subject.
+
+![Study by Michelangelo](/images/illustrations/michelangelo-study.png "Michelangelo made this")
+
+When I took painting lessons, our teacher had us waste paint making lines and splotches. We used different paintbrushes, then our fingers. He wanted us to understand how acrylic paint *feels*. I have learned more in those two hours than in the last three decades of not wasting paint.
+
+This got me to experiment more. I wasted sheet after sheet of printer paper, then upgraded to wasting expensive watercolour paper. I made my own studies, tackling bolder topics and trying new techniques. I made a lot more bad art, but that was okay, because I learned with each iteration. Messing up is part of the process.
+
+It was a subtle but powerful change of perspective for me. I lost the fear of trying, and I started learning a lot more, a lot faster.
+
+It makes me a lot more conscious of similar anxieties in other aspects of my life. I would be a better ice skater if I fell on my ass once in a while. I would strike up a lot more conversations with strangers if I accepted a few awkward false starts. Where else is my fear of failure making me blind to benefits of trying?
+
+> "Sucking at something is the first step towards being sorta good at something."  
+> — Jake the dog
 
 ## Polishing turds
 
