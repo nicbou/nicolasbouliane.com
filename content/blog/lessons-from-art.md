@@ -31,15 +31,21 @@ It makes me a lot more conscious of similar anxieties in other aspects of my lif
 > "Sucking at something is the first step towards being sorta good at something."  
 > — Jake the dog
 
-## Polishing turds
+## You are your own harshest critic
 
-I have a tendency to sit too close to my painting and get lost in the details. For example, I paint an urban landscape and spend half an hour drawing every window of a building. Then I take a step back and realise I have made a very detailed turd. The perspective and the shadows are all wrong.
+When I got into watercolours, I made a portrait of a friend that now hangs on his wall. *He even framed it.*
 
-I took painting lessons in October. The teacher would tell us to put the paintbrush down and take a few paces back.
+Then [I made stickers](/projects/stickers) out of one of my doodles. They were a test for a larger batch of All About Berlin stickers, but they started showed up on my friends' water bottles. I thought they were just obliging me, but when *their* friends asked for stickers, I had to accept that some people genuinely like my work.
 
-If that does not work, taking some time off helps. You develop a certain blindness from looking at your work for too long. When I return to a painting later, the mistakes are plain as day.
+When I'm in the thick of it, I compare myself with the very best in my field, blind to the fact that I have already made stuff people deem worthy of putting on walls.
 
-Focus on getting the broad strokes right before sweating the small stuff.
+## Hyperopia
+
+I tend to get stuck on getting tiny details perfectly right while losing sight of the big picture. This often results in a highly detailed turd, where each part is elaborately drawn, but none of them work together. I quite literally miss the forest for the trees. It's a form of hyperopia, in which problems can be seen clearly at a distance, but are blurry up close.
+
+Our painting teacher stopped us mid-painting, and asked us to take a few steps back. With a bit of distance, I could see the glaring flaws in my work.
+
+I have learned to get the broad strokes right before sweating the small stuff. If a drawing feels off, I allow space and time to highlight mistakes that I'm too close to the canvas to see.
 
 ## Do the thing
 
@@ -49,7 +55,7 @@ Making more art meant carrying a sketchbook with me at all times. It meant creat
 
 I used to draw on lined paper with a mechanical pencil. It was good enough for all of my childhood. It's something I try to remember when I fuss about pigment and paper quality for my watercolours. Of course a tree needs the right conditions to grow, but most of all it needs time. Waiting has extracted a greater toll on my craft than cheap pencils.
 
-## Art is about choices
+## Art is about the choices we make
 
 Making things myself has changed the way I appreciate other people's work. I used to understand the word "appreciate" as establishing the value of something. I thought that appreciating a Van Gogh painting meant seeing why Starry Night is so damn popular, because if you don't, something is just wrong with you.
 
