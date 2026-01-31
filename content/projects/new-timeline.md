@@ -11,7 +11,7 @@ On August 3, 2019, I had a crush.
 
 You could not tell from looking at my photos. You might see Kazakh food and landscapes, and a few pictures of my mangled motorcycle. They only form part of the picture. The real story is in my notebook and my digital journal. Even my Google search history has a few hints.
 
-I wanted a tool that combines my photos, my documents, my journal and the ephemera of my digital life into a single timeline, so I built it.
+I have built a tool that combines the ephemera of my life into a single timeline, that portrays my day-to-day life my life as I experience it, not just as a few photos.
 
 ![Screenshot of the timeline tool](/images/timeline-2.png)
 
