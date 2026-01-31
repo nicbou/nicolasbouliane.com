@@ -4,15 +4,20 @@ description: It builds a timeline out of your photos, diaries, calendars and loc
 date_created: 2023-11-28
 project_url: https://github.com/nicbou/timeline
 repo_url: https://github.com/nicbou/timeline
-featured_image: images/timeline-1.png
 categories: golden
 ---
 
-Some time ago, I built a [timeline thing](/projects/timeline). It ran smoothly for a few years, but it was a heavy, complex project. It was hard to configure, run, reason about and work on. I dreaded touching it.
+On August 3, 2019, I had a crush.
 
-This iteration is leaner, simpler. It's meant to be [calm technology](https://calmtech.com/) that requires as little attention as possible. It draw inspiration from the [simple, efficient static site generator](/projects/ursus) I created for All About Berlin.
+If you looked at my photos, you would see Kazakh food and landscapes, and my mangled motorcycle. Nothing about a crush! You would have to look in my notebook, my journals, or even my Google search history.
+
+I have always wanted a tool that combines my photos, my documents, my journal and the ephemera of my digital life into a single timeline, so I built one.
 
 ![Screenshot of the timeline tool](/images/timeline-2.png)
+
+This is my [second attempt](/projects/timeline) at such a project. The first version ran smoothly for a few years, but it was a complex. It was hard to configure, run, reason about and work on. I dreaded touching it.
+
+This iteration is leaner, simpler. It's [calm technology](https://calmtech.com/) that requires no attention. It draws inspiration from the [simple, efficient static site generator](/projects/ursus) I created for All About Berlin.
 
 Here's roughly how I did it.
 
