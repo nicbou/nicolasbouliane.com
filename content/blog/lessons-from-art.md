@@ -6,27 +6,27 @@ categories:
     golden
 ---
 
-My resolution for 2025 was to make more art, and I had a ton of fun keeping it. I got into took acrylic painting lessons, got into watercolours, [made stickers](/projects/stickers), and sketched more than ever before.
+My resolution for 2025 was to make more art, and I had fun keeping it. I took acrylic painting lessons, got into watercolours, [printed stickers](/projects/stickers), and made hundreds of drawings. I went to sketching sessions and organised art hangouts. I carry my art kit everywhere I go. *Mission accomplished!*
 
-Along the way, I have learned a few unexpected life lessons.
+Along the way, I have learned a few lessons that apply to other areas of my life.
 
 ## Make mistakes
 
 I became a better artist when I allowed myself to make mistakes.
 
-Until now, I used the pages of my notebooks parsimoniously. I feared disgracing them with drafts and studies. If someone were to yank one from my hands and flip through it, they would expose me as a fraud. Even when I upgraded to infinite digital paper, I wanted my Procreate gallery to look perfect.
+Until recently, I used the pages of my notebooks parsimoniously. I feared disgracing them with subpar work. Someone might yank my notebook from my hands, flip through it, and expose me as a fraud! This was not a position I reasoned myself into, just behaviour I never questioned.
 
-I was not aware of [studies](https://en.wikipedia.org/wiki/Study_(art)). Behind every great painting is a series of sketches that help the artist figure how to render their subject.
+But then I learned about [studies](https://en.wikipedia.org/wiki/Study_(art)). The greatest artists make a series of sketches to figure how to render their subjects. It stands to reason that they practised the smallest aspects of their craft, just like athletes.
 
 ![Study by Michelangelo](/images/illustrations/michelangelo-study.png "Michelangelo made this")
 
-When I took painting lessons, our teacher had us waste paint making lines and splotches. We used different paintbrushes, then our fingers. He wanted us to understand how acrylic paint *feels*. I have learned more in those two hours than in the last three decades of not wasting paint.
+My first painting lesson was two hours of making lines and splotches, first with different paintbrushes, then with our fingers. The goal was not to make art, but to understand how acrylic paint *feels*. I learned more by wasting paint for two hours than by rationing it for decades.
 
-This got me to experiment more. I wasted sheet after sheet of printer paper, then upgraded to wasting expensive watercolour paper. I made my own studies, tackling bolder topics and trying new techniques. I made a lot more bad art, but that was okay, because I learned with each iteration. Messing up is part of the process.
+This got me to experiment more. *A lot more.* I embraced failure as an essential part of the creative process. It was a subtle but powerful change in my approach.
 
-It was a subtle but powerful change of perspective for me. I lost the fear of trying, and I started learning a lot more, a lot faster.
+When I lost the fear of making bad art, I started tackling bolder subjects and experimenting with new techniques. I deliberately failed so that I could learn from each attempt.
 
-It makes me a lot more conscious of similar anxieties in other aspects of my life. I would be a better ice skater if I fell on my ass once in a while. I would strike up a lot more conversations with strangers if I accepted a few awkward false starts. Where else is my fear of failure making me blind to benefits of trying?
+The fearlessness has spread to other areas of my life. I learned to slip up, cock up, blunder and bumble, because I want to be good on ice skates, to meet interesting strangers and to make better art. I might fall on my ass, have awkward conversations and waste a lot of paper, but I will risk failure if it guarantees progress.
 
 > "Sucking at something is the first step towards being sorta good at something."  
 > — Jake the dog
@@ -64,3 +64,7 @@ Only since recently do I understand appreciation in the sense of love and gratit
 Painting is not about faithfully reproducing what the eyes see. The invention of photography has greatly devalued this aptitude. Making art is all about making choices. You can't draw every single leaf of a tree, so you have to take shortcuts. The shortcuts that you choose to take is the message your are making.
 
 This applies to other areas of your life. Life is unfathomably complex and your time on Earth is a blip. You are the shortcuts you take and the parts you choose to highlight.
+
+## Related
+
+- ["Why do we fall sir?"](https://www.youtube.com/watch?v=EP5TPbtbzRo?t=14)
