@@ -26,6 +26,8 @@ This got me to experiment more. *A lot more.* I embraced failure as an essential
 
 When I lost the fear of making bad art, I started tackling bolder subjects and experimenting with new techniques. I deliberately failed so that I could learn from each attempt.
 
+![Multiple attempts at drawing the same subject](/images/illustrations/art-studies.png)
+
 The fearlessness has spread to other areas of my life. I learned to slip up, cock up, blunder and bumble, because I want to be good on ice skates, to meet interesting strangers and to make better art. I might fall on my ass, have awkward conversations and waste a lot of paper, but I will risk failure if it guarantees progress.
 
 > "Sucking at something is the first step towards being sorta good at something."  
