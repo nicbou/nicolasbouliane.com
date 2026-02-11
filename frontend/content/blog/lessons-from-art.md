@@ -30,6 +30,8 @@ When I lost the fear of making bad art, I started tackling bolder subjects and e
 
 The fearlessness has spread to other areas of my life. I learned to slip up, cock up, blunder and bumble, because I want to be good on ice skates, to meet interesting strangers and to make better art. I might fall on my ass, have awkward conversations and waste a lot of paper, but I will risk failure if it guarantees progress.
 
+This also happened in the kitchen. My other resolution for 2025 was to make better curries. I made more progress with half-assed attempts than by waiting to find the perfect recipe. By trying and failing, I could figure out what went wrong and inch my way towards halfway decent chow.
+
 > "Sucking at something is the first step towards being sorta good at something."  
 > — Jake the dog
 
@@ -37,7 +39,7 @@ The fearlessness has spread to other areas of my life. I learned to slip up, coc
 
 When I got into watercolours, I made a portrait of a friend that now hangs on his wall. *He even framed it.*
 
-Then [I made stickers](/projects/stickers) out of one of my doodles. They were a test for a larger batch of All About Berlin stickers, but they started showed up on my friends' water bottles. I thought they were just obliging me, but when *their* friends asked for stickers, I had to accept that some people genuinely like my work.
+Then [I made stickers](/projects/stickers) of one of my doodles. They were a test for a larger batch of All About Berlin stickers, but they started showed up on my friends' water bottles. I thought they were just obliging me, but when *their* friends asked for stickers, I had to accept that some people genuinely like my work.
 
 When I'm in the thick of it, I compare myself with the very best in my field, blind to the fact that I have already made stuff people deem worthy of putting on walls.
 
@@ -55,7 +57,7 @@ Above all, do the thing. If you fancy yourself an artist, *make art*. A painter 
 
 Making more art meant carrying a sketchbook with me at all times. It meant creating a space for it in my apartment. It meant meeting friends in a café to paint watercolours.
 
-I used to draw on lined paper with a mechanical pencil. It was good enough for all of my childhood. It's something I try to remember when I fuss about pigment and paper quality for my watercolours. Of course a tree needs the right conditions to grow, but most of all it needs time. Waiting has extracted a greater toll on my craft than cheap pencils.
+I used to draw on lined paper with a mechanical pencil. It was good enough for all of my childhood. It's something I try to remember when I fuss about pigment and paper quality for my watercolours. Of course a tree needs the right conditions to grow, but most of all it needs time. Waiting has exacted a greater toll on my development than cheap pencils.
 
 ## Art is about the choices we make
 
