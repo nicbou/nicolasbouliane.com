@@ -30,3 +30,7 @@ date_created: 2025-11-02
 4. Cook until the desired texture is reached.  
 5. Stir in parsley and butter and cook briefly.  
 6. Serve hot with rice or pitas.
+
+## Note to myself
+
+Try the extra ingredients from [this recipe](https://www.indianhealthyrecipes.com/keema-recipe-mutton-keema-curry/#wprm-recipe-container-37378) next.
