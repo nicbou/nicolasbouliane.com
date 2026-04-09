@@ -21,10 +21,10 @@ This is not a recipe, but rather general directions for a very adaptable dish. I
 
 A combination of any of these ingredients:
 
+- Lemon or lime juice
 - Red onion, finely chopped
 - Jalapeños, finely chopped
 - Green bell pepper, finely chopped
-- Lime juice
 - Cilantro, chopped
 - Kidney beans or black beans
 - Green olives
@@ -32,12 +32,12 @@ A combination of any of these ingredients:
 
 ## Preparation
 
-1. Chop all the ingredients, and mix with spices, salt, pepper and a dash of lime juice. The proportions are up to you, but the mix should taste good on its own.
-1. Melt around 1 teaspoon butter in a pan on medium heat.
-2. Add a pinch of salt to the pan, and lay one tortilla on it. Lightly salting the outside makes a huge difference.
-3. Cover the tortilla with cheese. Do not overdo it.
-4. Spread some of your ingredient mix on the tortilla.
-5. Add another tortilla on top, and lightly press it with a spatula
-6. Let it cook until the tortilla is golden and a little crispy, then flip it, and wait for the other side to cook.
-7. Rub the golden side with a halved garlic clove. I prefer that to garlic powder. It's a very noticeable upgrade.
-8. Cut in 4, and serve with a dollop of sour cream.
+Making half quesadillas from a single tortilla is better, because it's easier to flip, and because you can cook both sides of the tortilla and make it crispier.
+
+1. Chop all the **vegetables**, and mix with **spices**, **salt**, **pepper** and a dash of **lime juice**. The proportions are up to you, but the mix should taste good on its own. More lime juice is usually better.
+2. Melt around 1 teaspoon butter in a pan on medium heat.
+3. Cook one tortilla until lightly golden
+4. Flip the tortilla, and cover one half of it with one layer of cheese, one layer of your vegetable mix, and another layer of cheese. Fold it closed, and press it down with a spatula.
+5. Cook one side of your folded quesadilla until golden, then flip it and cook the other side. Get it nice and crispy.
+9. Rub the outside with a halved garlic clove, then sprinkle salt on top. These are noticeable improvements.
+10. Cut in half, and serve with a dollop of sour cream. Adding pepper and coriander on top makes it look really posh.
