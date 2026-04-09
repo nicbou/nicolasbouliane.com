@@ -35,3 +35,14 @@ tags:
 7. Let everything simmer until the eggs are cooked.
 8. Sprinkle with **feta**, **olives**, and the rest of the **cilantro**. Serve with bread.
 
+## Shakshuka redux
+
+You can leave out the tomatoes and red bell pepper and make a really nice weekday breakfast for one:
+
+1. Add **butter** to a pan and heat it up to medium heat
+2. Crack two **eggs**, and sprinkle them with **salt**, **pepper**, **cumin**, **paprika** and a small pinch of **garlic powder**
+3. Top with **feta**, **olives** and chopped **coriander**
+4. Cook the eggs until opaque but still runny
+5. Serve with fresh bread.
+
+![](/images/shakshuka-redux.jpg)
