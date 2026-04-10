@@ -35,9 +35,9 @@ A combination of any of these ingredients:
 Making half quesadillas from a single tortilla is better, because it's easier to flip, and because you can cook both sides of the tortilla and make it crispier.
 
 1. Chop all the **vegetables**, and mix with **spices**, **salt**, **pepper** and a dash of **lime juice**. The proportions are up to you, but the mix should taste good on its own. More lime juice is usually better.
-2. Melt around 1 teaspoon butter in a pan on medium heat.
-3. Cook one tortilla until lightly golden
-4. Flip the tortilla, and cover one half of it with one layer of cheese, one layer of your vegetable mix, and another layer of cheese. Fold it closed, and press it down with a spatula.
+2. Melt around 1 teaspoon **butter** in a pan on medium heat.
+3. Cook one **tortilla** until lightly golden
+4. Flip the tortilla, and cover one half of it with one layer of **cheese**, one layer of your vegetable mix, and another layer of cheese. Fold it closed, and press it down with a spatula.
 5. Cook one side of your folded quesadilla until golden, then flip it and cook the other side. Get it nice and crispy.
-9. Rub the outside with a halved garlic clove, then sprinkle salt on top. These are noticeable improvements.
-10. Cut in half, and serve with a dollop of sour cream. Adding pepper and coriander on top makes it look really posh.
+9. Rub the outside with a halved **garlic** clove, then sprinkle **salt** on top. These are noticeable improvements.
+10. Cut in half, and serve with a dollop of **sour cream**. Adding pepper and coriander on top makes it look really posh.
