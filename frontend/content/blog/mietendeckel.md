@@ -4,7 +4,7 @@ short_title: The Mietendeckel
 description: The Mietendeckel was repealed. You might have to give the money you saved back, but there are other ways to reduce your rent.
 date_created: 2021-04-15
 categories:
-    berlin
+    - berlin
 ---
 
 *This is a backup of a guide on All About Berlin. The information in it probably does not apply to you. The Mietendeckel was repealed. Instead, you should apply the [Mietpreisbremse](https://allaboutberlin.com/glossary/Mietpreisbremse)*

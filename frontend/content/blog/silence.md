@@ -2,8 +2,9 @@
 title: Making quieter technology
 description: I spent the last years making technology calm and pleasant to use. This is roughly how I did it.
 date_created: 2022-08-07
-categories: golden
-    technology
+categories:
+    - golden
+    - technology
 ---
 
 Technology constantly calls for my attention, like a needy child. Attention is engagement and engagement is profit. Thus the best minds of our generation are busy grabbing my attention by increasingly coercive means.

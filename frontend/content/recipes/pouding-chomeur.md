@@ -3,8 +3,8 @@ title: Maple syrup pouding chômeur
 description: You bake a cake in maple syrup and cream. It doesn't last long enough to take pictures.
 date_created: 2021-12-01
 tags:
-    dessert
-    quebec
+    - dessert
+    - quebec
 ---
 
 ## Ingredients

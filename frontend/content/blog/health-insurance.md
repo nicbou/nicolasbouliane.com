@@ -3,7 +3,7 @@ title: I guess I'm an insurance salesman now
 description: The things you will do to save what you have worked on for the last 8 years of life.
 date_created: 2025-08-04
 categories:
-    allaboutberlin
+    - allaboutberlin
 ---
 
 I am on a train to Frankfurt to meet Seamus, the insurance broker I work with. We are building a health insurance business from the ground up, and I have mixed feelings about it.

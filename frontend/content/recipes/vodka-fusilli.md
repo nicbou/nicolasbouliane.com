@@ -3,8 +3,8 @@ title: Fusilli alla vodka
 description: Quick an easy weekday pasta.
 date_created: 2023-09-20
 tags:
-    pasta
-    vegetarian
+    - pasta
+    - vegetarian
 ---
 
 ## Ingredients

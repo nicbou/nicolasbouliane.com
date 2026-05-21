@@ -3,8 +3,8 @@ title: The Greater Bad-ass
 description: I took a spill.
 date_created: 2025-04-12
 categories:
-    motorcycle
-    golden
+    - motorcycle
+    - golden
 ---
 
 My motorcycle slips on a patch of mud, the front wheel goes from under me, I hit the ground hard, parts go flying, I get the wind knocked out of me.

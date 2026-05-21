@@ -3,7 +3,7 @@ title: Quesadillas
 description: Notes about quesadillas, the recipe people keep asking me about.
 date_created: 2026-03-21
 tags:
-    vegetarian
+    - vegetarian
 ---
 
 This is not a recipe, but rather general directions for a very adaptable dish. It's a nice everyday dish, and easy to make in a kitchen that's not your own.

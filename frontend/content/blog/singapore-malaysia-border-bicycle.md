@@ -3,7 +3,7 @@ title: Crossing Singaport/Malaysia border on a bicycle
 description: Notes about the Johor Bahru border crossing for future travellers.
 date_created: 2024-02-13
 categories:
-    travel
+    - travel
 ---
 
 On February 10, I crossed the border between Singapore and Johor Bahru on a bicycle. This is how it went. This post is meant for people about to do the same; it's not an exciting story.

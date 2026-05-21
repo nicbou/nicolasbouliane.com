@@ -2,8 +2,9 @@
 title: Read it as you please
 description: I choose what to write, you choose how you read it.
 date_created: 2023-04-12
-categories: golden
-    technology
+categories:
+    - golden
+    - technology
 ---
 
 For the most part, the content I create is just text on a page.

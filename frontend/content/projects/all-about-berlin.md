@@ -4,7 +4,8 @@ description: A website that helps people settle in Berlin and navigate German bu
 date_created: 2017-09-20
 project_url: https://allaboutberlin.com
 repo_url: https://github.com/all-about-berlin
-categories: golden
+categories:
+    - golden
 ---
 
 Since 2017, I run a website called [All About Berlin](https://allaboutberlin.com). It hosts a large collection of detailed guides that help immigrants settle in Germany. It helps them navigate the kafkaeske bureaucracy and figure out all the little systems that make up German society. It's my full time job since 2020.

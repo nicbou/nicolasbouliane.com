@@ -2,8 +2,9 @@
 title: An Abmahnung for using a Creative Commons image
 description: In 2018, I had to pay hundreds of euros because I did not credit a Creative Commons image properly. Here's what happened.
 date_created: 2018-05-06
-categories: reference
-    technology
+categories:
+    - reference
+    - technology
 ---
 
 *This post was previously hosted on [All About Berlin](https://allaboutberlin.com). I moved it to my personal website because it's more story than advice.*

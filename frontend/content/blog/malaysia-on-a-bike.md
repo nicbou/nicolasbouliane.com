@@ -3,7 +3,7 @@ title: Cycling across Malaysia
 description: Notes about my bicycle trip from Singapore to Penang for future travellers.
 date_created: 2024-03-01
 categories:
-    travel
+    - travel
 ---
 
 In February and March 2024, I have cycled from Singapore to Penang. This post is for those who plan a similar trip. It's not a travel diary.

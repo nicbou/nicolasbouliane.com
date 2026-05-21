@@ -4,7 +4,7 @@ description: Simple, tasty, spicy. It reheats well, it's easy to pack on a hike,
 date_created: 2021-11-19
 featured_image: images/shakshuka.jpg
 tags:
-    breakfast
+    - breakfast
 ---
 
 ## Ingredients

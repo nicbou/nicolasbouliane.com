@@ -4,8 +4,8 @@ description: A tool that collects and displays feedback about the Landesamt für
 date_created: 2024-11-27
 project_url: https://allaboutberlin.com/guides/auslanderbehorde-wait-times
 categories:
-    golden
-    allaboutberlin
+    - golden
+    - allaboutberlin
 ---
 
 I have made [a tool](https://allaboutberlin.com/guides/auslanderbehorde-wait-times) to measure and display wait times at the Berlin immigration office. It collects user reports and shows statistics by department and residence permit type. It's on [All About Berlin](/projects/all-about-berlin) since November 2024, and it has collected hundreds of data points.

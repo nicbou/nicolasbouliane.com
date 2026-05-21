@@ -3,9 +3,9 @@ title: Creamy red curry soup
 description: A slightly spicy soup that's dead simple to make
 date_created: 2023-11-30
 tags:
-    soup
-    vegan
-    vegetarian
+    - soup
+    - vegan
+    - vegetarian
 ---
 
 ## Ingredients

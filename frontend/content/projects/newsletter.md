@@ -3,7 +3,8 @@ title: Newsletter
 description: A newsletter for All About Berlin
 date_created: 2025-12-06
 project_url: https://allaboutberlin.com/newsletter
-categories: golden
+categories:
+    - golden
 ---
 
 In December 2025, I started [a monthly newsletter](https://allaboutberlin.com/newsletter) for All About Berlin.

@@ -3,7 +3,7 @@ title: Pasta alla puttanesca
 description: Tomatoes, anchovies, capers and olives. A quick and easy pasta dish. A staple in my household.
 date_created: 2024-08-07
 tags:
-    pasta
+    - pasta
 ---
 
 ## Ingredients

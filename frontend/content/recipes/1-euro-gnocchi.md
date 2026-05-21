@@ -3,7 +3,7 @@ title: 1 euro gnocchi
 description: A quick and dirty gnocchi recipe that takes 15 minutes, costs less than 1€ per portion, and doesn't use any perishable ingredients.
 date_created: 2020-09-18
 tags:
-    vegetarian
+    - vegetarian
 ---
 
 ## Ingredients

@@ -4,7 +4,7 @@ description: A traditional recipe from my region, best enjoyed during the holida
 date_created: 2020-09-13
 featured_image: images/tourtiere.jpg
 tags:
-    quebec
+    - quebec
 ---
 
 ## Ingredients

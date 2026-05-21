@@ -3,7 +3,7 @@ title: Banana pancakes
 description: A sweet pancake recipe that's quicker, easier and tastier than regular crêpes.
 date_created: 2020-09-18
 tags:
-    breakfast
+    - breakfast
 ---
 
 This is a recipe somewhere between slim [French crêpes](/recipes/pancakes) and thick [American pancakes](/recipes/thick-pancakes). If you don't have bananas, you can substitute them with other fruit or leave them out entirely.

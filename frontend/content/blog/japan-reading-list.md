@@ -3,7 +3,7 @@ title: A reading list for Japan
 description: Articles and essays that enriched my trip to Japan.
 date_created: 2024-11-18
 categories:
-    travel
+    - travel
 ---
 
 I visited Japan in Autumn 2024. As is tradition, I enriched my visit with as much reading about Japan as I could get my eyes on. Below is a list of the more interesting things I have read.

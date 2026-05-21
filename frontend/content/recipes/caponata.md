@@ -3,8 +3,8 @@ title: Caponata
 description: A versatile, vegan italian dip that's great for picnics.
 date_created: 2020-09-13
 tags:
-    vegetarian
-    vegan
+    - vegetarian
+    - vegan
 ---
 
 ## Ingredients

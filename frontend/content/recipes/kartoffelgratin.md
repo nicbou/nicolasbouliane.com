@@ -3,7 +3,7 @@ title: Kartoffelgratin
 description: Potatoes, cream and cheese. A quick and easy - but not healthy - vegetarian dish.
 date_created: 2024-12-24
 tags:
-    vegetarian
+    - vegetarian
 ---
 
 ## Ingredients

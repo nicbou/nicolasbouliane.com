@@ -3,7 +3,7 @@ title: Bringing the Bürgeramt appointment finder back online
 description: My tool went offline for a few months. A post-mortem of what happened.
 date_created: 2024-06-07
 categories:
-    technology
+    - technology
 ---
 
 Some time ago, I built a [Bürgeramt appointment finder](/projects/appointment-finder). It helps people get an appointment to register their address at the Bürgeramt. The tool is exceptional in two ways: it's available to everyone for free, and it follows the rules. I worked with the city for many months to get it sanctioned.

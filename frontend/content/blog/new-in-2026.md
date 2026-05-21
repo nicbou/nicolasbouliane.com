@@ -3,8 +3,8 @@ title: What's new for Berliners in 2026
 description: A brief summary of changes that affect most immigrants in Berlin.
 date_created: 2025-12-15
 categories:
-    golden
-    allaboutberlin
+    - golden
+    - allaboutberlin
 ---
 
 Every year, on the first of January, prices change and new laws come into effect. Mostly, life gets a little more expensive. 

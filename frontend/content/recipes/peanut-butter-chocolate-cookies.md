@@ -4,7 +4,7 @@ description: A rich, salty vegan cookie recipe that takes 20 minutes to make and
 date_created: 2020-09-13
 featured_image: images/cookies-on-plate.jpg
 tags:
-    dessert
+    - dessert
 ---
 
 ## Ingredients

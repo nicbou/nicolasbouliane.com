@@ -3,7 +3,7 @@ title: Building an insurance case tracker
 description: Our first step towards building an insurance business.
 date_created: 2025-08-06
 categories:
-    allaboutberlin
+    - allaboutberlin
 ---
 [As mentioned previously](/blog/health-insurance), we're building an insurance business from the ground up, starting with a case tracking system. This will allow us to follow a customer's journey from their first email to their coverage confirmation.
 

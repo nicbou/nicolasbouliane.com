@@ -2,7 +2,8 @@
 title: Improving my resignation letter generator
 description: A series of small improvements to my resignation letter generator
 date_created: 2025-08-10
-categories: allaboutberlin
+categories:
+    - allaboutberlin
 ---
 Two years ago, I have a released a [resignation letter generator](https://allaboutberlin.com/docs/resignation-letter). There are a few rules and good practices around how these letters should be written, formatted and delivered. This tool makes helps immigrants write a compliant resignation letter.
 

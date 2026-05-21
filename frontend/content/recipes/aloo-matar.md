@@ -3,9 +3,9 @@ title: Aloo Matar
 description: Relatively mild vegan Indian dish.
 date_created: 2023-11-28
 tags:
-    vegan
-    vegetarian
-    indian
+    - vegan
+    - vegetarian
+    - indian
 ---
 
 ## Ingredients

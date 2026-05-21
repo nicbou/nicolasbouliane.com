@@ -3,8 +3,8 @@ title: Bagel BLT
 description: It's a BLT. No biggie.
 date_created: 2022-06-18
 tags:
-    breakfast
-    sandwich
+    - breakfast
+    - sandwich
 ---
 
 ## Ingredients

@@ -2,8 +2,9 @@
 title: Digital gardening
 description: A website is a lot like a garden.
 date_created: 2022-10-15
-categories: golden
-    technology
+categories:
+    - golden
+    - technology
 ---
 
 A website is a lot like a garden.

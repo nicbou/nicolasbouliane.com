@@ -3,8 +3,9 @@ title: The Liberation of Paris
 description: From D-Day to the liberation of Paris in pictures
 date_created: 2016-04-09
 featured_image: images/paris-uprising-2.jpg
-categories: golden
-    history
+categories:
+    - golden
+    - history
 ---
 
 On June 5, 1944, five minutes before midnight, a broadcast from Radio London began with a familiar introduction: "Here is London. The French speak to the French. Before we begin, please listen to some personal messages." French Résistance members huddled around their illegal radio receivers and listened attentively. [The broadcast continued](https://www.youtube.com/watch?v=9fZ2Vmzp7Ic): "Les sanglots longs des violons de l'automne blessent mon coeur d'une langueur monotone."

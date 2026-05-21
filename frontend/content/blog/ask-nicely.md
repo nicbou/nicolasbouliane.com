@@ -2,8 +2,9 @@
 title: Please ask again
 description: Or how to ask for help on the internet
 date_created: 2022-07-09
-categories: golden
-    reference
+categories:
+    - golden
+    - reference
 ---
 
 This page is a list of good practices when asking for help on the internet. If I linked you to this page, it's an invitation to ask again.

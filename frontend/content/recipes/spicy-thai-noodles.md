@@ -4,9 +4,9 @@ description: A semi-spicy vegan pasta recipe with cilantro, carrots and honey, s
 date_created: 2020-09-13
 featured_image: images/spicy-thai-noodles.jpg
 tags:
-    pasta
-    vegan
-    vegetarian
+    - pasta
+    - vegan
+    - vegetarian
 ---
 
 ## Ingredients

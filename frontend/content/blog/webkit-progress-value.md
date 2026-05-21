@@ -2,8 +2,9 @@
 title: Why ::-webkit-progress-value has no effect
 description: Can't change your progress bar colours in Chrome and Safari? It's probably because of this Chromium bug
 date_created: 2023-10-09
-categories: reference
-    technology
+categories:
+    - reference
+    - technology
 ---
 
 You can use the `::-webkit-progress-value` selector to style `<progress>` bars in Chrome and Safari.

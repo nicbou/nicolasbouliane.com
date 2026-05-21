@@ -4,7 +4,7 @@ description: This is my adaptation of Jamie Oliver's chocolate chip cookies reci
 date_created: 2020-09-13
 featured_image: images/cookies-after.jpg
 tags:
-    dessert
+    - dessert
 ---
 
 ## Ingredients

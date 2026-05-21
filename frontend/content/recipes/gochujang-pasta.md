@@ -2,7 +2,8 @@
 title: Gochujang pasta
 description: Creamy, spicy pasta
 date_created: 2025-10-17
-tags: vegetarian
+tags:
+    - vegetarian
 ---
 
 This is a blend of a few different recipes that use gochujang in pasta sauce. It's closest to the [Mob Kitchen variant](https://old.reddit.com/r/MobKitchen/comments/suju1u/sausage_gochujang_rigatoni/hxa9phc/). My friend makes a different version that leaves out the sausage and uses silken tofu instead of cream.

@@ -3,8 +3,8 @@ title: The duty to document
 description: If you learn something the hard way, it's you duty to share your lessons with others.
 date_created: 2023-05-02
 categories:
-    golden
-    technology
+    - golden
+    - technology
 ---
 
 If you learn something the hard way, share your findings with others. You have blazed a new trail; now you must mark it for your fellow travellers. Sharing knowledge is an unreasonably effective way of helping others.
