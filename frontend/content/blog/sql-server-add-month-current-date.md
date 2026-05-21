@@ -1,6 +1,6 @@
 ---
-title: SQL Server: How to add a month to the current date
-description: 
+title: 'SQL Server: How to add a month to the current date'
+description: ''
 date_created: 2014-02-24
 ---
 

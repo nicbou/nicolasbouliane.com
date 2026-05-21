@@ -1,5 +1,5 @@
 ---
-title: N26 bug: can't confirm transactions
+title: N26 transaction confirmation bug
 description: Sometimes the N26 app won't let you confirm a transaction. Here's what to do.
 date_created: 2020-09-26
 ---

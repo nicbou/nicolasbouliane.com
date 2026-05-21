@@ -1,6 +1,6 @@
 ---
 title: How to throttle scroll events in AngularJS
-description: 
+description: ''
 date_created: 2015-08-10
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: PHP preg_match failing for no reason? Blame UTF-16.
-description: 
+description: ''
 date_created: 2014-04-08
 ---
 

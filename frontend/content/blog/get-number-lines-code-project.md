@@ -1,6 +1,6 @@
 ---
 title: Get the number of lines of code for a project
-description: 
+description: ''
 date_created: 2014-02-25
 ---
 

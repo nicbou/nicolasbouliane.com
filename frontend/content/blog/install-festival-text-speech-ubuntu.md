@@ -1,6 +1,6 @@
 ---
 title: How to install Festival text-to-speech on Ubuntu
-description: 
+description: ''
 date_created: 2013-12-23
 ---
 

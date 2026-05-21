@@ -1,6 +1,6 @@
 ---
 title: Javascript, jQuery and parent windows
-description: 
+description: ''
 date_created: 2014-03-10
 ---
 

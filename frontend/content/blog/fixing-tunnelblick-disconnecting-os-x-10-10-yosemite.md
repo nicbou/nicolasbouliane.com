@@ -1,6 +1,6 @@
 ---
 title: Fixing Tunnelblick disconnecting in OS X 10.10 Yosemite
-description: 
+description: ''
 date_created: 2014-10-19
 ---
 

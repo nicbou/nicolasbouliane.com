@@ -1,5 +1,5 @@
 ---
-title: Le guide du programmeur: Unicode et UTF-8
+title: 'Le guide du programmeur: Unicode et UTF-8'
 description: Vous êtes-vous demandé ce que signifie ASCII? UTF-8? ISO 8859-1? Voici comment ça fonctionne.
 date_created: 2015-04-30
 ---

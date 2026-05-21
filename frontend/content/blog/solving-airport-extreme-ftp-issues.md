@@ -1,6 +1,6 @@
 ---
 title: Solving AirPort Extreme FTP issues
-description: 
+description: ''
 date_created: 2014-02-24
 ---
 

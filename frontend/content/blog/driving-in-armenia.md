@@ -1,6 +1,6 @@
 ---
 title: Driving in Armenia
-description: An overview of driving in Armenia: road conditions, requirements, fuel quality and scenic routes.
+description: 'An overview of driving in Armenia: road conditions, requirements, fuel quality and scenic routes.'
 date_created: 2019-06-24
 ---
 

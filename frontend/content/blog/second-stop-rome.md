@@ -1,5 +1,5 @@
 ---
-title: Second stop: Rome
+title: 'Second stop: Rome'
 description: I missed an opportunity to see Italy two years ago, so I made it my duty to see Rome on my way to Berlin. With five days to myself, I had plenty of time to wander in the eternal city. This is the recap.
 date_created: 2015-05-01
 ---

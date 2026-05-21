@@ -1,6 +1,6 @@
 ---
 title: How to create aliases to git commands
-description: 
+description: ''
 date_created: 2013-11-26
 ---
 

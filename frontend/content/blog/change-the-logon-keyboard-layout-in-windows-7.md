@@ -1,6 +1,6 @@
 ---
 title: Change the logon keyboard layout in Windows 7
-description: 
+description: ''
 date_created: 2013-08-13
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Django: How to remove fields from a Form
-description: 
+title: 'Django: How to remove fields from a Form'
+description: ''
 date_created: 2013-07-05
 ---
 

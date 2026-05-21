@@ -1,5 +1,5 @@
 ---
-title: From Montreal to Berlin: what you need to know
+title: 'From Montreal to Berlin: what you need to know'
 description: A list of important lessons learned by a Canadian travelling to Germany. Health insurance, visas and more.
 date_created: 2015-03-12
 ---

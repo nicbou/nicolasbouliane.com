@@ -1,6 +1,6 @@
 ---
 title: What is Cross-Site Request Forgery (CSRF)?
-description: 
+description: ''
 date_created: 2014-04-24
 ---
 

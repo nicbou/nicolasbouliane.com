@@ -1,6 +1,6 @@
 ---
-title: Quick tip: the yellow USB port on ThinkPads
-description: 
+title: 'Quick tip: the yellow USB port on ThinkPads'
+description: ''
 date_created: 2014-01-19
 ---
 

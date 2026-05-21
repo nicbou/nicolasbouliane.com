@@ -1,6 +1,6 @@
 ---
 title: Réglez l'erreur #1046 dans phpMyAdmin
-description: L'erreur "#1046: No database selected" qui se produit lors de l'importation d'une base de données dans phpMyAdmin est facile à régler. Voici la solution facile à un problème commun chez les nouveaux utilisateurs de WampServer et de XAMP.
+description: ''
 date_created: 2010-11-05
 ---
 

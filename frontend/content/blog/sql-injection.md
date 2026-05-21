@@ -1,6 +1,6 @@
 ---
 title: What is SQL injection?
-description: 
+description: ''
 date_created: 2014-03-28
 ---
 

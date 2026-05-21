@@ -1,6 +1,6 @@
 ---
 title: How to fix long page load times on Heroku
-description: 
+description: ''
 date_created: 2013-11-15
 ---
 

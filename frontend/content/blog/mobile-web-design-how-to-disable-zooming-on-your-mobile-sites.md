@@ -1,5 +1,5 @@
 ---
-title: Mobile web design: how to disable zooming on your mobile sites
+title: 'Mobile web design: how to disable zooming on your mobile sites'
 description: When you are making a mobile website, you might want to disable sideways scrolling and zooming. Here's how you do it.
 date_created: 2013-06-02
 ---

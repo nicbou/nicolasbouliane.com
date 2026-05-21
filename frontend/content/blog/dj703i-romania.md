@@ -1,5 +1,5 @@
 ---
-title: Road review: DJ703I, Romania
+title: 'Road review: DJ703I, Romania'
 description: An overview of the DJ703I road in Romania, between Corbi and the Vidraru dam on the the ﻿Transfăgărășan.
 date_created: 2021-09-18
 featured_image: images/preview2x.jpg

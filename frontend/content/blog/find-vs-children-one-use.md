@@ -1,5 +1,5 @@
 ---
-title: .find() vs. .children(): which one should you use?
+title: '.find() vs. .children(): which one should you use?'
 description: Two jQuery functions can find children in the DOM. Which one is the right one to use?
 date_created: 2014-04-22
 ---

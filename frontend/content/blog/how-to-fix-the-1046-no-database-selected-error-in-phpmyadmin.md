@@ -1,5 +1,5 @@
 ---
-title: How to fix the "#1046: No database selected" error in phpMyAdmin
+title: 'How to fix the "#1046: No database selected" error in phpMyAdmin'
 description: Are you getting this error when importing a .sql file in phpMyAdmin? Here's how you can solve it.
 date_created: 2013-04-04
 ---

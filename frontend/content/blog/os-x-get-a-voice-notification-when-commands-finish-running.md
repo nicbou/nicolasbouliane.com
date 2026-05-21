@@ -1,5 +1,5 @@
 ---
-title: OS X: Make a sound when commands finish running
+title: 'OS X: Make a sound when commands finish running'
 description: How to get an audible notification after a command ends.
 date_created: 2013-08-02
 ---

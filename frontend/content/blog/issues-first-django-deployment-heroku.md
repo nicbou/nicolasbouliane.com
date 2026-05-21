@@ -1,6 +1,6 @@
 ---
 title: Having issues with your first Django deployment on Heroku?
-description: 
+description: ''
 date_created: 2013-12-07
 ---
 

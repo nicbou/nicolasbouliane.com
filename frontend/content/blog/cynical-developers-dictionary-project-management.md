@@ -1,6 +1,6 @@
 ---
 title: The cynical developer's dictionary of project management
-description: 
+description: ''
 date_created: 2014-03-12
 ---
 

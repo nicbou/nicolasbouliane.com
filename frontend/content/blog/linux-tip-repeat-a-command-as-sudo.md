@@ -1,6 +1,6 @@
 ---
-title: Linux tip: repeat a command as sudo
-description: 
+title: 'Linux tip: repeat a command as sudo'
+description: ''
 date_created: 2013-09-28
 ---
 

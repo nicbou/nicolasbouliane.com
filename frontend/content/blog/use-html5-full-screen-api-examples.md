@@ -1,6 +1,6 @@
 ---
 title: How to use the HTML5 full screen API (with examples)
-description: 
+description: ''
 date_created: 2013-11-05
 ---
 

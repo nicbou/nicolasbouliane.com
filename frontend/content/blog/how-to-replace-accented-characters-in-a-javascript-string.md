@@ -1,6 +1,6 @@
 ---
 title: How to replace accented characters in a Javascript string
-description: 
+description: ''
 date_created: 2015-07-23
 ---
 

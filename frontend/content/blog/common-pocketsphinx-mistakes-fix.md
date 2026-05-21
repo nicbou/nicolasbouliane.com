@@ -1,6 +1,6 @@
 ---
 title: Common pocketsphinx mistakes and how to fix them
-description: 
+description: ''
 date_created: 2013-12-22
 ---
 

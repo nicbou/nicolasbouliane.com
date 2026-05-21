@@ -1,6 +1,6 @@
 ---
-title: What is "ReferenceError: Can't find variable: __gCrWeb"?
-description: 
+title: 'What is "ReferenceError: Can't find variable: __gCrWeb"?'
+description: ''
 date_created: 2014-11-23
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: How to see how many lines of codes were changed in a day with git
-description: 
+description: ''
 date_created: 2014-02-24
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Driving in Azerbaijan
-description: The ins and outs of driving in Azerbaijan: the paperwork you need, the road conditions, how to find fuel and more.
+description: 'The ins and outs of driving in Azerbaijan: the paperwork you need, the road conditions, how to find fuel and more.'
 date_created: 2019-07-02
 ---
 

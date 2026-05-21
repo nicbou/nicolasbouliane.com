@@ -1,5 +1,5 @@
 ---
-title: Feasibility study: Welcome Center Berlin
+title: 'Feasibility study: Welcome Center Berlin'
 description: A report about building a new website for the Welcome Center, an official website to welcome immigrants to Berlin.
 date_created: 2025-02-01
 ---

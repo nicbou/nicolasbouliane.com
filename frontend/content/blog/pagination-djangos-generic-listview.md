@@ -1,6 +1,6 @@
 ---
 title: Pagination with Django's generic ListView
-description: 
+description: ''
 date_created: 2015-01-19
 ---
 

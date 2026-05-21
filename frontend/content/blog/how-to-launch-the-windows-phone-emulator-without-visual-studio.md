@@ -1,6 +1,6 @@
 ---
 title: How to launch the Windows Phone Emulator without Visual Studio
-description: 
+description: ''
 date_created: 2013-08-13
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Fixing the "protocol error: bad pack header" error in git
+title: 'Fixing the "protocol error: bad pack header" error in git'
 description: In my case, it was because I pulled a corrupted remote Gerrit repository, and tried to push the corrupted data back to the fixed remote.
 date_created: 2016-12-06
 ---

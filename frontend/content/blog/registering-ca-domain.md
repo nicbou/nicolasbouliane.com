@@ -1,6 +1,6 @@
 ---
 title: Registering a .CA domain - what the CIRA wants
-description: 
+description: ''
 date_created: 2013-12-02
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Ubuntu: apt-get -f fails, "no space left on device", apt-get autoremove doesn't work.
+title: 'Ubuntu: apt-get -f fails, "no space left on device", apt-get autoremove does not work.'
 description: How to fix this pesky error when running apt-get install or some other command.
 date_created: 2018-02-05
 ---

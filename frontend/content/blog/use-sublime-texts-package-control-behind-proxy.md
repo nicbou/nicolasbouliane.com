@@ -1,6 +1,6 @@
 ---
 title: Use Sublime Text's Package Control behind a proxy
-description: 
+description: ''
 date_created: 2014-01-07
 ---
 

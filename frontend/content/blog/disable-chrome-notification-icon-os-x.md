@@ -1,6 +1,6 @@
 ---
 title: How to disable the Chrome notification icon in OS X
-description: 
+description: ''
 date_created: 2013-10-13
 ---
 

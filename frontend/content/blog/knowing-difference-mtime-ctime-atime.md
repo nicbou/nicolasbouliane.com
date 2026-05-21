@@ -1,6 +1,6 @@
 ---
 title: Knowing the difference between mtime, ctime and atime
-description: 
+description: ''
 date_created: 2014-03-01
 ---
 

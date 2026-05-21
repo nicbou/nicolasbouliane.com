@@ -1,6 +1,6 @@
 ---
 title: Is my router affected by the Heartbleed Bug?
-description: 
+description: ''
 date_created: 2014-04-10
 ---
 

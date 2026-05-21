@@ -1,5 +1,5 @@
 ---
-title: OS X Terminal: Open the current folder in Finder
+title: 'OS X Terminal: Open the current folder in Finder'
 description: A nifty little command that opens the current terminal directory in a finder window.
 date_created: 2013-11-15
 ---

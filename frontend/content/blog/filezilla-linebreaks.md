@@ -1,6 +1,6 @@
 ---
 title: Fix line break issues with FileZilla
-description: 
+description: ''
 date_created: 2014-04-14
 ---
 

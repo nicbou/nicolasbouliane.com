@@ -1,6 +1,6 @@
 ---
 title: Disabling font zooming in Chrome on Android
-description: 
+description: ''
 date_created: 2014-04-08
 ---
 

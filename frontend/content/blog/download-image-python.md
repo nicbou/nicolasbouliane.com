@@ -1,6 +1,6 @@
 ---
 title: How to download an image in Python
-description: 
+description: ''
 date_created: 2014-01-29
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: How to write partial derivatives in LaTeX
-description: The short answer: "\frac{\partial v}{\partial t}"
+description: 'The short answer: "\frac{\partial v}{\partial t}"'
 date_created: 2015-03-17
 ---
 

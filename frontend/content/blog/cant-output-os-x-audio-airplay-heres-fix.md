@@ -1,6 +1,6 @@
 ---
 title: Can't output OS X audio to AirPlay? Here's the fix.
-description: 
+description: ''
 date_created: 2013-12-12
 ---
 

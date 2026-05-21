@@ -1,5 +1,5 @@
 ---
-title: How to make sure your og:image is used by Facebook
+title: 'How to make sure your og:image is used by Facebook'
 description: How EXIF data can prevent Facebook from using your thumbnail images.
 date_created: 2016-03-18
 ---

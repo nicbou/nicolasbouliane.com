@@ -1,6 +1,6 @@
 ---
-title: Tastypie: only allow a user to use its own resources
-description: 
+title: 'Tastypie: only allow a user to use its own resources'
+description: ''
 date_created: 2013-11-05
 ---
 

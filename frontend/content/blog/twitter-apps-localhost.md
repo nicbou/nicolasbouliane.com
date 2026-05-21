@@ -1,6 +1,6 @@
 ---
 title: Twitter apps and localhost
-description: 
+description: ''
 date_created: 2013-12-06
 ---
 

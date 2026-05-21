@@ -1,6 +1,6 @@
 ---
 title: How to search through your git commit messages
-description: 
+description: ''
 date_created: 2013-08-16
 ---
 

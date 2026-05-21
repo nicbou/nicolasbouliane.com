@@ -1,6 +1,6 @@
 ---
 title: Ping once and return true/false
-description: 
+description: ''
 date_created: 2014-05-19
 ---
 

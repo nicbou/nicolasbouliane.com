@@ -1,6 +1,6 @@
 ---
-title: Quick tips: text selection
-description: 
+title: 'Quick tips: text selection'
+description: ''
 date_created: 2013-11-19
 ---
 
