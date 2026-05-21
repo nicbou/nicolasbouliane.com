@@ -18,8 +18,8 @@ config.context_processors.append("ursus.context_processors.git_date.GitDateProce
 config.context_globals = {
     "now": datetime.now(),
     "site_url": "https://nicolasbouliane.com",
-    "is_golden": lambda uri, entry: "golden" in entry.get("categories", []),
-    "is_not_golden": lambda uri, entry: "golden" not in entry.get("categories", []),
+    "is_golden": lambda uri, entry: "golden" in (entry.get("categories") or []),
+    "is_not_golden": lambda uri, entry: "golden" not in (entry.get("categories") or []),
 }
 
 config.image_transforms = {
