@@ -32,6 +32,12 @@ I don't know where All About Berlin fits in that future.
 
 ---
 
+**Mentions:**
+
+- [Telegraph](https://www.telegraph.co.uk/business/2026/05/24/googles-plan-to-run-your-life-could-break-the-internet/)
+- [Forbes](https://www.forbes.com/sites/andymeek/2026/05/25/google-search-ai-overhaul-leaves-publishers-bracing-for-google-zero/)
+- [Handpicked Berlin](https://newsletter.handpickedberlin.com/p/199-should-we-build-on-tempelhof)
+
 **Related links:**
 
 - [AI killed overfishing.org](https://mastodon.online/@Pepijn/111991376150442267)
