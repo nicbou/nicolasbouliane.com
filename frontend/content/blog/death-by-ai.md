@@ -24,12 +24,16 @@ If my work just get mixed into an AI-generated answer, I lose my voice and my au
 
 This is not an isolated case. Many website owners have reached out in private to commiserate. Some have paywalled their work. Others have given up and moved on. They keep the websites online, but they no longer update them. It's just not worth it.
 
-It will get worse. Last week, Google has made two announcements: AI-generated answers will replace search results entirely, and they have ads in them. This is the future of the internet. No websites, just a chat box with ads.
+It will get worse. Last week, Google has made two announcements: AI-generated answers will replace search results entirely, and they have ads in them.[^1] This is the future of the internet. No websites, just a chat box with ads.
 
 I don't know where All About Berlin fits in that future.
 
+*This was also discussed on [Mastodon](https://berlin.social/@everton137@vivaldi.net/116613317083736027), [LinkedIn](https://www.linkedin.com/posts/nicolasbouliane_ai-is-killing-all-about-berlin-when-you-activity-7463188286166138880-LSrq) and [Twitter](https://x.com/aboutberlin/status/2057423342496293243). If you are in the same boat, do [reach out](mailto:contact@nicolasbouliane.com). You are not going through this alone.*
+
 ---
 
-If you are in the same boat, do reach out. You are not going through this alone.
+**Related links:**
 
-This was also discussed on [LinkedIn](https://www.linkedin.com/posts/nicolasbouliane_ai-is-killing-all-about-berlin-when-you-activity-7463188286166138880-LSrq) and [Twitter](https://x.com/aboutberlin/status/2057423342496293243).
+- [AI killed overfishing.org](https://mastodon.online/@Pepijn/111991376150442267)
+
+[^1]: [Techcrunch](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/), [Google](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/)
