@@ -10,7 +10,7 @@ This is the traffic to [All About Berlin](/projects/all-about-berlin), the websi
 
 When you Googled something, you used to get a link to my website. Now you get an AI-generated answer, then ads, then a link to my website. This has a devastating impact on traffic.
 
-[image of a modern google results page]
+![First result on Google Search, below sponsored results](/images/first-on-google.png "What it means to be first on Google")
 
 It's hard to fund my work with 70% fewer visitors. Soon, I will need another way to pay my rent. Instead of writing new guides, I spend my days preparing for that future.
 
