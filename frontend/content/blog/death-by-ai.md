@@ -27,3 +27,9 @@ This is not an isolated case. Many website owners have reached out in private to
 It will get worse. Last week, Google has made two announcements: AI-generated answers will replace search results entirely, and they have ads in them. This is the future of the internet. No websites, just a chat box with ads.
 
 I don't know where All About Berlin fits in that future.
+
+---
+
+If you are in the same boat, do reach out. You are not going through this alone.
+
+This was also discussed on [LinkedIn](https://www.linkedin.com/posts/nicolasbouliane_ai-is-killing-all-about-berlin-when-you-activity-7463188286166138880-LSrq) and [Twitter](https://x.com/aboutberlin/status/2057423342496293243).
