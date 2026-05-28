@@ -28,16 +28,20 @@ It will get worse. Last week, Google has made two announcements: AI-generated an
 
 I don't know where All About Berlin fits in that future.
 
-*This was also discussed on [Mastodon](https://berlin.social/@everton137@vivaldi.net/116613317083736027), [Hacker News](https://news.ycombinator.com/item?id=48283127), [LinkedIn](https://www.linkedin.com/posts/nicolasbouliane_ai-is-killing-all-about-berlin-when-you-activity-7463188286166138880-LSrq) and [Twitter](https://x.com/aboutberlin/status/2057423342496293243). If you are in the same boat, do [reach out](mailto:contact@nicolasbouliane.com). You are not going through this alone.*
+*This was also discussed on [Mastodon](https://berlin.social/@everton137@vivaldi.net/116613317083736027), [Hacker News](https://news.ycombinator.com/item?id=48283127), [LinkedIn](https://www.linkedin.com/posts/nicolasbouliane_ai-is-killing-all-about-berlin-when-you-activity-7463188286166138880-LSrq) and [Twitter](https://x.com/aboutberlin/status/2057423342496293243). If you are affected, [reach out](mailto:contact@nicolasbouliane.com). Let me know how you are doing. You are not going through this alone.*
 
 ---
 
 **Mentions:**
 
-- [Telegraph](https://www.telegraph.co.uk/business/2026/05/24/googles-plan-to-run-your-life-could-break-the-internet/)
+- [The Telegraph](https://www.telegraph.co.uk/business/2026/05/24/googles-plan-to-run-your-life-could-break-the-internet/)
 - [Forbes](https://www.forbes.com/sites/andymeek/2026/05/25/google-search-ai-overhaul-leaves-publishers-bracing-for-google-zero/)
 - [Handpicked Berlin](https://newsletter.handpickedberlin.com/p/199-should-we-build-on-tempelhof)
+- [Stockhouse](https://stockhouse.com/news/the-market-online-news/2026/05/27/searching-ai-for-answers-is-internet-s-business-model-breaking)
 - [Press.pl](https://www.press.pl/tresc/93231,zmiany-w-wyszukiwarce-google-wymuszaja-na-wydawcach-nowa-strategie)
+- [Root.cz](https://www.root.cz/clanky/vyhledavace-v-roce-2026-cim-nahradit-reklamou-zavaleny-google/)
+- [Adevarul](https://adevarul.ro/stiri-externe/in-lume/planul-google-de-a-ti-controla-viata-ar-putea-2532147.html)
+- [Pineberry](https://www.pineberry.com/bloggen/seo/klicken-fran-ai-sok-minskar/)
 
 **Related links:**
 
