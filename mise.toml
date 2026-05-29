@@ -1,0 +1,83 @@
+[env]
+_.file = ".env"
+COMPOSE_PROJECT_NAME = "nicolasbouliane"
+BUILDKIT_PROGRESS = "plain"
+
+_.python.venv = { path = ".venv", create = true }
+
+# = INSTALL ====================================================================
+
+[tools]
+uv = "latest"
+ruff = "latest"
+python = "3.13"
+
+[tasks.setup]
+description = "Install local dependencies to run the project"
+silent = true
+run = """
+uv pip install -r frontend/requirements.txt
+if [ -d .git ]; then
+  mise generate git-pre-commit --hook=pre-commit --write --task=pre-commit
+  mise generate git-pre-commit --hook=pre-push --write --task=pre-push
+fi
+"""
+
+[hooks]
+enter = { task = "setup" }
+
+# = RUN ========================================================================
+
+[tasks.site]
+description = "Serve the site locally, reload on changes. Fast and resource-efficient."
+run = """
+ursus -wfs -c frontend/ursus_config.py
+"""
+
+[tasks.dev]
+description = "Serve the site behind the Caddy proxy in docker."
+quiet = true
+run = """
+if ! docker info >/dev/null 2>&1; then
+  echo "[$(date +'%H:%M:%S')] Starting docker daemon"
+  open -a Docker
+fi
+
+echo "[$(date +'%H:%M:%S')] Waiting for docker daemon to be ready"
+while ! docker ps > /dev/null 2>&1; do
+  sleep 1
+done
+
+echo "[$(date +'%H:%M:%S')] Starting docker containers"
+docker compose up --build -d --force-recreate
+"""
+
+# = CLEANUP ====================================================================
+
+[tasks.lint]
+description = "Run various linters for the project"
+quiet = true
+run = """
+echo "[$(date +'%H:%M:%S')] Running ruff..."
+ruff check --quiet
+
+echo "[$(date +'%H:%M:%S')] Running ursus lint..."
+ursus lint --level=ERROR -c frontend/ursus_config.py
+"""
+
+[tasks.format]
+description = "Automatically format the code"
+run = """
+ruff format
+"""
+
+[tasks.pre-commit]
+run = """
+mise format
+mise lint
+"""
+
+[tasks.pre-push]
+run = """
+mise lint
+"""

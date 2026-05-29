@@ -6,9 +6,9 @@ import os
 
 config.content_path = Path(__file__).parent / "content"
 config.templates_path = Path(__file__).parent / "templates"
-config.output_path = Path(__file__).parent.parent / "output"
+config.output_path = Path(os.environ.get("URSUS_OUTPUT_DIR", str(Path(__file__).parent / "output")))
 
-config.site_url = os.environ.get("site_url", "")
+config.site_url = os.environ.get("URSUS_SITE_URL", "")
 config.html_url_extension = ""
 config.minify_js = True
 config.minify_css = True
@@ -47,7 +47,7 @@ config.image_transforms = {
 config.linters = [
     "ursus.linters.footnotes.OrphanFootnotesLinter",
     "ursus.linters.images.UnusedImagesLinter",
-    "ursus.linters.markdown.MarkdownInternalLinksLinter",
+    "extensions.linters.internal_links.MarkdownInternalLinksLinter",
     "ursus.linters.markdown.MarkdownLinkTextsLinter",
     "ursus.linters.markdown.MarkdownLinkTitlesLinter",
     "ursus.linters.markdown.RelatedEntriesLinter",

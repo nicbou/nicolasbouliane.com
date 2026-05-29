@@ -1,0 +1,28 @@
+services:
+  frontend:
+    build:
+      context: frontend
+      target: dev
+    environment:
+      - "URSUS_SITE_URL=https://localhost"
+    volumes:
+      - ".:/var/project:ro"
+      - "./frontend/output:/var/output"
+  proxy:
+    build: ./proxy
+    environment:
+      - SSL_DOMAIN
+      - SSL_EMAIL
+    ports:
+      - "80:80"
+      - "443:443"
+    depends_on:
+      - "frontend"
+    volumes:
+      - caddy_data:/data
+      - caddy_config:/config
+      - ./frontend/output:/var/www/html
+
+volumes:
+  caddy_data:
+  caddy_config:

@@ -142,6 +142,10 @@ figure, :not(figure) > picture, :not(figure, picture) > img {display:block;margi
     img[src*="/illustrations/"]{box-shadow:none}
     figcaption{font-style:italic;color:var(--color-text-light);margin-top:var(--spacing-text-s);text-align:center;}
 
+.tags li{
+    display: inline;
+}
+
 .entry-list > li{padding:0;margin:0;display:grid;grid-template-columns:4ch 1fr;grid-gap:0 var(--spacing-text-m);align-items:first baseline}
     .entry-list time{font:var(--font-sans-serif);grid-row-end:span 10;color:var(--color-text-light)}
     .entry-list > li > :not(time){grid-column-start:2;border-left:var(--border-light);padding-left:var(--spacing-m)}
