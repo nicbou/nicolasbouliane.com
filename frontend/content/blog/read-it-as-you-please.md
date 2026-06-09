@@ -18,3 +18,10 @@ In any case, the content won't look much different. It might be missing the widg
 If the website goes down, get it from archive.org. The pages are built to keep working on their own, even if the rest of the website vanishes.
 
 Information wants to be free. The medium through which it's consumed should be as permissive as possible.
+
+---
+
+In 2026, [AI is killing the website I live from](/blog/death-by-ai). Many people have suggested that I block AI crawlers, or that I feed them poisoned content. I stand by what I have written above. 
+
+> “The ultimate measure of a man is not where he stands in moments of comfort and convenience, but where he stands at times of challenge and controversy.”
+> — Martin Luther King Jr. (From Strength to Love, 1963)
