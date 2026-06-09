@@ -36,9 +36,12 @@ I don't know where All About Berlin fits in that future.
 
 - [The Telegraph](https://www.telegraph.co.uk/business/2026/05/24/googles-plan-to-run-your-life-could-break-the-internet/)
 - [Forbes](https://www.forbes.com/sites/andymeek/2026/05/25/google-search-ai-overhaul-leaves-publishers-bracing-for-google-zero/)
+- [Deutschlandfunk](https://www.deutschlandfunk.de/google-suche-offenes-web-100.html)
 - [Handpicked Berlin](https://newsletter.handpickedberlin.com/p/199-should-we-build-on-tempelhof)
 - [Stockhouse](https://stockhouse.com/news/the-market-online-news/2026/05/27/searching-ai-for-answers-is-internet-s-business-model-breaking)
+- [Clarin](https://www.clarin.com/opinion/chat-robots-algun-humano-lee-damos-miedo_0_Jhb2QvOd7b.html)
 - [Press.pl](https://www.press.pl/tresc/93231,zmiany-w-wyszukiwarce-google-wymuszaja-na-wydawcach-nowa-strategie)
+- [H7O magazine](https://www.h7o.cz/clanky/14527-konec-googlovani)
 - [Root.cz](https://www.root.cz/clanky/vyhledavace-v-roce-2026-cim-nahradit-reklamou-zavaleny-google/)
 - [Adevarul](https://adevarul.ro/stiri-externe/in-lume/planul-google-de-a-ti-controla-viata-ar-putea-2532147.html)
 - [Pineberry](https://www.pineberry.com/bloggen/seo/klicken-fran-ai-sok-minskar/)
