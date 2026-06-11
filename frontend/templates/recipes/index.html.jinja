@@ -4,24 +4,42 @@
 {% set canonicalUrl = "/recipes" %}
 
 {% block content %}
+    {% set entries = get_entries('recipes', sort_by='date_created', reverse=True) %}
     <header>
         <h1>Recipes</h1>
         <small>Food I make for people I love.</small>
     </header>
     <ul class="tags">
-        {% set entries = get_entries('recipes', sort_by='date_created', reverse=True) %}
-        {% set tags = entries | map(attribute='tags') | flatten | unique | sort %}
+        {% set tags = entries | selectattr('tags', 'defined') | selectattr('tags') | map(attribute='tags') | sum(start=[]) | unique | sort %}
         {% for tag in tags %}
-            <li><a href="">{{ tag }}</a></li>
+            <li>
+                <input type="checkbox" id="tag-{{ tag }}" data-tag="{{ tag }}">
+                <label for="tag-{{ tag }}">{{ tag }}</label>
+            </li>
         {% endfor %}
     </ul>
     <ul class="entry-list recipes">
-        {% for entry in get_entries('recipes', sort_by='date_created', reverse=True) %}
-            <li>
+        {% for entry in entries %}
+            <li data-tags="{{ (entry.tags if entry.tags is defined else []) | join(',') }}">
                 <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
                 <h2><a rel="bookmark" href="{{ entry.url }}">{{ entry.title }}</a></h2>
                 <p>{{ entry.description }}</p>
             </li>
         {% endfor %}
     </ul>
+    <script>
+        const checkboxes = document.querySelectorAll('.tags input[type="checkbox"]');
+        const entryItems = document.querySelectorAll('.entry-list [data-tags]');
+
+        function filterEntries() {
+            const activeTags = [...checkboxes].filter(cb => cb.checked).map(cb => cb.dataset.tag);
+            entryItems.forEach(entry => {
+                const entryTags = new Set(entry.dataset.tags ? entry.dataset.tags.split(',') : []);
+                const visible = activeTags.length === 0 || activeTags.every(t => entryTags.has(t));
+                entry.style.display = visible ? 'grid' : 'none';
+            });
+        }
+
+        checkboxes.forEach(checkbox => checkbox.addEventListener('change', filterEntries));
+    </script>
 {% endblock %}
