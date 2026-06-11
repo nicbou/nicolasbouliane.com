@@ -98,10 +98,10 @@ p, ul, ol, details, main nav, blockquote, pre{margin:var(--spacing-text-l) 0}
 ul{}
     li{padding-left:1em;list-style:outside none;position:relative;margin:0.5em 0}
         li:last-child{margin-bottom:0}
-        main ul > li:before, main nav li:before{content:'➤';font-size:0.6em;position:absolute;left:0;line-height: calc(var(--line-height) / 0.6)}
+        main ul > li:before, main nav li:before{content:'➤';font-size:0.4em;position:absolute;left:0;line-height: calc(var(--line-height) / 0.4);color:var(--color-text-light)}
 ol{counter-reset:list;}
-    ol li{padding-left:1.5em;}
-    ol li:before{counter-increment:list;content: counter(list) ". ";font-size:1em;font-style:italic;position:absolute;left:0;line-height:var(--line-height)}
+    ol > li{padding-left:1.5em;}
+    ol > li:before{counter-increment:list;content: counter(list) ". ";font-size:1em;font-style:italic;position:absolute;left:0;line-height:var(--line-height);color:var(--color-text-light)}
 
 h1, h2, h3{line-height:var(--line-height-compact);margin:1.5em 0 1em;}
     main header{margin:var(--spacing-xxl) 0;background:url('data:image/svg+xml;utf8,{% include "/img/separator.svg" %}') no-repeat bottom center;background-size:300px;font-size:2.7rem;padding-bottom:calc(var(--spacing-xxl) + 19px);text-align:center}
