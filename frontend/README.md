@@ -1,9 +1,13 @@
 This is my personal website, built with [Ursus](https://github.com/all-about-berlin/ursus). You can see it at <nicolasbouliane.com>. It's a reference implementation of an [Ursus](https://github.com/all-about-berlin/ursus) website.
 
-The server that serves this website is [here](https://github.com/nicbou/nicolasbouliane.com-server).
+# How to run
 
-# How to use
+This project uses [mise](https://mise.jdx.dev/) to manage tools, dependencies, and tasks.
 
-When inside the repository, run `ursus` to build the website. See `ursus --help` for a list of options. More information in the [Ursus](https://github.com/all-about-berlin/ursus) README.
+Run `mise site` to serve the site locally. It rebuilds on changes. Run `mise dev` to serve the site behind the Caddy proxy in Docker instead.
 
-This will generate a static website. You will need a static file server to host those files. You can choose any. I use this [reference implementation](https://github.com/nicbou/nicolasbouliane.com-server)
+See `mise tasks` for a full list of available tasks.
+
+# Deployments
+
+Deployments are triggered by a GitHub webhook. See [`the production README`](.prod/README.md) for setup and deployment details.
