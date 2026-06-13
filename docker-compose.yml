@@ -10,9 +10,6 @@ services:
       - "./frontend/output:/var/output"
   proxy:
     build: ./proxy
-    environment:
-      - "SSL_DOMAIN=nicolasbouliane.com"
-      - "SSL_EMAIL=contact@nicolasbouliane.com"
     ports:
       - "80:80"
       - "443:443"
