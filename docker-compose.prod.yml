@@ -1,0 +1,33 @@
+# Production docker file
+# - Only rebuilds static site once, when started
+# - Builds the static site to a staging area before overwriting the old version
+# - Enables log rotation
+# - Enables SSL certificate generation
+
+services:
+  frontend:
+    build:
+      target: prod
+    environment:
+      - "URSUS_SITE_URL=https://nicolasbouliane.com"
+    volumes: !override
+      - ".:/var/project:ro"
+      - "temp_static_site:/var/output"
+      - "static_site:/var/live-output"
+    logging: &prod-logging
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+  proxy:
+    environment:
+      - "SSL_DOMAIN=nicolasbouliane.com"
+      - "SSL_EMAIL=contact@nicolasbouliane.com"
+    volumes:
+      - "static_site:/var/www/html"
+    restart: unless-stopped
+    logging: *prod-logging
+
+volumes:
+  static_site:
+  temp_static_site:

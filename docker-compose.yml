@@ -11,8 +11,8 @@ services:
   proxy:
     build: ./proxy
     environment:
-      - SSL_DOMAIN
-      - SSL_EMAIL
+      - "SSL_DOMAIN=nicolasbouliane.com"
+      - "SSL_EMAIL=contact@nicolasbouliane.com"
     ports:
       - "80:80"
       - "443:443"

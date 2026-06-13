@@ -4,7 +4,7 @@ RUN apt-get update \
     && apt-get install -y --no-install-recommends git rsync \
         build-essential \
         python3-dev \
-    && mkdir -p /var/output \
+    && mkdir -p /var/output /var/live-output \
     && rm -rf /var/lib/apt/lists/*
 
 COPY requirements.txt /requirements.txt
