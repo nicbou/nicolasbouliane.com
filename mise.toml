@@ -9,7 +9,6 @@ _.python.venv = { path = ".venv", create = true }
 
 [tools]
 uv = "latest"
-ruff = "latest"
 python = "3.13"
 
 [tasks.setup]
@@ -58,22 +57,11 @@ docker compose up --build -d --force-recreate
 description = "Run various linters for the project"
 quiet = true
 run = """
-echo "[$(date +'%H:%M:%S')] Running ruff..."
-ruff check --quiet
-
-echo "[$(date +'%H:%M:%S')] Running ursus lint..."
 ursus lint --level=ERROR -c frontend/ursus_config.py
-"""
-
-[tasks.format]
-description = "Automatically format the code"
-run = """
-ruff format
 """
 
 [tasks.pre-commit]
 run = """
-mise format
 mise lint
 """
 
