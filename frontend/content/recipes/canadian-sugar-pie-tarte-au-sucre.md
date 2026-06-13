@@ -4,6 +4,7 @@ description: Tarte au sucre is a traditional dessert from Quebec. It's quick to 
 date_created: 2020-10-25
 tags:
     - dessert
+    - quebec
 ---
 
 ## Ingredients

@@ -3,6 +3,7 @@ title: Masoor dal
 description: Spicy red lentil dal.
 date_created: 2023-09-20
 tags:
+    - indian
     - vegan
     - vegetarian
 ---

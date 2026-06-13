@@ -1,7 +1,9 @@
 ---
 title: Beef stew  
 description: A comforting beef stew with tender beef, vegetables, and a rich broth.  
-date_created: 2025-11-01 
+date_created: 2025-11-01
+tags:
+    - soup
 ---
 
 ## Ingredients

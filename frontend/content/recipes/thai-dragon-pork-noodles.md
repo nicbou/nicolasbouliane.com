@@ -3,6 +3,8 @@ title: Thai dragon pork noodles
 description: Ramen noodles with pork and a rich, spicy sauce
 date_created: 2020-09-16
 featured_image: images/thai-dragon-noodles.jpg
+tags:
+    - pasta
 ---
 
 ## Ingredients

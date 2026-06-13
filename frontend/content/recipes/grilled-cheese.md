@@ -11,13 +11,12 @@ This is not a recipe, but rather general directions for a very adaptable dish. I
 ## Ingredients
 
 - Tortillas (2 per person)
-- Shredded cheese: 50% mozzarella, 50% cheddar (just cheddar for a grilled cheese)
+- Shredded cheese: 50% mozzarella, 50% cheddar
 - Salt
 - Pepper
 - A generous pinch of ground cumin
 - A pinch of chili
 - A pinch of paprika
-- A pinch of coriander powder
 - A small pinch of garlic powder
 
 A combination of any of these ingredients:
@@ -42,5 +41,3 @@ Making half quesadillas from a single tortilla is better, because it's easier to
 5. Cook one side of your folded quesadilla until golden, then flip it and cook the other side. Get it nice and crispy.
 9. Rub the outside with a halved **garlic** clove, then sprinkle **salt** on top. These are noticeable improvements.
 10. Cut in half, and serve with a dollop of **sour cream**. Adding pepper and coriander on top makes it look really posh.
-
-You can also make it as a grilled cheese sandwich.

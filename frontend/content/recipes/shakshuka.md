@@ -5,6 +5,7 @@ date_created: 2021-11-19
 featured_image: images/shakshuka.jpg
 tags:
     - breakfast
+    - vegetarian
 ---
 
 ## Ingredients
@@ -45,4 +46,4 @@ You can leave out the tomatoes and red bell pepper and make a really nice weekda
 4. Cook the eggs until opaque but still runny
 5. Serve with fresh bread.
 
-![](/images/shakshuka-redux.jpg)
+![Shakshuka](/images/shakshuka-redux.jpg)

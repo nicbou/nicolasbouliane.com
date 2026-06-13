@@ -3,6 +3,8 @@ title: Aloo gobi
 description: Spicy vegetarian curry
 date_created: 2025-11-28
 tags:
+    - indian
+    - vegan
     - vegetarian
 ---
 

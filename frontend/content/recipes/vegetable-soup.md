@@ -4,6 +4,7 @@ description: A hearty vegetable soup to get you through the winter.
 date_created: 2022-11-16
 tags:
     - soup
+    - vegan
     - vegetarian
 ---
 

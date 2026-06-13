@@ -4,6 +4,7 @@ description: Classic French crêpes, the easy way. The "two-two-one" name comes 
 date_created: 2020-12-10
 tags:
     - breakfast
+    - vegetarian
 ---
 
 This is how you make batter for thin French crêpes. The ratio of ingredients is 2-2-1: 2 parts eggs, 2 parts milk, 1 part flour by weight. Calculate two eggs per person.

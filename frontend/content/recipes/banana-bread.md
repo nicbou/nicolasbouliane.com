@@ -2,6 +2,10 @@
 title: Banana bread
 description: A simple, moist banana bread with dark chocolate
 date_created: 2026-03-28
+tags:
+    - dessert
+    - vegan
+    - vegetarian
 ---
 
 My friend's banana recipe. I have tasted it (read: ate the whole thing in a few hours), but I have not made it myself yet.

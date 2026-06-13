@@ -1,7 +1,9 @@
 ---
 title: Lamb kheema 
 description: A flavorful mix of minced beef and lamb
-date_created: 2025-11-02 
+date_created: 2025-11-02
+tags:
+    - indian
 ---
 
 ## Ingredients

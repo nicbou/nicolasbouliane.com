@@ -3,6 +3,7 @@ title: Gochujang pasta
 description: Creamy, spicy pasta
 date_created: 2025-10-17
 tags:
+    - pasta
     - vegetarian
 ---
 

@@ -3,6 +3,8 @@ title: Spaghetti carbonara
 description: A mostly traditional carbonara, made with locally available ingredients, but no cream, because that's illegal.
 date_created: 2020-12-08
 featured_image: images/original_6b383eb8-53fa-4b3a-9723-bf402810d20d_PXL_20210426_181826088.jpg
+tags:
+    - pasta
 ---
 
 ## Ingredients

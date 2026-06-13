@@ -2,6 +2,8 @@
 title: Chicken fajitas
 description: A recipe from my old notes
 date_created: 2026-05-07
+tags:
+    - sandwich
 ---
 
 ## Ingredients

@@ -4,6 +4,7 @@ description: Thick and fluffy American-style pancakes
 date_created: 2024-05-06
 tags:
     - breakfast
+    - vegetarian
 ---
 
 ## Ingredients

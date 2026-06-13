@@ -3,6 +3,9 @@ title: Salmon cream pasta
 description: A rich, delicious salmon gratin that's easy to make on a weekday.
 date_created: 2021-04-15
 featured_image: images/salmon-cream-pasta.jpg
+tags:
+    - fish
+    - pasta
 ---
 
 ## Ingredients

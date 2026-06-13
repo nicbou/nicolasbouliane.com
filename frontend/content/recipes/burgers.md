@@ -2,6 +2,8 @@
 title: Pan burgers
 description: Simple, tasty smashed burgers with little prep, cooking or cleaning.
 date_created: 2021-05-04
+tags:
+    - sandwich
 ---
 
 ## Ingredients

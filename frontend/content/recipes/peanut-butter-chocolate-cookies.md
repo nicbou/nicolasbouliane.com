@@ -5,6 +5,8 @@ date_created: 2020-09-13
 featured_image: images/cookies-on-plate.jpg
 tags:
     - dessert
+    - vegan
+    - vegetarian
 ---
 
 ## Ingredients

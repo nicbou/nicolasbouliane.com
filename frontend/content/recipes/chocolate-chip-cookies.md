@@ -5,6 +5,7 @@ date_created: 2020-09-13
 featured_image: images/cookies-after.jpg
 tags:
     - dessert
+    - vegetarian
 ---
 
 ## Ingredients

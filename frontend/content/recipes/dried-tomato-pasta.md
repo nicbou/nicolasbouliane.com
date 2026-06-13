@@ -3,6 +3,7 @@ title: Dried tomato pasta
 description: Quick and easy pasta that has no business being this tasty.
 date_created: 2023-05-08
 tags:
+    - pasta
     - vegetarian
 ---
 
