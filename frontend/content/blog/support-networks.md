@@ -1,6 +1,6 @@
 ---
 title: Support networks
-description: I wanted to create a community, yet I was oblivious to the oldest support network in the world.
+description: Tech guy wants to create community, oblivious to oldest support network in the world.
 date_created: 2024-04-10
 categories:
     - golden

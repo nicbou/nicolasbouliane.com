@@ -6,7 +6,7 @@
 {% block content %}
     <header>
         <h1>Notes</h1>
-        <small>Things I would WhatsApp you if we were friends.</small>
+        <small>Digital clippings I might Whatsapp you.</small>
     </header>
     <ul class="entry-list notes">
         {% for entry in get_entries('notes', sort_by='date_created', reverse=True) %}
