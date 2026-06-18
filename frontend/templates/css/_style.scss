@@ -330,7 +330,7 @@ figcaption {
     border-bottom: var(--border-light);
     padding: var(--spacing-s) var(--spacing-m);
     display: flex;
-    gap: var(--spacing-s) var(--spacing-m);
+    gap: 0 var(--spacing-m);
     flex-wrap: wrap;
 
     li {
