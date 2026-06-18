@@ -24,6 +24,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{di
     --font-size-h4: 1.15rem;
     --font-size-m: 25px;
     --font-size-s: 17px;
+    --font-size-data: 20px;
     --line-height: 1.5em;
     --line-height-compact: 1.1em;
 
@@ -376,6 +377,8 @@ figcaption {
         font: var(--font-sans-serif);
         grid-row-end: span 10;
         color: var(--color-text-light);
+        font-size: var(--font-size-data);
+        line-height: 1.4em;
     }
 
     &:not(.notes) {
