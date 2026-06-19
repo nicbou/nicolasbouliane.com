@@ -329,7 +329,7 @@ figcaption {
 .tags {
     border-top: var(--border-light);
     border-bottom: var(--border-light);
-    padding: var(--spacing-s) var(--spacing-m);
+    padding: var(--spacing-s) 0;
     display: flex;
     gap: 0 var(--spacing-m);
     flex-wrap: wrap;
