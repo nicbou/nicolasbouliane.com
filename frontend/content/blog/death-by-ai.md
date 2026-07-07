@@ -10,13 +10,13 @@ categories:
 
 ![All About Berlin traffic: 7 years of growth, then a sharp decline after Google AI Overviews](/images/all-about-berlin-traffic-loss.png)
 
-This is the traffic to [All About Berlin](/projects/all-about-berlin), the website that I run since 2017, and live from since 2020. After 7 years of growth, it has lost 70% of its traffic to Google AI Overviews.
+This is the traffic to [All About Berlin](/projects/all-about-berlin), the website that I run since 2017, and live from since 2020. After 7 years of growth, it has lost ~~70%~~ 75% of its traffic to Google AI Overviews.
 
 When you Googled something, you used to get a link to my website. Now you get a page of ads, then an AI-generated answer trained on my content, then finally a link to my website. This has a devastating impact on traffic.
 
 ![First result on Google Search, below sponsored results](/images/first-on-google.png "What it means to be first on Google")
 
-It's hard to fund my work with 70% fewer visitors. Soon, I will need another way to pay my rent. Instead of writing new guides, I spend my days preparing for that future.
+It's hard to fund my work with ~~70%~~ 75% fewer visitors. Soon, I will need another way to pay my rent. Instead of writing new guides, I spend my days preparing for that future.
 
 It's not just about the money. I have poured 8 years of my life into making something good and useful. Strangers' faces light up when they learn that I run All About Berlin. Local and federal government offices refer people to my guides. The Berlin immigration office uses my data *about themselves*. It inspired two government portals and a few similar websites in other cities.
 
@@ -39,6 +39,8 @@ I don't know where All About Berlin fits in that future.
 - [The Telegraph](https://www.telegraph.co.uk/business/2026/05/24/googles-plan-to-run-your-life-could-break-the-internet/)
 - [Forbes](https://www.forbes.com/sites/andymeek/2026/05/25/google-search-ai-overhaul-leaves-publishers-bracing-for-google-zero/)
 - [Deutschlandfunk](https://www.deutschlandfunk.de/google-suche-offenes-web-100.html)
+- [OMR](https://omr.com/de/daily/omr-takeaway-anthropics-ki-sperre-ai-overview-opfer)
+- [PPC Land](https://ppc.land/google-ai-overviews-cost-one-berlin-expat-guide-70-of-its-traffic/)
 - [Handpicked Berlin](https://newsletter.handpickedberlin.com/p/199-should-we-build-on-tempelhof)
 - [Stockhouse](https://stockhouse.com/news/the-market-online-news/2026/05/27/searching-ai-for-answers-is-internet-s-business-model-breaking)
 - [Clarin](https://www.clarin.com/opinion/chat-robots-algun-humano-lee-damos-miedo_0_Jhb2QvOd7b.html)
@@ -47,9 +49,5 @@ I don't know where All About Berlin fits in that future.
 - [Root.cz](https://www.root.cz/clanky/vyhledavace-v-roce-2026-cim-nahradit-reklamou-zavaleny-google/)
 - [Adevarul](https://adevarul.ro/stiri-externe/in-lume/planul-google-de-a-ti-controla-viata-ar-putea-2532147.html)
 - [Pineberry](https://www.pineberry.com/bloggen/seo/klicken-fran-ai-sok-minskar/)
-
-**Related links:**
-
-- [AI killed overfishing.org](https://mastodon.online/@Pepijn/111991376150442267)
 
 [^1]: [Techcrunch](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/), [Google](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/)
