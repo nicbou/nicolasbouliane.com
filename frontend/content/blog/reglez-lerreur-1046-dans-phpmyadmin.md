@@ -1,5 +1,5 @@
 ---
-title: Réglez l'erreur #1046 dans phpMyAdmin
+title: Réglez l'erreur 1046 dans phpMyAdmin
 description: ''
 date_created: 2010-11-05
 ---
