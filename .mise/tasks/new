@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+# mise description="Create a new content entry. Usage: mise new <blog|recipe|note|project> [title]"
+set -e
+
+SECTION="${1:-}"
+TITLE="${2:-}"
+DATE=$(date +%Y-%m-%d)
+
+if [ -z "$SECTION" ]; then
+  echo "Usage: mise new <blog|recipe|note|project> [title]"
+  echo "       mise new post [title]  (alias for blog)"
+  exit 1
+fi
+
+if [ "$SECTION" = "post" ]; then
+  SECTION="blog"
+fi
+
+case "$SECTION" in
+  blog)    DIR="frontend/content/blog" ;;
+  recipe)  DIR="frontend/content/recipes" ;;
+  note)    DIR="frontend/content/notes" ;;
+  project) DIR="frontend/content/projects" ;;
+  *)
+    echo "Unknown section: '$SECTION'. Use: blog, recipe, note, project (or post)"
+    exit 1
+    ;;
+esac
+
+SLUG="${TITLE:-$DATE}"
+TEMPLATE="frontend/content/_templates/${SECTION}.md"
+OUTPUT="${DIR}/${SLUG}.md"
+
+if [ ! -f "$TEMPLATE" ]; then
+  echo "Template not found: $TEMPLATE"
+  exit 1
+fi
+
+if [ -f "$OUTPUT" ]; then
+  echo "File already exists: $OUTPUT"
+  exit 1
+fi
+
+sed "s/{{date}}/$DATE/g" "$TEMPLATE" > "$OUTPUT"
+echo "Created: $OUTPUT"
+subl --add "$OUTPUT"
