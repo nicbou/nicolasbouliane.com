@@ -38,6 +38,7 @@ I don't know where All About Berlin fits in that future.
 
 - [The Telegraph](https://www.telegraph.co.uk/business/2026/05/24/googles-plan-to-run-your-life-could-break-the-internet/)
 - [Forbes](https://www.forbes.com/sites/andymeek/2026/05/25/google-search-ai-overhaul-leaves-publishers-bracing-for-google-zero/)
+- [The Indicator by NPR](https://www.npr.org/2026/07/14/nx-s1-5891958/can-the-internet-survive-ai-summaries)
 - [Deutschlandfunk](https://www.deutschlandfunk.de/google-suche-offenes-web-100.html)
 - [OMR](https://omr.com/de/daily/omr-takeaway-anthropics-ki-sperre-ai-overview-opfer)
 - [PPC Land](https://ppc.land/google-ai-overviews-cost-one-berlin-expat-guide-70-of-its-traffic/)
@@ -49,5 +50,9 @@ I don't know where All About Berlin fits in that future.
 - [Root.cz](https://www.root.cz/clanky/vyhledavace-v-roce-2026-cim-nahradit-reklamou-zavaleny-google/)
 - [Adevarul](https://adevarul.ro/stiri-externe/in-lume/planul-google-de-a-ti-controla-viata-ar-putea-2532147.html)
 - [Pineberry](https://www.pineberry.com/bloggen/seo/klicken-fran-ai-sok-minskar/)
+
+**Similar stories:**
+
+- [How Google and AI are Killing Travel Blogs Like Mine](https://www.dangerous-business.com/how-google-and-ai-are-killing-travel-blogs-like-mine/)
 
 [^1]: [Techcrunch](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/), [Google](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/)
