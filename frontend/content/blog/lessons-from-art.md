@@ -6,31 +6,25 @@ categories:
     - golden
 ---
 
-My resolution for 2025 was to make more art, and I had fun keeping it. I took acrylic painting lessons, got into watercolours, [printed stickers](/projects/stickers), and made hundreds of drawings. I went to sketching sessions and organised art hangouts. I carry my art kit everywhere I go. *Mission accomplished!*
+My resolution for 2025 was to make more art. I had a lot of fun keeping it. I took acrylic painting lessons, got into watercolours, [printed stickers](/projects/stickers), organised art meet-ups and made hundreds of sketches and paintings.
 
-Along the way, I have learned a few lessons that apply to other areas of my life.
+Along the way, I have learned a few lessons that apply beyond the canvas.
 
 ## Make mistakes
 
 I became a better artist when I allowed myself to make mistakes.
 
-Until recently, I used the pages of my notebooks parsimoniously. I feared disgracing them with subpar work. Someone might yank my notebook from my hands, flip through it, and expose me as a fraud! This was not a position I reasoned myself into, just behaviour I never questioned.
+Until recently, I used the pages of my notebooks parsimoniously. I feared disgracing them with subpar work. Real artists *only* produce Good Art! What if someone flipped through my notebook and exposed me as a fraud?
 
-But then I learned about [studies](https://en.wikipedia.org/wiki/Study_(art)). The greatest artists make a series of sketches to figure how to render their subjects. It stands to reason that they practised the smallest aspects of their craft, just like athletes.
+Then I took a painting class, and we spent the first two hours making lines and splotches. We used different paintbrushes, then paper towels, business cards and our fingers. When we made anything recognizable, the teacher would swipe his thumb across it to ruin it. The goal was to study how acrylic paint *feels*, not to make something beautiful. I learned more by wasting paint for two hours than by rationing it for decades.
 
-![Study by Michelangelo](/images/illustrations/michelangelo-study.png "Michelangelo made this")
-
-My first painting lesson was two hours of making lines and splotches, first with different paintbrushes, then with our fingers. The goal was not to make art, but to understand how acrylic paint *feels*. I learned more by wasting paint for two hours than by rationing it for decades.
-
-This got me to experiment more. *A lot more.* I embraced failure as an essential part of the creative process. It was a subtle but powerful change in my approach.
-
-When I lost the fear of making bad art, I started tackling bolder subjects and experimenting with new techniques. I deliberately failed so that I could learn from each attempt.
+This got me to experiment more. *A lot more.* I have learned to slip up, cock up, blunder and bumble as a matter of course. Paper is cheap. Mistakes are part of the creative process. Failing means trying, and trying means learning and improving.
 
 ![Multiple attempts at drawing the same subject](/images/illustrations/art-studies.png)
 
-The fearlessness has spread to other areas of my life. I learned to slip up, cock up, blunder and bumble, because I want to be good on ice skates, to meet interesting strangers and to make better art. I might fall on my ass, have awkward conversations and waste a lot of paper, but I will risk failure if it guarantees progress.
+And boy did I improve! This change in perspective made me less risk-averse. It made me try new techniques and tackle bolder subjects. It made me practice more, and my skills have developed at a staggering pace.
 
-This also happened in the kitchen. My other resolution for 2025 was to make better curries. I made more progress with half-assed attempts than by waiting to find the perfect recipe. By trying and failing, I could figure out what went wrong and inch my way towards halfway decent chow.
+I have applied this lesson beyond the canvas. I had a culinary breakthrough by cooking a series of bad curries. I fell on my ass more than ever, but became a better ice skater. Now I am trying to accept rejection and awkward conversations as the cost of meeting interesting strangers.
 
 > "Sucking at something is the first step towards being sorta good at something."  
 > — Jake the dog
