@@ -29,7 +29,12 @@ esac
 
 SLUG="${TITLE:-$DATE}"
 TEMPLATE="frontend/content/_templates/${SECTION}.md"
-OUTPUT="${DIR}/${SLUG}.md"
+
+if [ "$SECTION" = "note" ]; then
+  OUTPUT="${DIR}/${SLUG}.diary.md"
+else
+  OUTPUT="${DIR}/${SLUG}.md"
+fi
 
 if [ ! -f "$TEMPLATE" ]; then
   echo "Template not found: $TEMPLATE"
