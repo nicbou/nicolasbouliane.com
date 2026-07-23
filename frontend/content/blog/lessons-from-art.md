@@ -31,17 +31,17 @@ I have applied this lesson beyond the canvas. I had a culinary breakthrough by c
 
 ## You are your own harshest critic
 
-When I got into watercolours, I made a portrait of a friend that now hangs on his wall. *He even framed it.*
+When I got into watercolours, I made a portrait of a friend that now hangs in his office. *He even framed it.*
 
-Then [I made stickers](/projects/stickers) of one of my doodles. They were a test for a larger batch of All About Berlin stickers, but they started showed up on my friends' water bottles. I thought they were just obliging me, but when *their* friends asked for stickers, I had to accept that some people genuinely like my work.
+When [I made stickers](/projects/stickers) of one of my doodles, they started showing up on my friends' water bottles. I thought they were just obliging me, but then *their* friends asked for stickers.
 
-When I'm in the thick of it, I compare myself with the very best in my field, blind to the fact that I have already made stuff people deem worthy of putting on walls.
+We tend to compare ourselves to the very best in our field. Sometimes it's good to appreciate how far along you have come, and not just how far from the summit you still are.
 
 ## Hyperopia
 
-I tend to get stuck on getting tiny details perfectly right while losing sight of the big picture. This often results in a highly detailed turd, where each part is elaborately drawn, but none of them work together. I quite literally miss the forest for the trees. It's a form of hyperopia, in which problems can be seen clearly at a distance, but are blurry up close.
+I tend to get stuck on getting tiny details perfectly right while losing sight of the big picture. This often produces highly detailed turds. I quite literally miss the forest for the trees. It's a form of hyperopia, in which problems can be seen clearly at a distance, but are blurry up close.
 
-Our painting teacher stopped us mid-painting, and asked us to take a few steps back. With a bit of distance, I could see the glaring flaws in my work.
+Our painting teacher frequently made us take a few steps back from the canvas. The distance helps you notice structural flaws in your work.
 
 I have learned to get the broad strokes right before sweating the small stuff. If a drawing feels off, I allow space and time to highlight mistakes that I'm too close to the canvas to see.
 
