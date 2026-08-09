@@ -21,7 +21,7 @@
     <ul class="entry-list recipes">
         {% for entry in entries %}
             <li data-tags="{{ (entry.tags if entry.tags is defined else []) | join(',') }}">
-                <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
+                <time class="date" datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
                 <h2><a rel="bookmark" href="{{ entry.url }}">{{ entry.title }}</a></h2>
                 <p>{{ entry.description }}</p>
             </li>

@@ -9,9 +9,7 @@
 
 {% block content %}
     <article>
-        <header>
-            <small>Posted on <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%B %-d, %Y') }}</time></small>
-        </header>
+        <p><a href="{{ site_url }}/notes">Notes</a> <span class="arrow">➤</span> <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%B %-d, %Y') }}</time></p>
         {{ entry.body|render|safe }}
         <footer>
             <p>Reply by email: <a href="mailto:contact@nicolasbouliane.com">contact@nicolasbouliane.com</a>.</p>

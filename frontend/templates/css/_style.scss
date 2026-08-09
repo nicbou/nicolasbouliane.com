@@ -302,6 +302,14 @@ article {
     padding-bottom: 44px;
     margin-bottom: var(--spacing-text-l);
 
+    .arrow{
+        display: inline-block;
+        padding: 0 1ch;
+        font-size: 0.4em;
+        line-height: calc(var(--line-height) / 0.4);
+        color: var(--color-text-light);
+    }
+
     svg:last-child {
         display: block;
         width: 100px;
@@ -377,14 +385,14 @@ figcaption {
         &:before { content: ''; }
         &[hidden] { display: none; }
 
-        > :not(time) {
+        > :not(.date) {
             grid-column-start: 2;
             border-left: var(--border-light);
             padding-left: var(--spacing-m);
         }
     }
 
-    time {
+    .date{
         font: var(--font-sans-serif);
         grid-row-end: span 10;
         color: var(--color-text-light);

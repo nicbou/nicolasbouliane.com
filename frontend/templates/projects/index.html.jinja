@@ -12,7 +12,7 @@
     <ul class="entry-list projects">
         {% for entry in get_entries('projects', filter_by=is_golden, sort_by='date_created', reverse=True) %}
             <li>
-                <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
+                <time class="date" datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
                 <h2><a rel="bookmark" href="{{ entry.url }}">{{ entry.title }}</a></h2>
                 <p>{{ entry.description }}</p>
             </li>
@@ -22,7 +22,7 @@
     <ul class="entry-list projects">
         {% for entry in get_entries('projects', filter_by=is_not_golden, sort_by='date_created', reverse=True) %}
             <li>
-                <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
+                <time class="date" datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
                 <h2><a rel="bookmark" href="{{ entry.url }}">{{ entry.title }}</a></h2>
                 <p>{{ entry.description }}</p>
             </li>
