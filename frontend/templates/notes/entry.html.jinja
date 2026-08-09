@@ -13,5 +13,8 @@
             <small>Posted on <time datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%B %-d, %Y') }}</time></small>
         </header>
         {{ entry.body|render|safe }}
+        <footer>
+            <p>Reply by email: <a href="mailto:contact@nicolasbouliane.com">contact@nicolasbouliane.com</a>.</p>
+        </footer>
     </article>
 {% endblock %}

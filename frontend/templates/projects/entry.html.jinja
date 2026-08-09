@@ -17,5 +17,8 @@
             {% image entry.featured_image %}
         {% endif %}
         {{ entry.body|render|safe }}
+        <footer>
+            <p>Send your thoughts here: <a href="mailto:contact@nicolasbouliane.com">contact@nicolasbouliane.com</a>.</p>
+        </footer>
     </article>
 {% endblock %}

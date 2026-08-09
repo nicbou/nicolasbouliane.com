@@ -57,6 +57,9 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{di
 
     --box-shadow: 0 0.5rem 1rem #0001;
     --border-radius: 5px;
+
+    --url-hr: url('data:image/svg+xml;utf8,{% include "/img/separator.svg" %}');
+    --spacing-hr: 20px;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -150,15 +153,23 @@ main {
 
     header {
         margin: var(--spacing-xxl) 0;
-        background: url('data:image/svg+xml;utf8,{% include "/img/separator.svg" %}') no-repeat bottom center;
+        background: var(--url-hr) no-repeat bottom center;
         background-size: 300px;
         font-size: 2.7rem;
-        padding-bottom: calc(var(--spacing-xxl) + 19px);
+        padding-bottom: calc(var(--spacing-xxl) + var(--spacing-hr));
         text-align: center;
 
         h1 { margin: 0; letter-spacing: -0.01em; font-weight: 500; }
         small { font-size: 1rem; display: block; margin-top: var(--spacing-text-s); }
     }
+}
+
+footer{
+    background: var(--url-hr) no-repeat top center;
+    background-size: 300px;
+    padding-top: var(--spacing-hr);
+    color: var(--color-text-light);
+    text-align: center;
 }
 
 p, ul, ol, details, main nav, blockquote, pre { margin: var(--spacing-text-l) 0; }
