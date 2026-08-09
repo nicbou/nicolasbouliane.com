@@ -17,5 +17,5 @@ I have learned to welcome other gardeners as peers, instead of fearing them as c
 
 ![Illustration of a tree at different stages of growth](/images/illustrations/growing-tree.png)
 
-This article is a seedling. I might tend to it later, when it feels right. Kind regards to [Maggie Appleton](https://maggieappleton.com/garden), who introduced me to this metaphor.
+This article is a seedling. I might tend to it later, when it feels right. Thank you [Maggie Appleton](https://maggieappleton.com/garden) for introducing me to this metaphor.
 
