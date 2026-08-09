@@ -47,11 +47,11 @@ I have learned to get the broad strokes right before sweating the small stuff. I
 
 ## Do the thing
 
-Above all, do the thing. If you fancy yourself an artist, *make art*. A painter is a person who paints. Collecting paintbrushes is not painting. Going to art museums is not painting. Following creators is not painting.
+Above all, do the thing. If you fancy yourself an artist, *make art*. A painter paints. Buying fancy brushes is not painting. Going to art museums is not painting. Following creators is not painting.
 
-Making more art meant carrying a sketchbook with me at all times. It meant creating a space for it in my apartment. It meant meeting friends in a café to paint watercolours.
+For me, doing the thing meant carrying a sketchbook around and using it. It meant making a space for art in my apartment and in my calendar. I did end up buying better pens and better paint, but that came later, when I knew how to use them.
 
-I used to draw on lined paper with a mechanical pencil. It was good enough for all of my childhood. It's something I try to remember when I fuss about pigment and paper quality for my watercolours. Of course a tree needs the right conditions to grow, but most of all it needs time. Waiting has exacted a greater toll on my development than cheap pencils.
+I used to draw on lined paper with a mechanical pencil. It was good enough for all of my childhood. I try to remember that when I fuss about pigment and paper quality. If anything, cheap art supplies encourage you to waste them and experiment more.
 
 ## Art is about the choices we make
 
