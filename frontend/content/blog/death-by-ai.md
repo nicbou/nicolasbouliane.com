@@ -40,6 +40,7 @@ I don't know where All About Berlin fits in that future.
 - [Forbes](https://www.forbes.com/sites/andymeek/2026/05/25/google-search-ai-overhaul-leaves-publishers-bracing-for-google-zero/)
 - [The Indicator by NPR](https://www.npr.org/2026/07/14/nx-s1-5891958/can-the-internet-survive-ai-summaries)
 - [Deutschlandfunk](https://www.deutschlandfunk.de/google-suche-offenes-web-100.html)
+- [The Ringer](https://www.theringer.com/2026/08/04/tech/google-search-ai-internet)
 - [OMR](https://omr.com/de/daily/omr-takeaway-anthropics-ki-sperre-ai-overview-opfer)
 - [PPC Land](https://ppc.land/google-ai-overviews-cost-one-berlin-expat-guide-70-of-its-traffic/)
 - [Handpicked Berlin](https://newsletter.handpickedberlin.com/p/199-should-we-build-on-tempelhof)
