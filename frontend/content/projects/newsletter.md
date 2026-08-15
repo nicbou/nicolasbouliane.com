@@ -42,3 +42,9 @@ Nonetheless, I decided to stay with them. The tool does exactly what I need and 
 This newsletter is a way for me to share updates with a consenting audience, without meddling from algorithms. It's my way to [work with the garage door up](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu), and hopefully to create [social infrastructure](https://maggieappleton.com/gathering-structures) in the future.
 
 I don't intend to compete with excellent newsletters like [Handpicked Berlin](https://handpickedberlin.com/), [20 Percent Berlin](https://www.20percent.berlin/), [Berlin Events Weekly](https://www.berlineventsweekly.com/) and [The Berlin Companion](https://theberlincompanion.com/). I have neither the energy nor the writing chops.
+
+## How it's going
+
+As of August 2026, the newsletter has around a thousand subscribers. I enjoy preparing each release. It takes a few hours per month, but it forces me to pay attention to news I would otherwise ignore.
+
+The work becomes easier every month. I wrote little script to create posts and publish them. I have found better ways to find and curate the information.
