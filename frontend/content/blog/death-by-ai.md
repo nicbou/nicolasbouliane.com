@@ -44,6 +44,7 @@ I don't know where All About Berlin fits in that future.
 - [OMR](https://omr.com/de/daily/omr-takeaway-anthropics-ki-sperre-ai-overview-opfer)
 - [PPC Land](https://ppc.land/google-ai-overviews-cost-one-berlin-expat-guide-70-of-its-traffic/)
 - [Handpicked Berlin](https://newsletter.handpickedberlin.com/p/199-should-we-build-on-tempelhof)
+- [NDTV](https://www.ndtv.com/opinion/google-is-turning-the-internet-into-its-own-prison-and-nobody-can-do-anything-about-it-11893726)
 - [Stockhouse](https://stockhouse.com/news/the-market-online-news/2026/05/27/searching-ai-for-answers-is-internet-s-business-model-breaking)
 - [Clarin](https://www.clarin.com/opinion/chat-robots-algun-humano-lee-damos-miedo_0_Jhb2QvOd7b.html)
 - [Press.pl](https://www.press.pl/tresc/93231,zmiany-w-wyszukiwarce-google-wymuszaja-na-wydawcach-nowa-strategie)
