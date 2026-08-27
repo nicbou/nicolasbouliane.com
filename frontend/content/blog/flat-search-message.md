@@ -6,19 +6,15 @@ categories:
     - berlin
 ---
 
-I am subletting my apartment. These are the mistakes people make when they contact me about my listing.
+I am subletting my apartment. Based on the dozens of messages I have received, here are some of the mistakes that might hurt your flat search.
 
 ![Kleinanzeigen inbox](/images/ka-heroimage.png)
 
-This is in the context of a flat search, but it should also apply to your job search, or any kind of outreach for a contested resource.
-
-**[How to find an apartment in Berlin ➞](https://allaboutberlin.com/guides/find-a-flat-in-berlin)**
-
 ## The mysterious stranger
 
-In Berlin, an apartment listing can get a few hundred messages in the first hour. Even my short-term flat in the stick got a dozen applicants right away.  Out of all those applicants, only half a dozen will be selected for a viewing.
+In Berlin, an apartment listing can get a few hundred messages in the first hour. Even my short-term flat in the sticks got a dozen applicants right away. Landlords only select half a dozen applicants for a viewing.
 
-Still, many applicants act as if they were the only ones showing interest.
+Many applicants act as if they were the only ones showing interest. They ask for a viewing without providing any information about themselves.
 
 ![Kleinanzeigen message without introduction](/images/ka-no-intro.png)
 
@@ -26,30 +22,37 @@ Asking to visit an apartment without introducing yourself is like applying for a
 
 ## The wall of text
 
-This is the opposite of the mysterious stranger. Some applicants introduce themselves in far more words than I care to read.
+Other people introduce themselves with far more words than needed.
 
 ![Kleinanzeigen wall of text](/images/ka-wall-of-text.png)
 
-Sorting through messages is a chore. You only get a few seconds of my attention, so keep your elevator pitch tight.
+Sorting through messages is a chore. You only get a few seconds of the recipient's attention, so use them wisely. In the timeless words of Steve Krug, "get rid of half the words on each page, then get rid of half of what's left."
 
-In the timeless words of Steve Krug, "get rid of half the words on each page, then get rid of half of what's left."
+A good introduction message is simple, straightforward, and informative enough to help the other side make a decision.
 
-## The impersonal pitch
+It should explain...
 
-It's okay to copy and paste your introduction message, so long as it still fits the apartment you're applying for. I can abide "dear sir or madam", but my sublet might will not be your forever home.
+- Who is moving in
+- How likely you are to pay the rent
+- How unlikely you are to cause trouble
+
+## The wrong pitch
+
+It's okay to copy and paste your introduction message, so long as it still fits the apartment you're applying for. I can abide "dear sir or madam", but my 3-month sublet might will not be your forever home.
 
 ![Impersonal Kleinanzeigen message](/images/ka-wrong-recipient.png)
 
 One message raved about the vibrant neighbourhood. It's Französisch Buchholz. I can touch a cow in 10 minutes.
 
-Replying to these messages is often a waste of time, because the applicant has missed key parts of the listing. When I was hiring, I would include a [Van Halen test](https://en.wikipedia.org/wiki/Van_Halen_test) in the job description to filter those people out.
+In my experience, replying to these messages just wastes more of my time. They often miss other key details about the listing, like that it's a 3-month sublet.[^2]
 
-## What a good message looks like
+## May the odds be ever in your favour
 
-A good introduction message is simple, straightforward, and informative enough to help the other side make a decision.
+The Berlin housing market is *brutal*. You are competing with a lot of people for a scarce supply of affordable housing. You have to put the odds on your side, starting with a decent opening message.
 
-In my case, I am subletting the apartment that I live in, along with all of my stuff. Your message should convince me that you have your ducks in a row and your head on your shoulders.
+I think that this also applies to your job search, and any other bid for a contested resource.
 
-You can find detailed apartment search advice in my [Berlin flat search guide](https://allaboutberlin.com/guides/find-a-flat-in-berlin)
+You can find more detailed apartment search advice in my **[Berlin flat search guide](https://allaboutberlin.com/guides/find-a-flat-in-berlin)**.
 
 [^1]: I know nothing about fishing
+[^2]: When I was hiring, I would include a [Van Halen test](https://en.wikipedia.org/wiki/Van_Halen_test) in the job description to filter these people out. "Just to make sure you have read the listing, include what you ate for breakfast in your email." About 30% of applicants failed the test.
