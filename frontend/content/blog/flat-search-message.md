@@ -44,13 +44,19 @@ It's okay to copy and paste your introduction message, so long as it still fits 
 
 One message raved about the vibrant neighbourhood. It's Französisch Buchholz. I can touch a cow in 10 minutes.
 
-In my experience, replying to these messages just wastes more of my time. They often miss other key details about the listing, like that it's a 3-month sublet.[^2]
+## The lost applicant
+
+"Is it a flat or a WG? When is it available? What is the address?"
+
+![Kleinanzeigen message](/images/ka-description.png)
+
+Many applicants asked about details that they could find in the description.[^2] We both waste time when you take half a dozen messages to realize that the move-in date is in October, or that it's not in your favourite neighbourhood. It makes you come across as unserious.
 
 ## May the odds be ever in your favour
 
-The Berlin housing market is *brutal*. You are competing with a lot of people for a scarce supply of affordable housing. You have to put the odds on your side, starting with a decent opening message.
+The Berlin housing market is *brutal*. You are competing with a lot of people for a scarce supply of affordable housing. Put the odds on your side, starting with a decent opening message.
 
-I think that this also applies to your job search, and any other bid for a contested resource.
+This also applies to your job search, and any other bid for a contested resource.
 
 You can find more detailed apartment search advice in my **[Berlin flat search guide](https://allaboutberlin.com/guides/find-a-flat-in-berlin)**.
 
