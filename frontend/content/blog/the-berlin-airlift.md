@@ -62,7 +62,7 @@ General Clay seized the microphone, and boasted that "not even another war would
 
 ## Feeding 2 million people by air
 
-When it became clear that the blockade would last more than a few weeks, the Air Force flew in William "Tonnage" Tunner. As the commander of the then largest airlift in history, Tunner was the uncontested air supply expert.
+When it became clear that the blockade would last more than a few weeks, the Air Force flew in William "Tonnage" Tunner. As the commander of then largest airlift in history, Tunner was the uncontested air supply expert.
 
 ![](/images/william-tunner-berlin-airlift.jpg "William "Tonnage" Tunner")
 

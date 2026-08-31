@@ -7,7 +7,7 @@ categories:
     - travel
 ---
 
-I had drinks with a Spaniard in Malaysia. He moved to Malacca years ago to start a tapas restaurant with his wife. As we sat by the street, watching the humid air condense on our beer glasses, we started talking about the logistics of running a restaurant there. He described the the difficulty of hiring and training the local staff to his foreign standard.
+I had drinks with a Spaniard in Malaysia. He moved to Malacca years ago to start a tapas restaurant with his wife. As we sat by the street, watching the humid air condense on our beer glasses, we started talking about the logistics of running a restaurant there. He described the difficulty of hiring and training the local staff to his foreign standard.
 
 He struggled with the Nepalese migrant workers that made up half of his staff. These boys, he explained, were dropped at the airport by their agency and left to fend for themselves.
 

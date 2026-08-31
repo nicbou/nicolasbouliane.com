@@ -20,7 +20,7 @@ Currently, most immigration talk happens in private Facebook groups, Telegram ch
 
 Those who would benefit from that knowledge will never find it.
 
-Reddit is a notable exception: it's a public forum for now. This probably won't last. Reddit is training the the AI models that is killing its traffic. Bots are infesting its communities. Sooner or later, they will also go private.[^1]
+Reddit is a notable exception: it's a public forum for now. This probably won't last. Reddit is training the AI models that is killing its traffic. Bots are infesting its communities. Sooner or later, they will also go private.[^1]
 
 This forum will stay public, come what may. Its explicit goal is to amplify the wisdom of the crowd. Helpful answers will be accessible to all, without restrictions.
 
