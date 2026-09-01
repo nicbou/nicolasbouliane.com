@@ -27,15 +27,7 @@ This newsletter marks a transition from passive information to proactive advice.
 
 At first, I defaulted to Substack because it's where all the cool journalists hang out. They immediately started spamming my inbox and running me through a gauntlet of growth hacks. I spent the first few hours deleting emails and turning things off. This left a bad taste in my mouth. The platform feels well past the point of [enshittification](https://en.wikipedia.org/wiki/Enshittification).
 
-Instead, I chose Buttondown because I vibe with their business model. They focus on building a newsletter tool, nothing more.
-
-The first few days with Buttondown were disappointing. I encountered one bug after another, and often had to get their customer support involved. When I blew past the free plan's 100-subscriber limit, Buttondown failed to deliver a scheduled email *and* stopped sending activation emails to new subscribers.
-
-When I upgraded the plan, nothing happened. The newsletter was not delivered, and dozens of users never got the activation email. I had to fix this manually with help from their customer support.
-
-Their support was very helpful, but the poor quality control makes me feel like I'm supporting an underdog, even though I am paying for a finished product.
-
-Nonetheless, I decided to stay with them. The tool does exactly what I need and integrates well with my workflow.
+Instead, I chose Buttondown because I vibe with their business model. They focus on building a newsletter tool, nothing more. [This was a mistake](/blog/buttondown-review) that I still live with.
 
 ## Growth
 

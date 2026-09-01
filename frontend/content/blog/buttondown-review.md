@@ -7,10 +7,32 @@ categories:
     - technology
 ---
 
-I am sorely disappointed with Buttondown, the tool I use for All About Berlin's newsletter. It seems like every other month, something unexpected goes wrong with it.
+I have used Buttondown for almost a year now for [All About Berlin's newsletter](https://allaboutberlin.com/newsletter). I could not find reviews for Buttondown when signing up for the service, so here is mine.
 
-This month, I have reached my subscriber limit and got no warning. Then I saw that their API has rejected a lot of legitimate subscriber requests, which I had to verify and add manually. Today, after sending my [monthly newsletter](https://allaboutberlin.com), they disabled my account without any clarification.
+## Rough start
 
-I could not find any Buttondown down reviews on the internet, so let this be mine: Buttondown has been a pain in my lower back for the past year, and I wish I had picked a different provider. Their support is great, but I had to contact them a dozen times.
+The first few days with Buttondown were disappointing. I encountered one bug after another, and often had to get their customer support involved. When I blew past the free plan's 100-subscriber limit, Buttondown failed to deliver a scheduled email *and* stopped sending activation emails to new subscribers.
 
-A friend who also used Buttondown told me "I feel like I'm their unpaid product owner" after having a similar experience with them.
+When I upgraded the plan, nothing happened. The newsletter was not delivered, and dozens of users never got the activation email. I had to fix this manually with help from their customer support.
+
+Nonetheless, I decided to stay with them. Their support was very helpful, but the poor quality control made me feel like I was supporting an underdog, even though I am paying for a finished product.
+
+I asked a friend who runs a bigger newsletter, and he had just moved away from Buttondown after experiencing one issue after another. He told me that he felt like their unpaid product owner.
+
+## More problems still
+
+Around a year later, I have reached my 1,000 subscriber limit. There was no email; I learned about it from an API error message.
+
+While logged in, I looked at the recent API requests, and saw that Buttondown's firewall rejected half a dozen legitimate subscribers in the last month alone. I had to verify and add each of them manually.
+
+Today, after sending my [September newsletter](https://allaboutberlin.com/newsletter/september-2026), Buttondown has disabled my account without any clarification.
+
+## Conclusion
+
+I hoped that Buttondown would make it easy to email about a thousand people once per month. It does not do that reliably. I wanted a service that I could set and forget, but every time I take my eyes off of it, something goes wrong.
+
+Again, their support is great, but I wish I did not have to contact it so often.
+
+![Emails to Buttondown's support](/images/buttondown-support-emails.png)
+
+I do not recommend Buttondown.
