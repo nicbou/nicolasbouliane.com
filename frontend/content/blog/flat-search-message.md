@@ -36,6 +36,8 @@ It should explain...
 - How likely you are to pay the rent
 - How unlikely you are to cause trouble
 
+I like a short intro, something like "I'm moving from Frankfurt to Berlin to work at Charité". For a long-term rental, sharing your monthly income helps. Telling that you're a nice tenant does not add useful information, so I would leave it out.
+
 ## The wrong pitch
 
 It's okay to copy and paste your introduction message, so long as it still fits the apartment you're applying for. I can abide "dear sir or madam", but my 3-month sublet might will not be your forever home.
@@ -50,7 +52,11 @@ One message raved about the vibrant neighbourhood. It's Französisch Buchholz. I
 
 ![Kleinanzeigen message](/images/ka-description.png)
 
-Many applicants asked about details that they could find in the description.[^2] We both waste time when you take half a dozen messages to realize that the move-in date is in October, or that it's not in your favourite neighbourhood. It makes you come across as unserious.
+![Kleinanzeigen dumb questions](/images/ka-questions.png)
+
+Many applicants asked for information that was in the very short description. Some of them realised after a few messages that it's a short-term sublet, and that it's not in their favourite neighbourhood.
+
+Eventually, I started replying to every applicant with "this is for a 3-month sublet in Französisch Buchholz, is that okay with you?"[^2] Making the landlord repeat information that's in the flat listing makes you seem unserious.
 
 ## May the odds be ever in your favour
 
