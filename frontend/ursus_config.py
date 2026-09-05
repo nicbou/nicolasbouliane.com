@@ -14,6 +14,7 @@ config.minify_js = True
 config.minify_css = True
 
 config.context_processors.append("ursus.context_processors.git_date.GitDateProcessor")
+config.context_processors.append("extensions.context_processors.notes_images.NoteImagesProcessor")
 
 config.context_globals = {
     "now": datetime.now(),
