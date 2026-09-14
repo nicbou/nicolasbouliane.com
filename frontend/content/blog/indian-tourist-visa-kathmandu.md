@@ -31,6 +31,8 @@ The form is confusing, and people often make the same mistakes:
 - Visa duration: Other people said that they got a shorter period than they asked for.
 - If you visited many countries in the last 10 years, you won't have enough place to enter them all. It does not matter.
 
+(by the way, I have made a [tool](/projects/indian-visa-tool) to compress your passport scan into a 300 kB PDF)
+
 Print the form and sign it.
 
 Attach a 51 mm x 51 mm (2 inch x 2 inch) passport photo.
