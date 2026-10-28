@@ -10,13 +10,13 @@ categories:
 
 ![All About Berlin traffic: 7 years of growth, then a sharp decline after Google AI Overviews](/images/all-about-berlin-traffic-loss.png)
 
-This is the traffic to [All About Berlin](/projects/all-about-berlin), the website that I run since 2017, and live from since 2020. After 7 years of growth, it has lost ~~70%~~ 75% of its traffic to Google AI Overviews.
+This is the traffic to [All About Berlin](/projects/all-about-berlin), the website that I run since 2017, and live from since 2020. After 7 years of growth, it has lost <s>70%</s> 75% of its traffic to Google AI Overviews.
 
 When you Googled something, you used to get a link to my website. Now you get a page of ads, then an AI-generated answer trained on my content, then finally a link to my website. This has a devastating impact on traffic.
 
 ![First result on Google Search, below sponsored results](/images/first-on-google.png "What it means to be first on Google")
 
-It's hard to fund my work with ~~70%~~ 75% fewer visitors. Soon, I will need another way to pay my rent. Instead of writing new guides, I spend my days preparing for that future.
+It's hard to fund my work with only a quarter of my audience. Soon, I will need another way to pay my rent. Instead of writing new guides, I already spend my days preparing for that future.
 
 It's not just about the money. I have poured 8 years of my life into making something good and useful. Strangers' faces light up when they learn that I run All About Berlin. Local and federal government offices refer people to my guides. The Berlin immigration office uses my data *about themselves*. It inspired two government portals and a few similar websites in other cities.
 
