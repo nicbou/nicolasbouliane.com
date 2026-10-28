@@ -8,4 +8,4 @@ I have a [home server](/projects/home-server) in Germany. When I travel outside 
 
 If I use a VPN or an SSH tunnel based in Germany, there is no throttling. Files download at the normal speed.
 
-I have reproduced this issue from a dozen locations in Singapore, Malaysia and Morocco. When my friends downloaded the same files at the same time from a computer in Germany, there was no throttling.
+I have reproduced this issue from a dozen locations in India, Singapore, Malaysia and Morocco. When my friends downloaded the same files at the same time from a computer in Germany, there was no throttling.
