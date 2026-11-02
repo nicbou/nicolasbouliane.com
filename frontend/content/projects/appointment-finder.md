@@ -1,18 +1,18 @@
 ---
 title: Bürgeramt appointment finder
-description: A tool that helps you grab one of those elusive Bürgeramt appointments.
+description: A tool that helped you grab one of those elusive Bürgeramt appointments.
 date_created: 2022-02-22
 project_url: https://allaboutberlin.com/tools/appointment-finder
 repo_url: https://github.com/all-about-berlin/burgeramt-appointments
 ---
 
-Most of the German bureaucracy happens in person, by appointment. In 2022, I built [a bot to find Bürgeramt appointments](https://allaboutberlin.com/tools/appointment-finder). It helps recent immigrants [register their address](https://allaboutberlin.com/glossary/Anmeldung) sooner, and get faster access to government services.
+Most of the German bureaucracy happens in person, by appointment. In 2022, I built [a bot to find Bürgeramt appointments](https://allaboutberlin.com/tools/appointment-finder). It helped recent immigrants [register their address](https://allaboutberlin.com/glossary/Anmeldung) sooner, and get faster access to government services. The tool served thousands of users until it was brought offline in November 2026.
 
-**[Try it yourself](https://allaboutberlin.com/tools/appointment-finder)** or [see the code on GitHub](https://github.com/all-about-berlin/burgeramt-appointments).
+**[See the code on GitHub](https://github.com/all-about-berlin/burgeramt-appointments)**
 
 ![The Bürgeramt appointment finder UI](/images/appointment-finder.png)
 
-This page explains why I built this tool, and how it got approved by the city of Berlin.
+This page explains why I built this tool, and how it got approved by the city of Berlin, and why it went offline.
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -140,6 +140,12 @@ There is also hope from the fringes of government: my old colleagues are lifting
 
 As for me, I'll keep building little tools where I see an opportunity to improve German bureaucracy. Recently, I released a [tool to fill the address registration form](/projects/anmeldung-form-filler) and to [request a new tax ID](https://allaboutberlin.com/docs/010250-antrag-auf-vergabe-einer-steuerlichen-id). More are coming.
 
+## Taking the tool offline
+
+In late 2026, bot prevention measures on Berlin.de have made the tool unreliable. By then, it was much easier to get a Bürgeramt appointment, so there was no point in fixing the tool.
+
+With AI [cutting deep into my revenue](/blog/death-by-ai), I decided to spare myself the server costs, and I have brought the tool offline.
+
 [^0]: [plus.tagesspiegel.de](https://www.tagesspiegel.de/der-graue-lappen-ist-zuruck-die-jagd-nach-dem-internationalen-fuhrerschein-wird-zum-sussen-nostalgie-erlebnis-336706.html), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/keine-losung-fur-terminstau-bei-berliner-burgeramtern-4256614.html), [checkpoint.tagesspiegel.de](https://checkpoint.tagesspiegel.de/langmeldung/zeWyOidG3PriBabT5nd8b)
 [^1]: [nicolasbouliane.com](/blog/berlin-buergeramt-experiment)
 [^2]: [Berlin parliament inquiry](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12858.pdf), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/berlins-innensenator-schlagt-zentralisierung-der-burgeramter-vor-5607997.html)
@@ -151,6 +157,7 @@ As for me, I'll keep building little tools where I see an opportunity to improve
 [^8]: [tagesspiegel.de](https://www.tagesspiegel.de/eine-idee-gegen-terminmangel-kunftig-ohne-anmeldung-ins-berliner-burgeramt-10513438.html#:~:text=100%20zusatzlich%20geschaffene%20stellen), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/der-alltagliche-wahnsinn-an-berliner-burgeramtern-3626182.html#:~:text=ende%202014%20hat%20der%20finanzsenator%20den%20burgeramtern%2031%20zusatzliche%20stellen), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/der-alltagliche-wahnsinn-an-berliner-burgeramtern-3626182.html), [bz-berlin.de](https://www.bz-berlin.de/archiv-artikel/neues-personal-fuer-berlins-buergeraemter), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/senat-verspricht-mehr-als-1200-zusatzliche-stellen-5497792.html)
 [^9]: [Wikipedia](https://en.wikipedia.org/wiki/Berlin_population_statistics)
 [^10]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/senat-verspricht-mehr-als-1200-zusatzliche-stellen-5497792.html)
+[^11]: [tagesspiegel.de](https://www.tagesspiegel.de/eine-idee-gegen-terminmangel-kunftig-ohne-anmeldung-ins-berliner-burgeramt-10513438.html)
 [^15]: [tagesspiegel.de](https://www.tagesspiegel.de/berlin/berlin-bekommt-ein-neues-burgeramt-5109592.html#:~:text=pro%20mitarbeiter%20konnen%2018%20termine%20pro%20tag%20angeboten%20werden), [rbb24.de \(archived\)](https://web.archive.org/web/20220104195144/https://www.rbb24.de/politik/beitrag/2021/06/berlin-terminmangel-laengere-oeffnungszeiten-buergeraemter.html)
 [^16]: [berlin.de](https://service.berlin.de/terminvereinbarung/hinweise/#:~:text=leider%20werden%20insgesamt%20etwa%201.000%20termine%2Ftag%20nicht%20wahrgenommen.)
 [^17]: [Berlin parliament inquiry](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/SchrAnfr/S19-12858.pdf), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/berlins-innensenator-schlagt-zentralisierung-der-burgeramter-vor-5607997.html#:~:text=jeder%20zehnte%20termin%20werde%20dadurch%20in%20pankow%20nicht%20wahrgenommen.%20in%20neukolln%20seien%20es%20sogar%2020%20prozent.)
@@ -162,4 +169,3 @@ As for me, I'll keep building little tools where I see an opportunity to improve
 [^23]: [welt.de](https://www.welt.de/regionales/berlin/article144567655/Berliner-verkaufen-Termine-im-Buergeramt-fuer-45-Euro.html)
 [^25]: [checkpoint.tagesspiegel.de](https://checkpoint.tagesspiegel.de/langmeldung/1nFaSvn04t1eyLagvxeBL4), [20percent.berlin](https://www.20percent.berlin/p/45-yes-more-corona-changes-trains?s=r), [blog.feather-insurance.com](https://feather-insurance.com/blog/meet-nicolas-from-all-about-berlin/), [linkedin.com](https://www.linkedin.com/posts/nicolasbouliane_b%C3%BCrgeramt-appointment-finder-activity-6891808142745755648-wsvb?utm_source=linkedin_share&utm_medium=member_desktop_web), [Twitter](https://twitter.com/aboutberlin/status/1485999903327367178)
 [^26]: This was a problem in [2015](https://www.tagesspiegel.de/berlin/der-alltagliche-wahnsinn-an-berliner-burgeramtern-3626182.html), [2016](https://www.rbb24.de/politik/wahl/berlin/wahlprogramme/buergeraemter-verwaltung-wahlprogramme-berlin-abgeordnetenhaus-wahl.html), [2017](https://www.tagesspiegel.de/berlin/schlange-ade-es-gibt-wieder-termine-im-burgeramt-5915686.html), [2018](https://www.morgenpost.de/berlin/article213130353/Buergeramt-Berliner-sollen-Wunschtermin-einfacher-bekommen.html), [2019](https://www.tagesspiegel.de/berlin/innensenator-schlagt-alarm-wegen-situation-in-berliner-burgeramtern-6871780.html), [2020](https://www.morgenpost.de/berlin/article230804526/Terminnotstand-in-den-Berliner-Buergeraemtern.html), [2021](https://web.archive.org/web/20220104195144/https://www.rbb24.de/politik/beitrag/2021/06/berlin-terminmangel-laengere-oeffnungszeiten-buergeraemter.html), [2022](https://www.morgenpost.de/berlin/article233456999/buergeramt-berlin-termin-vorzugstermin-tipps-buergeraemter.html) and [2023](https://www.berliner-kurier.de/berlin/keine-online-termine-im-buergeramt-in-sicht-nur-in-diesem-bezirk-haben-sie-noch-chancen-li.308232)
-[^11]: [tagesspiegel.de](https://www.tagesspiegel.de/eine-idee-gegen-terminmangel-kunftig-ohne-anmeldung-ins-berliner-burgeramt-10513438.html)
