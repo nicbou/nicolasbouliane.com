@@ -6,13 +6,13 @@ project_url: https://allaboutberlin.com/tools/appointment-finder
 repo_url: https://github.com/all-about-berlin/burgeramt-appointments
 ---
 
-Most of the German bureaucracy happens in person, by appointment. In 2022, I built [a bot to find Bürgeramt appointments](https://allaboutberlin.com/tools/appointment-finder). It helped recent immigrants [register their address](https://allaboutberlin.com/glossary/Anmeldung) sooner, and get faster access to government services. The tool served thousands of users until it was brought offline in November 2026.
+Most of the German bureaucracy happens in person, by appointment. In 2022, I built a bot to find Bürgeramt appointments. It ran for four years, helping thousands of newcomers [register their address](https://allaboutberlin.com/glossary/Anmeldung) faster, and thus promptly access government services.
 
 **[See the code on GitHub](https://github.com/all-about-berlin/burgeramt-appointments)**
 
 ![The Bürgeramt appointment finder UI](/images/appointment-finder.png)
 
-This page explains why I built this tool, and how it got approved by the city of Berlin, and why it went offline.
+This page explains why I built this tool, how it got approved by the city of Berlin, and why it went offline.
 
 {% include "blocks/_tableOfContents.html" %}
 
@@ -142,9 +142,9 @@ As for me, I'll keep building little tools where I see an opportunity to improve
 
 ## Taking the tool offline
 
-In late 2026, bot prevention measures on Berlin.de have made the tool unreliable. By then, it was much easier to get a Bürgeramt appointment, so there was no point in fixing the tool.
+In late 2026, bot prevention measures on Berlin.de have made the bot unreliable. By then, it had outlived its usefulness anyway; appointments are readily available.
 
-With AI [cutting deep into my revenue](/blog/death-by-ai), I decided to spare myself the server costs, and I have brought the tool offline.
+With AI [cutting deep into my revenue](/blog/death-by-ai), I have decided to spare the server costs, and brought the tool offline.
 
 [^0]: [plus.tagesspiegel.de](https://www.tagesspiegel.de/der-graue-lappen-ist-zuruck-die-jagd-nach-dem-internationalen-fuhrerschein-wird-zum-sussen-nostalgie-erlebnis-336706.html), [tagesspiegel.de](https://www.tagesspiegel.de/berlin/keine-losung-fur-terminstau-bei-berliner-burgeramtern-4256614.html), [checkpoint.tagesspiegel.de](https://checkpoint.tagesspiegel.de/langmeldung/zeWyOidG3PriBabT5nd8b)
 [^1]: [nicolasbouliane.com](/blog/berlin-buergeramt-experiment)

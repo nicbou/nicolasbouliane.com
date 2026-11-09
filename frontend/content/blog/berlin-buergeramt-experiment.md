@@ -4,8 +4,6 @@ description: Does checking for appointments early in the morning really help? I 
 date_created: 2021-10-12
 ---
 
-**Update:** Try my [Bürgeramt appointment finder](https://allaboutberlin.com/tools/appointment-finder). It helps.
-
 When you move anywhere in Germany, you must [register your address](https://allaboutberlin.com/guides/anmeldung-in-english-berlin). It's an important step, because you need a registered address for many other things.
 
 In Berlin, you need an appointment to do that. Those appointments are scarce, and often far in the future. That's a pretty big issue for recent immigrants, because they can't get paid properly until they register their address.
