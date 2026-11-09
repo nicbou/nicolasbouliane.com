@@ -7,7 +7,6 @@ import json
 import logging
 import mimetypes
 import os
-import shutil
 import subprocess
 from pathlib import Path
 
@@ -36,8 +35,6 @@ def cloudflare_request(method, path, **kwargs):
 
 def build():
     logger.info("building site")
-    if OUTPUT_DIR.exists():
-        shutil.rmtree(OUTPUT_DIR)
     subprocess.run(["ursus", "-c", "ursus_config.py"], check=True)
 
 

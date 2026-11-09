@@ -15,6 +15,13 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
+      # Reuse previous build's output/ so Ursus can rebuild incrementally.
+      - uses: actions/cache@v4
+        with:
+          path: output
+          key: ursus-output-${{ github.run_id }}
+          restore-keys: ursus-output-
+
       - uses: jdx/mise-action@v5
 
       - run: mise setup
