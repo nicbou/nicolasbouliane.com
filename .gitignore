@@ -1,6 +1,1 @@
-.env
-.venv
-*.pid
-__pycache__
 output
-.claude
