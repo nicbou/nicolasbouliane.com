@@ -7,6 +7,8 @@
     {% if canonicalUrl|default %}<link rel="canonical" href="{{ site_url }}{{ canonicalUrl }}">{% endif %}
     <link rel="home" href="https://nicolasbouliane.com" />
     <link rel="icon" type="image/png" href="/img/favicon.png">
+    <link rel="preload" href="/fonts/eb-garamond.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="/fonts/eb-garamond-italic.woff2" as="font" type="font/woff2" crossorigin>
     <link rel="alternate" type="application/rss+xml" title="Nicolas Bouliane's latest posts" href="{{ site_url }}/blog/feed.rss">
     <link rel="alternate" type="application/rss+xml" title="Nicolas Bouliane's latest projects" href="{{ site_url }}/projects/feed.rss">
     <link rel="alternate" type="application/rss+xml" title="Nicolas Bouliane's latest recipes" href="{{ site_url }}/recipes/feed.rss">
