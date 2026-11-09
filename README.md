@@ -1,13 +1,9 @@
-This is my personal website, built with [Ursus](https://github.com/all-about-berlin/ursus). You can see it at <nicolasbouliane.com>. It's a reference implementation of an [Ursus](https://github.com/all-about-berlin/ursus) website.
+Builds [the personal website of Nicolas Bouliane](https://nicolasbouliane.com) using the [Ursus](https://github.com/all-about-berlin/ursus) static site generator.
 
-# How to run
+## Setup
 
-This project uses [mise](https://mise.jdx.dev/) to manage tools, dependencies, and tasks.
+Install [mise](https://mise.jdx.dev/), then run these commands:
 
-Run `mise site` to serve the site locally. It rebuilds on changes. Run `mise dev` to serve the site behind the Caddy proxy in Docker instead.
-
-See `mise tasks` for a full list of available tasks.
-
-# Deployments
-
-Deployments are triggered by a GitHub webhook. See [`the production README`](.prod/README.md) for setup and deployment details.
+- `mise site` to serve locally with live reload
+- `mise deploy` to build and deploy to production
+- `mise new [type]` to create new content
