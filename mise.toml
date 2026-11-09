@@ -1,7 +1,5 @@
 [env]
 _.file = ".env"
-COMPOSE_PROJECT_NAME = "nicolasbouliane"
-BUILDKIT_PROGRESS = "plain"
 
 _.python.venv = { path = ".venv", create = true }
 
@@ -33,22 +31,10 @@ run = """
 ursus -wfs -c frontend/ursus_config.py
 """
 
-[tasks.dev]
-description = "Serve the site behind the Caddy proxy in docker."
-quiet = true
+[tasks.deploy]
+description = "Build the site and deploy to Cloudflare Workers."
 run = """
-if ! docker info >/dev/null 2>&1; then
-  echo "[$(date +'%H:%M:%S')] Starting docker daemon"
-  open -a Docker
-fi
-
-echo "[$(date +'%H:%M:%S')] Waiting for docker daemon to be ready"
-while ! docker ps > /dev/null 2>&1; do
-  sleep 1
-done
-
-echo "[$(date +'%H:%M:%S')] Starting docker containers"
-docker compose up --build -d --force-recreate
+python deploy.py
 """
 
 # = CLEANUP ====================================================================
