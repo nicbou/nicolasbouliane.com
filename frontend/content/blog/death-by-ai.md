@@ -55,6 +55,8 @@ I don't know where All About Berlin fits in that future.
 
 **Similar stories:**
 
+- [StackOverflow's traffic down 99% from its peak](https://ppc.land/stack-overflow-drops-to-1-442-questions-in-july-down-99-from-2014-peak/)
 - [How Google and AI are Killing Travel Blogs Like Mine](https://www.dangerous-business.com/how-google-and-ai-are-killing-travel-blogs-like-mine/)
+- [What's happening with Liliputing?](https://liliputing.com/whats-up-with-liliputing-fall-2026-edition/)
 
 [^1]: [Techcrunch](https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/), [Google](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/)
