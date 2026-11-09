@@ -2,6 +2,5 @@
 .venv
 *.pid
 __pycache__
-frontend/output
 output
 .claude

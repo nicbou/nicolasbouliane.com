@@ -13,7 +13,7 @@ python = "3.13"
 description = "Install local dependencies to run the project"
 silent = true
 run = """
-uv pip install -r frontend/requirements.txt
+uv pip install -r requirements.txt
 if [ -d .git ]; then
   mise generate git-pre-commit --hook=pre-commit --write --task=pre-commit
   mise generate git-pre-commit --hook=pre-push --write --task=pre-push
@@ -28,7 +28,7 @@ enter = { task = "setup" }
 [tasks.site]
 description = "Serve the site locally, reload on changes. Fast and resource-efficient."
 run = """
-ursus -wfs -c frontend/ursus_config.py
+ursus -wfs -c ursus_config.py
 """
 
 [tasks.deploy]
@@ -37,13 +37,68 @@ run = """
 python deploy.py
 """
 
+[tasks.new]
+description = "Create a new content entry. Usage: mise new <blog|recipe|note|project> [title]"
+run = """
+#!/usr/bin/env bash
+set -e
+
+SECTION="${1:-}"
+TITLE="${2:-}"
+DATE=$(date +%Y-%m-%d)
+
+if [ -z "$SECTION" ]; then
+  echo "Usage: mise new <blog|recipe|note|project> [title]"
+  echo "       mise new post [title]  (alias for blog)"
+  exit 1
+fi
+
+if [ "$SECTION" = "post" ]; then
+  SECTION="blog"
+fi
+
+case "$SECTION" in
+  blog)    DIR="content/blog" ;;
+  recipe)  DIR="content/recipes" ;;
+  note)    DIR="content/notes" ;;
+  project) DIR="content/projects" ;;
+  *)
+    echo "Unknown section: '$SECTION'. Use: blog, recipe, note, project (or post)"
+    exit 1
+    ;;
+esac
+
+SLUG="${TITLE:-$DATE}"
+TEMPLATE="content/_templates/${SECTION}.md"
+
+if [ "$SECTION" = "note" ]; then
+  OUTPUT="${DIR}/${SLUG}.diary.md"
+else
+  OUTPUT="${DIR}/${SLUG}.md"
+fi
+
+if [ ! -f "$TEMPLATE" ]; then
+  echo "Template not found: $TEMPLATE"
+  exit 1
+fi
+
+if [ -f "$OUTPUT" ]; then
+  echo "File already exists: $OUTPUT"
+  exit 1
+fi
+
+sed "s/{{ '{{' }}date}}/$DATE/g" "$TEMPLATE" > "$OUTPUT"
+echo "Created: $OUTPUT"
+subl --add "$OUTPUT"
+"""
+
 # = CLEANUP ====================================================================
 
 [tasks.lint]
 description = "Run various linters for the project"
 quiet = true
 run = """
-ursus lint --level=ERROR -c frontend/ursus_config.py
+ursus lint --level=ERROR -c ursus_config.py
 """
 
 [tasks.pre-commit]

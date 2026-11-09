@@ -13,7 +13,7 @@ from pathlib import Path
 
 import requests
 
-OUTPUT_DIR = Path(__file__).parent / "frontend" / "output"
+OUTPUT_DIR = Path(__file__).parent / "output"
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(message)s", datefmt="%H:%M:%S")
 logger = logging.getLogger(__name__)
@@ -38,7 +38,7 @@ def build():
     logger.info("building site")
     if OUTPUT_DIR.exists():
         shutil.rmtree(OUTPUT_DIR)
-    subprocess.run(["ursus", "-c", "frontend/ursus_config.py"], check=True)
+    subprocess.run(["ursus", "-c", "ursus_config.py"], check=True)
 
 
 def build_manifest():
