@@ -2,6 +2,8 @@
 title: Berlin at last!
 description: After Brussels and Rome comes Berlin, and it was love at first sight.
 date_created: 2015-05-09
+tags:
+    - berlin
 ---
 
 Merely 16 days ago, my journey to Berlin began at the bus terminal at Bonaventure in Montreal. I have been in Berlin for little more than a week now, and what an adventure it has been!

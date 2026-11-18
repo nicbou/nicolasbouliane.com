@@ -2,6 +2,8 @@
 title: Javascript, jQuery and parent windows
 description: ''
 date_created: 2014-03-10
+tags:
+    - reference
 ---
 
 When you open a window with `window.open`, you can access the popup's parent window using `window.opener` from the child window.

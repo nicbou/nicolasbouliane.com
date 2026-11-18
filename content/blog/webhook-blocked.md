@@ -2,6 +2,8 @@
 title: How to fix `failed to connect to host` with GitHub webhooks
 description:
 date_created: 2025-10-14
+tags:
+    - reference
 ---
 I use `webhook` and Github webhooks to redeploy All About Berlin when I push new changes. I'm using [`adnanh/webhook`](https://github.com/adnanh/webhook) on an Ubuntu 24.04 VPS on DigitalOcean, behind CloudFlare.
 ## The problem

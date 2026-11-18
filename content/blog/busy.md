@@ -2,6 +2,8 @@
 title: Slowing down
 description: An ongoing list of things I'm doing to work less.
 date_created: 2023-12-30
+tags:
+    - allaboutberlin
 ---
 
 I'm too busy.

@@ -2,6 +2,8 @@
 title: 'OS X Terminal: Open the current folder in Finder'
 description: A nifty little command that opens the current terminal directory in a finder window.
 date_created: 2013-11-15
+tags:
+    - reference
 ---
 
 If you use the OS X terminal, you are probably familiar with the `open` command. Essentially, it opens the given file with the default application, or with the application specified with the `-a` parameter. For example, `open hello.txt` will open hello.txt using TextEdit or your default text editor.

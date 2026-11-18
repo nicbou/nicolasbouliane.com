@@ -2,6 +2,8 @@
 title: How to convert dates to UTC in vanilla JavaScript
 description: A simple tutorial on removing timezones from JavaScript dates.
 date_created: 2013-04-14
+tags:
+    - reference
 ---
 
 When you create a JavaScript `Date` object, it will set the date in your time zone. If you want to keep the same date, but convert it to UTC/GMT for storage and comparison purposes, use the function below:

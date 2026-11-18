@@ -2,6 +2,8 @@
 title: Disabling font zooming in Chrome on Android
 description: ''
 date_created: 2014-04-08
+tags:
+    - reference
 ---
 
 If you are here, you have probably tried disabling font zooming by using `-webkit-text-size-adjust:100%` and discovered it didn't work.

@@ -2,6 +2,8 @@
 title: How to extract subtitles with ffmpeg
 description: This is how you extract .srt and .vtt subtitles from a video with ffmpeg.
 date_created: 2021-08-23
+tags:
+    - reference
 ---
 
 My goal was to extract .srt and .vtt subtitles from a video file with embedded subtitles. This is how I achieve it.

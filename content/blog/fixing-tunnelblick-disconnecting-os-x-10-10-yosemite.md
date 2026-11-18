@@ -2,6 +2,8 @@
 title: Fixing Tunnelblick disconnecting in OS X 10.10 Yosemite
 description: ''
 date_created: 2014-10-19
+tags:
+    - reference
 ---
 
 If you have just upgraded to Yosemite, you might have run into issues with Tunnelblick. First, it will connect properly, then disconnect immediately after.

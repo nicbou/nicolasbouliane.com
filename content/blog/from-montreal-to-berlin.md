@@ -2,6 +2,8 @@
 title: 'From Montreal to Berlin: what you need to know'
 description: A list of important lessons learned by a Canadian travelling to Germany. Health insurance, visas and more.
 date_created: 2015-03-12
+tags:
+    - berlin
 ---
 
 *This article was written from the perspective of an intern living temporarily in Berlin. Since then, I have written much more detailed guides on my other website, [All About Berlin](https://allaboutberlin.com/ "Moving to Germany guide"). Some parts of this article were updated in 2020 to match things I've learned later.*

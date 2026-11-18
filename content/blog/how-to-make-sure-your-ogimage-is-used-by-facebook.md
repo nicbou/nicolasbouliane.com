@@ -2,6 +2,8 @@
 title: 'How to make sure your og:image is used by Facebook'
 description: How EXIF data can prevent Facebook from using your thumbnail images.
 date_created: 2016-03-18
+tags:
+    - reference
 ---
 
 You can define custom meta tags on your website to decide it will appear when shared on Facebook. One of them is the og:image tag.

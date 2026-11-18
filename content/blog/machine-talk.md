@@ -2,6 +2,8 @@
 title: Machine talk
 description: I don't feel so good about AI
 date_created: 2022-10-19
+tags:
+    - technology
 ---
 
 The machine conjured the words instantly, but typed them slowly. It simulated hesitation, even starting over once, then finally sent the message. “I am so sorry for your loss“ it wrote, using all the right words but not feeling any of them.

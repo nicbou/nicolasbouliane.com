@@ -2,6 +2,8 @@
 title: V-Strom won't start? Try this.
 description: A few things to look at if your DL650 won't start.
 date_created: 2020-09-04
+tags:
+    - reference
 ---
 
 A few days ago, when returning from the hardware store, my 2017 V-Strom 650 wouldn't start. This is the second time this happened to me, and unsurprisingly, it was for the same reason.

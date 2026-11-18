@@ -2,6 +2,8 @@
 title: Driving in Georgia (the country)
 description: A summary of the road conditions and driving hazards for Georgia. If you are planning a road trip or a motorcycle trip in Georgia, this is a good starting point.
 date_created: 2019-06-17
+tags:
+    - travel
 ---
 
 ![View from the road in Georgia](/images/georgia-route.jpg)

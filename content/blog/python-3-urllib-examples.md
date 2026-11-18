@@ -2,6 +2,8 @@
 title: Python 3 urllib examples
 description: How to do basic things with urllib in Python 3.
 date_created: 2020-04-30
+tags:
+    - reference
 ---
 
 This article is the missing manual for Python 3's urllib. It shows you how to do basic things that are not clearly described in the official documentation.

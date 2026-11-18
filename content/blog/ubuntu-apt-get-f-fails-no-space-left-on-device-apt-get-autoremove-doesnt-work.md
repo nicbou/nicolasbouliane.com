@@ -2,6 +2,8 @@
 title: 'Ubuntu: apt-get -f fails, "no space left on device", apt-get autoremove does not work.'
 description: How to fix this pesky error when running apt-get install or some other command.
 date_created: 2018-02-05
+tags:
+    - reference
 ---
 
 After getting this issue on two different servers, I thought I'd write a tutorial for everyone else.

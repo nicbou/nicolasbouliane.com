@@ -2,6 +2,8 @@
 title: What's new for Berliners in 2025
 description: A brief summary of changes that affect most immigrants in Berlin.
 date_created: 2024-12-20
+tags:
+    - allaboutberlin
 ---
 
 *Update: the [2026 version](/blog/new-in-2026) is live*

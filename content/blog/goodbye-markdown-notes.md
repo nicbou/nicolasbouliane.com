@@ -2,6 +2,8 @@
 title: Markdown Notes is going offline
 description: After 7 years, Markdown Notes will disappear from the internet. Here's why, and what to do if you are affected.
 date_created: 2020-08-27
+tags:
+    - technology
 ---
 
 I built Markdown Notes in 2013 to make it easier to write engineering notes. It was also an opportunity to get familiar with frontend web development.

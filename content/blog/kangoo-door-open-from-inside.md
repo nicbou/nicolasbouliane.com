@@ -2,6 +2,8 @@
 title: Fix a Kangoo door that won't open from the inside.
 description: This is how you fix a door that only opens from the outside on a first generation Renault Kangoo.
 date_created: 2021-07-11
+tags:
+    - reference
 ---
 
 ## The problem

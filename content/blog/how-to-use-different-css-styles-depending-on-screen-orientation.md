@@ -2,6 +2,8 @@
 title: How to use different CSS styles depending on screen orientation
 description: Most modern browsers support the orientation media attribute, which allows you to define specific styles for devices in portrait or landscape mode
 date_created: 2013-05-09
+tags:
+    - reference
 ---
 
 Most modern browsers support the orientation media attribute, which allows you to define specific styles for devices in portrait or landscape mode. This is especially useful when designing websites for mobile devices.

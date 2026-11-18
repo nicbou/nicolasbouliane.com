@@ -2,6 +2,8 @@
 title: How to disable the Chrome notification icon in OS X
 description: ''
 date_created: 2013-10-13
+tags:
+    - reference
 ---
 
 In a recent Chrome update, a new bell icon popped up in the OS X notification bar. You can disable this icon in 3 easy steps:

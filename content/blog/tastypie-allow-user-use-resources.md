@@ -2,6 +2,8 @@
 title: 'Tastypie: only allow a user to use its own resources'
 description: ''
 date_created: 2013-11-05
+tags:
+    - reference
 ---
 
 If you want to limit user access to the resources they own in Tastypie, define `obj_create` and `apply_authorization_limits` as such. This will automatically assign created items to the current user, and only return resources that belong to the current user.

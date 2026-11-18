@@ -2,6 +2,8 @@
 title: What is XSS injection?
 description: An intro to XSS injection, and tips on mitigating such attacks.
 date_created: 2014-03-28
+tags:
+    - reference
 ---
 
 XSS injection (XSS stands for Cross-Site Scripting) works a bit like SQL injection: improperly sanitized user-submitted data is used to alter the application's functionality. Instead of altering SQL queries, XSS injection alters HTML and JavaScript.

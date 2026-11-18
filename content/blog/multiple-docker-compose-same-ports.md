@@ -2,6 +2,8 @@
 title: Running multiple docker-compose projects on the same ports
 description: How to serve separate docker-compose projects on the same port without merging them together.
 date_created: 2020-11-10
+tags:
+    - reference
 ---
 
 Let's say you have two web apps: **ApplesApp** and **OrangesApp**. They are served at apples.com and oranges.com. You want both websites to live on the same server, on the same ports (80 and 443).

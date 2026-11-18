@@ -2,6 +2,8 @@
 title: Comment se connecter à SSH sans mot de passe
 description: Un guide qui vous montre comment vous connecter à une machine SSH distante sans mot de passe. Utile pour les tâches planifiées avec cron.
 date_created: 2012-04-21
+tags:
+    - reference
 ---
 
 Il est possible que vous ayez un jour le besoin de vous connecter sans mot de passe à un ordinateur distant. Par exemple, vous pourriez avoir besoin d'exécuter une tâche cron qui copie des fichiers entre deux machines. Pour se faire, vous devez configurez une connexion SSH sans mot de passe à l'aide de clés publiques.

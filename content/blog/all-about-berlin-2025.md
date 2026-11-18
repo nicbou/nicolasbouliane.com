@@ -2,6 +2,8 @@
 title: Working differently in 2025
 description: Things are going to be a little different from now on, but it's for the better.
 date_created: 2025-01-15
+tags:
+    - allaboutberlin
 ---
 
 I have made a few resolutions going into the new year. Two of them have to do with [All About Berlin](https://allaboutberlin.com).

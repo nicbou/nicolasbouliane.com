@@ -2,6 +2,8 @@
 title: Nginx redirects with unicode characters
 description: This is how you configure nginx redirects for URLs with accented characters.
 date_created: 2023-07-06
+tags:
+    - reference
 ---
 
 On [All About Berlin](https://allaboutberlin.com), some URLs have accented characters. Recently, I renamed `/glossary/Bundesagentur für Arbeit` to `/glossary/Agentur für Arbeit`. To make this redirect work in nginx, I had to add `(*UTF8)` in front of the regex pattern:[^2]

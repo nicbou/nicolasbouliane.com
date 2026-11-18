@@ -2,6 +2,8 @@
 title: N26 transaction confirmation bug
 description: Sometimes the N26 app won't let you confirm a transaction. Here's what to do.
 date_created: 2020-09-26
+tags:
+    - reference
 ---
 
 When you make a SEPA transfer or a standing order with N26, you must confirm the transaction in the app. Sometimes, that doesn't work. The "Tap to confirm or cancel" (*Hier klicken um das anzunehmen oder abzulehnen*) button appears, but when you click it, nothing happens. [This YouTube video](https://www.youtube.com/watch?v=BLSlyu38PXo) shows the problem.

@@ -2,6 +2,8 @@
 title: '10:10 is the best time to look for a Bürgeramt appointment'
 description: Does checking for appointments early in the morning really help? I tested it.
 date_created: 2021-10-12
+tags:
+    - berlin
 ---
 
 When you move anywhere in Germany, you must [register your address](https://allaboutberlin.com/guides/anmeldung-in-english-berlin). It's an important step, because you need a registered address for many other things.

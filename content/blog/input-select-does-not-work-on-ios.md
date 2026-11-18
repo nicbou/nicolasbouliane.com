@@ -2,6 +2,8 @@
 title: input.select() does not work on iOS
 description: The correct way to do it is to use setSelectionRange on an already focused input.
 date_created: 2015-06-29
+tags:
+    - reference
 ---
 
 The recommended method to give a text field focus and select its contents is the following:

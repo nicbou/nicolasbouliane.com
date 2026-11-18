@@ -2,6 +2,8 @@
 title: What the travel guides omit
 description: A tally of the small differences that make Europe, Germany and Berlin what they are.
 date_created: 2015-07-25
+tags:
+    - travel
 ---
 
 It's hard to find the perfect middle ground between faithfully describing my experience in Berlin and keeping my articles fun-sized. If I had my way, each post would have dozens of footnotes and several more paragraphs. For the sake of brevity, I usually keep a good part of the experience to myself.

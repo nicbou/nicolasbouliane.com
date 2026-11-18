@@ -2,6 +2,8 @@
 title: How to properly validate email addresses in Java
 description: Java comes with the InternetAddress. It validates email addresses for you, so there's no need to write your own class.
 date_created: 2013-04-04
+tags:
+    - reference
 ---
 
 If you are using Java, the `InternetAddress` class will validate your emails against the RFC 822 standard. The function below will filter out most invalid emails quickly:

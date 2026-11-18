@@ -2,6 +2,8 @@
 title: How to clear the nginx static cache
 description: This is how you clear the nginx fastcgi cache or proxy cache without restarting nginx.
 date_created: 2022-03-15
+tags:
+    - reference
 ---
 
 This is how you clear the nginx fastcgi cache or proxy cache.

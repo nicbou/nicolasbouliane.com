@@ -2,6 +2,8 @@
 title: How to install Festival text-to-speech on Ubuntu
 description: ''
 date_created: 2013-12-23
+tags:
+    - reference
 ---
 
 There is a very limited set of quality text-to-speech software for Linux. One of the commonly recommended solutions is Festival. As is common with open source software, you will need to Google your way through a bunch of old mailing list archives before you find the correct instructions to install it on your system.

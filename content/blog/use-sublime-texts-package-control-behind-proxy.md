@@ -2,6 +2,8 @@
 title: Use Sublime Text's Package Control behind a proxy
 description: ''
 date_created: 2014-01-07
+tags:
+    - reference
 ---
 
 If you are using a password-protected proxy with Package Control, you might have trouble listing new packages.

@@ -2,6 +2,8 @@
 title: Every issue I've had with my Airpods, and how to fix them
 description: I bought a pair of Airpods in 2020. I had a few problems with them. Here's how I solved most of them.
 date_created: 2021-03-10
+tags:
+    - reference
 ---
 
 ## Low audio quality during phone calls on Mac

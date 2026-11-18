@@ -2,6 +2,8 @@
 title: Having issues with your first Django deployment on Heroku?
 description: ''
 date_created: 2013-12-07
+tags:
+    - reference
 ---
 
 After spending a part of the night swearing at Heroku for not seeing my Django app correctly, I have realized it requires a very specific folder structure to operate properly.

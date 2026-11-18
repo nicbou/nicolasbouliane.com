@@ -2,6 +2,8 @@
 title: Diagnosing a bad ping
 description: How to find out why you have a bad ping
 date_created: 2014-07-25
+tags:
+    - reference
 ---
 
 Once in a while, you will deal with an unbearably long ping time. Calling your ISP might solve the problem after a few minutes of trial and error, but it's usually after spending a few hours on the phone. Here is a short list of things you should check before calling:

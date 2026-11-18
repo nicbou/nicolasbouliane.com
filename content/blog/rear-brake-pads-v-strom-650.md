@@ -2,6 +2,8 @@
 title: How to replace the rear brake pads on a V-Strom 650
 description: Here's how you change the rear brakes on a V-Strom 650. Those instructions apply to the 2004-2016 model, and the 2017+ model.
 date_created: 2020-12-07
+tags:
+    - reference
 ---
 
 Today we'll change the brake pads on a V-Strom 650. This is an easy job. You don't need special tools, nor strong manly hands. It takes about 30 minutes.

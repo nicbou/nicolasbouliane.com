@@ -2,6 +2,8 @@
 title: Fixing 'Can't use function return value in write context' in PHP
 description: How to fix this error. At least how I fixed it back in 2014.
 date_created: 2014-03-05
+tags:
+    - reference
 ---
 
 You might have encountered this error in one of your PHP scripts. Although the reason for this problem is a testament to how completely messed PHP is, it is quite simple.

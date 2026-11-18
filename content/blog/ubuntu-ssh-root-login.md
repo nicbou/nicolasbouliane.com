@@ -2,6 +2,8 @@
 title: How to enable root login on Ubuntu
 description: This lets you SSH into your Ubuntu server as root.
 date_created: 2021-04-30
+tags:
+    - reference
 ---
 
 This is how you can login as root with a Ubuntu server:

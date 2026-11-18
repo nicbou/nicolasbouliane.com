@@ -2,6 +2,8 @@
 title: 'Le guide du programmeur: Unicode et UTF-8'
 description: Vous êtes-vous demandé ce que signifie ASCII? UTF-8? ISO 8859-1? Voici comment ça fonctionne.
 date_created: 2015-04-30
+tags:
+    - reference
 ---
 
 Cet article est le tout premier d'une série sur la programmation. Il est adressé aux programmeurs débutants et intermédiaires qui cherchent à approfondir leur compréhension de l'informatique.

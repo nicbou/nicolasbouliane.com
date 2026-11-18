@@ -2,6 +2,8 @@
 title: How to force IE8 to render without compatibility mode
 description: If you still use IE8, something is deeply wrong. Godspeed, you poor soul.
 date_created: 2014-02-13
+tags:
+    - reference
 ---
 
 Some companies force Internet Explorer 8 to render all pages using the Internet Explorer 7. This is what Microsoft calls "compatibility mode". Fortunately, you can override that setting and force IE to render the page using the latest version of its rendering engine (IE8+) with a simple meta tag.

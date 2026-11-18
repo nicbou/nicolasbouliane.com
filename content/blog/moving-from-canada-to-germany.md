@@ -2,6 +2,8 @@
 title: Moving from Canada to Germany
 description: The complete guide to moving to Germany, including information about visas, bank accounts and finding a place to live. Contains lots of useful advice for all Americans moving to Europe.
 date_created: 2016-02-21
+tags:
+    - berlin
 ---
 
 *This article was written in 2016. Since then, I created [All About Berlin](https://allaboutberlin.com/), a website where I show people how to settle in Berlin and adjust to life in Germany. Go there, it's better.*

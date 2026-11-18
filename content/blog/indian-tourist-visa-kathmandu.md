@@ -2,6 +2,9 @@
 title: How to apply for an Indian Tourist Visa in Kathmandu
 description: This is how you get an Indian Tourist Visa in Nepal.
 date_created: 2022-10-31
+tags:
+    - travel
+    - reference
 ---
 
 This is how I got my Indian Tourist Visa at the Indian Visa Service Center in Kathmandu, Nepal in October 2022. There is almost no information about this online, so these instructions might help.

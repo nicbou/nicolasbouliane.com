@@ -2,6 +2,8 @@
 title: Different PNG image colours in IE and Safari
 description: If your PNG images look different in Internet Explorer and Safari, you're probably using the wrong colour space.
 date_created: 2010-06-21
+tags:
+    - reference
 ---
 
 When displaying PNG pictures in Internet Explorer or Safari, there is a colour distortion with the images. If this will not cause any trouble with isolated pictures, it can ruin your design if you rely on superimposed images with the same background colour.

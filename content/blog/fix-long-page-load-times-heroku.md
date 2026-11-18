@@ -2,6 +2,8 @@
 title: How to fix long page load times on Heroku
 description: ''
 date_created: 2013-11-15
+tags:
+    - reference
 ---
 
 If you have a free Heroku instance, you might sometimes face a long first page load time on your web application. This is because Heroku will shut down your instance after a while if nobody visits your site. This is a problem I have encountered with [Bill Splitter](/projects/bill-splitter/) since my girlfriend and I were the sole users.

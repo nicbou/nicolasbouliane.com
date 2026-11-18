@@ -2,6 +2,8 @@
 title: How to launch the Windows Phone Emulator without Visual Studio
 description: ''
 date_created: 2013-08-13
+tags:
+    - reference
 ---
 
 Here's a simple trick that lets you launch the Windows Phone 8 Emulator without using Visual Studio 2012.

@@ -2,6 +2,8 @@
 title: How to throttle scroll events in AngularJS
 description: ''
 date_created: 2015-08-10
+tags:
+    - reference
 ---
 
 If you watch the scroll event, you will probably find yourself handling far more events than you need. The scroll event fires *really* quickly, and that can be a problem on mobile devices.

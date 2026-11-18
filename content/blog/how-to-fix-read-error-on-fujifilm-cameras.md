@@ -2,6 +2,8 @@
 title: How to fix "READ ERROR" on Fujifilm cameras
 description: This tricky bug with Olympus X-series cameras is actually caused by Mac OS. Here's how you can fix it.
 date_created: 2017-11-25
+tags:
+    - reference
 ---
 
 You might get a grey screen that says "READ ERROR" when you try to view your photos on a Fujifilm camera. I had this issue on my X-T10 camera, but this issue happens with all Fujifilm X-series cameras.

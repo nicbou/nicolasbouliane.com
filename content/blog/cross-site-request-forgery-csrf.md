@@ -2,6 +2,8 @@
 title: What is Cross-Site Request Forgery (CSRF)?
 description: ''
 date_created: 2014-04-24
+tags:
+    - reference
 ---
 
 Following the previous "you should know" introductions about [SQL injection](http://wisercoder.com/sql-injection/) and [XSS injection](http://wisercoder.com/xss-injection/), here is a short introduction to CSRF. I'll quickly define it with a few examples, then provide solutions to avoid it.

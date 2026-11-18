@@ -2,6 +2,8 @@
 title: Fix garbled file names in SMB shares
 description: 'If you have files in your SMB networked folders that look like this: TRZB4~J.mp4, there is a very easy fix to get the original file names.'
 date_created: 2014-06-23
+tags:
+    - reference
 ---
 
 If you have files in your SMB networked folders that look like this: `TRZB4~J.mp4`, there is a very easy fix to get the original file names.

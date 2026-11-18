@@ -2,6 +2,8 @@
 title: Why Docker for Mac is making your website slow
 description: My website was painfully slow in Docker on my OS X machine, but really fast in production. I found why.
 date_created: 2020-05-04
+tags:
+    - reference
 ---
 
 When I was rebuilding my personal website, pages loaded extremely slowly, especially in the Craft CMS admin. This was odd, since it used the exact same stack as [All About Berlin](https://allaboutberlin.com/), which is ridiculously fast.

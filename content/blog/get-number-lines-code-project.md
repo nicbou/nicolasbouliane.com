@@ -2,6 +2,8 @@
 title: Get the number of lines of code for a project
 description: ''
 date_created: 2014-02-25
+tags:
+    - reference
 ---
 
 If you want to get the total line count for a project, you can simply combine the `find` and `wc` commands. In the example below, we get the number of lines of code for all PHP, JavaScript and CSS files under a given directory:

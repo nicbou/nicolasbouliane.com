@@ -2,6 +2,8 @@
 title: Deleting directories while preserving symlinks
 description: At work, we needed to replace a pre-existing folder with a symlink. Here's how we did it.
 date_created: 2016-03-09
+tags:
+    - reference
 ---
 
 At work, we needed to **replace a pre-existing folder with a symlink**. We wanted to symlink the user's `.git/hooks` folder to `../build/git-hooks` every time the script was run.

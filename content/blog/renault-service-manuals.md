@@ -2,6 +2,8 @@
 title: Where to find Renault service manuals
 description: The repair manuals for your Renault vehicle aren't so hard to find, if you know where to look.
 date_created: 2021-07-19
+tags:
+    - reference
 ---
 
 The repair manual for all Renault vehicles can be found in Dialogys. This software comes on DVDs, and contains all repair manuals and technical manuals for all Renault vehicles, including very old models.

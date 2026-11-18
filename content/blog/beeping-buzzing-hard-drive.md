@@ -2,6 +2,8 @@
 title: How to fix a beeping/buzzing hard drive
 description: If you hard drive beeps or buzz, you might be able to fix it yourself. Here's how.
 date_created: 2020-09-24
+tags:
+    - reference
 ---
 
 A few days ago, the hard drive on my ThinkPad T510 stopped booting. When I booted the laptop, I got the following error:

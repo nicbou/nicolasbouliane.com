@@ -2,6 +2,9 @@
 title: 'Playing with data: linking soldiers and war graves'
 description: Over the past week, I have written about the Canadian Expeditionary Force and the Commonwealth War Graves Commission data sets. After loading both data sets in a common database, it is finally time to bring them together.
 date_created: 2016-11-23
+tags:
+    - history
+    - technology
 ---
 
 Over the past week, I have written about the [Canadian Expeditionary Force](http://nicolasbouliane.com/blog/parsing-575k-military-records-with-python) and the [Commonwealth War Graves Commission](http://nicolasbouliane.com/blog/the-commonwealth-war-graves-commission-data-set) data sets. After loading both data sets in a common database, it is finally time to bring them together.

@@ -2,6 +2,8 @@
 title: 'Django: How to remove fields from a Form'
 description: ''
 date_created: 2013-07-05
+tags:
+    - reference
 ---
 
 Let's say you want to inherit from the following form:

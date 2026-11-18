@@ -2,6 +2,8 @@
 title: How to download an image in Python
 description: ''
 date_created: 2014-01-29
+tags:
+    - reference
 ---
 
 Sometimes, simple problems have simple solutions. Downloading images with Python is one of those simple problems. Nonetheless, here's a simple snippet that shows you how to do it:

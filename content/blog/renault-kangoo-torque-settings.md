@@ -2,6 +2,8 @@
 title: Renault Kangoo KC torque settings
 description: These are some of the common torque settings on a Renault Kangoo I (up to 2007)
 date_created: 2022-05-11
+tags:
+    - reference
 ---
 
 I'm leaving this information here because it's surprisingly difficult to get a straight answer on the modern internet. This information comes directly from the official manual (MR-325).

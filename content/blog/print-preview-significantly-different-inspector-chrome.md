@@ -2,6 +2,8 @@
 title: Print preview significantly different from Inspector in Chrome?
 description: Are you having issues with the Chrome print media emulator showing different results from print preview? Here's how I solved this problem.
 date_created: 2014-05-07
+tags:
+    - reference
 ---
 
 Are you having issues with the Chrome print media emulator showing different results from print preview? Here's how I solved this problem.

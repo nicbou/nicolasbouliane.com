@@ -2,6 +2,8 @@
 title: Halving All About Berlin's load time
 description: A tiny change made the JavaScript code on All About Berlin load twice as fast.
 date_created: 2021-10-25
+tags:
+    - reference
 ---
 
 I spend a lot of time making [All About Berlin](https://allaboutberlin.com) fast. It's just text on a page; it should be fast. Still, while the pages load instantly, the bits of JavaScript functionality took an extra second to load. It's hardly noticeable, but hardly justifiable.

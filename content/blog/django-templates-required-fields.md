@@ -2,6 +2,8 @@
 title: Telling if a field is required in Django templates
 description: If you want to tell whether a field in a template is required, use form.myfield.field.required as in the example below.
 date_created: 2014-08-13
+tags:
+    - reference
 ---
 
 If you want to tell whether a field in a template is required, use `form.myfield.field.required` as in the example below:

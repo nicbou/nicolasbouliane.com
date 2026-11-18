@@ -2,6 +2,8 @@
 title: How to create big test files in OS X and Linux
 description: If you need a big file for testing purposes, use mkfile.
 date_created: 2014-01-30
+tags:
+    - reference
 ---
 
 If you need to have large files to test your application, there is a command in OS X and Linux that allows you to create a file of an arbitrary size.

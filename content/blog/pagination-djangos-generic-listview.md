@@ -2,6 +2,8 @@
 title: Pagination with Django's generic ListView
 description: ''
 date_created: 2015-01-19
+tags:
+    - reference
 ---
 
 Did you know the Django ListView supports pagination out of the box? All you need to do is specify the number of items per page with the `paginate_by` attribute:

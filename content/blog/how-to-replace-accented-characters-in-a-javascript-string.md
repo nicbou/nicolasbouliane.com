@@ -2,6 +2,8 @@
 title: How to replace accented characters in a Javascript string
 description: ''
 date_created: 2015-07-23
+tags:
+    - reference
 ---
 
 If you are dealing with international user, you will sometimes need to replace unicode characters (éåü) with their ascii counterparts (eau).

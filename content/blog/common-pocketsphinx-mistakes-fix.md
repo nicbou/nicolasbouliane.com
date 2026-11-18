@@ -2,6 +2,8 @@
 title: Common pocketsphinx mistakes and how to fix them
 description: ''
 date_created: 2013-12-22
+tags:
+    - reference
 ---
 
 In the past few months, I have been using pocketsphinx as the speech recognition engine for a personal project. Unfortunately, pocketsphinx is one of the old school open source projects with lacking documentation, uncommented source code and very limited examples. If you are used to the new wave of heavily documented open source projects, you might have hit quite a few bugs that seemingly nobody solved.

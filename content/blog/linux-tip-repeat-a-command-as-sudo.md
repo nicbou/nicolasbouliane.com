@@ -2,6 +2,8 @@
 title: 'Linux tip: repeat a command as sudo'
 description: ''
 date_created: 2013-09-28
+tags:
+    - reference
 ---
 
 When you run a command in the terminal, and realize it requires superuser permissions, use the following command to re-run the command as superuser:

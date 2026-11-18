@@ -2,6 +2,8 @@
 title: How to flatten a directory on Linux and MacOS
 description: How to move all the files in subdirectories to the root directory with a single terminal command.
 date_created: 2018-08-30
+tags:
+    - reference
 ---
 
 If you want to flatten a directory with lots of deeply nested files (for example `./2012/06/09/images/previews/200x200/image1.jpg` becomes `./image1.jpg`), you can run this simple command:

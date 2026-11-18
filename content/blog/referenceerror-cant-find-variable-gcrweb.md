@@ -2,6 +2,8 @@
 title: 'What is "ReferenceError: Cant find variable: __gCrWeb"?'
 description: ''
 date_created: 2014-11-23
+tags:
+    - reference
 ---
 
 I have seen this error in our Sentry logs, and after some research, it appears to be an error that can safely be ignored. It only happens in Chrome on iOS, most likely at random, and it is seemingly unrelated to the page being viewed.

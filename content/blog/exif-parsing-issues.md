@@ -2,6 +2,8 @@
 title: Weird things you'll find when reading EXIF data
 description: I wrote code that extracts EXIF data from photographs. Here are some of the weird things you can expect.
 date_created: 2020-12-10
+tags:
+    - reference
 ---
 
 I wrote [python code](https://github.com/nicbou/timeline/blob/24ce4ad64f1de83e19978876870dbcb451312093/backend/source/backup/utils/files.py#L316) that uses Pillow to extract EXIF data from thousands of photographs for [my timeline thing](/projects/timeline). It processes tens of thousands of personal photos. These are some of the oddities I encountered:

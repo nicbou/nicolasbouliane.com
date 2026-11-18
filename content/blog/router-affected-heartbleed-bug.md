@@ -2,6 +2,8 @@
 title: Is my router affected by the Heartbleed Bug?
 description: ''
 date_created: 2014-04-10
+tags:
+    - reference
 ---
 
 A few days ago, a catastrophic security vulnerability with OpenSSL dubbed the "heartbleed bug" was disclosed by a Google employee. I will not go in the details since [this article offers a fantastic explanation](http://www.troyhunt.com/2014/04/everything-you-need-to-know-about.html), but let's just say it's quite a big deal, and a lot of applications are affected.

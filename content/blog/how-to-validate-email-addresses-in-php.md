@@ -2,6 +2,8 @@
 title: How to validate email addresses in PHP
 description: The correct and the wrong ways to validate an email address in PHP
 date_created: 2013-04-04
+tags:
+    - reference
 ---
 
 How to validate email addresses in PHP

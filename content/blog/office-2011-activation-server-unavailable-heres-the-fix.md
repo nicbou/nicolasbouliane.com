@@ -2,6 +2,8 @@
 title: Office 2011 activation server unavailable? Here's the fix
 description: The solution was to look for updates to Office 2011. That's it. Saved you a click.
 date_created: 2017-02-04
+tags:
+    - reference
 ---
 
 The activation screen refused to accept the license key I had used 5 minutes earlier to download the installer, stating that the activation server was temporarily unavailable.

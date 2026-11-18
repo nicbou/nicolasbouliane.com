@@ -2,6 +2,8 @@
 title: Django DeleteView with AJAX
 description: Djangos generic DeleteView is not really made for AJAX requests. A simple AjaxDeleteView can be implemented instead.
 date_created: 2015-01-19
+tags:
+    - reference
 ---
 
 The default Django generic DeleteView is not perfectly adapted for AJAX requests. A much simpler AjaxDeleteView can easily be implemented using the same mixins as Django's generic class-based views:

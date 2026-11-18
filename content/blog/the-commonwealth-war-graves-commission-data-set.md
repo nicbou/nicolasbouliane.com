@@ -2,6 +2,9 @@
 title: Parsing 65 000 war grave records with Python
 description: This week, we take a look at the 65 000 records of the Commonwealth War Graves Commission's data set.
 date_created: 2016-11-15
+tags:
+    - history
+    - technology
 ---
 
 The second data set I chose to import in my project is the Commonwealth War Grave Commission's [65 000 grave listings](http://www.cwgc.org/find-war-dead.aspx).

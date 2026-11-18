@@ -2,6 +2,8 @@
 title: How to replace the camera lens on a Pixel 5
 description: If you cracked the glass on your Pixel 5's camera, here's how to change it.
 date_created: 2022-01-16
+tags:
+    - reference
 ---
 
 Last November, I bumped into a shelf and my Pixel 5 took the impact. The camera lens cracked, and I had to replace it. Here's how I did it.

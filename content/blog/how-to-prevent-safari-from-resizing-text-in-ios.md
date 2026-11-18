@@ -2,6 +2,8 @@
 title: How to prevent Safari from resizing text in iOS
 description: How to prevent Safari from resizing text in iOS
 date_created: 2013-05-29
+tags:
+    - reference
 ---
 
 By default, rotating the iPhone's screen will resize the font in mobile Safari. Although this can be useful for desktop websites, it can easily break a beautiful mobile design.

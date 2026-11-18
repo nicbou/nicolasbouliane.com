@@ -3,6 +3,8 @@ title: How to change the spark plugs on a Renault Kangoo 1
 description: This is how you change the spark plugs on a 1st generation, 1.6L 16v Renault Kangoo.
 date_created: 2021-07-21
 featured_image: images/renault-kangoo-ignition-spark-plug-replacement-3.jpg
+tags:
+    - reference
 ---
 
 **Vehicle:** 2006 Renault Kangoo I (KC) with the 1.6L 16 valve petrol engine (K4M)

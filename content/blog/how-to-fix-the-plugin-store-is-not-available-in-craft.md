@@ -2,6 +2,8 @@
 title: How to fix "The Plugin Store is not available" in Craft
 description: The surprisingly simple solution to this issue, and other cURL SSL errors. You only need to run a single command.
 date_created: 2019-05-26
+tags:
+    - reference
 ---
 
 If you get the following error message when accessing the plugin store in Craft 3, this might be the solution.

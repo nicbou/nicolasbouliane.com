@@ -2,6 +2,8 @@
 title: Ping once and return true/false
 description: ''
 date_created: 2014-05-19
+tags:
+    - reference
 ---
 
 The `ping` command will usually try pinging a device forever, returning the response time after each pingback. If you want to ping a device once and use the answer to perform an action, use the following snippet:

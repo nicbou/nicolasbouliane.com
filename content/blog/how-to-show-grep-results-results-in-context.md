@@ -2,6 +2,8 @@
 title: How to show grep results results in context
 description: If you are using grep, you might want to give your results a little context and see lines before and after.
 date_created: 2013-06-28
+tags:
+    - reference
 ---
 
 If you are using grep, you might want to give your results a little context and see lines before and after.

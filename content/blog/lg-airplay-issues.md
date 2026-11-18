@@ -2,6 +2,8 @@
 title: LG TV AirPlay troubleshooting guide
 description: Notes from dealing with my TV's horribly broken software
 date_created: 2026-06-30
+tags:
+    - reference
 ---
 
 I have an LG C5 TV. Great display, terrible software.

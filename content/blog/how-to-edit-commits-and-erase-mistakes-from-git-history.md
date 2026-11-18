@@ -2,6 +2,8 @@
 title: How to edit commits and erase mistakes from git history
 description: Here's what to do if you accidentally something that should remain secret, like a password or an API key.
 date_created: 2013-06-26
+tags:
+    - reference
 ---
 
 Although I always take the right measures to keep my database passwords to myself, I'll sometimes accidentally push a settings file with a little bit too much information and only notice a few commits later. Fortunately, I always notice before other people start pulling my work from the public repo.

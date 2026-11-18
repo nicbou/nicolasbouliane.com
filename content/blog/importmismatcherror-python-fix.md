@@ -2,6 +2,8 @@
 title: How to fix ImportMismatchError in Python
 description: If you get this error, it's probably a very easy fix. Here's how to fix this error with a single terminal command.
 date_created: 2017-09-25
+tags:
+    - reference
 ---
 
 If you get an `ImportMismatchError` when running a Python app, it's likely that you have some Python bytecode files (`*.pyc`) from a different runtime. For example, this happens when I run my Python unit tests inside a Docker container, then try to run them again in PyCharm.

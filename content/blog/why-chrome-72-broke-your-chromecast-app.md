@@ -2,6 +2,8 @@
 title: Why Chrome 72 broke your Chromecast app
 description: Chrome 72 made some changes to the Chromecast API. Here's why your Chromecast app suddenly stopped working.
 date_created: 2019-02-19
+tags:
+    - reference
 ---
 
 Since Chrome 72 came out, the Chromecast button stopped working on my home server. Plex and Emby users report similar having issues. This change was not officially announced, but it happens on all platforms.

@@ -2,6 +2,8 @@
 title: How I built currency conversion tooltips
 description: This is how I made euro amounts a little easier to understand on All About Berlin.
 date_created: 2022-11-24
+tags:
+    - reference
 ---
 
 When I'm abroad, I struggle to make sense of amounts in other currencies.

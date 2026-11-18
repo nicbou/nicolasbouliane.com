@@ -2,6 +2,8 @@
 title: Lessons from a month in Berlin
 description: Travelling solo is not always easy. A short reflexion on my first month in Berlin.
 date_created: 2015-05-25
+tags:
+    - berlin
 ---
 
 *This article was written as I was just moving to Berlin. Since then, I have started [a website](https://allaboutberlin.com/) where I help other people deal with German bureaucracy and start a new life in Berlin.*

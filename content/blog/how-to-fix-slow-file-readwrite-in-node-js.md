@@ -2,6 +2,8 @@
 title: How to fix slow file read/write in Node.js
 description: It's probably your antivirus software
 date_created: 2015-05-11
+tags:
+    - reference
 ---
 
 This morning, I had trouble with one of my grunt tasks taking several minutes to finish instead of 3-4 seconds. After a bit of troubleshooting, I isolated the bottleneck to a bunch of seemingly harmless file reads.

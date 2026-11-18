@@ -2,6 +2,8 @@
 title: Automated cache clearing on All About Berlin
 description: How I automatically purge pages from the cache when they are saved.
 date_created: 2022-12-22
+tags:
+    - reference
 ---
 
 [All About Berlin](https://allaboutberlin.com) uses caching heavily. Serving cached pages is much faster than generating them on the fly on every request. It makes the website snappy, and reduces the server load dramatically.

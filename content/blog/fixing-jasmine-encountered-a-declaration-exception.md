@@ -2,6 +2,8 @@
 title: Fixing Jasmine "encountered a declaration exception"
 description: If you ever come upon a Jasmine unit test that ends with "encountered a declaration exception", it's likely because you have committed a simple, subtle mistake.
 date_created: 2016-07-08
+tags:
+    - reference
 ---
 
 If you ever come upon a Jasmine unit test that ends with "encountered a declaration exception", it's likely because you have committed a simple, subtle mistake. Every few weeks, I would get that error, and forgetting how I fixed it the previous time, spend another 30 minutes to fix it.

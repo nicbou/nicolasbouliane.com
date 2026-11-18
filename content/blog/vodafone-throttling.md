@@ -2,6 +2,8 @@
 title: Vodafone Germany throttles upload speed
 description: It's not just you. You don't get the upload speed that you pay for.
 date_created: 2024-03-12
+tags:
+    - reference
 ---
 
 I have a [home server](/projects/home-server) in Germany. When I travel outside of Europe and try to download files from my home server, Vodafone throttles the speed to 30-150 KB/s. Files that usually take a few minutes to download take hours.

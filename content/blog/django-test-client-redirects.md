@@ -2,6 +2,8 @@
 title: Following redirects with the Django test client
 description: When running unit tests with in Django, the test client's default behaviour is to stop at the first response, even if that response is a redirect.
 date_created: 2014-06-11
+tags:
+    - reference
 ---
 
 When running unit tests with in Django, the test client's default behaviour is to stop at the first response, even if that response is a redirect.

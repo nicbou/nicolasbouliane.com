@@ -2,6 +2,8 @@
 title: Cool URLs don't change
 description: A short rant about websites that move things around and break URLs.
 date_created: 2024-06-05
+tags:
+    - technology
 ---
 
 ["Cool URIs don't change"](https://www.w3.org/Provider/Style/URI) was written about in 1998 by none other than the father of the internet, Tim Berners-Lee.

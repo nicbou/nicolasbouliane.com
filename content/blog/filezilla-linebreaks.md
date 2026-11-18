@@ -2,6 +2,8 @@
 title: Fix line break issues with FileZilla
 description: ''
 date_created: 2014-04-14
+tags:
+    - reference
 ---
 
 Occasionally, you might run into various line break issues with FileZilla. For instance, you might have double line breaks instead or no line breaks at all.

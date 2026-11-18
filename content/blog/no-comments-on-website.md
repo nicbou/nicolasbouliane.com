@@ -2,6 +2,9 @@
 title: Why I disabled comments on my websites
 description: In early 2020, I disabled comments on every website I run. Here is how and why I did it.
 date_created: 2020-04-27
+tags:
+    - allaboutberlin
+    - technology
 ---
 
 In early 2020, I disabled comments on every website I run. Here is how and why I did it.

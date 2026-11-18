@@ -2,6 +2,8 @@
 title: File names, unicode normalization problems, and how to fix them
 description: There are multiple ways to represent the same unicode character. This can cause problems. Here's how I fixed it.
 date_created: 2023-07-14
+tags:
+    - reference
 ---
 
 There are [many ways to represent the same accented character](https://en.wikipedia.org/wiki/Unicode_equivalence) in Unicode.

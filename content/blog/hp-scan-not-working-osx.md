@@ -2,6 +2,8 @@
 title: How to fix HP scanning errors in MacOS
 description: What to do when your HP scanner won't connect to your Mac.
 date_created: 2019-04-10
+tags:
+    - reference
 ---
 
 If you made the mistake of buying an HP printer, you might encounter one of the following problems:

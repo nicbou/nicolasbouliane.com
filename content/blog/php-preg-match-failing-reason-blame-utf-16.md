@@ -2,6 +2,8 @@
 title: PHP preg_match failing for no reason? Blame UTF-16.
 description: ''
 date_created: 2014-04-08
+tags:
+    - reference
 ---
 
 Recently, I've been trying to replace tabs in a document, and I was surprised when my very simple regex, `'/\t+/'`, couldn't match two tabs while Sublime Text could easily run the same find/replace without a hitch.

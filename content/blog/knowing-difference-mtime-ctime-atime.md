@@ -2,6 +2,8 @@
 title: Knowing the difference between mtime, ctime and atime
 description: ''
 date_created: 2014-03-01
+tags:
+    - reference
 ---
 
 If you are dealing with files, you might wonder what the difference is between `mtime`, `ctime` and `atime`.

@@ -2,6 +2,8 @@
 title: How to get a reference to a CodeMirror instance
 description: ''
 date_created: 2013-11-12
+tags:
+    - reference
 ---
 
 If you want to access a CodeMirror instance, perhaps because it was created programmatically, or by a module you don't control, you can access it like this:

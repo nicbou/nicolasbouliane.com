@@ -2,6 +2,9 @@
 title: Using a MasterCard in Central Asia
 description: To my surprise, MasterCard isn't accepted everywhere in Central Asia. Here's why you might want to carry a Visa card with you.
 date_created: 2019-07-14
+tags:
+    - travel
+    - reference
 ---
 
 No matter how much you plan your trip, you'll be broadsided by random problems. It's part of the thrill of travelling.

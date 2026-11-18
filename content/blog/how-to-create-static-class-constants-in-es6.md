@@ -2,6 +2,8 @@
 title: How to create static class constants in ES6
 description: ES6 brings classes to JavaScript, but some things are not immediately obvious or entirely supported. For instance, there is no obvious way to create static class constants.
 date_created: 2016-04-05
+tags:
+    - reference
 ---
 
 ES6 brings classes to JavaScript, but some things are not immediately obvious or entirely supported. For instance, there is no obvious way to create static class constants.

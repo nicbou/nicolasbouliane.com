@@ -2,6 +2,8 @@
 title: Getting the hash of the first commit in git
 description: Get one commit, and show its SHA1.
 date_created: 2014-02-05
+tags:
+    - reference
 ---
 
 If you want to know what your oldest git commit is, use the following command to return its hash:

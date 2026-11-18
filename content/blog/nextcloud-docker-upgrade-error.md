@@ -2,6 +2,8 @@
 title: How to fix an accidental Nextcloud docker image update
 description: Here's what to do if you get "Updates between multiple major versions and downgrades are unsupported" after updating the docker image.
 date_created: 2020-12-10
+tags:
+    - reference
 ---
 
 ## The problem

@@ -3,6 +3,8 @@ title: How to replace the air filter on a Renault Kangoo I
 description: Here's how you change the air filter on a first generation Renault Kangoo.
 date_created: 2021-07-21
 featured_image: images/kangoo-air-filter-replacement-7.jpg
+tags:
+    - reference
 ---
 
 **Vehicle:** 2006 Renault Kangoo I (KC) with the 1.6L 16 valve petrol engine (K4M)

@@ -2,6 +2,8 @@
 title: How to fade images on load with jQuery
 description: At least that's how we did it back in 2013.
 date_created: 2013-05-09
+tags:
+    - reference
 ---
 
 In this article, I will show you how to properly fade in images when the page loads using jQuery.

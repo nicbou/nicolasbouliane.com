@@ -2,6 +2,8 @@
 title: The way home
 description: How I remember Montreal, and how it will be to return home in the middle of the winter, eight months after I left.
 date_created: 2015-09-30
+tags:
+    - travel
 ---
 
 With a half-finished Tim Hortons cup in one hand and my suitcase in the other, I will walk down the long corridor at Berri-UQAM, avoiding eye contact with the beggars, but invariably cracking a smile at the fisherman sitting with a guitar in his paper mâché boat.

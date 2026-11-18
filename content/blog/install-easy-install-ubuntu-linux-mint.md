@@ -2,6 +2,8 @@
 title: Install easy_install on Ubuntu and Linux Mint
 description: If you need easy_install on your Ubuntu or Linux Mint machine, use the following command to install it.
 date_created: 2013-12-18
+tags:
+    - reference
 ---
 
 If you need easy_install on your Ubuntu or Linux Mint machine, use the following command to install it:

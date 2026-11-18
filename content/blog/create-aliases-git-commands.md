@@ -2,6 +2,8 @@
 title: How to create aliases to git commands
 description: ''
 date_created: 2013-11-26
+tags:
+    - reference
 ---
 
 You can set aliases for common git commands using the following command:

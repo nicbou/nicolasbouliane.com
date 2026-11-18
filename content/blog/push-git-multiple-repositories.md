@@ -2,6 +2,8 @@
 title: Push a git to multiple repositories at once
 description: Here is how to have multiple remotes in your git repo.
 date_created: 2014-01-20
+tags:
+    - reference
 ---
 
 If you want to push a git to several remote repositories at one, use this simple command:

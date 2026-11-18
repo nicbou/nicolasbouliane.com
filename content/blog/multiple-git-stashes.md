@@ -2,6 +2,8 @@
 title: Multiple git stashes
 description: Did you know git can keep multiple stashes? Here's how to do it.
 date_created: 2015-07-15
+tags:
+    - reference
 ---
 
 Did you know git can keep multiple stashes? If you use `git stash` and `git stash apply`, you might be tempted to think there is a single stash, but you can restore older stashes, and thus stash multiple items.

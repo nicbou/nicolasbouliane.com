@@ -2,6 +2,9 @@
 title: How to write clearly
 description: This is an article about technical writing. It lists the tricks I use to write clear instructions for a wide audience. This is how I write guides for All About Berlin.
 date_created: 2022-02-10
+tags:
+    - allaboutberlin
+    - reference
 ---
 
 Good documentation helps people feel better about stressful problems. It's is rarely funny or interesting, but it solves your people's problems, and that's important too.

@@ -2,6 +2,8 @@
 title: Solving AirPort Extreme FTP issues
 description: ''
 date_created: 2014-02-24
+tags:
+    - reference
 ---
 
 Recently, I've been having tons of problems when using FTP at home. I have a Macbook Pro, an Airport Extreme and use Cyberduck to access my remote FTP servers.

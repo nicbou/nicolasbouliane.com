@@ -2,6 +2,9 @@
 title: Cracking open the Canadian Great War Project database
 description: Extracting several hundred megabytes of data from the Canadian Great War Project website.
 date_created: 2016-11-16
+tags:
+    - history
+    - technology
 ---
 
 While exploring available data sets for my Great War data project, I found the amazing [Canadian Great War Project](http://www.canadiangreatwarproject.com/) database. It contains a far more refined version of the data found in the [Canadian Expeditionary Force](/blog/parsing-575k-military-records-with-python) dataset, and includes additional information from other sources.

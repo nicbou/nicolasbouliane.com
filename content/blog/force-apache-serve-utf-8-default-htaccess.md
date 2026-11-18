@@ -2,6 +2,8 @@
 title: How to force Apache to serve UTF-8 by default in .htaccess
 description: A small Apache config tweak.
 date_created: 2014-02-14
+tags:
+    - reference
 ---
 
 If you want to serve all text files as unicode by default, add the following line to your .htaccess:

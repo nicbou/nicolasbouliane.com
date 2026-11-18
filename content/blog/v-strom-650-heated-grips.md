@@ -2,6 +2,8 @@
 title: How to install heated grips on a 2017 V-Strom 650
 description: A step by step tutorial with lots of photos.
 date_created: 2020-11-11
+tags:
+    - reference
 ---
 
 Tonight I installed [Koso HG-13 heated handgrips](https://www.kosoeurope.com/en/lighting-heating/heated-grips/1246/hg-13-heated-grip-7/8-1-l-120 mm-hg-13-with-integrated-switch-black) (120 mm) on my 2017 Suzuki DL650. Here's how I did it. The process is the same for Oxford heated grips. I chose the Koso grips because the controls are directly on the grips, and not on some ugly stand-alone controller. The grips have the same size and girth as the originals. They're about as hard.

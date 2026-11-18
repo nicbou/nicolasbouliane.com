@@ -2,6 +2,9 @@
 title: Parsing 575k military records with Python
 description: The Canadian government made the records of the 660 000 Canadians who served in the First World War available as an open dataset. I decided to take a look at it.
 date_created: 2016-11-15
+tags:
+    - history
+    - technology
 ---
 
 During the First World War, over 600 thousand Canadians were enlisted in the Canadian Expeditionary Force. My goal is to link various data sets about the Canadians who fought in the First World War and find innovative ways to visualize and analyze the resulting database.

@@ -2,6 +2,8 @@
 title: How to use the HTML5 full screen API (with examples)
 description: ''
 date_created: 2013-11-05
+tags:
+    - reference
 ---
 
 The new HTML5 fullscreen API allows you to build full screen web applications *very* easily.

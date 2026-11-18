@@ -2,6 +2,8 @@
 title: The cynical developer's dictionary of project management
 description: ''
 date_created: 2014-03-12
+tags:
+    - technology
 ---
 
 Bikeshedding: See Parkinson's law of triviality.

@@ -2,6 +2,8 @@
 title: How to see how many lines of codes were changed in a day with git
 description: ''
 date_created: 2014-02-24
+tags:
+    - reference
 ---
 
 If you want to know how many files and how many lines of code were changed for the day, simply run the following command:

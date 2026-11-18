@@ -2,6 +2,8 @@
 title: Disable "pull to refresh" in Chrome for Android
 description: In mobile Chrome, pulling the top of the page will reload it. Although it's a convenient UI pattern, it might get in the way. Here's how it can be disabled.
 date_created: 2015-08-07
+tags:
+    - reference
 ---
 
 In mobile Chrome, pulling the top of the page will reload it. Although it's a convenient UI pattern, it might get in the way if you are trying to implement gestures in your app.

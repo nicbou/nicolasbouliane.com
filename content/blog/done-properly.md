@@ -2,6 +2,8 @@
 title: Things done properly
 description: The beauty of obsessively over small UX issues.
 date_created: 2026-09-17
+tags:
+    - technology
 ---
 
 Sakura pens are great, but they're hard to tell apart from one another, especially in a stuffed pencil case at the bottom of a messenger bag. The pens have faint size markings, but some have worn off after a week.

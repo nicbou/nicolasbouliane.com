@@ -2,6 +2,8 @@
 title: Return a user's own objects with Django's class-based views
 description: There is a very simple way to only return the connected user's own objects with Django's generic class-based views.
 date_created: 2015-01-19
+tags:
+    - reference
 ---
 
 There is a very simple way to only return the connected user's own objects with Django's generic class-based views.

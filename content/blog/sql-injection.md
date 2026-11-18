@@ -2,6 +2,8 @@
 title: What is SQL injection?
 description: ''
 date_created: 2014-03-28
+tags:
+    - reference
 ---
 
 SQL injection allows a hacker to inject malicious SQL statement by exploiting improperly sanitised queries. It is by far one of the most common attack vectors, and was used in [several famous exploits](http://en.wikipedia.org/wiki/SQL_injection#Examples).

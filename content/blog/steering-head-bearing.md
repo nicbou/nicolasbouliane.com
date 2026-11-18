@@ -2,6 +2,8 @@
 title: How to tighten the steering head bearing on a V-Strom
 description: How to fix wobbly forks in 30 minutes. Some special tools needed.
 date_created: 2022-11-09
+tags:
+    - reference
 ---
 
 This is how I tightened the steering head bearing on my 2017 V-Strom 650. The process is the same on other motorcycles.

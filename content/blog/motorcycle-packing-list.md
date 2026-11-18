@@ -3,6 +3,9 @@ title: My motorcycle packing list for very long trips
 description: When I go on longer motorcycle trips, this is what I pack with me. It has served me well through a variety of situations.
 date_created: 2019-05-10
 featured_image: images/motorcycles-ferry-azerbaijan.jpg
+tags:
+    - travel
+    - reference
 ---
 
 This is the packing list I used for my 32000 km trip from Germany to Kazakhstan, and for my 10000km trip in Europe. This setup allows maximum flexibility, and requires minimum weight.

@@ -2,6 +2,8 @@
 title: How to change the default Google Assistant timer and clock
 description: This is how you force "Ok Google" to use the correct timer and clock apps. It's not obvious, but it takes just a minute.
 date_created: 2018-10-22
+tags:
+    - reference
 ---
 
 A few weeks ago, I bought a Samsung S9. The hardware is great, but the software is terrible. The first thing I did was uninstall the Samsung bloatware and install my favourite apps.
