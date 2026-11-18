@@ -4,8 +4,8 @@ description: It builds a timeline out of your photos, diaries, calendars and loc
 date_created: 2023-11-28
 project_url: https://github.com/nicbou/timeline
 repo_url: https://github.com/nicbou/timeline
-categories:
-    - golden
+tags:
+    - highlights
 ---
 
 On August 3, 2019, I had a crush.

@@ -12,7 +12,7 @@
     <ul class="tags">
         {% set tags = entries | selectattr('tags', 'defined') | selectattr('tags') | map(attribute='tags') | sum(start=[]) | unique | sort %}
         {% for tag in tags %}
-            <li>
+            <li data-tag="{{ tag }}">
                 <input type="checkbox" id="tag-{{ tag }}" data-tag="{{ tag }}">
                 <label for="tag-{{ tag }}">{{ tag }}</label>
             </li>
@@ -20,7 +20,8 @@
     </ul>
     <ul class="entry-list recipes">
         {% for entry in entries %}
-            <li data-tags="{{ (entry.tags if entry.tags is defined else []) | join(',') }}">
+            {% set entry_tags = entry.tags if entry.tags is defined else [] %}
+            <li class="{% for tag in entry_tags %}category-{{ tag }}{% if not loop.last %} {% endif %}{% endfor %}" data-tags="{{ entry_tags | join(',') }}">
                 <time class="date" datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
                 <h2><a rel="bookmark" href="{{ entry.url }}">{{ entry.title }}</a></h2>
                 <p>{{ entry.description }}</p>

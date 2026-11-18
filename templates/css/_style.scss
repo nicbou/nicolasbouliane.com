@@ -434,6 +434,15 @@ figcaption {
 
         &:before { content: none; }
 
+        &[data-tag="highlights"] {
+            order: -1;
+
+            label:before {
+                content: '★'!important;
+                font: inherit; 
+            }
+        }
+
         input[type="checkbox"] {
             display: none;
         }
@@ -478,13 +487,26 @@ figcaption {
     }
 
     &:not(.notes) {
-        :is(h2, h3) { font-size: var(--font-size-h3); margin: 0; }
+        :is(h2, h3) {
+            font-size: var(--font-size-h4);
+            margin: 0;
+            position: relative;
+        }
 
         p {
             font: var(--font-data);
             margin: 0;
             padding: var(--spacing-s) 0 var(--spacing-l);
             line-height: var(--line-height);
+            color: var(--color-text-light);
+        }
+
+        > li.category-highlights :is(h2,h3):before {
+            content: '✪';
+            position: absolute;
+            left: 0;
+            color: var(--color-link);
+            transform: translateX(calc(-50% - 1px));
         }
     }
 

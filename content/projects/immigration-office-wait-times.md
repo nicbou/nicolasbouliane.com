@@ -3,8 +3,8 @@ title: Immigration office wait times
 description: A tool that collects and displays feedback about the Landesamt für Einwanderung.
 date_created: 2024-11-27
 project_url: https://allaboutberlin.com/guides/auslanderbehorde-wait-times
-categories:
-    - golden
+tags:
+    - highlights
     - allaboutberlin
 ---
 
