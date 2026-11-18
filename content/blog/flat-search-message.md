@@ -2,7 +2,7 @@
 title: How to (properly) apply for an apartment viewing
 description: A short review of all the ways people shoot themselves in the foot when applying for an apartment.
 date_created: 2026-08-27
-categories:
+tags:
     - berlin
 ---
 

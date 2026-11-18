@@ -2,8 +2,8 @@
 title: Lessons learned from making art
 description: In 2025, I wanted to make more art. I have learned a few lessons that apply to more than just art.
 date_created: 2025-12-27
-categories:
-    - golden
+tags:
+    - highlights
 ---
 
 My resolution for 2025 was to make more art. I had a lot of fun keeping it. I took acrylic painting lessons, got into watercolours, [printed stickers](/projects/stickers), organised art meet-ups and made hundreds of sketches and paintings.

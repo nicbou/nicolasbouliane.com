@@ -2,8 +2,8 @@
 title: Making quieter technology
 description: I spent the last years making technology calm and pleasant to use. This is roughly how I did it.
 date_created: 2022-08-07
-categories:
-    - golden
+tags:
+    - highlights
     - technology
 ---
 

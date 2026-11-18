@@ -2,8 +2,8 @@
 title: Where do we go from here?
 description: AI is killing everything I love, but I'm going to love even harder.
 date_created: 2026-11-18
-categories:
-    - golden
+tags:
+    - highlights
     - technology
     - allaboutberlin
 ---

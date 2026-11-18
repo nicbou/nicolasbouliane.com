@@ -431,19 +431,23 @@ figcaption {
         display: inline;
         padding: 0;
         margin: 0;
-        cursor: pointer;
 
         &:before { content: none; }
 
-        input[type="checkbox"] { display: none; }
+        input[type="checkbox"] {
+            display: none;
+        }
 
         label {
             color: var(--color-text-light);
+            cursor: pointer;
 
             &:before { content: '#'; font: var(--font-data); margin-right: 0.2em; }
         }
 
-        input:checked + label { color: var(--color-text-strong); }
+        input:checked + label, &:hover {
+            color: var(--color-text-strong);
+        }
     }
 }
 

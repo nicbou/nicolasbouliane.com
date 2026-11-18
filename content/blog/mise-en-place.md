@@ -2,8 +2,8 @@
 title: Digital mise en place
 description: Bringing a bit of kitchen wisdom to the digital world.
 date_created: 2023-04-12
-categories:
-    - golden
+tags:
+    - highlights
     - technology
 ---
 

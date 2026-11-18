@@ -4,27 +4,42 @@
 {% set canonicalUrl = "/blog" %}
 
 {% block content %}
+    {% set entries = get_entries('blog', sort_by='date_created', reverse=True) %}
     <header>
         <h1>Blog</h1>
     </header>
-    <h2>Highlights</h2>
-    <ul class="entry-list posts">
-        {% for entry in get_entries('blog', filter_by=is_golden, sort_by='date_created', reverse=True) %}
+    <ul class="tags">
+        {% set all_tags = entries | selectattr('tags', 'defined') | selectattr('tags') | map(attribute='tags') | sum(start=[]) | unique | sort %}
+        {% set tags = (['highlights'] if 'highlights' in all_tags else []) + (all_tags | reject('equalto', 'highlights') | list) %}
+        {% for tag in tags %}
             <li>
-                <time class="date" datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%Y') }}</time>
-                <h3><a rel="bookmark" href="{{ entry.url }}">{{ entry.title }}</a></h3>
-                <p>{{ entry.description }}</p>
+                <input type="checkbox" id="tag-{{ tag }}" data-tag="{{ tag }}">
+                <label for="tag-{{ tag }}">{{ tag }}</label>
             </li>
         {% endfor %}
     </ul>
-    <h2>Everything else</h2>
     <ul class="entry-list posts">
-        {% for entry in get_entries('blog', filter_by=is_not_golden, sort_by='date_created', reverse=True) %}
-            <li>
+        {% for entry in entries %}
+            <li data-tags="{{ (entry.tags if entry.tags is defined else []) | join(',') }}">
                 <time class="date" datetime="{{ entry.date_created.strftime('%F') }}">{{ entry.date_created.strftime('%-b %Y') }}</time>
-                <h3><a rel="bookmark" href="{{ entry.url }}">{{ entry.title }}</a></h3>
+                <h2><a rel="bookmark" href="{{ entry.url }}">{{ entry.title }}</a></h2>
                 <p>{{ entry.description }}</p>
             </li>
         {% endfor %}
     </ul>
+    <script>
+        const checkboxes = document.querySelectorAll('.tags input[type="checkbox"]');
+        const entryItems = document.querySelectorAll('.entry-list [data-tags]');
+
+        function filterEntries() {
+            const activeTags = [...checkboxes].filter(cb => cb.checked).map(cb => cb.dataset.tag);
+            entryItems.forEach(entry => {
+                const entryTags = new Set(entry.dataset.tags ? entry.dataset.tags.split(',') : []);
+                const visible = activeTags.length === 0 || activeTags.every(t => entryTags.has(t));
+                entry.style.display = visible ? 'grid' : 'none';
+            });
+        }
+
+        checkboxes.forEach(checkbox => checkbox.addEventListener('change', filterEntries));
+    </script>
 {% endblock %}

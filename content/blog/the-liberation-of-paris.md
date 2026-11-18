@@ -3,8 +3,8 @@ title: The Liberation of Paris
 description: From D-Day to the liberation of Paris in pictures
 date_created: 2016-04-09
 featured_image: images/paris-uprising-2.jpg
-categories:
-    - golden
+tags:
+    - highlights
     - history
 ---
 

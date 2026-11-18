@@ -2,7 +2,7 @@
 title: Man, the web sucks nowadays
 description: A brief rant about the state of the internet
 date_created: 2026-11-18
-categories:
+tags:
     - technology
 ---
 

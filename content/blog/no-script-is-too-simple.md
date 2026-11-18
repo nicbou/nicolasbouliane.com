@@ -2,8 +2,8 @@
 title: No script is too simple
 description: I write very short scripts, sometimes for single-line commands. Here's why you should do it too.
 date_created: 2020-09-18
-categories:
-    - golden
+tags:
+    - highlights
     - technology
 ---
 

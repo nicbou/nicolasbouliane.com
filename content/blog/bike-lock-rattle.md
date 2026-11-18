@@ -2,8 +2,6 @@
 title: How I fixed my rattling ABUS Gordo lock
 description: My foldable bike lock was too loud, so I shimmed it with velcro.
 date_created: 2026-06-11
-categories:
-  bicycle
 ---
 
 Last month, thieves tried to steal my bike before a shopkeeper shooed them off. They mangled my bike lock, so I got a new one.

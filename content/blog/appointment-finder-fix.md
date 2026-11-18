@@ -2,7 +2,7 @@
 title: Bringing the Bürgeramt appointment finder back online
 description: My tool went offline for a few months. A post-mortem of what happened.
 date_created: 2024-06-07
-categories:
+tags:
     - technology
 ---
 

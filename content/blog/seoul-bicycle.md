@@ -2,9 +2,8 @@
 title: Where to buy a bicycle in Seoul
 description: I've been trying to find a used bike for the last few days. Here is what I have learned.
 date_created: 2023-08-17
-categories:
+tags:
     - reference
-    - bicycles
 ---
 
 I bought a bicycle to ride the national bike route from Seoul to Busan, then ferry to Japan and keep going.

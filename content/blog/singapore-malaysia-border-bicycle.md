@@ -2,7 +2,7 @@
 title: Crossing Singaport/Malaysia border on a bicycle
 description: Notes about the Johor Bahru border crossing for future travellers.
 date_created: 2024-02-13
-categories:
+tags:
     - travel
 ---
 

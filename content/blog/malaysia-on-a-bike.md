@@ -2,7 +2,7 @@
 title: Cycling across Malaysia
 description: Notes about my bicycle trip from Singapore to Penang for future travellers.
 date_created: 2024-03-01
-categories:
+tags:
     - travel
 ---
 

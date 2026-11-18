@@ -2,8 +2,8 @@
 title: Support networks
 description: Tech guy wants to create community, oblivious to oldest support network in the world.
 date_created: 2024-04-10
-categories:
-    - golden
+tags:
+    - highlights
     - travel
 ---
 

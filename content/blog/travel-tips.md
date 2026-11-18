@@ -2,7 +2,7 @@
 title: Assorted travel advice
 description: Lessons learned on the road.
 date_created: 2023-09-05
-categories:
+tags:
     - travel
 ---
 

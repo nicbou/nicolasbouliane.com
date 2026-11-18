@@ -2,7 +2,7 @@
 title: A reading list for Japan
 description: Articles and essays that enriched my trip to Japan.
 date_created: 2024-11-18
-categories:
+tags:
     - travel
 ---
 

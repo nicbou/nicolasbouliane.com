@@ -2,8 +2,8 @@
 title: Read it as you please
 description: I choose what to write, you choose how you read it.
 date_created: 2023-04-12
-categories:
-    - golden
+tags:
+    - highlights
     - technology
 ---
 

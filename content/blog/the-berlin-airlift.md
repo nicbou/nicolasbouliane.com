@@ -2,8 +2,8 @@
 title: The Berlin airlift
 description: The grand story of the Berlin airlift in pictures. It's one of my favourite stories, and I couldn't help but share it with you.
 date_created: 2015-10-21
-categories:
-    - golden
+tags:
+    - highlights
     - berlin
     - history
 ---

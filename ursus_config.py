@@ -19,8 +19,8 @@ config.context_processors.append("extensions.context_processors.notes_images.Not
 config.context_globals = {
     "now": datetime.now(),
     "site_url": "https://nicolasbouliane.com",
-    "is_golden": lambda uri, entry: "golden" in (entry.get("categories") or []),
-    "is_not_golden": lambda uri, entry: "golden" not in (entry.get("categories") or []),
+    "is_golden": lambda uri, entry: "golden" in (entry.get("tags") or []),
+    "is_not_golden": lambda uri, entry: "golden" not in (entry.get("tags") or []),
 }
 
 config.image_transforms = {

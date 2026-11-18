@@ -2,8 +2,8 @@
 title: AI is killing All About Berlin
 description: They used my work to train their AI, and now they're using their AI to put me out of work.
 date_created: 2026-05-26
-categories:
-    - golden
+tags:
+    - highlights
     - allaboutberlin
     - technology
 ---

@@ -2,8 +2,8 @@
 title: A forum for All About Berlin
 description: I am thinking of building a community. This is what I have so far.
 date_created: 2026-08-09
-categories:
-    - golden
+tags:
+    - highlights
     - allaboutberlin
     - technology
 ---

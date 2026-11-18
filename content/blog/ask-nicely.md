@@ -2,8 +2,8 @@
 title: Please ask again
 description: Or how to ask for help on the internet
 date_created: 2022-07-09
-categories:
-    - golden
+tags:
+    - highlights
     - reference
 ---
 
