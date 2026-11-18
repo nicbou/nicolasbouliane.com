@@ -8,6 +8,8 @@ categories:
     - technology
 ---
 
+*Psst! There is [an update to this post](/blog/life-after-ai).*
+
 ![All About Berlin traffic: 7 years of growth, then a sharp decline after Google AI Overviews](/images/all-about-berlin-traffic-loss.png)
 
 This is the traffic to [All About Berlin](/projects/all-about-berlin), the website that I run since 2017, and live from since 2020. After 7 years of growth, it has lost <s>70%</s> 75% of its traffic to Google AI Overviews.
@@ -36,6 +38,7 @@ I don't know where All About Berlin fits in that future.
 
 **Mentions:**
 
+- [Big discussion on Hacker News](https://news.ycombinator.com/item?id=50542705)
 - [The Telegraph](https://www.telegraph.co.uk/business/2026/05/24/googles-plan-to-run-your-life-could-break-the-internet/)
 - [Forbes](https://www.forbes.com/sites/andymeek/2026/05/25/google-search-ai-overhaul-leaves-publishers-bracing-for-google-zero/)
 - [The Indicator by NPR](https://www.npr.org/2026/07/14/nx-s1-5891958/can-the-internet-survive-ai-summaries)
